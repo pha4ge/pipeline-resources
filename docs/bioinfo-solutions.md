@@ -85,7 +85,7 @@ The bioinformatics resources listed below are open-source pipelines that run on 
 2. [ARTIC nCOV19 (ARTIC Network; Connor-lab)](https://github.com/connor-lab/ncov2019-artic-nf)
   - **Brief Description** : Configured conda environment that enables access to Oxford Nanopore or Illumina consensus sequence assemblers: Medaka (ONT), NanoPolish (ONT) or BWA (Illumina)
   - **Developed/supported by:** COG UK / ARTIC
-  - **Documentation** : [https://github.com/connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf)
+  - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/connor-lab/ncov2019-artic-nf/blob/master/README.md)
   - **User base:** COG UK
   - **Workflow language:** Nextflow
     - **CLI Platforms:** Nextflow cli client, Nextflow Tower (local HPC, cloud, etc)
