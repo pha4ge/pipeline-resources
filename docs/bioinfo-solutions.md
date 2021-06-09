@@ -1,8 +1,7 @@
 # **Bioinformatics Solutions for SARS-CoV-2 Genomic Analysis**
 
-PHA4GE Bioinformatics Pipelines &amp; Visualizations Working Group
-
- Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Luun S, Langhorst B
+PHA4GE Bioinformatics Pipelines &amp; Visualizations Working Group <br/>
+Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Luun S, Langhorst B
 
 # Overview
 
@@ -28,7 +27,7 @@ The PHA4GE bioinformatics pipeline and visualization working group has defined f
 
 ## 1. Generating consensus assemblies from PCR tiling NGS data
 
-The bioinformatics resources listed below are open-source pipelines that run on general-purpose, containerized workflow infrastructure to generate consensus SC2 assemblies from PCR tiling NGS data. While some parameters and modules may differ slightly, each pipeline will perform read mapping to the Wuhan-1 reference genome, remove primer regions from the mapped read data, and generate a consensus assembly based on conserved and variant positions identified in the resulting alignment. These resources have been organized into three categories: GalaxyProject Plugins and Terra.Bio Workflows, Web-Accessible Software as a Service (SaaS) Solutions, and command-line interface (CLI) Tools and are listed in no particular order.
+The bioinformatics resources listed below are open-source pipelines that run on general-purpose, containerized workflow infrastructure to generate consensus SC2 assemblies from PCR tiling NGS data. While some parameters and modules may differ slightly, each pipeline will perform read mapping to the Wuhan-1 reference genome, remove primer regions from the mapped read data, and generate a consensus assembly based on conserved and variant positions identified in the resulting alignment. These resources have been organized into three categories: [Galaxy Plugins](https://galaxyproject.org/) and [Terra Workflows](app.terra.bio), Web-Accessible Software as a Service (SaaS) Solutions, and command-line interface (CLI) Tools and are listed in no particular order.
 
 <details>
  <summary>Terra and Galaxy Workflows</summary>
