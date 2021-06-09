@@ -90,7 +90,7 @@ The bioinformatics resources listed below are open-source pipelines that run on 
   - **Workflow language:** Nextflow
     - **CLI Platforms:** Nextflow cli client, Nextflow Tower (local HPC, cloud, etc)
 3. [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit)
-  - **Brief Description** : Two StaPH-B workflows for performing SC2 consensus genome assembly have been available, Cecret a pipeline developed for the analysis of single or paired-end Illumina reads and Monroe, a workflow with various subcommands that perform consensus genome assembly from Illumina and Nanopore read data.
+  - **Brief Description** : Two StaPH-B workflows for performing SC2 consensus genome assembly have been available: Cecret, a pipeline developed for the analysis of single or paired-end Illumina reads. and Monroe, a workflow with various subcommands that perform consensus genome assembly from either Illumina or Nanopore read data.
   - **Developed/supported by:** StaPH-B
   - **Documentation** : [https://staph-b.github.io/staphb\_toolkit/](https://staph-b.github.io/staphb_toolkit/install/), [Python Package Index (PyPI)](https://pypi.org/project/staphb-toolkit/)
   - **User base:** US PHLs
