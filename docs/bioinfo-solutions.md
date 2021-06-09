@@ -97,3 +97,71 @@ The bioinformatics resources listed below are open-source pipelines that run on 
   - **User-interface** : CLI (Python package)
  
 </details>
+
+## 2. Sharing raw sequence data (fastq) and consensus assemblies (fasta) through internationally-accessible databases (GISAID/NCBI)
+
+Below is a list of resources developed to assist in the preparation and submission of raw NGS read data (fastq files), SC2 consensus assemblies (fasta files), and contextual sample metadata to internationally-accessible databases. We have also included a list of bioinformatics software designed to assess the quality of SC2 data; we recommend the use of such software prior to submission to avoid the inadvertent sharing of poor quality, contaminated, or otherwise misleading SC2 data. Additional information regarding the interpretation of read and assembly quality metrics for SC2 data will be made available as a separate document.
+
+<details>
+ <summary>Recommended SC2 Sample Metadata Specifications</summary>
+ 
+- [PHA4GE Contextual Data Specifications](https://www.preprints.org/manuscript/202008.0220/v1)
+  - **Database Target(s)**: GISAID, ENA, SRA, Genbank
+  - **Brief Description** : A SARS-CoV-2 contextual data specification based on harmonisable, publicly available, community standards. The specification is implementable via a collection template, as well as an array of protocols and tools to support the harmonisation and submission of sequence data and contextual information to public repositories.
+  - **Developed/supported by:** PHA4GE
+  - **Documentation** : [Technical documentation (GitHub README)](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification)
+  - **User base:** Global public health community
+ 
+</details>
+
+<details>
+ <summary>Bioinformatics Solutions to Prepare and/or Submit SC2 Sample Data</summary>
+ 
+- [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (described above)
+  - **Database Target(s)**: SRA, GenBank, GISAID
+  - **Brief Description** : The viral-ngs workflow collection contains workflows (sarscov2\_genbank, sarscov2\_sra\_to\_genbank, sarscov2\_illumina\_full) that prepare data for Genbank and GISAID submission (and SRA submission if starting from raw reads).
+  - **Developed/supported by:** Broad Institute Viral Genomics
+  - **Documentation** : [Technical documentation (ReadTheDocs)](https://viral-ngs.readthedocs.io/en/latest/)
+  - **User base:** [H3Africa](https://h3africa.org/index.php/consortium/genomic-characterization-and-surveillance-of-microbial-threats-in-west-africa/) West African sites ([RUN](http://acegid.org/), [KGH](https://vhfc.org/consortium/people/), [UCAD](https://www.ucad.sn/))
+  - **Workflow language:** WDL
+    - **Web/Cloud GUI Platforms:** Terra, DNAnexus,
+  - **CLI Platforms:** Cromwell (local HPC, cloud), miniWDL
+- [Theiagen&#39;s Mercury Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics)
+  - **Database Target(s)**: GenBank, GISAID (SRA submission prep in development)
+  - **Brief Description** : The Mercury Series includes three separate WDL workflows (Mercury\_SE\_Prep, Mercury\_PE\_Prep, and Mercury\_Batch) that prepare SC2 consensus assemblies (fasta files) and contextual sample metadata sample for submission to GISAID and NCBI&#39;s GenBank database.
+  - **Developed/supported by:** Theiagen Genomics
+  - **Documentation:** [Technical documentation (ReadTheDocs)](https://public-health-viral-genomics-theiagen.readthedocs.io/en/latest/overview.html), [step-by-step protocols (Protocols.io)](https://www.protocols.io/file-manager/9EF18A27777511EBA1C60A58A9FEAC2A), and [video tutorials (YouTube Playlist)](https://www.youtube.com/watch?v=fy0Hm0lfIas&amp;list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz)
+  - **User base:** US PHLs
+  - **Workflow language:** WDL
+    - **Web/Cloud GUI Platforms:** Terra\* (primary), DNAnexus,
+    - **CLI Platforms:** Cromwell (local HPC, cloud), miniWDL
+- [Galaxy ENA Submission Plugin](https://github.com/galaxyproject/tools-iuc/tree/master/tools/ena_upload)
+  - **Database Target(s)**: ENA
+  - **Brief Description** : Galaxy plugin for direct submission to the European Nucleotide Archive database
+  - **Developed/supported by:** [Galaxy IUC (Intergalactic Utilities Commission)](https://galaxyproject.org/iuc/)
+  - **Documentation** :[https://github.com/ELIXIR-Belgium/ena-upload-container](https://github.com/ELIXIR-Belgium/ena-upload-container)
+  - **User base:** European PHLs
+  - **Workflow language:** Galaxy
+    - **Web/Cloud GUI Platforms:** GalaxyProject
+ 
+</details>
+
+<details>
+ <summary>Bioinformatics Solutions to Assess Data Quality Prior to Submission</summary>
+ 
+- [VADR - Viral Annotation DefineR](https://github.com/ncbi/vadr)
+  - **Brief Description** : VADR is a suite of CLI tools for classifying and analyzing sequences homologous to a set of reference models of viral genomes or gene families. With regards to SC2, laboratories have utilized VADR to identify samples with potentially mis-assembled genomes that are likely to be rejected from an internationally-accessible database.
+  - **Developed/supported by:** NCBI
+  - **Documentation** : [Technical Documentation (GitHub Wiki)](https://github.com/ncbi/vadr/wiki/Coronavirus-annotation)
+  - **User base:** NCBI GenBank & US PHLs
+  - **Accessibility** : [Local install](https://github.com/ncbi/vadr/blob/master/documentation/install.md#top) or the [StaPH-B Docker Image](https://hub.docker.com/r/staphb/vadr/)
+- [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above; includes VADR)
+- [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflow described above; includes VADR)
+- [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
+- [IDSeq (CZ BioHub)](https://idseq.net/) (SaaS solution described above)
+- [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/) (SaaS solution described above)
+- [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN)](https://github.com/jaleezyy/covid-19-signal) (CLI tool described above)
+- [ARTIC nCOV19 (ARTIC Network; Connor-lab)](https://github.com/connor-lab/ncov2019-artic-nf) (CLI tool described above)
+- [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above; VADR included in the Cecret workflow)
+ 
+</details>
