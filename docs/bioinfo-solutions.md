@@ -23,7 +23,7 @@ The PHA4GE bioinformatics pipeline and visualization working group has defined f
 
 4. **Performing phylogenetic analysis of SC2 datasets:** Genetic relatedness as inferred through phylogenetic analysis of SC2 datasets can be a powerful proxy for epidemiological associations that help resolve transmission networks, enable real-time surveillance, provide insights of the variance-over-time of SC2 samples, and support local outbreak investigations
 
-# Community Resources
+# Open-Access/Source Bioinformatics Solutions
 
 ## 1. Generating consensus assemblies from PCR tiling NGS data
 
