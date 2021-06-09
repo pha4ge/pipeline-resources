@@ -61,11 +61,11 @@ The bioinformatics resources listed below are open-source pipelines that run on 
 <details>
  <summary>Web-Accessible SaaS Solutions</summary>
  
-1. [IDSeq (CZ BioHub)](https://idseq.net/)
+1. [IDSeq (CZ Biohub)](https://idseq.net/)
   - **Brief Description** : User-friendly software platform originally developed for metagenomics studies that has since been repurposed to include SC2 consensus assembly from Oxford Nanopore or paired-end Illumina data
-  - **Developed/supported by:** CZI
-  - **User base:** CZ BioHub &amp; partners
-  - **User-interface** : Web application on BioHub-funded AWS
+  - **Developed/supported by:** [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/) 
+  - **User base:** CZ Biohub &amp; partners; access available on request to other users
+  - **User-interface** : Web application on CZI-funded AWS
 2. [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/)
   - **Brief Description** : EDGE COVID-19 is a derivative of the original EDGE Bioinformatics software (Li _et al._ 2017) that was developed to perform reference-based SC2 assemblies and quality assessment of Illumina or Nanopore read data.
   - **Developed/supported by:** Los Alamos National Laboratories
