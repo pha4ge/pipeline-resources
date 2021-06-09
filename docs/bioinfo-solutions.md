@@ -23,3 +23,37 @@ The PHA4GE bioinformatics pipeline and visualization working group has defined f
 3. **Screening sequenced SC2 samples for variants of concern:** The detection of certain genetic variants of the SARS-CoV-2 virus may have a significant impact on the decisions of public health officials. Thus, an ability to accurately and reliably screen for variants of interest and variants of concern, such as B.1.1.7 or B.1.617, is a critical component to the bioinformatics analysis of SC2 genomes.
 
 4. **Performing phylogenetic analysis of SC2 datasets:** Genetic relatedness as inferred through phylogenetic analysis of SC2 datasets can be a powerful proxy for epidemiological associations that help resolve transmission networks, enable real-time surveillance, provide insights of the variance-over-time of SC2 samples, and support local outbreak investigations
+
+# Community Resources
+
+## 1. Generating consensus assemblies from PCR tiling NGS data
+
+The bioinformatics resources listed below are open-source pipelines that run on general-purpose, containerized workflow infrastructure to generate consensus SC2 assemblies from PCR tiling NGS data. While some parameters and modules may differ slightly, each pipeline will perform read mapping to the Wuhan-1 reference genome, remove primer regions from the mapped read data, and generate a consensus assembly based on conserved and variant positions identified in the resulting alignment. These resources have been organized into three categories: GalaxyProject Plugins and Terra.Bio Workflows, Web-Accessible Software as a Service (SaaS) Solutions, and command-line interface (CLI) Tools and are listed in no particular order.
+
+### Terra and Galaxy Workflows
+
+1. [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs)
+  - **Brief Description** : The viral-ngs workflow collection contains many tools for viral analysis. The consensus genome caller is called assemble\_refbased and should work for any low-diversity microbial genome and is appropriate for viruses stemming from a single point-source outbreak, such as SARS-CoV-2. Accepts Illumina paired, single, or mixed reads, as well as ONT reads. Accepts metagenomic or amplicon-based reads with primer trimming.
+  - **Developed/supported by:** Broad Institute Viral Genomics
+  - **Documentation** : [Technical documentation (ReadTheDocs)](https://viral-ngs.readthedocs.io/en/latest/)
+  - **User base:** [H3Africa](https://h3africa.org/index.php/consortium/genomic-characterization-and-surveillance-of-microbial-threats-in-west-africa/) West African sites ([RUN](http://acegid.org/), [KGH](https://vhfc.org/consortium/people/), [UCAD](https://www.ucad.sn/))
+  - **Workflow language:** WDL
+    - **Web/Cloud GUI Platforms:** Terra, DNAnexus,
+    - **CLI Platforms:** Cromwell (local HPC, cloud), miniWDL
+2. [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics)
+  - **Brief Description** : The Titan Series includes four separate WDL workflows (Titan\_Illumina\_PE, Titan\_Illumina\_SE, Titan\_ClearLabs, and Titan\_ONT) that process NGS read data from four different sequencing approaches: Illumina paired-end, Illumina single-end, Clear Labs, and Oxford Nanopore Technology (ONT)) to generate consensus assemblies, produce relevant quality-control metrics for both the input read data and the generated assembly, and assign samples with a lineage and clade designation using Pangolin and NextClade, respectively.
+  - **Developed/supported by:** Theiagen Genomics
+  - **Documentation:** [Technical documentation (ReadTheDocs)](https://public-health-viral-genomics-theiagen.readthedocs.io/en/latest/overview.html), [step-by-step protocols (Protocols.io)l](https://www.protocols.io/file-manager/9EF18A27777511EBA1C60A58A9FEAC2A), and [video tutorials (YouTube Playlist)](https://www.youtube.com/watch?v=fy0Hm0lfIas&amp;list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz)
+  - **User base:** US PHLs
+  - **Workflow language:** WDL
+    - **Web/Cloud GUI Platforms:** Terra\* (primary), DNAnexus,
+    - **CLI Platforms:** Cromwell (local HPC, cloud), miniWDL
+3. [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/)
+  - **Brief Description** : Several Galaxy workflows for performing SC2 consensus genome assembly have been available including a Galaxy workflow for the analysis of Illumina paired-end sequenced ARTIC amplicon data and the SARS-CoV-2 RECoVERY pipeline hosted on the Galaxy instance ARIES; SARS-CoV-2 RECoVERY can generate SC2 consensus genomes from Illumina, Ion Torrent, and Nanopore read data.
+  - **Developed/supported by:** usegalaxy.eu ([https://covid19.galaxyproject.org/artic/](https://covid19.galaxyproject.org/artic/))
+  - **Documentation** : [https://covid19.galaxyproject.org/artic/](https://covid19.galaxyproject.org/artic/)
+  - ARIES/Istituto Superiore di Sanità ([https://aries.iss.it/u/arnold-knijn/w/sars-cov-2recovery31](https://aries.iss.it/u/arnold-knijn/w/sars-cov-2recovery31))
+  - **User base:** usegalaxy.\* (preprint in progress), ARIES ([https://www.biorxiv.org/content/10.1101/2021.01.16.425365v2](https://www.biorxiv.org/content/10.1101/2021.01.16.425365v2))
+  - **Workflow language:** Galaxy
+    - **Web/Cloud GUI Platforms:** GalaxyProject
+
