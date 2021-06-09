@@ -1,5 +1,5 @@
 # PHA4GE Bioinformatics Pipelines and Visualization Working Group Resources
-A repository to host PHA4GE-developed guidance documents and resources that address common challenges regarding the integration of bioinformatics solutions for the global public health community.
+A repository to host [PHA4GE-developed](https://pha4ge.org/) guidance documents and resources that address common challenges regarding the integration of bioinformatics solutions for the global public health community.
 
 
 ## SARS-CoV-2 Resources
