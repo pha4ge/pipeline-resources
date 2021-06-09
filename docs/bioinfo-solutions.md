@@ -77,7 +77,7 @@ The bioinformatics resources listed below are open-source pipelines that run on 
  <summary>Command-line interface (CLI) Tools</summary>
  
  1. [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN)](https://github.com/jaleezyy/covid-19-signal)
-  - **Brief Description** : SnakeMake pipeline for generating SC2 consensus assemblies from Illumina read data; being utilized to support SC2 sequencing efforts throughout the state of California, USA through the COVID-Tracker initiative
+  - **Brief Description**: Standardized workflow the assembly and subsequent analysis for short-read viral sequencing. This core workflow is compatible with the illumina artic nf pipeline and produces the same consensus and variants using ivar (1.3) [Grubaugh, 2019](https://doi.org/10.1186/s13059-018-1618-7). However, it performs far more extensive quality control and visualisation of results including an interactive HTML summary of run results.
   - **Developed/supported by:** Nassir, JA, _et al._
   - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/jaleezyy/covid-19-signal)
   - **User base:** CA PHLs
