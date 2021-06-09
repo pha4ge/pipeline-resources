@@ -62,7 +62,7 @@ The bioinformatics resources listed below are open-source pipelines that run on 
  <summary>Web-Accessible SaaS Solutions</summary>
  
 1. [IDSeq (CZ BioHub)](https://idseq.net/)
-  - **Brief Description** : User-friendly software platform originally developed for metagenomics studies that has since been repurposed to include SC2 consensus assembly calling from paired-end Illumina data
+  - **Brief Description** : User-friendly software platform originally developed for metagenomics studies that has since been repurposed to include SC2 consensus assembly calling from Oxford Nanopore or paired-end Illumina data
   - **Developed/supported by:** CZI
   - **User base:** CZ BioHub &amp; partners
   - **User-interface** : Web application on BioHub-funded AWS
