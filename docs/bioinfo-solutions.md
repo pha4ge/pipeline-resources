@@ -1,7 +1,7 @@
 # **Bioinformatics Solutions for SARS-CoV-2 Genomic Analysis**
 
 PHA4GE Bioinformatics Pipelines &amp; Visualizations Working Group <br/>
-Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Luun S, Langhorst B
+Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Lunn S, Langhorst B
 
 # Overview
 
