@@ -27,7 +27,7 @@ The PHA4GE bioinformatics pipeline and visualization working group has defined f
 
 ## 1. Generating consensus assemblies from PCR tiling NGS data
 
-The bioinformatics resources listed below are open-source pipelines that run on general-purpose, containerized workflow infrastructure to generate consensus SC2 assemblies from PCR tiling NGS data. While some parameters and modules may differ slightly, each pipeline will perform read mapping to the Wuhan-1 reference genome, remove primer regions from the mapped read data, and generate a consensus assembly based on conserved and variant positions identified in the resulting alignment. These resources have been organized into three categories: [Terra](app.terra.bio) and [Galaxy](https://galaxyproject.org/) Workflows, Web-Accessible Software as a Service (SaaS) Solutions, and command-line interface (CLI) Tools and are listed in no particular order.
+The bioinformatics resources listed below are open-source pipelines that run on general-purpose, containerized workflow infrastructure to generate consensus SC2 assemblies from PCR tiling NGS data. While some parameters and modules may differ slightly, each pipeline will perform read mapping to the Wuhan-1 reference genome, remove primer regions from the mapped read data, and generate a consensus assembly based on conserved and variant positions identified in the resulting alignment. These resources have been organized into three categories: [Terra](app.terra.bio) and [Galaxy](https://galaxyproject.org/) Workflows, Web-Accessible Software as a Service (SaaS) Solutions, and Command-Line Interface (CLI) gools and are listed in no particular order.
 
 <details>
  <summary>Terra and Galaxy Workflows</summary>
@@ -43,7 +43,7 @@ The bioinformatics resources listed below are open-source pipelines that run on 
 2. [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics)
   - **Brief Description** : The Titan Series includes four separate WDL workflows (Titan\_Illumina\_PE, Titan\_Illumina\_SE, Titan\_ClearLabs, and Titan\_ONT) that process NGS read data from four different sequencing approaches: Illumina paired-end, Illumina single-end, Clear Labs, and Oxford Nanopore Technology (ONT)) to generate consensus assemblies, produce relevant quality-control metrics for both the input read data and the generated assembly, and assign samples with a lineage and clade designation using Pangolin and NextClade, respectively.
   - **Developed/supported by:** Theiagen Genomics
-  - **Documentation:** [Technical documentation (ReadTheDocs)](https://public-health-viral-genomics-theiagen.readthedocs.io/en/latest/overview.html), [step-by-step protocols (Protocols.io)l](https://www.protocols.io/file-manager/9EF18A27777511EBA1C60A58A9FEAC2A), and [video tutorials (YouTube Playlist)](https://www.youtube.com/watch?v=fy0Hm0lfIas&amp;list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz)
+  - **Documentation:** [Technical documentation (ReadTheDocs)](https://public-health-viral-genomics-theiagen.readthedocs.io/en/latest/overview.html), [step-by-step protocols (Protocols.io)](https://www.protocols.io/file-manager/9EF18A27777511EBA1C60A58A9FEAC2A), and [video tutorials (YouTube Playlist)](https://www.youtube.com/watch?v=fy0Hm0lfIas&amp;list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz)
   - **User base:** US PHLs
   - **Workflow language:** WDL
     - **Web/Cloud GUI Platforms:** Terra\* (primary), DNAnexus,
@@ -61,13 +61,13 @@ The bioinformatics resources listed below are open-source pipelines that run on 
 <details>
  <summary>Web-Accessible SaaS Solutions</summary>
  
-1. I[DSeq (CZ BioHub)](https://idseq.net/)
+1. [IDSeq (CZ BioHub)](https://idseq.net/)
   - **Brief Description** : User-friendly software platform originally developed for metagenomics studies that has since been repurposed to include SC2 consensus assembly calling from paired-end Illumina data
   - **Developed/supported by:** CZI
   - **User base:** CZ BioHub &amp; partners
   - **User-interface** : Web application on BioHub-funded AWS
 2. [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/)
-  - **Brief Description** : EDGE COVID-19 is a derivative of the original EDGE Bioinformatics software (Li et al. 2017) that was developed to perform reference-based SC2 assemblies and quality assessment of Illumina or Nanopore read data.
+  - **Brief Description** : EDGE COVID-19 is a derivative of the original EDGE Bioinformatics software (Li _et al._ 2017) that was developed to perform reference-based SC2 assemblies and quality assessment of Illumina or Nanopore read data.
   - **Developed/supported by:** Los Alamos National Laboratories
   - **User base:** LANL &amp; partners
   - **User-interface** : Web application on LANL hardware
@@ -78,7 +78,7 @@ The bioinformatics resources listed below are open-source pipelines that run on 
  
  1. [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN)](https://github.com/jaleezyy/covid-19-signal)
   - **Brief Description** : SnakeMake pipeline for generating SC2 consensus assemblies from Illumina read data; being utilized to support SC2 sequencing efforts throughout the state of California, USA through the COVID-Tracker initiative
-  - **Developed/supported by:** Nassir, JA, _et. al._
+  - **Developed/supported by:** Nassir, JA, _et al._
   - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/jaleezyy/covid-19-signal)
   - **User base:** CA PHLs
   - **User-interface** : CLI (Snakemake)
@@ -88,7 +88,7 @@ The bioinformatics resources listed below are open-source pipelines that run on 
   - **Documentation** : [https://github.com/connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf)
   - **User base:** COG UK
   - **Workflow language:** Nextflow
-    - **CLI**** Platforms:** Nextflow cli client, Nextflow Tower (local HPC, cloud, etc)
+    - **CLI Platforms:** Nextflow cli client, Nextflow Tower (local HPC, cloud, etc)
 3. [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit)
   - **Brief Description** : Two StaPH-B workflows for performing SC2 consensus genome assembly have been available, Cecret a pipeline developed for the analysis of single or paired-end Illumina reads and Monroe, a workflow with various subcommands that perform consensus genome assembly from Illumina and Nanopore read data.
   - **Developed/supported by:** StaPH-B
@@ -139,7 +139,7 @@ Below is a list of resources developed to assist in the preparation and submissi
   - **Database Target(s)**: ENA
   - **Brief Description** : Galaxy plugin for direct submission to the European Nucleotide Archive database
   - **Developed/supported by:** [Galaxy IUC (Intergalactic Utilities Commission)](https://galaxyproject.org/iuc/)
-  - **Documentation** :[https://github.com/ELIXIR-Belgium/ena-upload-container](https://github.com/ELIXIR-Belgium/ena-upload-container)
+  - **Documentation**: [https://github.com/ELIXIR-Belgium/ena-upload-container](https://github.com/ELIXIR-Belgium/ena-upload-container)
   - **User base:** European PHLs
   - **Workflow language:** Galaxy
     - **Web/Cloud GUI Platforms:** GalaxyProject
