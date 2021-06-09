@@ -98,7 +98,7 @@ The bioinformatics resources listed below are open-source pipelines that run on 
  
 </details>
 
-## 2. Sharing raw sequence data (fastq) and consensus assemblies (fasta) through internationally-accessible databases (GISAID/NCBI)
+## 2. Sharing raw sequence data (fastq) and consensus assemblies (fasta) through internationally-accessible databases
 
 Below is a list of resources developed to assist in the preparation and submission of raw NGS read data (fastq files), SC2 consensus assemblies (fasta files), and contextual sample metadata to internationally-accessible databases such as [NCBI](https://www.ncbi.nlm.nih.gov/sars-cov-2/), [ENA](https://www.ebi.ac.uk/ena/browser/home), and [GISAID](https://www.gisaid.org/). We have also included a list of bioinformatics software designed to assess the quality of SC2 data; we recommend the use of such software prior to submission to avoid the inadvertent sharing of poor quality, contaminated, or otherwise misleading SC2 data. Additional information regarding the interpretation of read and assembly quality metrics for SC2 data will be made available as a separate document.
 
