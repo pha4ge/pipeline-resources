@@ -30,11 +30,12 @@ The PHA4GE bioinformatics pipeline and visualization working group has defined f
 
 The bioinformatics resources listed below are open-source pipelines that run on general-purpose, containerized workflow infrastructure to generate consensus SC2 assemblies from PCR tiling NGS data. While some parameters and modules may differ slightly, each pipeline will perform read mapping to the Wuhan-1 reference genome, remove primer regions from the mapped read data, and generate a consensus assembly based on conserved and variant positions identified in the resulting alignment. These resources have been organized into three categories: GalaxyProject Plugins and Terra.Bio Workflows, Web-Accessible Software as a Service (SaaS) Solutions, and command-line interface (CLI) Tools and are listed in no particular order.
 
-### Terra and Galaxy Workflows
+<details>
+ <summary>Terra and Galaxy Workflows</summary>
 
 1. [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs)
   - **Brief Description** : The viral-ngs workflow collection contains many tools for viral analysis. The consensus genome caller is called assemble\_refbased and should work for any low-diversity microbial genome and is appropriate for viruses stemming from a single point-source outbreak, such as SARS-CoV-2. Accepts Illumina paired, single, or mixed reads, as well as ONT reads. Accepts metagenomic or amplicon-based reads with primer trimming.
-  - **Developed/supported by:** Broad Institute Viral Genomics
+  - **Developed/supported by:** Broad Institute Viral Genomics 
   - **Documentation** : [Technical documentation (ReadTheDocs)](https://viral-ngs.readthedocs.io/en/latest/)
   - **User base:** [H3Africa](https://h3africa.org/index.php/consortium/genomic-characterization-and-surveillance-of-microbial-threats-in-west-africa/) West African sites ([RUN](http://acegid.org/), [KGH](https://vhfc.org/consortium/people/), [UCAD](https://www.ucad.sn/))
   - **Workflow language:** WDL
@@ -56,4 +57,44 @@ The bioinformatics resources listed below are open-source pipelines that run on 
   - **User base:** usegalaxy.\* (preprint in progress), ARIES ([https://www.biorxiv.org/content/10.1101/2021.01.16.425365v2](https://www.biorxiv.org/content/10.1101/2021.01.16.425365v2))
   - **Workflow language:** Galaxy
     - **Web/Cloud GUI Platforms:** GalaxyProject
+</details>
 
+<details>
+ <summary>Web-Accessible SaaS Solutions</summary>
+ 
+1. I[DSeq (CZ BioHub)](https://idseq.net/)
+  - **Brief Description** : User-friendly software platform originally developed for metagenomics studies that has since been repurposed to include SC2 consensus assembly calling from paired-end Illumina data
+  - **Developed/supported by:** CZI
+  - **User base:** CZ BioHub &amp; partners
+  - **User-interface** : Web application on BioHub-funded AWS
+2. [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/)
+  - **Brief Description** : EDGE COVID-19 is a derivative of the original EDGE Bioinformatics software (Li et al. 2017) that was developed to perform reference-based SC2 assemblies and quality assessment of Illumina or Nanopore read data.
+  - **Developed/supported by:** Los Alamos National Laboratories
+  - **User base:** LANL &amp; partners
+  - **User-interface** : Web application on LANL hardware
+</details>
+
+<details>
+ <summary>Command-line interface (CLI) Tools</summary>
+ 
+ 1. [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN)](https://github.com/jaleezyy/covid-19-signal)
+  - **Brief Description** : SnakeMake pipeline for generating SC2 consensus assemblies from Illumina read data; being utilized to support SC2 sequencing efforts throughout the state of California, USA through the COVID-Tracker initiative
+  - **Developed/supported by:** Nassir, JA, _et. al._
+  - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/jaleezyy/covid-19-signal)
+  - **User base:** CA PHLs
+  - **User-interface** : CLI (Snakemake)
+2. [ARTIC nCOV19 (ARTIC Network; Connor-lab)](https://github.com/connor-lab/ncov2019-artic-nf)
+  - **Brief Description** : Configured conda environment that enables access to Oxford Nanopore or Illumina consensus sequence assemblers: Medaka (ONT), NanoPolish (ONT) or BWA (Illumina)
+  - **Developed/supported by:** COG UK / ARTIC
+  - **Documentation** : [https://github.com/connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf)
+  - **User base:** COG UK
+  - **Workflow language:** Nextflow
+    - **CLI**** Platforms:** Nextflow cli client, Nextflow Tower (local HPC, cloud, etc)
+3. [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit)
+  - **Brief Description** : Two StaPH-B workflows for performing SC2 consensus genome assembly have been available, Cecret a pipeline developed for the analysis of single or paired-end Illumina reads and Monroe, a workflow with various subcommands that perform consensus genome assembly from Illumina and Nanopore read data.
+  - **Developed/supported by:** StaPH-B
+  - **Documentation** : [https://staph-b.github.io/staphb\_toolkit/](https://staph-b.github.io/staphb_toolkit/install/), [Python Package Index (PyPI)](https://pypi.org/project/staphb-toolkit/)
+  - **User base:** US PHLs
+  - **User-interface** : CLI (Python package)
+ 
+</details>
