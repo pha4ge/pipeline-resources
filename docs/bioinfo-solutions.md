@@ -77,7 +77,7 @@ The bioinformatics resources listed below are open-source pipelines that run on 
  <summary>Command-line interface (CLI) Tools</summary>
  
  1. [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN/OnCOV)](https://github.com/jaleezyy/covid-19-signal)
-  - **Brief Description**: Quality control, assembly, and analysis snakemake workflow for short-read viral amplicon sequencing. This includes host-removal via competitive mapping, freebayes based variant and consensus generation, creation of interactive HTML run summaries, and integration with the [ncov-tools](https://github.com/jts/ncov-tools/) QC workflow.
+  - **Brief Description**: Quality control, assembly, and analysis snakemake workflow for Illumina-based viral amplicon sequencing. Includes de-hosting via competitive mapping, freebayes variant and consensus generation, lineage assignment, interactive HTML run summaries, and integration with the [ncov-tools](https://github.com/jts/ncov-tools/) QC workflow.
   - **Developed/supported by:** [CARD/McArthur Lab](https://mcarthurbioinformatics.ca), lead maintainers: Jalees Nasir & Finlay Maguire 
   - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/jaleezyy/covid-19-signal)
   - **User base:** CA PHLs & academic partners
