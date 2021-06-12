@@ -23,7 +23,7 @@ The PHA4GE bioinformatics pipeline and visualization working group has defined f
 
 4. **Performing phylogenetic analysis of SC2 datasets:** Genetic relatedness as inferred through phylogenetic analysis of SC2 datasets can be a powerful proxy for epidemiological associations that help resolve transmission networks, enable real-time surveillance, provide insights of the variance-over-time of SC2 samples, and support local outbreak investigations
 
-# Open-Access/Source Bioinformatics Solutions
+# Open-Access/Source Bioinformatics Solutions & Resources
 
 ## 1. Generating consensus assemblies from PCR tiling NGS data
 
@@ -113,6 +113,7 @@ Below is a list of resources developed to assist in the preparation and submissi
   - **Developed/supported by:** PHA4GE
   - **Documentation** : [Technical documentation (GitHub README)](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification)
   - **User base:** Global public health community
+  - **Protocols:** [NCBI Submission](http://dx.doi.org/10.17504/protocols.io.bsypnfvn), [ENA Submission](http://dx.doi.org/10.17504/protocols.io.buqnnvve), & [GISAID Submission](http://dx.doi.org/10.17504/protocols.io.bumknu4w)
  
 </details>
 
