@@ -165,3 +165,81 @@ Below is a list of resources developed to assist in the preparation and submissi
 - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above; VADR included in the Cecret workflow)
  
 </details>
+
+## 3. Screening sequenced SC2 samples for variants of concern &amp; general lineage typing
+
+These tools either assign a clade or lineage descriptor to consensus sequences or provide databases for lookup of information on variants in the SARS-CoV-2 genome. As variants of concern are listed by their lineage descriptor (typically PANGO lineage or sometimes Nextclade clades) these tools help identify variants of concern.
+
+<details>
+ <summary>Bioinformatics tools for SC2 lineage or clade assignment</summary>
+
+- [Pangolin (Phylogenetic Assignment of Named Global Outbreak LINeages)](https://cov-lineages.org/pangolin.html)
+  - **Brief Description** : Tool developed to implement the dynamic nomenclature of SARS-CoV-2 lineages, known as the Pango nomenclature. It allows a user to assign a SARS-CoV-2 genome sequence the most likely lineage (PANGO lineage) to SARS-CoV-2 query sequences.
+  - **Developed/supported by:** Pangolin Network
+  - **Documentation** : [Technical Documentation (Pangolin Website)](https://cov-lineages.org/pangolin.html), [publication (Nature Microbiology)](https://www.nature.com/articles/s41564-020-0770-5)
+  - **User base:** Global Public Health Community
+  - **Accessibility** : [Web application](https://pangolin.cog-uk.io/) &amp; [CLI tool](https://github.com/cov-lineages/pangolin)
+  - **Bioinformatics workflows that incorporate NextClade clade assignments:**
+    - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above)
+    - [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflow described above)
+    - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
+    - I[DSeq (CZ BioHub)](https://idseq.net/) (SaaS solution described above)
+    - [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/) (SaaS solution described above)
+    - [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN)](https://github.com/jaleezyy/covid-19-signal) (CLI tool described above)
+    - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
+- [NextClade](https://clades.nextstrain.org/)
+  - **Brief Description** : Tool that identifies differences between your sequences and a reference sequence used by Nextstrain, uses these differences to assign your sequences to clades, and reports potential sequence quality issues in your data
+  - **User-interface** : [Web application](https://clades.nextstrain.org/) &amp; CLI tool
+  - **Help/community/discussion** : [discussion.nextstrain.org](http://discussion.nextstrain.org/)
+  - **Bioinformatics workflows that incorporate NextClade clade assignments:**
+    - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above)
+    - [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflow described above)
+    - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
+    - I[DSeq (CZ BioHub)](https://idseq.net/) (SaaS solution described above)
+    - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
+
+</details>
+
+
+<details>
+ <summary>Public Health Resources that Track &amp; Visualize SC2 Variants Over Time</summary>
+ 
+  - [PANGO cov-lineages](https://cov-lineages.org/)
+    - **Brief Description** : Track global prevalences of PANGO lineages
+    - **Developed/supported by:** Pangolin Network
+  - [Covariants](https://covariants.org/)
+    - **Brief Description** : Track global prevalence of Nextclade-annotated lineages
+    - **Developed/supported by:** NextStrain Team
+  - [Outbreak.info](https://outbreak.info/)
+    - **Brief Description** : Epidemiological info including PANGO lineage prevalence
+    - **Developed/supported by:** [Su](http://sulab.org/), [Wu](http://wulab.io/), and [Andersen](https://andersen-lab.com/) labs at Scripps Research
+  - [COV-GLUE](http://cov-glue.cvr.gla.ac.uk/)
+    - **Brief Description** : CoV-GLUE contains a database of amino acid replacements, insertions and deletions which have been observed in GISAID hCoV-19 sequences sampled from the pandemic Epidemiological info including PANGO lineage prevalence
+    - **Developed/supported by:** COG-UK
+  - [2019nCoVR](https://bigd.big.ac.cn/ncov/)
+    - **Brief Description** :2019nCoVR features comprehensive integration of genomic and proteomic sequences as well as their metadata information from the GISAID, NCBI, NMDC and CNCB/NGDC. It also incorporates a wide range of relevant information including scientific literatures, news, and popular articles for science dissemination, and provides visualization functionalities for genome variation analysis results based on all collected SARS-CoV-2 strains.
+    - **Developed/supported by:** China National Center for Bioinformation (CNCB)
+  - [CoVizu](https://filogeneti.ca/covizu/)
+    - **Brief Description:** CoVizu is an [open source project](https://github.com/PoonLab/CoVizu) endeavouring to visualize the global diversity of SARS-CoV-2 genomes, which are provided by the [GISAID Initiative](https://gisaid.org/).
+    - **Developed/supported by:** [Poon Laboratory](https://www.schulich.uwo.ca/pathol/people/bios/faculty/poon_art.html) of Western University
+  - [Annotation of SARS-2 Coronavirus Genome (Observable)](https://observablehq.com/@delphine-l/annotation-of-sars-2-coronavirus-genome)
+    - **Brief Description:** Annotation of variation in the genome with some notes on what is known about the various amino acids
+    - **Developed/supported by:** Delphine Lariviere (Penn State University)
+
+</details>
+
+<details>
+ <summary>Bioinformatics Tools to Track &amp; Visualize Your Own SC2 Variants Over Time </summary>
+ 
+   - KRISP R-scripts: [https://github.com/krisp-kwazulu-natal/africa-covid19-genomics](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics)
+    - **Brief Description** : Open-source repository containing all the code, data and information needed to reproduce the analyses for the [African genomic epidemiology manuscript](https://www.nature.com/articles/s41591-021-01255-3).
+    - **Developed/supported by:** Emmanuel James San (University of KwaZulu-Natal)
+    - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme), [publication (Nature Medicine)](https://www.nature.com/articles/s41591-021-01255-3)
+    - **Accessibility** : [RCL-Scripts](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme)
+  - [GISAID Processing](https://github.com/pvanheus/GISAID_processing)
+    - **Brief Description** : Open-source repository containing python scripts to process GISIAD data into frequency graphs
+    - **Developed/supported by:** Peter van Heusden (University of Western Cape)
+    - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/pvanheus/GISAID_processing/blob/main/README.md)
+    - **Accessibility** : [Python-Scripts](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme)
+ 
+ </details>
