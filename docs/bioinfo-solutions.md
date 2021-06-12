@@ -118,16 +118,15 @@ Below is a list of resources developed to assist in the preparation and submissi
 
 <details>
  <summary>Bioinformatics Solutions to Prepare and/or Submit SC2 Sample Data</summary>
- 
-- [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (described above)
-  - **Database Target(s)**: SRA, GenBank, GISAID
-  - **Brief Description** : The viral-ngs workflow collection contains workflows (sarscov2\_genbank, sarscov2\_sra\_to\_genbank, sarscov2\_illumina\_full) that prepare data for Genbank and GISAID submission (and SRA submission if starting from raw reads).
-  - **Developed/supported by:** Broad Institute Viral Genomics
-  - **Documentation** : [Technical documentation (ReadTheDocs)](https://viral-ngs.readthedocs.io/en/latest/)
-  - **User base:** [H3Africa](https://h3africa.org/index.php/consortium/genomic-characterization-and-surveillance-of-microbial-threats-in-west-africa/) West African sites ([RUN](http://acegid.org/), [KGH](https://vhfc.org/consortium/people/), [UCAD](https://www.ucad.sn/))
-  - **Workflow language:** WDL
-    - **Web/Cloud GUI Platforms:** Terra, DNAnexus,
-  - **CLI Platforms:** Cromwell (local HPC, cloud), miniWDL
+
+- [Galaxy ENA Submission Plugin](https://github.com/galaxyproject/tools-iuc/tree/master/tools/ena_upload)
+  - **Database Target(s)**: ENA
+  - **Brief Description** : Galaxy plugin for direct submission to the European Nucleotide Archive database
+  - **Developed/supported by:** [Galaxy IUC (Intergalactic Utilities Commission)](https://galaxyproject.org/iuc/)
+  - **Documentation**: [https://github.com/ELIXIR-Belgium/ena-upload-container](https://github.com/ELIXIR-Belgium/ena-upload-container)
+  - **User base:** European PHLs
+  - **Workflow language:** Galaxy
+    - **Web/Cloud GUI Platforms:** GalaxyProject  
 - [Theiagen&#39;s Mercury Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics)
   - **Database Target(s)**: GenBank, GISAID (SRA submission prep in development)
   - **Brief Description** : The Mercury Series includes three separate WDL workflows (Mercury\_SE\_Prep, Mercury\_PE\_Prep, and Mercury\_Batch) that prepare SC2 consensus assemblies (fasta files) and contextual sample metadata sample for submission to GISAID and NCBI&#39;s GenBank database.
@@ -137,15 +136,12 @@ Below is a list of resources developed to assist in the preparation and submissi
   - **Workflow language:** WDL
     - **Web/Cloud GUI Platforms:** Terra\* (primary), DNAnexus,
     - **CLI Platforms:** Cromwell (local HPC, cloud), miniWDL
-- [Galaxy ENA Submission Plugin](https://github.com/galaxyproject/tools-iuc/tree/master/tools/ena_upload)
-  - **Database Target(s)**: ENA
-  - **Brief Description** : Galaxy plugin for direct submission to the European Nucleotide Archive database
-  - **Developed/supported by:** [Galaxy IUC (Intergalactic Utilities Commission)](https://galaxyproject.org/iuc/)
-  - **Documentation**: [https://github.com/ELIXIR-Belgium/ena-upload-container](https://github.com/ELIXIR-Belgium/ena-upload-container)
-  - **User base:** European PHLs
-  - **Workflow language:** Galaxy
-    - **Web/Cloud GUI Platforms:** GalaxyProject
- 
+- [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above)
+   - **Database Target(s)**: GISAID, GenBank, & SRA
+- [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/) (SaaS solution described above) 
+    - **Database Target(s)**: GISAID, GenBank, & SRA
+
+
 </details>
 
 <details>
@@ -185,7 +181,7 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
     - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above)
     - [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflow described above)
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
-    - I[DSeq (CZ BioHub)](https://idseq.net/) (SaaS solution described above)
+    - {IDSeq](https://idseq.net/) (SaaS solution described above)
     - [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/) (SaaS solution described above)
     - [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN)](https://github.com/jaleezyy/covid-19-signal) (CLI tool described above)
     - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
@@ -197,7 +193,7 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
     - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above)
     - [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflow described above)
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
-    - I[DSeq (CZ BioHub)](https://idseq.net/) (SaaS solution described above)
+    - I[DSeq](https://idseq.net/) (SaaS solution described above)
     - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
 
 </details>
@@ -233,7 +229,7 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
 <details>
  <summary>Bioinformatics Tools to Track &amp; Visualize Your Own SC2 Variants Over Time </summary>
  
-   - KRISP R-scripts: [https://github.com/krisp-kwazulu-natal/africa-covid19-genomics](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics)
+ - [KRISP R-scripts](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics)
     - **Brief Description** : Open-source repository containing all the code, data and information needed to reproduce the analyses for the [African genomic epidemiology manuscript](https://www.nature.com/articles/s41591-021-01255-3).
     - **Developed/supported by:** Emmanuel James San (University of KwaZulu-Natal)
     - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme), [publication (Nature Medicine)](https://www.nature.com/articles/s41591-021-01255-3)
