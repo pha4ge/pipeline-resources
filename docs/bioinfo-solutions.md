@@ -242,3 +242,60 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
     - **Accessibility** : [Python-Scripts](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme)
  
  </details>
+ 
+## 4. Performing phylogenetic analysis of SC2 datasets
+
+_The tools listed below perform phylogenetic analyses of different complexity, ranging from web-apps to command-line tools that need to run on HPC facilities. The selected tools are integrated with visualization features that facilitate the interrogation of the results, but beware that such inferences might be uncertain and often require careful interpretation._
+
+
+<details>
+ <summary>Public Health Resources Performing Global SC2 Phylogenetic Analysis </summary>
+
+
+- [NextStrain](https://nextstrain.org/)
+  - **Brief Description** : Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data.
+  - **Developed/supported by:** Fred Hutch/Basel (Nextstrain team)
+  - **User base:** USA based groups
+  - **Documentation** : [docs](https://docs.nextstrain.org/en/latest/index.html)
+  - **Help/community/discussion** : [discussion.nextstrain.org](http://discussion.nextstrain.org/)
+  - Implementations for compute steps (&quot;augur&quot;):
+    - [**nextstrain/ncov**](https://github.com/nextstrain/ncov) snakemake pipeline
+      - **Description:** The authoritative implementation of the Nextstrain &quot;augur&quot; pipeline that takes genomes and metadata to trees and visualizations.
+      - **Developed/supported by:** Fred Hutch/Basel (Nextstrain team)
+      - **Workflow language:** Snakemake
+    - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above)
+    - [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflow described above)
+- [Microreact](https://microreact.org/)
+  - **Developed/supported by:** Centre for Genomic Pathogen Surveillance (CGPS)
+  - **User base:** COG-UK, New Zealand, etc
+  - **User-interface:** Web application / centrally hosted service
+
+</details>
+
+<details>
+ <summary>Offlineable Browser-Based Web Applications</summary>
+
+- [Auspice](https://auspice.us/)
+  - **Developed/supported by:** Fred Hutch/Basel (Nextstrain team)
+  - **Documentation** : [Technical documentation (GitHub README)](https://github.com/nextstrain/auspice#readme), [NextStrain discussion Forum](https://discussion.nextstrain.org/)
+  - **User-interface:** offlineable browser-based web app
+- [MicrobeTrace](https://microbetrace.cdc.gov/MicrobeTrace/)
+  - **Developed/supported by:** US CDC
+  - **Documentation** : https://github.com/CDCgov/MicrobeTrace
+  - **User-interface:** offlineable browser-based web app
+- [UShER](https://genome.ucsc.edu/cgi-bin/hgPhyloPlace)
+  - **Developed/supported by:** UCSC
+  - **User-interface:** offlineable browser-based web app
+  - Places user provided sequences on very large reference trees, extracts the relevant subtree, and provides a visualization
+
+</details>
+
+<details>
+ <summary>Command-line interface (CLI) Tools</summary>
+
+- [Grinch](https://github.com/cov-lineages/grinch)
+  - **Developed/supported by:** PANGO, cov-lineages
+  - **User-interface:** command-line tool
+  - Generates reports for the international distribution of PANGO lineages that can be viewed in a web browser.
+  
+</details>
