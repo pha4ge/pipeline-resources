@@ -32,26 +32,26 @@ The bioinformatics resources listed below are open-source pipelines that run on 
 <details>
  <summary>Terra and Galaxy Workflows</summary>
 
-1. [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs)
-  - **Brief Description** : The viral-ngs workflow collection contains many tools for viral analysis. The consensus genome caller is called assemble\_refbased and should work for any low-diversity microbial genome and is appropriate for viruses stemming from a single point-source outbreak, such as SARS-CoV-2. Accepts Illumina paired, single, or mixed reads, as well as ONT reads. Accepts metagenomic or amplicon-based reads with primer trimming.
+- [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs)
+  - **Brief Description:** The viral-ngs workflow collection contains many tools for viral analysis. The consensus genome caller is called assemble\_refbased and should work for any low-diversity microbial genome and is appropriate for viruses stemming from a single point-source outbreak, such as SARS-CoV-2. Accepts Illumina paired, single, or mixed reads, as well as ONT reads. Accepts metagenomic or amplicon-based reads with primer trimming.
   - **Developed/supported by:** Broad Institute Viral Genomics 
-  - **Documentation** : [Technical documentation (ReadTheDocs)](https://viral-ngs.readthedocs.io/en/latest/)
+  - **Documentation:** [Technical documentation (ReadTheDocs)](https://viral-ngs.readthedocs.io/en/latest/)
   - **User base:** [H3Africa](https://h3africa.org/index.php/consortium/genomic-characterization-and-surveillance-of-microbial-threats-in-west-africa/) West African sites ([RUN](http://acegid.org/), [KGH](https://vhfc.org/consortium/people/), [UCAD](https://www.ucad.sn/))
   - **Workflow language:** WDL
-    - **Web/Cloud GUI Platforms:** Terra, DNAnexus,
+    - **Web/Cloud GUI Platforms:** Terra, DNAnexus
     - **CLI Platforms:** Cromwell (local HPC, cloud), miniWDL
-2. [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics)
-  - **Brief Description** : The Titan Series includes four separate WDL workflows (Titan\_Illumina\_PE, Titan\_Illumina\_SE, Titan\_ClearLabs, and Titan\_ONT) that process NGS read data from four different sequencing approaches: Illumina paired-end, Illumina single-end, Clear Labs, and Oxford Nanopore Technology (ONT)) to generate consensus assemblies, produce relevant quality-control metrics for both the input read data and the generated assembly, and assign samples with a lineage and clade designation using Pangolin and NextClade, respectively.
+- [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics)
+  - **Brief Description:** Theiagen&#39;s Public Health Viral Genomics WDL Workflows include four separate WDL workflows (Titan\_Illumina\_PE, Titan\_Illumina\_SE, Titan\_ClearLabs, and Titan\_ONT) that process NGS read data from four different sequencing approaches: Illumina paired-end, Illumina single-end, Clear Labs, and Oxford Nanopore Technology (ONT)) to generate consensus assemblies, produce relevant quality-control metrics for both the input read data and the generated assembly, and assign samples with a lineage and clade designation using Pangolin and NextClade, respectively.
   - **Developed/supported by:** Theiagen Genomics
   - **Documentation:** [Technical documentation (ReadTheDocs)](https://public-health-viral-genomics-theiagen.readthedocs.io/en/latest/overview.html), [step-by-step protocols (Protocols.io)](https://www.protocols.io/file-manager/9EF18A27777511EBA1C60A58A9FEAC2A), and [video tutorials (YouTube Playlist)](https://www.youtube.com/watch?v=fy0Hm0lfIas&amp;list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz)
   - **User base:** US PHLs
   - **Workflow language:** WDL
-    - **Web/Cloud GUI Platforms:** Terra\* (primary), DNAnexus,
+    - **Web/Cloud GUI Platforms:** Terra
     - **CLI Platforms:** Cromwell (local HPC, cloud), miniWDL
-3. [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/)
-  - **Brief Description** : Several Galaxy workflows for performing SC2 consensus genome assembly have been available including a Galaxy workflow for the analysis of Illumina paired-end sequenced ARTIC amplicon data and the SARS-CoV-2 RECoVERY pipeline hosted on the Galaxy instance ARIES; SARS-CoV-2 RECoVERY can generate SC2 consensus genomes from Illumina, Ion Torrent, and Nanopore read data.
+- [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/)
+  - **Brief Description:** Several Galaxy workflows for performing SC2 consensus genome assembly have been available including a Galaxy workflow for the analysis of Illumina paired-end sequenced ARTIC amplicon data and the SARS-CoV-2 RECoVERY pipeline hosted on the Galaxy instance ARIES; SARS-CoV-2 RECoVERY can generate SC2 consensus genomes from Illumina, Ion Torrent, and Nanopore read data.
   - **Developed/supported by:** usegalaxy.eu ([https://covid19.galaxyproject.org/artic/](https://covid19.galaxyproject.org/artic/))
-  - **Documentation** : [https://covid19.galaxyproject.org/artic/](https://covid19.galaxyproject.org/artic/)
+  - **Documentation:** [https://covid19.galaxyproject.org/artic/](https://covid19.galaxyproject.org/artic/)
   - ARIES/Istituto Superiore di Sanità ([https://aries.iss.it/u/arnold-knijn/w/sars-cov-2recovery31](https://aries.iss.it/u/arnold-knijn/w/sars-cov-2recovery31))
   - **User base:** usegalaxy.\* (preprint in progress), ARIES ([https://www.biorxiv.org/content/10.1101/2021.01.16.425365v2](https://www.biorxiv.org/content/10.1101/2021.01.16.425365v2))
   - **Workflow language:** Galaxy
@@ -61,42 +61,42 @@ The bioinformatics resources listed below are open-source pipelines that run on 
 <details>
  <summary>Web-Accessible SaaS Solutions</summary>
  
-1. [IDSeq](https://idseq.net/)
-  - **Brief Description** : User-friendly software platform originally developed for metagenomics studies that has since been repurposed to include SC2 consensus assembly from Oxford Nanopore or paired-end Illumina data
+- [IDSeq](https://idseq.net/)
+  - **Brief Description:** User-friendly software platform originally developed for metagenomics studies that has since been repurposed to include SC2 consensus assembly from Oxford Nanopore or paired-end Illumina data
   - **Developed/supported by:** [Chan Zuckerberg Initiative (CZI)](https://chanzuckerberg.com/) 
   - **User base:** CZ Biohub &amp; partners; access available on request to other users
   - **User-interface** : Web application on CZI-funded AWS
-2. [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/)
-  - **Brief Description** : EDGE COVID-19 is a derivative of the original EDGE Bioinformatics software (Li _et al._ 2017) that was developed to perform reference-based SC2 assemblies and quality assessment of Illumina or Nanopore read data.
+- [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/)
+  - **Brief Description:** EDGE COVID-19 is a derivative of the original EDGE Bioinformatics software (Li _et al._ 2017) that was developed to perform reference-based SC2 assemblies and quality assessment of Illumina or Nanopore read data.
   - **Developed/supported by:** Los Alamos National Laboratories
-  - **Documentation**: [EDGE COVID-19 User Guide](https://edge-covid19.edgebioinformatics.org/docs/EDGE_COVID-19_guide.pdf)
+  - **Documentation:** [EDGE COVID-19 User Guide](https://edge-covid19.edgebioinformatics.org/docs/EDGE_COVID-19_guide.pdf)
   - **User base:** LANL &amp; partners
-  - **User-interface** : Web application on LANL hardware, [local instance using Docker](https://hub.docker.com/r/bioedge/edge-covid19
+  - **User-interface:** Web application on LANL hardware, [local instance using Docker](https://hub.docker.com/r/bioedge/edge-covid19
 )
 </details>
 
 <details>
  <summary>Command-line interface (CLI) Tools</summary>
  
- 1. [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN/OnCOV)](https://github.com/jaleezyy/covid-19-signal)
-  - **Brief Description**: Quality control, assembly, and analysis snakemake workflow for Illumina-based viral amplicon sequencing. Includes de-hosting via competitive mapping, freebayes variant and consensus generation, lineage assignment, interactive HTML run summaries, and integration with the [ncov-tools](https://github.com/jts/ncov-tools/) QC workflow.
+- [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN/OnCOV)](https://github.com/jaleezyy/covid-19-signal)
+  - **Brief Description:** Quality control, assembly, and analysis snakemake workflow for Illumina-based viral amplicon sequencing. Includes de-hosting via competitive mapping, freebayes variant and consensus generation, lineage assignment, interactive HTML run summaries, and integration with the [ncov-tools](https://github.com/jts/ncov-tools/) QC workflow.
   - **Developed/supported by:** [CARD/McArthur Lab](https://mcarthurbioinformatics.ca), lead maintainers: Jalees Nasir & Finlay Maguire 
-  - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/jaleezyy/covid-19-signal)
+  - **Documentation:** [Technical Documentation (GitHub README)](https://github.com/jaleezyy/covid-19-signal)
   - **User base:** CA PHLs & academic partners
-  - **User-interface** : CLI (Snakemake)
-2. [ARTIC nCOV19 (ARTIC Network; Connor-lab)](https://github.com/connor-lab/ncov2019-artic-nf)
-  - **Brief Description** : Configured conda environment that enables access to Oxford Nanopore or Illumina consensus sequence assemblers: Medaka (ONT), NanoPolish (ONT) or BWA (Illumina)
+  - **User-interface:** CLI (Snakemake)
+- [ARTIC nCOV19 (ARTIC Network; Connor-lab)](https://github.com/connor-lab/ncov2019-artic-nf)
+  - **Brief Description:** Configured conda environment that enables access to Oxford Nanopore or Illumina consensus sequence assemblers: Medaka (ONT), NanoPolish (ONT) or BWA (Illumina)
   - **Developed/supported by:** COG UK / ARTIC
-  - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/connor-lab/ncov2019-artic-nf/blob/master/README.md)
+  - **Documentation:** [Technical Documentation (GitHub README)](https://github.com/connor-lab/ncov2019-artic-nf/blob/master/README.md)
   - **User base:** COG UK
   - **Workflow language:** Nextflow
     - **CLI Platforms:** Nextflow cli client, Nextflow Tower (local HPC, cloud, etc)
-3. [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit)
-  - **Brief Description** : Two StaPH-B workflows for performing SC2 consensus genome assembly have been available: Cecret, a pipeline developed for the analysis of single or paired-end Illumina reads. and Monroe, a workflow with various subcommands that perform consensus genome assembly from either Illumina or Nanopore read data.
+- [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit)
+  - **Brief Description:** Two StaPH-B workflows for performing SC2 consensus genome assembly have been available: Cecret, a pipeline developed for the analysis of single or paired-end Illumina reads. and Monroe, a workflow with various subcommands that perform consensus genome assembly from either Illumina or Nanopore read data.
   - **Developed/supported by:** StaPH-B
-  - **Documentation** : [https://staph-b.github.io/staphb\_toolkit/](https://staph-b.github.io/staphb_toolkit/install/), [Python Package Index (PyPI)](https://pypi.org/project/staphb-toolkit/)
+  - **Documentation:** [https://staph-b.github.io/staphb\_toolkit/](https://staph-b.github.io/staphb_toolkit/install/), [Python Package Index (PyPI)](https://pypi.org/project/staphb-toolkit/)
   - **User base:** US PHLs
-  - **User-interface** : CLI (Python package)
+  - **User-interface:** CLI (Python package)
  
 </details>
 
@@ -108,10 +108,10 @@ Below is a list of resources developed to assist in the preparation and submissi
  <summary>Recommended SC2 Sample Metadata Specifications</summary>
  
 - [PHA4GE Contextual Data Specifications](https://www.preprints.org/manuscript/202008.0220/v1)
-  - **Database Target(s)**: GISAID, ENA, SRA, Genbank
-  - **Brief Description** : A SARS-CoV-2 contextual data specification based on harmonisable, publicly available, community standards. The specification is implementable via a collection template, as well as an array of protocols and tools to support the harmonisation and submission of sequence data and contextual information to public repositories.
+  - **Database Target(s):** GISAID, ENA, SRA, Genbank
+  - **Brief Description:** A SARS-CoV-2 contextual data specification based on harmonisable, publicly available, community standards. The specification is implementable via a collection template, as well as an array of protocols and tools to support the harmonisation and submission of sequence data and contextual information to public repositories.
   - **Developed/supported by:** PHA4GE
-  - **Documentation** : [Technical documentation (GitHub README)](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification)
+  - **Documentation:** [Technical documentation (GitHub README)](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification)
   - **User base:** Global public health community
   - **Protocols:** [NCBI Submission](http://dx.doi.org/10.17504/protocols.io.bsypnfvn), [ENA Submission](http://dx.doi.org/10.17504/protocols.io.buqnnvve), & [GISAID Submission](http://dx.doi.org/10.17504/protocols.io.bumknu4w)
  
@@ -121,26 +121,19 @@ Below is a list of resources developed to assist in the preparation and submissi
  <summary>Bioinformatics Solutions to Prepare and/or Submit SC2 Sample Data</summary>
 
 - [Galaxy ENA Submission Plugin](https://github.com/galaxyproject/tools-iuc/tree/master/tools/ena_upload)
-  - **Database Target(s)**: ENA
-  - **Brief Description** : Galaxy plugin for direct submission to the European Nucleotide Archive database
+  - **Database Target(s):** ENA
+  - **Brief Description:** Galaxy plugin for direct submission to the European Nucleotide Archive database
   - **Developed/supported by:** [Galaxy IUC (Intergalactic Utilities Commission)](https://galaxyproject.org/iuc/)
-  - **Documentation**: [https://github.com/ELIXIR-Belgium/ena-upload-container](https://github.com/ELIXIR-Belgium/ena-upload-container)
+  - **Documentation:** [https://github.com/ELIXIR-Belgium/ena-upload-container](https://github.com/ELIXIR-Belgium/ena-upload-container)
   - **User base:** European PHLs
   - **Workflow language:** Galaxy
     - **Web/Cloud GUI Platforms:** GalaxyProject  
-- [Theiagen&#39;s Mercury Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics)
-  - **Database Target(s)**: GenBank, GISAID (SRA submission prep in development)
-  - **Brief Description** : The Mercury Series includes three separate WDL workflows (Mercury\_SE\_Prep, Mercury\_PE\_Prep, and Mercury\_Batch) that prepare SC2 consensus assemblies (fasta files) and contextual sample metadata sample for submission to GISAID and NCBI&#39;s GenBank database.
-  - **Developed/supported by:** Theiagen Genomics
-  - **Documentation:** [Technical documentation (ReadTheDocs)](https://public-health-viral-genomics-theiagen.readthedocs.io/en/latest/overview.html), [step-by-step protocols (Protocols.io)](https://www.protocols.io/file-manager/9EF18A27777511EBA1C60A58A9FEAC2A), and [video tutorials (YouTube Playlist)](https://www.youtube.com/watch?v=fy0Hm0lfIas&amp;list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz)
-  - **User base:** US PHLs
-  - **Workflow language:** WDL
-    - **Web/Cloud GUI Platforms:** Terra\* (primary), DNAnexus,
-    - **CLI Platforms:** Cromwell (local HPC, cloud), miniWDL
-- [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above)
-   - **Database Target(s)**: GISAID, GenBank, & SRA
+- [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above)
+   - **Database Target(s):** GISAID, GenBank, & SRA
+- [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above)
+   - **Database Target(s):** GISAID & GenBank (SRA submission in development)
 - [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/) (SaaS solution described above) 
-    - **Database Target(s)**: GISAID, GenBank, & SRA
+    - **Database Target(s):** GISAID, GenBank, & SRA
 
 
 </details>
@@ -149,13 +142,13 @@ Below is a list of resources developed to assist in the preparation and submissi
  <summary>Bioinformatics Solutions to Assess Data Quality Prior to Submission</summary>
  
 - [VADR - Viral Annotation DefineR](https://github.com/ncbi/vadr)
-  - **Brief Description** : VADR is a suite of CLI tools for classifying and analyzing sequences homologous to a set of reference models of viral genomes or gene families. With regards to SC2, laboratories have utilized VADR to identify samples with potentially mis-assembled genomes that are likely to be rejected from an internationally-accessible database.
+  - **Brief Description:** VADR is a suite of CLI tools for classifying and analyzing sequences homologous to a set of reference models of viral genomes or gene families. With regards to SC2, laboratories have utilized VADR to identify samples with potentially mis-assembled genomes that are likely to be rejected from an internationally-accessible database.
   - **Developed/supported by:** NCBI
-  - **Documentation** : [Technical Documentation (GitHub Wiki)](https://github.com/ncbi/vadr/wiki/Coronavirus-annotation)
+  - **Documentation:** [Technical Documentation (GitHub Wiki)](https://github.com/ncbi/vadr/wiki/Coronavirus-annotation)
   - **User base:** NCBI GenBank & US PHLs
-  - **Accessibility** : [Local install](https://github.com/ncbi/vadr/blob/master/documentation/install.md#top) or the [StaPH-B Docker Image](https://hub.docker.com/r/staphb/vadr/)
-- [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above; includes VADR)
-- [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflow described above; includes VADR)
+  - **Accessibility:** [Local install](https://github.com/ncbi/vadr/blob/master/documentation/install.md#top) or the [StaPH-B Docker Image](https://hub.docker.com/r/staphb/vadr/)
+- [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above; includes VADR)
+- [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above; includes VADR)
 - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
 - [IDSeq (CZ BioHub)](https://idseq.net/) (SaaS solution described above)
 - [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/) (SaaS solution described above)
@@ -173,26 +166,26 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
  <summary>Bioinformatics tools for SC2 lineage or clade assignment</summary>
 
 - [Pangolin (Phylogenetic Assignment of Named Global Outbreak LINeages)](https://cov-lineages.org/pangolin.html)
-  - **Brief Description** : Tool developed to implement the dynamic nomenclature of SARS-CoV-2 lineages, known as the Pango nomenclature. It allows a user to assign a SARS-CoV-2 genome sequence the most likely lineage (PANGO lineage) to SARS-CoV-2 query sequences.
+  - **Brief Description:** Tool developed to implement the dynamic nomenclature of SARS-CoV-2 lineages, known as the Pango nomenclature. It allows a user to assign a SARS-CoV-2 genome sequence the most likely lineage (PANGO lineage) to SARS-CoV-2 query sequences.
   - **Developed/supported by:** Pangolin Network
-  - **Documentation** : [Technical Documentation (Pangolin Website)](https://cov-lineages.org/pangolin.html), [publication (Nature Microbiology)](https://www.nature.com/articles/s41564-020-0770-5)
+  - **Documentation:** [Technical Documentation (Pangolin Website)](https://cov-lineages.org/pangolin.html), [publication (Nature Microbiology)](https://www.nature.com/articles/s41564-020-0770-5)
   - **User base:** Global Public Health Community
-  - **Accessibility** : [Web application](https://pangolin.cog-uk.io/) &amp; [CLI tool](https://github.com/cov-lineages/pangolin)
+  - **Accessibility:** [Web application](https://pangolin.cog-uk.io/) &amp; [CLI tool](https://github.com/cov-lineages/pangolin)
   - **Bioinformatics workflows that incorporate NextClade clade assignments:**
-    - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above)
-    - [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflow described above)
+    - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above)
+    -  [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above)
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
     - {IDSeq](https://idseq.net/) (SaaS solution described above)
     - [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/) (SaaS solution described above)
     - [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN)](https://github.com/jaleezyy/covid-19-signal) (CLI tool described above)
     - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
 - [NextClade](https://clades.nextstrain.org/)
-  - **Brief Description** : Tool that identifies differences between your sequences and a reference sequence used by Nextstrain, uses these differences to assign your sequences to clades, and reports potential sequence quality issues in your data
-  - **User-interface** : [Web application](https://clades.nextstrain.org/) &amp; CLI tool
-  - **Help/community/discussion** : [discussion.nextstrain.org](http://discussion.nextstrain.org/)
+  - **Brief Descriptio:n** Tool that identifies differences between your sequences and a reference sequence used by Nextstrain, uses these differences to assign your sequences to clades, and reports potential sequence quality issues in your data
+  - **User-interface:** [Web application](https://clades.nextstrain.org/) &amp; CLI tool
+  - **Help/community/discussion:** [discussion.nextstrain.org](http://discussion.nextstrain.org/)
   - **Bioinformatics workflows that incorporate NextClade clade assignments:**
-    - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above)
-    - [Titan Workflows for Genomic Characterization](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflow described above)
+    - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above)
+    -  [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above)
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
     - I[DSeq](https://idseq.net/) (SaaS solution described above)
     - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
@@ -204,16 +197,16 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
  <summary>Public Health Resources that Track &amp; Visualize SC2 Variants Over Time</summary>
  
   - [PANGO cov-lineages](https://cov-lineages.org/)
-    - **Brief Description** : Track global prevalences of PANGO lineages
+    - **Brief Description:** Track global prevalences of PANGO lineages
     - **Developed/supported by:** Pangolin Network
   - [Covariants](https://covariants.org/)
-    - **Brief Description** : Track global prevalence of Nextclade-annotated lineages
+    - **Brief Description:** Track global prevalence of Nextclade-annotated lineages
     - **Developed/supported by:** NextStrain Team
   - [Outbreak.info](https://outbreak.info/)
-    - **Brief Description** : Epidemiological info including PANGO lineage prevalence
+    - **Brief Description:** Epidemiological info including PANGO lineage prevalence
     - **Developed/supported by:** [Su](http://sulab.org/), [Wu](http://wulab.io/), and [Andersen](https://andersen-lab.com/) labs at Scripps Research
   - [COV-GLUE](http://cov-glue.cvr.gla.ac.uk/)
-    - **Brief Description** : CoV-GLUE contains a database of amino acid replacements, insertions and deletions which have been observed in GISAID hCoV-19 sequences sampled from the pandemic Epidemiological info including PANGO lineage prevalence
+    - **Brief Description:** CoV-GLUE contains a database of amino acid replacements, insertions and deletions which have been observed in GISAID hCoV-19 sequences sampled from the pandemic Epidemiological info including PANGO lineage prevalence
     - **Developed/supported by:** COG-UK
   - [2019nCoVR](https://bigd.big.ac.cn/ncov/)
     - **Brief Description** :2019nCoVR features comprehensive integration of genomic and proteomic sequences as well as their metadata information from the GISAID, NCBI, NMDC and CNCB/NGDC. It also incorporates a wide range of relevant information including scientific literatures, news, and popular articles for science dissemination, and provides visualization functionalities for genome variation analysis results based on all collected SARS-CoV-2 strains.
@@ -231,15 +224,15 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
  <summary>Bioinformatics Tools to Track &amp; Visualize Your Own SC2 Variants Over Time </summary>
  
  - [KRISP R-scripts](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics)
-    - **Brief Description** : Open-source repository containing all the code, data and information needed to reproduce the analyses for the [African genomic epidemiology manuscript](https://www.nature.com/articles/s41591-021-01255-3).
+    - **Brief Description:** Open-source repository containing all the code, data and information needed to reproduce the analyses for the [African genomic epidemiology manuscript](https://www.nature.com/articles/s41591-021-01255-3).
     - **Developed/supported by:** Emmanuel James San (University of KwaZulu-Natal)
-    - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme), [publication (Nature Medicine)](https://www.nature.com/articles/s41591-021-01255-3)
-    - **Accessibility** : [RCL-Scripts](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme)
+    - **Documentation:** [Technical Documentation (GitHub README)](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme), [publication (Nature Medicine)](https://www.nature.com/articles/s41591-021-01255-3)
+    - **Accessibility:** [RCL-Scripts](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme)
   - [GISAID Processing](https://github.com/pvanheus/GISAID_processing)
-    - **Brief Description** : Open-source repository containing python scripts to process GISIAD data into frequency graphs
+    - **Brief Description:** Open-source repository containing python scripts to process GISIAD data into frequency graphs
     - **Developed/supported by:** Peter van Heusden (University of Western Cape)
-    - **Documentation** : [Technical Documentation (GitHub README)](https://github.com/pvanheus/GISAID_processing/blob/main/README.md)
-    - **Accessibility** : [Python-Scripts](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme)
+    - **Documentation:** [Technical Documentation (GitHub README)](https://github.com/pvanheus/GISAID_processing/blob/main/README.md)
+    - **Accessibility:** [Python-Scripts](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme)
  
  </details>
  
@@ -253,18 +246,18 @@ _The tools listed below perform phylogenetic analyses of different complexity, r
 
 
 - [NextStrain](https://nextstrain.org/)
-  - **Brief Description** : Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data.
+  - **Brief Description:** Nextstrain is an open-source project to harness the scientific and public health potential of pathogen genome data.
   - **Developed/supported by:** Fred Hutch/Basel (Nextstrain team)
   - **User base:** USA based groups
-  - **Documentation** : [docs](https://docs.nextstrain.org/en/latest/index.html)
-  - **Help/community/discussion** : [discussion.nextstrain.org](http://discussion.nextstrain.org/)
+  - **Documentation:** [docs](https://docs.nextstrain.org/en/latest/index.html)
+  - **Help/community/discussion:** [discussion.nextstrain.org](http://discussion.nextstrain.org/)
   - Implementations for compute steps (&quot;augur&quot;):
     - [**nextstrain/ncov**](https://github.com/nextstrain/ncov) snakemake pipeline
       - **Description:** The authoritative implementation of the Nextstrain &quot;augur&quot; pipeline that takes genomes and metadata to trees and visualizations.
       - **Developed/supported by:** Fred Hutch/Basel (Nextstrain team)
       - **Workflow language:** Snakemake
-    - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflow described above)
-    - [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflow described above)
+    - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above)
+    - [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above)
 - [Microreact](https://microreact.org/)
   - **Developed/supported by:** Centre for Genomic Pathogen Surveillance (CGPS)
   - **User base:** COG-UK, New Zealand, etc
@@ -277,11 +270,11 @@ _The tools listed below perform phylogenetic analyses of different complexity, r
 
 - [Auspice](https://auspice.us/)
   - **Developed/supported by:** Fred Hutch/Basel (Nextstrain team)
-  - **Documentation** : [Technical documentation (GitHub README)](https://github.com/nextstrain/auspice#readme), [NextStrain discussion Forum](https://discussion.nextstrain.org/)
+  - **Documentation:** [Technical documentation (GitHub README)](https://github.com/nextstrain/auspice#readme), [NextStrain discussion Forum](https://discussion.nextstrain.org/)
   - **User-interface:** offlineable browser-based web app
 - [MicrobeTrace](https://microbetrace.cdc.gov/MicrobeTrace/)
   - **Developed/supported by:** US CDC
-  - **Documentation** : https://github.com/CDCgov/MicrobeTrace
+  - **Documentation:** https://github.com/CDCgov/MicrobeTrace
   - **User-interface:** offlineable browser-based web app
 - [UShER](https://genome.ucsc.edu/cgi-bin/hgPhyloPlace)
   - **Developed/supported by:** UCSC
