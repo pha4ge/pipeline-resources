@@ -259,6 +259,7 @@ _The tools listed below perform phylogenetic analyses of different complexity, r
     - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above)
     - [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above)
 - [Microreact](https://microreact.org/)
+  - **Brief Description:** Open data visualization and sharing for genomic epidemiology
   - **Developed/supported by:** Centre for Genomic Pathogen Surveillance (CGPS)
   - **User base:** COG-UK, New Zealand, etc
   - **User-interface:** Web application / centrally hosted service
@@ -269,26 +270,28 @@ _The tools listed below perform phylogenetic analyses of different complexity, r
  <summary>Offlineable Browser-Based Web Applications</summary>
 
 - [Auspice](https://auspice.us/)
+  - **Brief Description:** Allows interactive exploration of phylogenomic datasets by simply dragging & dropping them onto this page.
   - **Developed/supported by:** Fred Hutch/Basel (Nextstrain team)
   - **Documentation:** [Technical documentation (GitHub README)](https://github.com/nextstrain/auspice#readme), [NextStrain discussion Forum](https://discussion.nextstrain.org/)
   - **User-interface:** offlineable browser-based web app
 - [MicrobeTrace](https://microbetrace.cdc.gov/MicrobeTrace/)
+  - **Brief Description:** The Visualization Multitool for Molecular Epidemiology and Bioinformatics
   - **Developed/supported by:** US CDC
   - **Documentation:** https://github.com/CDCgov/MicrobeTrace
   - **User-interface:** offlineable browser-based web app
 - [UShER](https://genome.ucsc.edu/cgi-bin/hgPhyloPlace)
+  - **Brief Description:** Places user provided sequences on very large reference trees, extracts the relevant subtree, and provides a visualization
   - **Developed/supported by:** UCSC
   - **User-interface:** offlineable browser-based web app
-  - Places user provided sequences on very large reference trees, extracts the relevant subtree, and provides a visualization
-
+  
 </details>
 
 <details>
  <summary>Command-line interface (CLI) Tools</summary>
 
 - [Grinch](https://github.com/cov-lineages/grinch)
+  - **Brief Description:** Generates reports for the international distribution of PANGO lineages that can be viewed in a web browser.
   - **Developed/supported by:** PANGO, cov-lineages
   - **User-interface:** command-line tool
-  - Generates reports for the international distribution of PANGO lineages that can be viewed in a web browser.
   
 </details>
