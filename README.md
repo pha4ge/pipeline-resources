@@ -40,7 +40,7 @@ In an attempt to assist this integration process, the bioinformatics pipeline an
 
 Contributing
 ============
-Contributions to the documents are more than welcome. To propose a change, edit the source files and open a pull request with the proposed changes.
+Contributions to the documents are more than welcome. To propose a change, edit the source files and open a pull-request with the proposed changes.
 
 If you're interested in participating in further discussions please free to join the [Working Group](https://pha4ge.org/bioinformatics-pipelines-and-visualization/).
 
