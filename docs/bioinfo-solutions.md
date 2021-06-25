@@ -233,6 +233,11 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
     - **Developed/supported by:** Peter van Heusden (University of Western Cape)
     - **Documentation:** [Technical Documentation (GitHub README)](https://github.com/pvanheus/GISAID_processing/blob/main/README.md)
     - **Accessibility:** [Python-Scripts](https://github.com/krisp-kwazulu-natal/africa-covid19-genomics#readme)
+  - [COVIDTag](http://covidtag.paseq.org/) 
+    - **Brief Description:** R Shiny appolication for COVID data exploration and plottin
+    - **Developed/supported by:** Fundación IrsiCaixa
+    - **Documentation:** 
+    - **Accessibility:** [Web-application visualization for Spain](http://covidtag.paseq.org/), [R-Scripts for custom analysis](https://github.com/MicrobialGenomics/covidapp)
  
  </details>
  
