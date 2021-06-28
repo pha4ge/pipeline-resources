@@ -293,5 +293,11 @@ _The tools listed below perform phylogenetic analyses of different complexity, r
   - **Brief Description:** Generates reports for the international distribution of PANGO lineages that can be viewed in a web browser.
   - **Developed/supported by:** PANGO, cov-lineages
   - **User-interface:** command-line tool
+ 
+- [Phylopipe](https://github.com/cov-ert/phylopipe)
+  - **Brief Description:** Generates a downsampled global tree using FastTree and updates it daily using UShER, cleans and annotates the tree.
+  - **Developed/supported by:** Virus Group (University of Edinburgh)
+  - **User-interface:** command-line tool, nextflow pipeline
+  - **User base:** COG-UK
   
 </details>
