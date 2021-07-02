@@ -189,7 +189,11 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
     - I[DSeq](https://idseq.net/) (SaaS solution described above)
     - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
-
+- [Datapipe](https://github.com/COG-UK/phylopipe)
+  - **Brief Description:** Performs alignment and variant calling, assigns lineages with pangolin and VOC/VUI with scorpio and cleans up geography metadata.
+  - **Developed/supported by:** Virus Group (University of Edinburgh)
+  - **User-interface:** command-line tool, nextflow pipeline
+  - **User base:** COG-UK
 </details>
 
 
@@ -293,5 +297,11 @@ _The tools listed below perform phylogenetic analyses of different complexity, r
   - **Brief Description:** Generates reports for the international distribution of PANGO lineages that can be viewed in a web browser.
   - **Developed/supported by:** PANGO, cov-lineages
   - **User-interface:** command-line tool
+
+- [Phylopipe](https://github.com/cov-ert/phylopipe)
+  - **Brief Description:** Generates a downsampled global tree using FastTree and updates it daily using UShER, cleans and annotates the tree; can be run on output from Datapipe.
+  - **Developed/supported by:** Virus Group (University of Edinburgh)
+  - **User-interface:** command-line tool, nextflow pipeline
+  - **User base:** COG-UK
   
 </details>
