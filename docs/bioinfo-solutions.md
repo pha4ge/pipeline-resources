@@ -171,7 +171,12 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
   - **Documentation:** [Technical Documentation (Pangolin Website)](https://cov-lineages.org/pangolin.html), [publication (Nature Microbiology)](https://www.nature.com/articles/s41564-020-0770-5)
   - **User base:** Global Public Health Community
   - **Accessibility:** [Web application](https://pangolin.cog-uk.io/) &amp; [CLI tool](https://github.com/cov-lineages/pangolin)
-  - **Bioinformatics workflows that incorporate NextClade clade assignments:**
+  - **Bioinformatics workflows that incorporate Pango lienage assignments:**
+    - [Datapipe](https://github.com/COG-UK/phylopipe)
+      - **Brief Description:** Performs alignment and variant calling, assigns lineages with pangolin and VOC/VUI with scorpio and cleans up geography metadata.
+      - **Developed/supported by:** Virus Group (University of Edinburgh)
+      - **User-interface:** command-line tool, nextflow pipeline
+      - **User base:** COG-UK
     - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above)
     -  [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above)
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
@@ -189,11 +194,7 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
     - I[DSeq](https://idseq.net/) (SaaS solution described above)
     - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
-- [Datapipe](https://github.com/COG-UK/phylopipe)
-  - **Brief Description:** Performs alignment and variant calling, assigns lineages with pangolin and VOC/VUI with scorpio and cleans up geography metadata.
-  - **Developed/supported by:** Virus Group (University of Edinburgh)
-  - **User-interface:** command-line tool, nextflow pipeline
-  - **User base:** COG-UK
+
 </details>
 
 
