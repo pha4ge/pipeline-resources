@@ -180,7 +180,7 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
     - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above)
     -  [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above)
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
-    - {IDSeq](https://idseq.net/) (SaaS solution described above)
+    - [IDSeq](https://idseq.net/) (SaaS solution described above)
     - [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/) (SaaS solution described above)
     - [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN)](https://github.com/jaleezyy/covid-19-signal) (CLI tool described above)
     - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
@@ -192,7 +192,7 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
     - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above)
     -  [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above)
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
-    - I[DSeq](https://idseq.net/) (SaaS solution described above)
+    - [IDSeq](https://idseq.net/) (SaaS solution described above)
     - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
 
 </details>
