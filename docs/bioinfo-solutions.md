@@ -171,7 +171,7 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
   - **Documentation:** [Technical Documentation (Pangolin Website)](https://cov-lineages.org/pangolin.html), [publication (Nature Microbiology)](https://www.nature.com/articles/s41564-020-0770-5)
   - **User base:** Global Public Health Community
   - **Accessibility:** [Web application](https://pangolin.cog-uk.io/) &amp; [CLI tool](https://github.com/cov-lineages/pangolin)
-  - **Bioinformatics workflows that incorporate Pango lienage assignments:**
+  - **Bioinformatics workflows that incorporate Pango lineage assignments:**
     - [Datapipe](https://github.com/COG-UK/datapipe)
       - **Brief Description:** Performs alignment and variant calling, assigns lineages with pangolin and VOC/VUI with scorpio and cleans up geography metadata.
       - **Developed/supported by:** Virus Group (University of Edinburgh)
