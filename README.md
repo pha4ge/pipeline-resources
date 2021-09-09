@@ -35,9 +35,9 @@ In an attempt to assist this integration process, the bioinformatics pipeline an
 
 {In development}
 
-### Informing Public Health Action
+### [Informing Public Health Action](docs/publichealth-action.md)
 
-{In development}
+In an attempt to assist in the development of visualization tools and platforms, the Bioinformatics Pipelines and Visualization Working Group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to highlight the potential of SARS-CoV-2 genomic surveillance and listed various open-source resources and case studies which are freely available.  
 
 Contributing
 ============
