@@ -27,13 +27,13 @@ SARS-CoV-2 Resources
 
 In an attempt to assist this integration process, the bioinformatics pipeline and visualization working group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the major bioinformatics challenges for SC2 genomic analysis and suggest various open-source and freely available bioinformatics resources to address them.
 
-### Quality Control Guidance
-
-{In development}
-
 ### [Validation Data Sets](https://github.com/CDCgov/datasets-sars-cov-2)
 
 The US Centers for Disease Control and Prevention's Technical Outreach and Assistance for States Team (TOAST) developed benchmark datasets for SARS-CoV-2 sequencing which are designed to help users at varying stages of building sequencing capacity. Rather than duplicating these efforts, the PHA4GE bioinformatics pipeline and visualization working group will be working alongside TOAST members to maintain and improve upon the currently-available validation datasets. 
+
+### Quality Control Guidance
+
+{In development}
 
 ### Informing Public Health Action
 
