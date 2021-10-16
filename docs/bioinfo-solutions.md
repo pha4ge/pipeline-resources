@@ -49,13 +49,16 @@ The bioinformatics resources listed below are open-source pipelines that run on 
     - **Web/Cloud GUI Platforms:** Terra
     - **CLI Platforms:** Cromwell (local HPC, cloud), miniWDL
 - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/)
-  - **Brief Description:** Several Galaxy workflows for performing SC2 consensus genome assembly have been available including a Galaxy workflow for the analysis of Illumina paired-end sequenced ARTIC amplicon data and the SARS-CoV-2 RECoVERY pipeline hosted on the Galaxy instance ARIES; SARS-CoV-2 RECoVERY can generate SC2 consensus genomes from Illumina, Ion Torrent, and Nanopore read data.
-  - **Developed/supported by:** usegalaxy.eu ([https://covid19.galaxyproject.org/artic/](https://covid19.galaxyproject.org/artic/))
-  - **Documentation:** [https://covid19.galaxyproject.org/artic/](https://covid19.galaxyproject.org/artic/)
-  - ARIES/Istituto Superiore di Sanità ([https://aries.iss.it/u/arnold-knijn/w/sars-cov-2recovery31](https://aries.iss.it/u/arnold-knijn/w/sars-cov-2recovery31))
-  - **User base:** usegalaxy.\* (preprint in progress), ARIES ([https://www.biorxiv.org/content/10.1101/2021.01.16.425365v2](https://www.biorxiv.org/content/10.1101/2021.01.16.425365v2))
+  - **Brief Description:** Several Galaxy workflows for performing SC2 consensus genome assembly have been available including a Galaxy workflow for the analysis of SARS-CoV-2 data.
   - **Workflow language:** Galaxy
-    - **Web/Cloud GUI Platforms:** GalaxyProject
+    - **Developed/supported by:** usegalaxy.eu ([https://covid19.galaxyproject.org/artic/](https://covid19.galaxyproject.org/artic/))
+      - **Web/Cloud GUI Platforms:** [usegalaxy.*](https://galaxyproject.org/use/)
+      - **Documentation:** [SARS-CoV-2 Data Analysis and Monitoring with Galaxy](https://galaxyproject.eu/event/2021-06-21-sars-cov-2-data-analysis-monitoring-training/)
+      - **Sequencing technologies supported:** Illumina metagenomic sequencing, Illumina and Oxford Nanopore ARTIC amplicon sequencing
+    - **Developed/suppported by:** ARIES/Istituto Superiore di Sanità
+      - **Web/Cloud GUI Platforms:** [ARIES Galaxy](https://aries.iss.it/) ([https://aries.iss.it/u/arnold-knijn/w/sars-cov-2recovery31](https://aries.iss.it/u/arnold-knijn/w/sars-cov-2recovery31))
+      - **Documentation:** [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.16.425365v1)
+      - **Sequencing technologies supported:** Illumina, Ion Torrent and Oxford Nanopore ARTIC amplicon sequencing
 </details>
 
 <details>
@@ -171,11 +174,16 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
   - **Documentation:** [Technical Documentation (Pangolin Website)](https://cov-lineages.org/pangolin.html), [publication (Nature Microbiology)](https://www.nature.com/articles/s41564-020-0770-5)
   - **User base:** Global Public Health Community
   - **Accessibility:** [Web application](https://pangolin.cog-uk.io/) &amp; [CLI tool](https://github.com/cov-lineages/pangolin)
-  - **Bioinformatics workflows that incorporate NextClade clade assignments:**
+  - **Bioinformatics workflows that incorporate Pango lineage assignments:**
+    - [Datapipe](https://github.com/COG-UK/datapipe)
+      - **Brief Description:** Performs alignment and variant calling, assigns lineages with pangolin and VOC/VUI with scorpio and cleans up geography metadata.
+      - **Developed/supported by:** Virus Group (University of Edinburgh)
+      - **User-interface:** command-line tool, nextflow pipeline
+      - **User base:** COG-UK
     - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above)
     -  [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above)
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
-    - {IDSeq](https://idseq.net/) (SaaS solution described above)
+    - [IDSeq](https://idseq.net/) (SaaS solution described above)
     - [EDGE COVID-19](https://edge-covid19.edgebioinformatics.org/) (SaaS solution described above)
     - [SIGNAL (SARS-CoV-2 Illumina GeNome Assembly Line; CanCOGeN)](https://github.com/jaleezyy/covid-19-signal) (CLI tool described above)
     - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
@@ -187,7 +195,7 @@ These tools either assign a clade or lineage descriptor to consensus sequences o
     - [Broad viral-ngs](https://dockstore.org/organizations/BroadInstitute/collections/pgs) (Terra workflows described above)
     -  [Theiagen&#39;s Public Health Viral Genomics WDL Workflows](https://dockstore.org/organizations/Theiagen/collections/PublicHealthViralGenomics) (Terra workflows described above)
     - [COVID-19 Galaxy Workflows](https://covid19.galaxyproject.org/artic/) (Galaxy resources described above)
-    - I[DSeq](https://idseq.net/) (SaaS solution described above)
+    - [IDSeq](https://idseq.net/) (SaaS solution described above)
     - [StaPH-B ToolKit](https://github.com/StaPH-B/staphb_toolkit) (CLI tool described above)
 
 </details>
@@ -293,5 +301,11 @@ _The tools listed below perform phylogenetic analyses of different complexity, r
   - **Brief Description:** Generates reports for the international distribution of PANGO lineages that can be viewed in a web browser.
   - **Developed/supported by:** PANGO, cov-lineages
   - **User-interface:** command-line tool
+
+- [Phylopipe](https://github.com/cov-ert/phylopipe)
+  - **Brief Description:** Generates a downsampled global tree using FastTree and updates it daily using UShER, cleans and annotates the tree; can be run on output from Datapipe.
+  - **Developed/supported by:** Virus Group (University of Edinburgh)
+  - **User-interface:** command-line tool, nextflow pipeline
+  - **User base:** COG-UK
   
 </details>
