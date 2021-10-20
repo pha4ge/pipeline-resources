@@ -25,7 +25,7 @@ SARS-CoV-2 Resources
 
 ### [Bioinformatics Solutions](docs/bioinfo-solutions.md)
 
-In an attempt to assist this integration process, the bioinformatics pipeline and visualization working group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the major bioinformatics challenges for SC2 genomic analysis and suggest various open-source and freely available bioinformatics resources to address them. Make edits here!
+In an attempt to assist this integration process, the bioinformatics pipeline and visualization working group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the major bioinformatics challenges for SC2 genomic analysis and suggest various open-source and freely available bioinformatics resources to address them.
 
 ### [Validation Data Sets](https://github.com/CDCgov/datasets-sars-cov-2)
 
