@@ -32,6 +32,29 @@ In no way does this document represent a comprehensive list of all available SC2
 - [Galaxy EU Omicron Public Analysis](https://galaxyproject.eu/posts/2021/11/29/omicron-and-galaxy/): View of the Omicron lineage’s mutational pattern derived transparently and fully reproducibly from raw sequencing reads using the Galaxy Project bioinformatics platform.
     
 # Potential impacts of Spike Protein Mutations
+
+The spike protein of the SARS-CoV-2 Omicron variant contains approximately 32 mutations, many of which have not been observed in previous VOCs. However, based on their location, several of these mutations have the potential to impact immune escape, transmissibility, and detection. Spike mutations found in the Omicron VOC can be analyzed in detail using the [Stanford University Coronavirus Antiviral & Resistance Database](https://covdb.stanford.edu/sierra/sars2/by-patterns/).
+
+{insert figure}
+
+Up to 15 mutations have been observed within the receptor binding domain (RBD). The RBD region of the Spike protein interacts directly with the human receptor ACE2 and mutations in this region may have a direct impact on how well SARS-CoV-2 viral particles attach to a host cell. 
+
+Approximately 8 mutations have been observed within the N-terminal domain (NTD). The NTD of the Spike protein aids in virus attachment and mutations in this region could also impact virus infectivity. 
+
+Both the RBD and NTD are surface exposed areas of the Spike protein that are targeted by antibodies. Mutations in these regions have the potential to evade immunity by antibodies acquired through previous infection or vaccination.
+
+Three mutations occur near the furin cleavage site, the region of the Spike protein responsible for viral-host membrane fusion. Mutations in this region have the potential to affect viral entry into host cells.
+
+Spike Mutations and Diagnostic Assays
+
+PCR-based diagnostic assays that target the Spike gene can also be impacted by mutations in the SARS-CoV-2 genome. Specifically, the ThermoFisher TaqPath probe targeting the Spike gene is known to result in S-gene target failure (SGTF) when the SARS-CoV-2 genome contains the deletion resulting in a loss of amino acids 69-70 of the NTD. When coupled with a positive amplification of other SARS-CoV-2 genetic regions, the SGTF has been used as a diagnostic indicator of VOC presence (SGF Deletion Assay). This has previously been the case for VOC Alpha.
+
+The Omicron variant contains the NTD deletion at amino acids 69/70 and results in SGTF by the TaqPath PCR assay (∆69-70 TaqPath S dropout). 
+
+To monitor registered primer sets for overlapping sequence variants in Omicron, visit NEB’s Primer Monitor Tool (https://primer-monitor.neb.com/lineages).
+
+Ten mutations in the Omicron VOC affect the Artic V4 primer scheme. The Artic Network has designed 11 new primers to account for these mutations. You can learn more about the Artic V4.1 primer patch here on Twitter: Artic v4.1 (primer patch!)
+
  
 # Bioinformatics Resources and Considerations
 
