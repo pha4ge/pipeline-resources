@@ -11,8 +11,15 @@ The PHA4GE Pipelines and Visualization Working Group has created this document a
 In no way does this document represent a comprehensive list of all available SC2 bioinformatics resources. If this document fails to include a valuable public health resource or in some way mischaracterizes a resource mentioned, we encourage community collaboration through pull-requests and/or raised GitHub issues.
 
 ## Contents
-
-{links to sections}
+- [General Information on the Omicron Variant](#general-information-on-the-omicron-variant)
+	- [Educational Material](#educational-material)
+	- [Public Health Announcements and Publications](#public-health-announcements-and-publications)
+	- [Technical Details and Discussions](#technical-details-and-discussions)
+	- [Data Reporting and Sharing](#data-reporting-and-sharing)
+- [Potential impacts of Spike Protein Mutations](#potential-impacts-of-spike-protein-mutations)
+    - [Spike Mutations and Diagnostic/Sequencing Assays](#spike-mutations-and-diagnostic-/-sequencing-assays)
+- [Bioinformatics Resources and Considerations](#bioinformatics-resources-and-considerations)
+    - [Reference Sequences](#reference-sequences)
 
 # General Information on the Omicron Variant
 
