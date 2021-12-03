@@ -11,6 +11,7 @@ The PHA4GE Pipelines and Visualization Working Group has created this document a
 In no way does this document represent a comprehensive list of all available SC2 bioinformatics resources. If this document fails to include a valuable public health resource or in some way mischaracterizes a resource mentioned, we encourage community collaboration through pull-requests and/or raised GitHub issues.
 
 ## Contents
+
 {links to sections}
 
 # General Information on the Omicron Variant
