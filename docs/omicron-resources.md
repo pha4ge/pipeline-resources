@@ -17,16 +17,18 @@ In no way does this document represent a comprehensive list of all available SC2
 # General Information on the Omicron Variant
 
 ## Educational Material
-- [Nature News Article - Heavily mutated Omicron variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w): {info blurb}
+- [Nature News Article - Heavily mutated Omicron variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w): Overview of the identified variant and its potential public health impacts.
 - [Theiagen Genomics Primer the Omicron Variant (Video)](https://www.youtube.com/watch?v=xhyWjPgdP9U): To assist public health scientists' understanding of the Omicron Variant, Frank Ambrosio recorded a small primer on the Omicron variant that includes an overview of the Nature news article that by Ewen Callaway and visual depictions of key Omicron mutations and the genetic diversity of Omicron relative to other SARS-CoV-2 variants using MicrobeTrace. 
 
-## Public Health Announcements
-- CDC
-- WHO
-- ECDC Threat Assessment Brief (December 02, 2021)
+## Public Health Announcements and Publications
+- [Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern (World Health Organization)](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
+- [CDC Statement on B.1.1.529 (Omicron variant)](https://www.cdc.gov/media/releases/2021/s1126-B11-529-omicron.html)
+- [SARS-CoV-2 variants of concern as of 3 December 2021 (ECDC)](https://www.ecdc.europa.eu/en/covid-19/variants-concern)
+- [Implications of the further emergence and spread of the SARS-CoV-2 B.1.1.529 variant of concern (Omicron) for the EU/EEAECDC (December 02, 2021)](https://www.ecdc.europa.eu/sites/default/files/documents/threat-assessment-covid-19-emergence-sars-cov-2-variant-omicron-december-2021.pdf)
+- [SARS-CoV-2 variants of concern and variants under investigation in England (UK Health Security Agency)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1036501/Technical_Briefing_29_published_26_November_2021.pdf)
+- [Genomic surveillance of SARS-CoV-2 in Belgium ( National Reference Laboratory (UZ Leuven & KU Leuven))](https://assets.uzleuven.be/files/2021-11/genomic_surveillance_update_211126.pdf)
 
-## 
-## Lineage Technical Details
+## Technical Details and Discussions
 - [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) Tom Peacock
 - [COV-Lineages B.1.1.529 Description](https://cov-lineages.org/global_report_B.1.1.529.html) & [Outbreak.info Omicron Variant Report](https://outbreak.info/situation-reports/omicron) for information and visualizations on defining mutations, countries identified, and trends over time
 - [Galaxy EU Omicron Public Analysis](https://galaxyproject.eu/posts/2021/11/29/omicron-and-galaxy/): View of the Omicron lineage’s mutational pattern derived transparently and fully reproducibly from raw sequencing reads using the Galaxy Project bioinformatics platform.
