@@ -47,13 +47,13 @@ The spike protein of the SARS-CoV-2 Omicron variant contains approximately 32 mu
 
 ## Spike Mutations and Diagnostic/Sequencing Assays
 
-PCR-based diagnostic assays that target the Spike gene can also be impacted by mutations in the SARS-CoV-2 genome. Specifically, the ThermoFisher TaqPath probe targeting the Spike gene is known to result in S-gene target failure (SGTF) when the SARS-CoV-2 genome contains the deletion resulting in a loss of amino acids 69-70 of the NTD. When coupled with a positive amplification of other SARS-CoV-2 genetic regions, the SGTF has been used as a diagnostic indicator of VOC presence (SGF Deletion Assay). This has previously been the case for VOC Alpha.
+PCR-based diagnostic assays that target the Spike gene and genomic sequencing can be impacted by mutations in the SARS-CoV-2 genome. For example, the ThermoFisher TaqPath probe targeting the Spike gene is known to result in S-gene target failure (SGTF) when amplifying nucleic acid preparations from VOC Alpha. This occurs when the SARS-CoV-2 genome contains a deletion resulting in the loss of amino acids 69-70 of the NTD. When coupled with a positive amplification of other SARS-CoV-2 genetic regions, the SGTF has been used as a diagnostic indicator of VOC presence [SGF Deletion Assay](https://www.biorxiv.org/content/10.1101/2021.10.25.465706v1.full). 
 
-- The Omicron variant contains the NTD deletion at amino acids 69/70 and results in SGTF by the TaqPath PCR assay (∆69-70 TaqPath S dropout). 
+- [Thermo Fisher Scientific Confirms Detection of SARS-CoV-2 in Samples Containing the Omicron Variant with its TaqPath COVID-19 Tests](https://thermofisher.mediaroom.com/2021-11-29-Thermo-Fisher-Scientific-Confirms-Detection-of-SARS-CoV-2-in-Samples-Containing-the-Omicron-Variant-with-its-TaqPath-COVID-19-Tests): The Omicron variant contains the NTD deletion at amino acids 69/70 and results in SGTF by the TaqPath PCR assay. 
 
-- To monitor registered primer sets for overlapping sequence variants in Omicron, visit [NEB’s Primer Monitor Tool](https://primer-monitor.neb.com/lineages).
+- [NEB's Primer Monitor Tool](https://primer-monitor.neb.com/lineages): Monitor registered primer sets for overlapping sequence variants in Omicron.
 
-- [SARS-CoV-2 Artic V4.1 update for Omicron variant](https://community.artic.network/t/sars-cov-2-v4-1-update-for-omicron-variant/342): Ten mutations in the Omicron VoC affect the Artic V4 primer scheme. The Artic Network has designed 11 new primers to account for these mutations. 
+- [SARS-CoV-2 Artic V4.1 update for Omicron variant](https://community.artic.network/t/sars-cov-2-v4-1-update-for-omicron-variant/342): Ten mutations in the Omicron VOC affect the Artic V4 primer scheme for whole genome sequencing. The Artic Network has designed 11 new primers to account for these mutations. 
 
  
 # Bioinformatics Resources and Considerations
