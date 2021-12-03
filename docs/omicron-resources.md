@@ -32,6 +32,11 @@ In no way does this document represent a comprehensive list of all available SC2
 - [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) Tom Peacock
 - [COV-Lineages B.1.1.529 Description](https://cov-lineages.org/global_report_B.1.1.529.html) & [Outbreak.info Omicron Variant Report](https://outbreak.info/situation-reports/omicron) for information and visualizations on defining mutations, countries identified, and trends over time
 - [Galaxy EU Omicron Public Analysis](https://galaxyproject.eu/posts/2021/11/29/omicron-and-galaxy/): View of the Omicron lineage’s mutational pattern derived transparently and fully reproducibly from raw sequencing reads using the Galaxy Project bioinformatics platform.
+
+## Data Reporting and Sharing
+- [PHA4GE Resource on Data Sharing](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification): Sharing of sample read and assembly data through internationally accessible databases allows insights to be drawn about how the virus is spreading and mutating across the globe; the more freely available these data are to international researchers and public health scientists, the stronger our decision making can be.
+- [PHA4GE Resource on Data Submission](https://github.com/pha4ge/pipeline-resources/blob/main/docs/bioinfo-solutions.md#2-submitting-raw-sequence-data-fastq-consensus-assemblies-fasta-and-relevant-sample-metadata-to-internationally-accessible-databases): Resources developed to assist in the preparation and submission of raw NGS read data (fastq files), SC2 consensus assemblies (fasta files), and contextual sample metadata to internationally-accessible databases such as NCBI, ENA, and GISAID
+
     
 # Potential impacts of Spike Protein Mutations
 
