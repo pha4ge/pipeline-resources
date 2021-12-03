@@ -35,7 +35,7 @@ In no way does this document represent a comprehensive list of all available SC2
 
 The spike protein of the SARS-CoV-2 Omicron variant contains approximately 32 mutations, many of which have not been observed in previous VOCs. However, based on their location, several of these mutations have the potential to impact immune escape, transmissibility, and detection. Spike mutations found in the Omicron VOC can be analyzed in detail using the [Stanford University Coronavirus Antiviral & Resistance Database](https://covdb.stanford.edu/sierra/sars2/by-patterns/).
 
-{insert figure}
+![Omicron S-gene mutations](./images/omicron_standford.svg)
 
 Up to 15 mutations have been observed within the receptor binding domain (RBD). The RBD region of the Spike protein interacts directly with the human receptor ACE2 and mutations in this region may have a direct impact on how well SARS-CoV-2 viral particles attach to a host cell. 
 
