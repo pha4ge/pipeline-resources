@@ -1,6 +1,6 @@
 # Omicron Resource
 
-{authors list}
+Libuit KG, Spinler J, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathail C, Lemmer D, Jones D, Smith E, Gnimpieba E, Guthrie J, Maturure P, Monsierurs P, Maier W, Langhorst B, Page A, Niewiadomska AM, 
 
 # Overview
 
@@ -22,8 +22,10 @@ In no way does this document represent a comprehensive list of all available SC2
     - [Reference Sequences](#reference-sequences)
 
 # General Information on the Omicron Variant
+Below is a list of various educational materials, public health announcements and publications, thechnical details and discussions, phylogenetic visualiations, global trackers, and resources to assist in data sharing and reporting of the Omicron variant:
 
-## Educational Material
+
+## Educational Materials
 - [Nature News Article - Heavily mutated Omicron variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w): Overview of the identified variant and its potential public health impacts.
 - [Theiagen Genomics Primer the Omicron Variant (Video)](https://www.youtube.com/watch?v=xhyWjPgdP9U): To assist public health scientists' understanding of the Omicron Variant, Frank Ambrosio recorded a small primer on the Omicron variant that includes an overview of the Nature news article by Ewen Callaway, visual depictions of key Omicron mutations, and the genetic diversity of Omicron relative to other SARS-CoV-2 variants using MicrobeTrace. 
 
