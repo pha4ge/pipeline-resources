@@ -25,8 +25,7 @@ In no way does this document represent a comprehensive list of all available SC2
     - [SARS-CoV-2 Multiple Sequence Alignments](#sars-cov-2-multiple-sequence-alignments)
 
 ## General Information on the Omicron Variant
-Below is a list of various educational material, public health announcements and publications, thechnical details and global trackers, phylogenetic visualiations, and resources to assist in data sharing and reporting of the Omicron variant:
-
+Below is a list of various educational material, public health announcements and publications, thechnical details and global trackers, phylogenetic visualiations, and resources to assist in data sharing and reporting of the Omicron variant.
 
 ### Educational Material
 - [Nature News Article - Heavily mutated Omicron variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w): Overview of the identified variant and its potential public health impacts.
@@ -90,9 +89,9 @@ Genome assembly as well as clade and lineage assignment of Omicron variants shou
 
 ### Software Version Minimums
 For laboraotires making clade and lineage assignements outside of the NextClade and Pangolin web applications, e.g. through a custom workflow available on CLI, Terra.Bio, or Galaxy Project, please ensure to utilize updated NextClade and Pangolin software capable of making an Omicron clade and lineage designation:
-- NextClade Software Version 1.5.1 (Dataset Tag 2021-11-27T11:53:22Z)
+- [NextClade Software Version 1.5.1](https://github.com/nextstrain/nextclade/releases) ([Dataset Tag >=2021-11-27T11:53:22Z](https://docs.nextstrain.org/projects/nextclade/en/stable/user/datasets.html))
   - [NextStrain Docker Container Image](https://hub.docker.com/r/nextstrain/nextclade)
-- Pangolin Software Version 3.1.16 (Constellations >=0.024)
+- [Pangolin Software Version 3.1.16](https://github.com/cov-lineages/pangolin/releases) ([Constellations >=0.024](https://github.com/cov-lineages/constellations/releases))
   - [StaPH-B Docker Container Image](https://hub.docker.com/r/staphb/pangolin/tags?page=1&ordering=last_updated)
   - [BioContainer Docker Container Image](https://quay.io/repository/biocontainers/pangolin?tag=3.1.16--pyhdfd78af_2&tab=tags)
 
