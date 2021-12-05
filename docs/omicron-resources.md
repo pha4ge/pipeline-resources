@@ -14,40 +14,55 @@ In no way does this document represent a comprehensive list of all available SC2
 - [General Information on the Omicron Variant](#general-information-on-the-omicron-variant)
 	- [Educational Material](#educational-material)
 	- [Public Health Announcements and Publications](#public-health-announcements-and-publications)
-	- [Technical Details and Discussions](#technical-details-and-discussions)
+	- [Technical Details and Global Trackers](#technical-details-and-global-trackers)
+	- [Phylogenetic Visualizations](#phylogenetic-visualizations)
 	- [Data Reporting and Sharing](#data-reporting-and-sharing)
 - [Potential impacts of Spike Protein Mutations](#potential-impacts-of-spike-protein-mutations)
-    - [Spike Mutations and Diagnostic/Sequencing Assays](#spike-mutations-and-diagnostic-/-sequencing-assays)
+    - [Diagnostic and Sequencing Assays](#diagnostic-and-sequencing-assays)
 - [Bioinformatics Resources and Considerations](#bioinformatics-resources-and-considerations)
     - [Reference Sequences](#reference-sequences)
 
 # General Information on the Omicron Variant
-Below is a list of various educational materials, public health announcements and publications, thechnical details and discussions, phylogenetic visualiations, global trackers, and resources to assist in data sharing and reporting of the Omicron variant:
+Below is a list of various educational material, public health announcements and publications, thechnical details and global trackers, phylogenetic visualiations, and resources to assist in data sharing and reporting of the Omicron variant:
 
 
-## Educational Materials
+## Educational Material
 - [Nature News Article - Heavily mutated Omicron variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w): Overview of the identified variant and its potential public health impacts.
 - [Theiagen Genomics Primer the Omicron Variant (Video)](https://www.youtube.com/watch?v=xhyWjPgdP9U): To assist public health scientists' understanding of the Omicron Variant, Frank Ambrosio recorded a small primer on the Omicron variant that includes an overview of the Nature news article by Ewen Callaway, visual depictions of key Omicron mutations, and the genetic diversity of Omicron relative to other SARS-CoV-2 variants using MicrobeTrace. 
 
 ## Public Health Announcements and Publications
 - [Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern (World Health Organization)](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
 - [CDC Statement on B.1.1.529 (Omicron variant)](https://www.cdc.gov/media/releases/2021/s1126-B11-529-omicron.html)
+- [CDC Science Brief: Omicron (B.1.1.528) Variant](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/scientific-brief-omicron-variant.html)
 - [SARS-CoV-2 variants of concern as of 3 December 2021 (ECDC)](https://www.ecdc.europa.eu/en/covid-19/variants-concern)
 - [Implications of the further emergence and spread of the SARS-CoV-2 B.1.1.529 variant of concern (Omicron) for the EU/EEAECDC (December 02, 2021)](https://www.ecdc.europa.eu/sites/default/files/documents/threat-assessment-covid-19-emergence-sars-cov-2-variant-omicron-december-2021.pdf)
 - [SARS-CoV-2 variants of concern and variants under investigation in England (UK Health Security Agency)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1036501/Technical_Briefing_29_published_26_November_2021.pdf)
 - [Genomic surveillance of SARS-CoV-2 in Belgium ( National Reference Laboratory (UZ Leuven & KU Leuven))](https://assets.uzleuven.be/files/2021-11/genomic_surveillance_update_211126.pdf)
 
-## Technical Details and Discussions
+## Technical Details and Global Trackers
 - [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) Tom Peacock
-- [COV-Lineages B.1.1.529 Description](https://cov-lineages.org/global_report_B.1.1.529.html) & [Outbreak.info Omicron Variant Report](https://outbreak.info/situation-reports/omicron) for information and visualizations on defining mutations, countries identified, and trends over time
+- Various resources for genomic information (e.g. defining mutations), visualizations, and global case counts over time:
+  - [PANGO Lineage B.1.1.529 Summary Page](https://cov-lineages.org/lineage.html?lineage=B.1.1.529)
+  - [COV-Lineages B.1.1.529 Description](https://cov-lineages.org/global_report_B.1.1.529.html)
+  - [Outbreak.info Omicron Variant Report](https://outbreak.info/situation-reports/omicron) 
+  - [CoVariants 21K (Omicron) Profile](https://covariants.org/variants/21K.Omicron)
+  - [CNCB RCoV19 Lineage Browser](https://ngdc.cncb.ac.cn/ncov/lineage?lineage=B.1.1.529#goto) 
 - [Galaxy EU Omicron Public Analysis](https://galaxyproject.eu/posts/2021/11/29/omicron-and-galaxy/): View of the Omicron lineage’s mutational pattern derived transparently and fully reproducibly from raw sequencing reads using the Galaxy Project bioinformatics platform.
+
+
+## Phylogenetic Visualizations
+- [NextStrain Build of B.1.1.529 (21K)](https://nextstrain.org/groups/neherlab/ncov/21K)
+- [Outbreak.info VOC Lineage Comparisons](https://outbreak.info/compare-lineages?gene=ORF1a&gene=ORF1b&gene=S&gene=ORF8&gene=N&gene=ORF3a&gene=E&gene=M&gene=ORF6&gene=ORF7a&gene=ORF7b&gene=ORF10&threshold=75&nthresh=1&sub=false&dark=true)
+
+## Global Trackers
+- 
 
 ## Data Reporting and Sharing
 - [PHA4GE Resource on Data Sharing](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification): Sharing of sample read and assembly data through internationally accessible databases allows insights to be drawn about how the virus is spreading and mutating across the globe; the more freely available these data are to international researchers and public health scientists, the stronger our decision making can be.
 - [PHA4GE Resource on Data Submission](https://github.com/pha4ge/pipeline-resources/blob/main/docs/bioinfo-solutions.md#2-submitting-raw-sequence-data-fastq-consensus-assemblies-fasta-and-relevant-sample-metadata-to-internationally-accessible-databases): Resources developed to assist in the preparation and submission of raw NGS read data (fastq files), SC2 consensus assemblies (fasta files), and contextual sample metadata to internationally-accessible databases such as NCBI, ENA, and GISAID
 
     
-# Potential impacts of Spike Protein Mutations
+# Potential Impacts of Spike Protein Mutations
 
 The spike protein of the SARS-CoV-2 Omicron variant contains approximately 32 mutations, many of which have not been observed in previous VOCs. However, based on their location, several of these mutations have the potential to impact immune escape, transmissibility, and detection. Spike mutations found in the Omicron VOC can be analyzed in detail using the [Stanford University Coronavirus Antiviral & Resistance Database](https://covdb.stanford.edu/sierra/sars2/by-patterns/).
 
@@ -61,7 +76,7 @@ The spike protein of the SARS-CoV-2 Omicron variant contains approximately 32 mu
 
 - Three mutations occur near the furin cleavage site, the region of the Spike protein responsible for viral-host membrane fusion. Mutations in this region have the potential to affect viral entry into host cells.
 
-## Spike Mutations and Diagnostic/Sequencing Assays
+## Diagnostic and Sequencing Assays
 
 Mutations in the SARS-CoV-2 genome can affect PCR-based diagnostic assays and genomic sequencing. For example, the ThermoFisher TaqPath probe targeting the Spike gene is known to result in S-gene target failure (SGTF) when amplifying nucleic acid preparations from VOC Alpha. This occurs when the SARS-CoV-2 genome contains a deletion resulting in the loss of amino acids 69-70 of the NTD. When coupled with the positive amplification of other SARS-CoV-2 genetic regions, the SGTF has been used as a diagnostic indicator of VOC presence [SGF Deletion Assay](https://www.biorxiv.org/content/10.1101/2021.10.25.465706v1.full). 
 
