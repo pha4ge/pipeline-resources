@@ -23,6 +23,10 @@ As public health bioinformatic workflows become increasingly complicated, effort
 SARS-CoV-2 Resources
 ==================
 
+### [Omicron Variant](/docs/omicron-resources.md)
+
+The PHA4GE Pipelines and Visualization Working Group has created this document to highlight critical open-source/accesses resources to aid in the understanding and further analysis of the Omicron variant. 
+
 ### [Bioinformatics Solutions](docs/bioinfo-solutions.md)
 
 In an attempt to assist this integration process, the bioinformatics pipeline and visualization working group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the major bioinformatics challenges for SC2 genomic analysis and suggest various open-source and freely available bioinformatics resources to address them.
