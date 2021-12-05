@@ -20,7 +20,8 @@ In no way does this document represent a comprehensive list of all available SC2
 - [Potential impacts of Spike Protein Mutations](#potential-impacts-of-spike-protein-mutations)
     - [Diagnostic and Sequencing Assays](#diagnostic-and-sequencing-assays)
 - [Bioinformatics Resources and Considerations](#bioinformatics-resources-and-considerations)
-    - [Reference Sequences](#reference-sequences)
+    - [Software Version Minimums](#software-version-minimums)
+    - [Reference Sequences](#reference-sequences-and-assemblies)
 
 # General Information on the Omicron Variant
 Below is a list of various educational material, public health announcements and publications, thechnical details and global trackers, phylogenetic visualiations, and resources to assist in data sharing and reporting of the Omicron variant:
@@ -54,13 +55,10 @@ Below is a list of various educational material, public health announcements and
 - [NextStrain Build of B.1.1.529 (21K)](https://nextstrain.org/groups/neherlab/ncov/21K)
 - [Outbreak.info VOC Lineage Comparisons](https://outbreak.info/compare-lineages?gene=ORF1a&gene=ORF1b&gene=S&gene=ORF8&gene=N&gene=ORF3a&gene=E&gene=M&gene=ORF6&gene=ORF7a&gene=ORF7b&gene=ORF10&threshold=75&nthresh=1&sub=false&dark=true)
 
-## Global Trackers
-- 
-
 ## Data Reporting and Sharing
 - [PHA4GE Resource on Data Sharing](https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification): Sharing of sample read and assembly data through internationally accessible databases allows insights to be drawn about how the virus is spreading and mutating across the globe; the more freely available these data are to international researchers and public health scientists, the stronger our decision making can be.
 - [PHA4GE Resource on Data Submission](https://github.com/pha4ge/pipeline-resources/blob/main/docs/bioinfo-solutions.md#2-submitting-raw-sequence-data-fastq-consensus-assemblies-fasta-and-relevant-sample-metadata-to-internationally-accessible-databases): Resources developed to assist in the preparation and submission of raw NGS read data (fastq files), SC2 consensus assemblies (fasta files), and contextual sample metadata to internationally-accessible databases such as NCBI, ENA, and GISAID
-
+- [NCBI BioProject of Omicron Submissions](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA784038)
     
 # Potential Impacts of Spike Protein Mutations
 
@@ -88,8 +86,21 @@ Mutations in the SARS-CoV-2 genome can affect PCR-based diagnostic assays and ge
 
  
 # Bioinformatics Resources and Considerations
+Genome assembly as well as clade and lineage assignment of Omicron variants should follow the same bioinformatics workflow recommendations outlined in this working group's [Bioinformatics Solutions for SARS-CoV-2 Genomic Analysis](https://github.com/jkspinler/pipeline-resources/edit/main/docs/omicron-resources.md) guidance document. Briefly, raw amplicon read data should be mapped to the Wuhan-1 reference genome and primer trimming performed before a consensus genome is called. Clade  annd lineage assignment can then be made by analyzing the resulting consensus genome assemblies with the [NextClade](https://clades.nextstrain.org/) and [Pangolin](https://pangolin.cog-uk.io/) software, respectively.
 
-## Reference Sequences
+### Software Version Minimums
+For laboraotires making clade and lineage assignements outside of the NextClade and Pangolin web applications, e.g. through a custom workflow available on CLI, Terra.Bio, or Galaxy Project, please ensure to utilize updated NextClade and Pangolin software capable of making an Omicron clade and lineage designation:
+- NextClade Software Version 1.5.1 (Dataset Tag 2021-11-27T11:53:22Z)
+  - [NextStrain Docker Container Image](https://hub.docker.com/r/nextstrain/nextclade)
+- Pangolin Software Version 3.1.16 (Constellations >=0.024)
+  - [StaPH-B Docker Container Image](https://hub.docker.com/r/staphb/pangolin/tags?page=1&ordering=last_updated)
+  - [BioContainer Docker Container Image](https://quay.io/repository/biocontainers/pangolin?tag=3.1.16--pyhdfd78af_2&tab=tags)
+
+## Reference Sequences and Assemblies
 - BioProject
 - 
+
+## Impact on Multiple Sequence Alignments
+
+
 
