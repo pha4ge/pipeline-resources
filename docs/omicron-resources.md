@@ -42,7 +42,7 @@ Below is a list of various educational material, public health announcements and
 - [Genomic surveillance of SARS-CoV-2 in Belgium ( National Reference Laboratory (UZ Leuven & KU Leuven))](https://assets.uzleuven.be/files/2021-11/genomic_surveillance_update_211126.pdf)
 
 ## Technical Details and Global Trackers
-- [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) Tom Peacock
+- [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) (Tom Peacock)
 - Various resources for genomic information (e.g. defining mutations), visualizations, and global case counts over time:
   - [PANGO Lineage B.1.1.529 Summary Page](https://cov-lineages.org/lineage.html?lineage=B.1.1.529)
   - [COV-Lineages B.1.1.529 Description](https://cov-lineages.org/global_report_B.1.1.529.html)
