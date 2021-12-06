@@ -101,6 +101,7 @@ For laboraotires making clade and lineage assignements outside of the NextClade 
 ## Reference Sequences and Assemblies
 - [KRISP CERI NCBI BioProject of Omicron Data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA784038): Sequencing of the Omicron variant in South Africa by the Kwazulu-Natal Research Innovation and Sequencing Platform (KRISP) and the Centre for Epidemic Response and Innovation (CERI).
 - [NCBI SAMN23572360](https://www.ncbi.nlm.nih.gov/biosample?term=SAMN23572360): Raw read and assembly data for the first Omicron idenfied in Minnesota, USA
+- [NCBI SRR17132492](https://www.ncbi.nlm.nih.gov/sra/SRR17132492[accn]): Raw reads and assembly data for first Omicron in Massachusetts, USA
 - ENA Assemblies: [ERZ4210179](https://www.ebi.ac.uk/ena/browser/view/ERZ4210179), [ERZ4209688](https://www.ebi.ac.uk/ena/browser/view/ERZ4209688), [ERZ4211168](https://www.ebi.ac.uk/ena/browser/view/ERZ4211168), [ERZ4210738](https://www.ebi.ac.uk/ena/browser/view/ERZ4210738)
 
 ## SARS-CoV-2 Multiple Sequence Alignments
