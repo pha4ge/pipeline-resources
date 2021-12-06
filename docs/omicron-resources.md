@@ -1,4 +1,4 @@
-# Omicron Variant (B.1.1.529; 21K) Resources
+# Omicron (B.1.1.529; 21K) Variant Resources
 
 **PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group** <br/>
 Libuit KG, Spinler J, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathail C, Lemmer D, Jones D, Smith E, Gnimpieba E, Guthrie J, Maturure P, Monsierurs P, Maier W, Langhorst B, Page A, & Niewiadomska AM 
@@ -35,7 +35,7 @@ Below is a list of various educational material, public health announcements and
 ## Public Health Announcements and Publications
 - [Classification of Omicron (B.1.1.529): SARS-CoV-2 Variant of Concern (World Health Organization)](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern)
 - [CDC Statement on B.1.1.529 (Omicron variant)](https://www.cdc.gov/media/releases/2021/s1126-B11-529-omicron.html)
-- [CDC Science Brief: Omicron (B.1.1.528) Variant](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/scientific-brief-omicron-variant.html)
+- [CDC Science Brief: Omicron (B.1.1.529) Variant](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/scientific-brief-omicron-variant.html)
 - [SARS-CoV-2 variants of concern as of 3 December 2021 (ECDC)](https://www.ecdc.europa.eu/en/covid-19/variants-concern)
 - [Implications of the further emergence and spread of the SARS-CoV-2 B.1.1.529 variant of concern (Omicron) for the EU/EEAECDC (December 02, 2021)](https://www.ecdc.europa.eu/sites/default/files/documents/threat-assessment-covid-19-emergence-sars-cov-2-variant-omicron-december-2021.pdf)
 - [SARS-CoV-2 variants of concern and variants under investigation in England (UK Health Security Agency)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1036501/Technical_Briefing_29_published_26_November_2021.pdf)
