@@ -37,9 +37,10 @@ Below is a list of various educational material, public health announcements and
 - [CDC Statement on B.1.1.529 (Omicron variant)](https://www.cdc.gov/media/releases/2021/s1126-B11-529-omicron.html)
 - [CDC Science Brief: Omicron (B.1.1.529) Variant](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/scientific-brief-omicron-variant.html)
 - [SARS-CoV-2 variants of concern as of 3 December 2021 (ECDC)](https://www.ecdc.europa.eu/en/covid-19/variants-concern)
-- [Implications of the further emergence and spread of the SARS-CoV-2 B.1.1.529 variant of concern (Omicron) for the EU/EEAECDC (December 02, 2021)](https://www.ecdc.europa.eu/sites/default/files/documents/threat-assessment-covid-19-emergence-sars-cov-2-variant-omicron-december-2021.pdf)
+- [Implications of the further emergence and spread of the SARS-CoV-2 B.1.1.529 variant of concern (Omicron) for the EU/EEAECDC (2021-12-02)](https://www.ecdc.europa.eu/sites/default/files/documents/threat-assessment-covid-19-emergence-sars-cov-2-variant-omicron-december-2021.pdf)
 - [SARS-CoV-2 variants of concern and variants under investigation in England (UK Health Security Agency)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1036501/Technical_Briefing_29_published_26_November_2021.pdf)
 - [Genomic surveillance of SARS-CoV-2 in Belgium ( National Reference Laboratory (UZ Leuven & KU Leuven))](https://assets.uzleuven.be/files/2021-11/genomic_surveillance_update_211126.pdf)
+- [SARS-CoV-2 variants of concern and variants under investigation in England Variant of concern: Omicron, VOC21NOV-01 (B.1.1.529); Technical briefing 30 (2021-12-03)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1038404/Technical_Briefing_30.pdf)
 
 ## Technical Details and Global Trackers
 - [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) (Tom Peacock)
