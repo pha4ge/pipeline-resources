@@ -1,5 +1,6 @@
 # Omicron Variant (B.1.1.529; 21K) Resources
 
+**PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group** <br/>
 Libuit KG, Spinler J, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathail C, Lemmer D, Jones D, Smith E, Gnimpieba E, Guthrie J, Maturure P, Monsierurs P, Maier W, Langhorst B, Page A, & Niewiadomska AM 
 
 # Overview
