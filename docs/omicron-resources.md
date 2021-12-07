@@ -105,6 +105,6 @@ For laboraotires making clade and lineage assignements outside of the NextClade 
 - ENA Assemblies: [ERZ4210179](https://www.ebi.ac.uk/ena/browser/view/ERZ4210179), [ERZ4209688](https://www.ebi.ac.uk/ena/browser/view/ERZ4209688), [ERZ4211168](https://www.ebi.ac.uk/ena/browser/view/ERZ4211168), [ERZ4210738](https://www.ebi.ac.uk/ena/browser/view/ERZ4210738)
 
 ## SARS-CoV-2 Multiple Sequence Alignments
-Primer dropouts in Omicron sequence data may lead to errant evolutionary inferences when performing phylogenetic analysis of SARS-CoV-2 genomes. A proposed work around to these dropout regions is to mask the spike region and adjust the molecular clock rate accordingly, as [performed by Tervor Bedford in a recent phylodynamic analysis](https://twitter.com/trvrb/status/1466102128343093248?s=20). 
+Primer dropouts in Omicron sequence data may lead to errant evolutionary inferences when performing phylogenetic analysis of SARS-CoV-2 genomes. A proposed work around to these dropout regions is to mask the spike region and adjust the molecular clock rate accordingly, as [performed by Trevor Bedford in a recent phylodynamic analysis](https://twitter.com/trvrb/status/1466102128343093248?s=20). 
 
 
