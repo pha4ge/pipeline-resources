@@ -94,7 +94,7 @@ Genome assembly as well as clade and lineage assignment of Omicron variants shou
 For laboraotires making clade and lineage assignements outside of the NextClade and Pangolin web applications, e.g. through a custom workflow available on CLI, Terra.Bio, or Galaxy Project, please ensure to utilize updated NextClade and Pangolin software capable of making an Omicron clade and lineage designation:
 - [NextClade Software Version 1.5.1](https://github.com/nextstrain/nextclade/releases) ([Dataset Tag >=2021-11-27T11:53:22Z](https://docs.nextstrain.org/projects/nextclade/en/stable/user/datasets.html))
   - [NextStrain Docker Container Image](https://hub.docker.com/r/nextstrain/nextclade)
-- [Pangolin Software Version 3.1.16](https://github.com/cov-lineages/pangolin/releases) ([Constellations >=0.024](https://github.com/cov-lineages/constellations/releases))
+- [Pangolin Software Version 3.1.16](https://github.com/cov-lineages/pangolin/releases) ([Constellations >=0.0.24](https://github.com/cov-lineages/constellations/releases))
   - [StaPH-B Docker Container Image](https://hub.docker.com/r/staphb/pangolin/tags?page=1&ordering=last_updated)
   - [BioContainer Docker Container Image](https://quay.io/repository/biocontainers/pangolin?tag=3.1.16--pyhdfd78af_2&tab=tags)
 
@@ -105,6 +105,6 @@ For laboraotires making clade and lineage assignements outside of the NextClade 
 - ENA Assemblies: [ERZ4210179](https://www.ebi.ac.uk/ena/browser/view/ERZ4210179), [ERZ4209688](https://www.ebi.ac.uk/ena/browser/view/ERZ4209688), [ERZ4211168](https://www.ebi.ac.uk/ena/browser/view/ERZ4211168), [ERZ4210738](https://www.ebi.ac.uk/ena/browser/view/ERZ4210738)
 
 ## SARS-CoV-2 Multiple Sequence Alignments
-Primer dropouts in Omicron sequence data may lead to errant evolutionary inferences when performing phylogenetic analysis of SARS-CoV-2 genomes. A proposed work around to these dropout regions is to mask the spike region and adjust the molecular clock rate accordingly, as [performed by Terveor Bedford in a recent phylodynamic analysis](https://twitter.com/trvrb/status/1466102128343093248?s=20). 
+Primer dropouts in Omicron sequence data may lead to errant evolutionary inferences when performing phylogenetic analysis of SARS-CoV-2 genomes. A proposed work around to these dropout regions is to mask the spike region and adjust the molecular clock rate accordingly, as [performed by Tervor Bedford in a recent phylodynamic analysis](https://twitter.com/trvrb/status/1466102128343093248?s=20). 
 
 
