@@ -7,7 +7,7 @@ Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mb
 
 Genomic analysis of SARS-CoV-2 (SC2) samples is an increasingly critical function to public health laboratories around the world. Integration of the appropriate bioinformatics solutions to support these works, however, can be an overwhelming challenge.
 
- In an attempt to assist this integration process, the Bioinformatics Pipelines and Visualization Working Group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the major bioinformatics challenges for SC2 genomic analysis and suggest various open-source and freely available bioinformatics resources to address them.
+ In an attempt to assist this integration process, the Bioinformatics Pipelines and Visualization Working Group of the [Public Health Alliance for Genomic Epidemiology (PHA4GE)](https://www.pha4ge.org) has drafted this living document to help define the major bioinformatics challenges for SC2 genomic analysis and suggest various open-source and freely available bioinformatics resources to address them.
 
 Please note that the bioinformatics resources listed in this document are simply an attempt to highlight the most accessible solutions **as per the opinions of our working group** and in no way represent a comprehensive list of all available SC2 bioinformatics resources. If this document fails to include a valuable public health resource or in some way mischaracterizes a resource mentioned, we encourage community collaboration through pull-requests and/or raised GitHub issues.
 
