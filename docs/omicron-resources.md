@@ -45,8 +45,8 @@ Below is a list of various educational material, public health announcements and
 ## Technical Details and Global Trackers
 - [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) (Tom Peacock)
 - Various resources for genomic information (e.g. defining mutations), visualizations, and global case counts over time:
-  - [PANGO Lineage B.1.1.529 Summary Page](https://cov-lineages.org/lineage.html?lineage=B.1.1.529)
-  - [COV-Lineages B.1.1.529 Description](https://cov-lineages.org/global_report_B.1.1.529.html)
+  - COV-Lineage Variant Summary Pages: [BA.1](https://cov-lineages.org/lineage.html?lineage=BA.1)/[BA.2](https://cov-lineages.org/lineage.html?lineage=BA.2)
+  - BV-BRC Lineage Profiles: [BA.1](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.1)/[BA.2](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.2)
   - [Outbreak.info Omicron Variant Report](https://outbreak.info/situation-reports/omicron) 
   - [CoVariants 21K (Omicron) Profile](https://covariants.org/variants/21K.Omicron)
   - [CNCB RCoV19 Lineage Browser](https://ngdc.cncb.ac.cn/ncov/lineage?lineage=B.1.1.529#goto) 
