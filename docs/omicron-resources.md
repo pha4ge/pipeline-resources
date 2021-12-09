@@ -1,7 +1,7 @@
 # Omicron (B.1.1.529; 21K) Variant Resources
 
 **PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group** <br/>
-Libuit KG, Spinler J, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathail C, Lemmer D, Jones D, Smith E, Gnimpieba E, Guthrie J, Maturure P, Monsierurs P, Maier W, Langhorst B, Page A, & Niewiadomska AM 
+Libuit KG, Spinler JK, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathail C, Lemmer D, Jones D, Smith E, Gnimpieba E, Guthrie J, Maturure P, Monsierurs P, Maier W, Langhorst B, Page A, & Niewiadomska AM 
 
 # Overview
 
@@ -50,6 +50,8 @@ Below is a list of various educational material, public health announcements and
   - [Outbreak.info Omicron Variant Report](https://outbreak.info/situation-reports/omicron) 
   - [CoVariants 21K (Omicron) Profile](https://covariants.org/variants/21K.Omicron)
   - [CNCB RCoV19 Lineage Browser](https://ngdc.cncb.ac.cn/ncov/lineage?lineage=B.1.1.529#goto) 
+  - [BA.1 - BV-BRC Lineage Profiles](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.1)
+  - [BA.2 - BV-BRC Lineage Profiles](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.2)
 - [Galaxy EU Omicron Public Analysis](https://galaxyproject.eu/posts/2021/11/29/omicron-and-galaxy/): View of the Omicron lineage’s mutational pattern derived transparently and fully reproducibly from raw sequencing reads using the Galaxy Project bioinformatics platform
 - [Omicron Data Round Up](https://docs.google.com/presentation/d/1sOaHoXFZqIUnqmjdeuaUODCqaUSvtxQp4f2hF9pBdn8/edit#slide=id.g104e9fe3cf0_2_75): Summary of the Omicron variant and what can be inferred based on publicly-accessible data presented 2021-12-01 by Anna Niewiadomska 
 
