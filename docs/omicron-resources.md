@@ -1,7 +1,15 @@
-# Omicron (B.1.1.529; 21K) Variant Resources
+# Omicron Variant Resources
 
 **PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group** <br/>
 Libuit KG, Spinler JK, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathail C, Lemmer D, Jones D, Smith E, Gnimpieba E, Guthrie J, Maturure P, Monsierurs P, Maier W, Langhorst B, Page A, & Niewiadomska AM 
+
+<details>
+ <summary> Document Change Log</summary>
+ 
+- 2021-12-19:
+  - Added section detailing Omicron lineage and clade nomenclature, COVID-19 scenario modeling resource, and additional reference sequences
+  - Updated Pangolin and Nextclade software minimums and resource links for genomic information (e.g. defining mutations), visualizations, and global case counts over time to include B.1.1.529 sub lineages
+</details>
 
 # Overview
 
@@ -13,6 +21,7 @@ In no way does this document represent a comprehensive list of all available SC2
 
 ## Contents
 - [General Information on the Omicron Variant](#general-information-on-the-omicron-variant)
+	- [Omicron Lineage and Clade Nomenclature](#omicron-lineage-and-clade-nomenclature)
 	- [Educational Material](#educational-material)
 	- [Public Health Announcements and Publications](#public-health-announcements-and-publications)
 	- [Technical Details and Global Trackers](#technical-details-and-global-trackers)
@@ -27,6 +36,9 @@ In no way does this document represent a comprehensive list of all available SC2
 
 # General Information on the Omicron Variant
 Below is a list of various educational material, public health announcements and publications, thechnical details and global trackers, phylogenetic visualiations, and resources to assist in data sharing and reporting of the Omicron variant.
+
+## Omicron Lineage and Clade Nomenclature
+- The Omicron Variant is the [WHO SARS-CoV-2 VOC label](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/) for the pango lineage B.1.1.529 (Nextstrain clade 21M) and all descendant lineages: BA.1 (Nextstrain clade 21K), BA.2 (Nextstrain clade 21.L) and BA.3 (Nextstrain clade 21M)
 
 ## Educational Material
 - [Nature News Article - Heavily mutated Omicron variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w): Overview of the identified variant and its potential public health impacts.
@@ -44,15 +56,17 @@ Below is a list of various educational material, public health announcements and
 
 ## Technical Details and Global Trackers
 - [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) (Tom Peacock)
+- [Proposal for third sublineage in B.1.1.529 (BA.3)](https://github.com/cov-lineages/pango-designation/issues/367) (Andrew Rambaut)
+  - Includes table of shared and unique mutations across B.1.1.529, BA.1, BA.2, and BA.3
 - Various resources for genomic information (e.g. defining mutations), visualizations, and global case counts over time:
-  - [PANGO Lineage B.1.1.529 Summary Page](https://cov-lineages.org/lineage.html?lineage=B.1.1.529)
-  - [COV-Lineages B.1.1.529 Description](https://cov-lineages.org/global_report_B.1.1.529.html)
+  - COV-Lineage Variant Summary Pages: [B.1.1.529](https://cov-lineages.org/lineage.html?lineage=B.1.1.529), [BA.1](https://cov-lineages.org/lineage.html?lineage=BA.1), [BA.2](https://cov-lineages.org/lineage.html?lineage=BA.2), and [BA.3](https://cov-lineages.org/lineage.html?lineage=BA.3)
+  - BV-BRC Lineage Profiles: [BA.1](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.1), [BA.2](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.2), & [BA.3](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.3)
   - [Outbreak.info Omicron Variant Report](https://outbreak.info/situation-reports/omicron) 
   - [CoVariants 21K (Omicron) Profile](https://covariants.org/variants/21K.Omicron)
   - [CNCB RCoV19 Lineage Browser](https://ngdc.cncb.ac.cn/ncov/lineage?lineage=B.1.1.529#goto) 
 - [Galaxy EU Omicron Public Analysis](https://galaxyproject.eu/posts/2021/11/29/omicron-and-galaxy/): View of the Omicron lineage’s mutational pattern derived transparently and fully reproducibly from raw sequencing reads using the Galaxy Project bioinformatics platform
 - [Omicron Data Round Up](https://docs.google.com/presentation/d/1sOaHoXFZqIUnqmjdeuaUODCqaUSvtxQp4f2hF9pBdn8/edit#slide=id.g104e9fe3cf0_2_75): Summary of the Omicron variant and what can be inferred based on publicly-accessible data presented 2021-12-01 by Anna Niewiadomska 
-
+- [COVID-19 Scenario Modeling Hub](https://covid19scenariomodelinghub.org/viz.html): Synthesis of over 30 COVID-19 models for public health forecasting
 
 ## Phylogenetic Visualizations
 - [NextStrain Build of B.1.1.529 (21K)](https://nextstrain.org/groups/neherlab/ncov/21K)
@@ -91,20 +105,24 @@ Mutations in the SARS-CoV-2 genome can affect PCR-based diagnostic assays and ge
 Genome assembly as well as clade and lineage assignment of Omicron variants should follow the same bioinformatics workflow recommendations outlined in this working group's [Bioinformatics Solutions for SARS-CoV-2 Genomic Analysis](https://github.com/jkspinler/pipeline-resources/edit/main/docs/omicron-resources.md) guidance document. Briefly, raw amplicon read data should be mapped to the Wuhan-1 reference genome and primer trimming performed before a consensus genome is called. Clade  annd lineage assignment can then be made by analyzing the resulting consensus genome assemblies with the [NextClade](https://clades.nextstrain.org/) and [Pangolin](https://pangolin.cog-uk.io/) software, respectively.
 
 ## Software Version Minimums
-For laboraotires making clade and lineage assignements outside of the NextClade and Pangolin web applications, e.g. through a custom workflow available on CLI, Terra.Bio, or Galaxy Project, please ensure to utilize updated NextClade and Pangolin software capable of making an Omicron clade and lineage designation:
-- [NextClade Software Version 1.5.1](https://github.com/nextstrain/nextclade/releases) ([Dataset Tag >=2021-11-27T11:53:22Z](https://docs.nextstrain.org/projects/nextclade/en/stable/user/datasets.html))
+For laboraotires making clade and lineage assignements outside of the NextClade and Pangolin web applications, e.g. through a custom workflow available on CLI, Terra.Bio, or Galaxy Project, please ensure to utilize updated NextClade and Pangolin software capable of making an accurate Omicron clade and lineage designation:
+- [NextClade Software Version 1.7.0](https://github.com/nextstrain/nextclade/releases/tag/1.7.0) ([Dataset Tag >=2021-12-16T20:15:53Z](https://docs.nextstrain.org/projects/nextclade/en/stable/user/datasets.html))
   - [NextStrain Docker Container Image](https://hub.docker.com/r/nextstrain/nextclade)
-- [Pangolin Software Version 3.1.16](https://github.com/cov-lineages/pangolin/releases) ([Constellations >=0.0.24](https://github.com/cov-lineages/constellations/releases))
+- [Pangolin Software Version 3.1.17](https://github.com/cov-lineages/pangolin/releases/tag/v3.1.17) ([Constellations >=0.1.0](https://github.com/cov-lineages/constellations/releases/tag/v0.1.0)
   - [StaPH-B Docker Container Image](https://hub.docker.com/r/staphb/pangolin/tags?page=1&ordering=last_updated)
-  - [BioContainer Docker Container Image](https://quay.io/repository/biocontainers/pangolin?tag=3.1.16--pyhdfd78af_2&tab=tags)
+  - [BioContainer Docker Container Image](https://quay.io/repository/biocontainers/pangolin?tab=tags)
 
 ## Reference Sequences and Assemblies
 - [KRISP CERI NCBI BioProject of Omicron Data](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA784038): Sequencing of the Omicron variant in South Africa by the Kwazulu-Natal Research Innovation and Sequencing Platform (KRISP) and the Centre for Epidemic Response and Innovation (CERI).
 - [NCBI SAMN23572360](https://www.ncbi.nlm.nih.gov/biosample/SAMN23572360): Raw read and assembly data for the first Omicron idenfied in Minnesota, USA
 - [NCBI SAMN23637602](https://www.ncbi.nlm.nih.gov/biosample/SAMN23637602): Raw reads and assembly data for first Omicron in Massachusetts, USA
 - ENA Assemblies: [ERZ4210179](https://www.ebi.ac.uk/ena/browser/view/ERZ4210179), [ERZ4209688](https://www.ebi.ac.uk/ena/browser/view/ERZ4209688), [ERZ4211168](https://www.ebi.ac.uk/ena/browser/view/ERZ4211168), [ERZ4210738](https://www.ebi.ac.uk/ena/browser/view/ERZ4210738)
+- [NCBI SAMN23998005](https://www.ncbi.nlm.nih.gov/biosample/SAMN23998005/): Raw read data for an Omicron variant sequecned with the [ONT Midniight 1200 primers](https://store.nanoporetech.com/us/midnight-rt-pcr-expansion.html)
+- 
 
 ## SARS-CoV-2 Multiple Sequence Alignments
 Primer dropouts in Omicron sequence data may lead to errant evolutionary inferences when performing phylogenetic analysis of SARS-CoV-2 genomes. A proposed work around to these dropout regions is to mask the spike region and adjust the molecular clock rate accordingly, as [performed by Trevor Bedford in a recent phylodynamic analysis](https://twitter.com/trvrb/status/1466102128343093248?s=20). 
+- [Nextstrain default masked sites for tree topology](https://github.com/nextstrain/ncov/blob/master/defaults/sites_ignored_for_tree_topology.txt)
+
 
 
