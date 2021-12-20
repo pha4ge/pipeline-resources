@@ -3,6 +3,14 @@
 **PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group** <br/>
 Libuit KG, Spinler JK, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathail C, Lemmer D, Jones D, Smith E, Gnimpieba E, Guthrie J, Maturure P, Monsierurs P, Maier W, Langhorst B, Page A, & Niewiadomska AM 
 
+<details>
+ <summary> Document Change Log</summary>
+ 
+- 2021-12-19:
+  - Added section detailing Omicron lineage and clade nomenclature, COVID-19 scenario modeling resource, and additional reference sequences
+  - Updated Pangolin and Nextclade software minimums and resource links for genomic information (e.g. defining mutations), visualizations, and global case counts over time to include B.1.1.529 sub lineages
+</details>
+
 # Overview
 
 The [World Health Organization (WHO) has classified the SARS-CoV-2 B.1.1.529 variant as a Variant of Concern (VOC)](https://www.who.int/news/item/26-11-2021-classification-of-omicron-(b.1.1.529)-sars-cov-2-variant-of-concern) under the advice of the [Technical Advisory Group on SARS-CoV-2 Virus Evolution (TAG-VE)](https://www.who.int/groups/technical-advisory-group-on-sars-cov-2-virus-evolution)—an independent group of experts that periodically monitors and evaluates the evolution of SARS-CoV-2 and assess if specific mutations and combinations of mutations alter the behavior of the virus. The WHO has assigned the B.1.1.529 VOC the label Omicron per [their greek-letter key variant assignment system](https://www.who.int/news/item/31-05-2021-who-announces-simple-easy-to-say-labels-for-sars-cov-2-variants-of-interest-and-concern).  The elevation of Omicron to a WHO-designated VOC was based on the TAG-VE's assessment of the variant’s large number of genomic mutations and plausible impact on COVID-19 epidemiology. 
