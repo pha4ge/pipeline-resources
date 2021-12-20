@@ -23,7 +23,7 @@ As public health bioinformatic workflows become increasingly complicated, effort
 SARS-CoV-2 Resources
 ==================
 
-### [Omicron (B.1.1.529; 21K) Variant Resources](/docs/omicron-resources.md)
+### [Omicron Variant Resources](/docs/omicron-resources.md)
 
 The PHA4GE Pipelines and Visualization Working Group has created this document to highlight critical open-source/accesses resources to aid in the understanding and further analysis of the Omicron variant. 
 
