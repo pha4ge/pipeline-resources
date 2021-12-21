@@ -117,7 +117,7 @@ For laboraotires making clade and lineage assignements outside of the NextClade 
 - [NCBI SAMN23572360](https://www.ncbi.nlm.nih.gov/biosample/SAMN23572360): Raw read and assembly data for the first Omicron idenfied in Minnesota, USA
 - [NCBI SAMN23637602](https://www.ncbi.nlm.nih.gov/biosample/SAMN23637602): Raw reads and assembly data for first Omicron in Massachusetts, USA
 - ENA Assemblies: [ERZ4210179](https://www.ebi.ac.uk/ena/browser/view/ERZ4210179), [ERZ4209688](https://www.ebi.ac.uk/ena/browser/view/ERZ4209688), [ERZ4211168](https://www.ebi.ac.uk/ena/browser/view/ERZ4211168), [ERZ4210738](https://www.ebi.ac.uk/ena/browser/view/ERZ4210738)
-- [NCBI SAMN23998005](https://www.ncbi.nlm.nih.gov/biosample/SAMN23998005/): Raw read data for an Omicron variant sequecned with the [ONT Midniight 1200 primers](https://store.nanoporetech.com/us/midnight-rt-pcr-expansion.html)
+- [NCBI SAMN23998005](https://www.ncbi.nlm.nih.gov/biosample/SAMN23998005/): Raw read data for an Omicron variant sequecned with the [ONT Midnight 1200 primers](https://store.nanoporetech.com/us/midnight-rt-pcr-expansion.html)
 - 
 
 ## SARS-CoV-2 Multiple Sequence Alignments
