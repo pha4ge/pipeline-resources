@@ -28,6 +28,10 @@ Please note that the QC guidelines in this document are simply an attempt to hig
 
 Quality Control checkpoints should be conducted at different stages of bioinformatics analysis, including QC of raw read data, pre-processing stages (trimming and filtering), and alignment/assembly.
 
+<p align="center">
+  <img src="./images/pha4ge_sc2_qc_workflow.png" width="800" class="center">
+</p>
+
 # QC Metric Definitions
 
 ## Read QC Metrics
