@@ -1,7 +1,14 @@
 # **QC Solutions for SARS-CoV-2 Genomic Analysis**
 
-PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group <br/>
+**PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group** <br/>
 Libuit KG, Lunn S, Carleton H, Khan W, Kanwar S, van Heusden P, Amrosio F, Southgate J 
+
+<details>
+ <summary> Document Change Log</summary>
+ 
+- {date}:
+  - First draft published
+</details>
 
 # Overview
 
@@ -18,9 +25,11 @@ Please note that the QC guidelines in this document are simply an attempt to hig
 - [QC Metric Definitions](#qc-metric-definitions)
 	- [Read QC Metrics](#read-qc-metrics)
 	- [Alignment QC Metrics](#alignment-qc-metrics)
-	- [Assembly QC Metrics](#assembly-qc-metrics)
-	- [Educational resources](#educational-resources)
+	- [Consensus Assembly QC Metrics](#consensus-assembly-qc-metrics)
+	- [Educational Resources](#educational-resources)
 - [Community-Defined Guidance Thresholds](#community-defined-guidance-thresholds)
+    - [GISAID Assembly Acceptance Criteria](#gisaid-assembly-acceptance-criteria)
+    - [NCBI GenBank Assembly Acceptance Criteria](#ncbi-genbank-assembly-acceptance-criteria)
     - [PHA4GE Suggested Thresholds](#pha4ge-suggested-thresholds)
     - [US CDC Resources](#us-cdc-resources)
 
@@ -39,14 +48,17 @@ Quality Control checkpoints should be conducted at different stages of bioinform
 Different sequencing platforms use different technologies to determine the nucleotide sequence of the genetic material that they are processing, but all of these technologies converge on the fastq file format. For example, Illumina uses a sequencing-by-synthesis approach which involves assembling copies of each read using fluorescently tagged nucleotides and taking high resolution pictures of each read as each nucleotide is added to the read. These images are then captured in BCL files, and BCL files are converted into fastq files using the bcl2fastq program. On the other hand, Oxford Nanopore Technologies sequencing platforms run single strands of nucleic acids through nano-scale protein pores. An electric current is run across the pore, and the changes in current are detected as each nucleotide passes through the pore. The raw electric signal is captured in the fast5 file format and converted into fastq file format using the basecalling program guppy. Due to the nature of these sequencing platforms there are different considerations when assessing the quality of the raw sequence data (the fastq files).
 
 
-
 ## Alignment QC Metrics
 
-## Assembly QC Metrics
+## Consensus Assembly QC Metrics
 
-## Educational resources
+## Educational Resources
 
 # Community-Defined Guidance Thresholds
+
+## GISAID Assembly Acceptance Criteria
+
+## NCBI GenBank Assembly Acceptance Criteria
 
 ## PHA4GE Suggested Thresholds
 
