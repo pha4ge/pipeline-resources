@@ -35,7 +35,7 @@ In an attempt to assist this integration process, the bioinformatics pipeline an
 
 The US Centers for Disease Control and Prevention's Technical Outreach and Assistance for States Team (TOAST) developed benchmark datasets for SARS-CoV-2 sequencing which are designed to help users at varying stages of building sequencing capacity. Rather than duplicating these efforts, the PHA4GE bioinformatics pipeline and visualization working group will be working alongside TOAST members to maintain and improve upon the currently-available validation datasets. 
 
-### Quality Control Guidance
+### [Quality Control Guidance](docs/qc-solutions.md)
 
 {In development}
 
