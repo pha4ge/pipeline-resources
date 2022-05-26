@@ -123,7 +123,7 @@ Different sequencing platforms use different technologies to determine the nucle
 | Specimens before going to NGS workflow                            | Ct <30                        |
 | Sequenced multiple dilutions of viral isolates                    | Cts ranging from 14-35        |
 | **QC thresholds for NGS workflow**                                |                               |
-| **          	Per sample QC metrics**                               |                               |
+| **Per sample QC metrics**                               |                               |
 | Average coverage depth                                            | ≥100                          |
 | Coverage at a single base to make a base call                     | ≥ 50x                         |
 | Percent genome coverage                                           | ≥ 95%                         |
