@@ -115,7 +115,7 @@ Different sequencing platforms use different technologies to determine the nucle
 | For paired-end Illumina sequencing, read in forward orientation | at least 1                    |
 | For paired-end Illumina sequencing, read in reverse orientation | at least 1                    |
 
-## US CDC Validation
+## Alt Validation
 
 |                             QC Metrics                            | Suggested guidance thresholds |
 | -----------------------------------------------------------------|----------------------------- |
