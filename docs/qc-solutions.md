@@ -52,7 +52,7 @@ Different sequencing platforms use different technologies to determine the nucle
 | Reads | fragments of sequence DNA base pairs that are generated during sequencing; also referred to as the raw data generated from a sequencing platform |
 | BCL files | raw image files produced by Illumina instruments, converted to fastq via bcl2fastq program |
 | FAST5 files | raw electrical signal files produced by Oxford Nanopore Technologies sequencing equipment, converted to fastq via basecalling software (guppy is the current industry standard) |
-| FASTQ files | The common “raw” sequence files containing nucleotide sequences and their associated quality scores  <br/> &bull; The quality scores contained within a fastq file are encoded as ASCII characters so that they require one bit per score making the string of nucleotide sequences and the string of quality scores equal in length <br/> &bull; The quality score (Q Score) represents the the probability of an accurate base assignment at the associated nucleotide position <br/> &bull; Q scores range from 0 to 40 and are mathematically equivalent to: <br>&nbsp;&nbsp;&nbsp;&nbsp; <pre> Q = -10log<sub>10</sub>P</pre> &bull; [Quality Scores for Next-Generation Sequencing - illumina](https://www.illumina.com/documents/products/technotes/technote_Q-Scores.pdf) >&bull; [Measuring sequencing accuracy - illumina](https://emea.illumina.com/science/technology/next-generation-sequencing/plan-experiments/quality-scores.html) <br/> &bull; Q Scores for Illumina and ONT sequencing will differ dramatically <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; An excellent Illumina run will have an average Q Score of 27-30 <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; An excellent Nanopore run will have an average Q Score of 12-15 <br/> &bull; Low Q Scores indicate poor sequencing quality which will impact all downstream analyses | 
+| FASTQ files | The common “raw” sequence files containing nucleotide sequences and their associated quality scores  <br/> &bull; The quality scores contained within a fastq file are encoded as ASCII characters so that they require one bit per score making the string of nucleotide sequences and the string of quality scores equal in length <br/> &bull; The quality score (Q Score) represents the the probability of an accurate base assignment at the associated nucleotide position <br/> &bull; Q scores range from 0 to 40 and are mathematically equivalent to: <br>&nbsp;&nbsp;&nbsp;&nbsp; <pre> Q = -10log<sub>10</sub>P</pre> &bull; [Quality Scores for Next-Generation Sequencing - illumina](https://www.illumina.com/documents/products/technotes/technote_Q-Scores.pdf) <br/>&bull; [Measuring sequencing accuracy - illumina](https://emea.illumina.com/science/technology/next-generation-sequencing/plan-experiments/quality-scores.html) <br/> &bull; Q Scores for Illumina and ONT sequencing will differ dramatically <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; An excellent Illumina run will have an average Q Score of 27-30 <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; An excellent Nanopore run will have an average Q Score of 12-15 <br/> &bull; Low Q Scores indicate poor sequencing quality which will impact all downstream analyses | 
 | Ambiguity / Mixed Sites | The percent of each read where the base called is ambiguous <br/> [IUPAC Codes](https://www.bioinformatics.org/sms/iupac.html) |
 | Sequence GC Content | The GC content of reads should be normally distributed |
 | Raw vs Processed reads | It is typical for some reads to be removed during quality filtering. Based on the known characteristics of the sample, one should be able to predict a reasonable proportion of the reads to be removed.|
@@ -95,7 +95,7 @@ Different sequencing platforms use different technologies to determine the nucle
 ## PHA4GE Suggested Thresholds
 
 |                            QC Metrics                           | Suggested guidance thresholds |
-|---------------------------------------------------------------|-----------------------------|
+| ---------------------------------------------------------------|----------------------------- |
 | **Read QC Metrics**                                             |                               |
 | Percent Human Reads                                             | <20%                          |
 | Number of reads                                                 | protocol dependent            |
@@ -118,7 +118,7 @@ Different sequencing platforms use different technologies to determine the nucle
 ## US CDC Validation
 
 |                             QC Metrics                            | Suggested guidance thresholds |
-|-----------------------------------------------------------------:|:-----------------------------|
+| -----------------------------------------------------------------|----------------------------- |
 | **Initial sample QC**                                             |                               |
 | Specimens before going to NGS workflow                            | Ct <30                        |
 | Sequenced multiple dilutions of viral isolates                    | Cts ranging from 14-35        |
