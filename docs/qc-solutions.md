@@ -121,7 +121,7 @@ An examination of the resulting assembly quality is also critical as these assem
     </tr>
     <tr>
       <td rowspan=1 height="5px"><a href="#sequence-alignment">Percent mapped reads to Wuhan reference genome</a></td>
-      <td rowspan=1>≥165% </td>
+      <td rowspan=1>≥65% </td>
     </tr>
     <tr>
       <td rowspan=1 height="5px"><a href="#sequence-alignment">Coverage at a Single Base to Make a Base Call</a></td>
