@@ -105,7 +105,7 @@ Different sequencing platforms use different technologies to determine the nucle
 | **Assembly QC metrics**                                         |                               |
 | Percent reference coverage                                      | >83%                          |
 | Number of Ns                                                    | <5,000bp                      |
-| Assembly length unambiguous                                     | <24,000bp                     |
+| Assembly length unambiguous                                     | >24,000bp                     |
 | Average coverage                                                | 100x                          |
 | **Consensus Genome Calling**                                    |                               |
 | Read depth                                                      | 20x (ONT); 10x (Illumina)     |
@@ -133,7 +133,7 @@ Different sequencing platforms use different technologies to determine the nucle
 | Coverage of Wuhan reference                                       | < 10%                         |
 | **QC thresholds to assign Spike protein substitutions**           |                               |
 | S-gene coverage                                                   | 99%; 95% for N-terminal domain coverage |
-| Wuhan reference sequence                                          | at least 30x read coverage    |
+| Wuhan reference sequence                                          | at least 50x read coverage    |
 |  ambiguous bases detected in the consensus assembly for ed S-gene | No more than 10%              |
 | Frameshift in the S-gene consensus sequence                       | 0                           |
 
