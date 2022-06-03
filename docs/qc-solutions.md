@@ -113,10 +113,6 @@ An examination of the resulting assembly quality is also critical as these assem
       <td rowspan=1>Protocol dependent, (e.g. 100,000 reads from Artic Amplicons sequenced on Illumina MiSeq)</td>
     </tr>
     <tr>
-      <td rowspan=1 height="5px"><a href="#sequence-alignment">Number of Reads </a></td>
-      <td rowspan=1>Protocol dependent, (e.g. 100,000 reads from Artic Amplicons sequenced on Illumina MiSeq)</td>
-    </tr>
-    <tr>
       <th align="center" colspan=2>Alignment QC Metrics</th>
     </tr>
     <tr>
@@ -176,7 +172,7 @@ An examination of the resulting assembly quality is also critical as these assem
     </tr>
     <tr>
       <td rowspan=1 height="5px"><a href="#sequence-alignment">S-gene coverage  </a></td>
-      <td rowspan=1>≥99%/td>
+      <td rowspan=1>≥99%</td>
     </tr>
     <tr>
       <td rowspan=1 height="5px"><a href="#sequence-alignment">Frameshift in the S-gene consensus sequence</a></td>
