@@ -74,20 +74,13 @@ More info and resources on recombinants
 
 ## Common terminology
 
-Breakpoint
-: The site within the genome where recombination occurred. This is also sometimes referred to as the recombinant site. Usually, the breakpoint is a range of nucleotide positions instead of a single nucleotide position. This is due to a lack of lineage-specific mutations in certain regions, or the same mutations being shared between different lineages. The beginning of the breakpoint range is the first possible site within the genome that recombination could have occurred, which generally follows a lineage-specific mutation site. The end of the breakpoint range is the last possible site where the recombination could have occurred, which generally precedes the site of a lineage-specific mutation.
-
-Donor
-: The lineage from which a portion of the recombinant genome originated. This is also called the “parental lineage”. For example, a BA.1 x BA.2 recombinant has BA.1 and BA.2 donor sequences.
-
-Designated lineage
-: A specific pango lineage. Designated recombinant lineages are currently referred to with the XX nomenclature per the pango network [guidelines](https://www.pango.network/the-pango-nomenclature-system/statement-of-nomenclature-rules/). If a recombinant sequence does not belong to a designated recombinant lineage, it may be a novel recombinant lineage that has not yet been designated
-
-Allele frequency
-: The proportion of reads that contain a specific nucleotide at a specific position within the genome. Ideally, the nucleotide sites for lineage-defining mutations within a recombinant genome will have near 100% allele frequency. This is one way to distinguish a recombinant genome from a contaminated genome.
-
-Sequencing depth
-: The number of reads covering a specific position within the genome. This is also often referred to as “coverage”. Ideally, a recombinant genome will have high sequencing depth at the sites of lineage-defining mutations. If a genome has low sequencing depth, it is difficult to determine what the donor, or parental lineage, is at that site. 
+| Term                  | Definition                             |
+| ---------------------- | --------------------------------------- |
+| Breakpoint | The site within the genome where recombination occurred. This is also sometimes referred to as the recombinant site. Usually, the breakpoint is a range of nucleotide positions instead of a single nucleotide position. This is due to a lack of lineage-specific mutations in certain regions, or the same mutations being shared between different lineages. The beginning of the breakpoint range is the first possible site within the genome that recombination could have occurred, which generally follows a lineage-specific mutation site. The end of the breakpoint range is the last possible site where the recombination could have occurred, which generally precedes the site of a lineage-specific mutation. |
+| Donor | The lineage from which a portion of the recombinant genome originated. This is also called the “parental lineage”. For example, a BA.1 x BA.2 recombinant has BA.1 and BA.2 donor sequences.  |
+| Designated lineage  | A specific pango lineage. Designated recombinant lineages are currently referred to with the XX nomenclature per the pango network [guidelines](https://www.pango.network/the-pango-nomenclature-system/statement-of-nomenclature-rules/). If a recombinant sequence does not belong to a designated recombinant lineage, it may be a novel recombinant lineage that has not yet been designated |
+| Allele frequency | The proportion of reads that contain a specific nucleotide at a specific position within the genome. Ideally, the nucleotide sites for lineage-defining mutations within a recombinant genome will have near 100% allele frequency. This is one way to distinguish a recombinant genome from a contaminated genome. |
+| Sequencing depth | The number of reads covering a specific position within the genome. This is also often referred to as “coverage”. Ideally, a recombinant genome will have high sequencing depth at the sites of lineage-defining mutations. If a genome has low sequencing depth, it is difficult to determine what the donor, or parental lineage, is at that site. |
 
 ## Steps for investigating putative recombinant genomes
 
