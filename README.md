@@ -9,9 +9,11 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 ## Contents
 - [Rationale](#rationale)
 - [SARS-CoV-2 Resources](#sars-cov-2-resources)
+	- [Omicron Variant Resources](#sars-cov-2-resources)
+	- [Identifying SARS-CoV-2 Recombinants](#sars-cov-2-resources)
 	- [Bioinformatics Solutions](#sars-cov-2-resources)
-	- [Quality Control Guidance](#sars-cov-2-resources)
 	- [Validation Data Sets](#sars-cov-2-resources)
+	- [Quality Control Guidance](#sars-cov-2-resources)
 	- [Informing Public Health Action](#sars-cov-2-resources)
 - [Contributing](#contributing)
 
@@ -27,6 +29,10 @@ SARS-CoV-2 Resources
 
 The PHA4GE Pipelines and Visualization Working Group has created this document to highlight critical open-source/accesses resources to aid in the understanding and further analysis of the Omicron variant. 
 
+### [Identifying SARS-CoV-2 Recombinants](docs/sc2-recombinants.md)
+
+{In development}
+
 ### [Bioinformatics Solutions](docs/bioinfo-solutions.md)
 
 In an attempt to assist this integration process, the bioinformatics pipeline and visualization working group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the major bioinformatics challenges for SC2 genomic analysis and suggest various open-source and freely available bioinformatics resources to address them.
@@ -35,7 +41,7 @@ In an attempt to assist this integration process, the bioinformatics pipeline an
 
 The US Centers for Disease Control and Prevention's Technical Outreach and Assistance for States Team (TOAST) developed benchmark datasets for SARS-CoV-2 sequencing which are designed to help users at varying stages of building sequencing capacity. Rather than duplicating these efforts, the PHA4GE bioinformatics pipeline and visualization working group will be working alongside TOAST members to maintain and improve upon the currently-available validation datasets. 
 
-### Quality Control Guidance
+### [Quality Control Guidance](docs/qc-solutions.md)
 
 {In development}
 
