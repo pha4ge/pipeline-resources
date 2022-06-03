@@ -95,44 +95,32 @@ Different sequencing platforms use different technologies to determine the nucle
 
 ## PHA4GE Suggested Thresholds
 
-|                            Read QC Metrics                           | Suggested guidance thresholds |
+
+|                            QC Metrics                           | Suggested guidance thresholds |
 | ---------------------------------------------------------------|----------------------------- |
+| **Read QC Metrics**                                             |                               |
 | Percent Human Reads                                             | <20%                          |
 | Number of reads                                                 | protocol dependent            |
 | NTC percent coverage                                            | <10%                          |
-
-
-|                            Assembly QC metrics                           | Suggested guidance thresholds |
-| ---------------------------------------------------------------|----------------------------- |
+| **Assembly QC metrics**                                         |                               |
 | Percent reference coverage                                      | >83%                          |
 | Number of Ns                                                    | <5,000bp                      |
-| Assembly length unambiguous                                     | >24,000bp                     |
+| Assembly length unambiguous                                     | <24,000bp                     |
 | Average coverage                                                | 100x                          |
-
-|                          Consensus Genome Calling                           | Suggested guidance thresholds |
-| ---------------------------------------------------------------|----------------------------- |
+| **Consensus Genome Calling**                                    |                               |
 | Read depth                                                      | 20x (ONT); 10x (Illumina)     |
 | Percent agreement                                               |  80%                          |
-
-|                          Variant Calling                           | Suggested guidance thresholds |
-| ---------------------------------------------------------------|----------------------------- |
+| **Variant Calling**                                             |                               |
 | Reads depth at each position                                    | ≥5                            |
 | Average base quality                                            | ≥15                           |
 | Reads at the position supporting the call                       | ≥75%                          |
 | For paired-end Illumina sequencing, read in forward orientation | at least 1                    |
 | For paired-end Illumina sequencing, read in reverse orientation | at least 1                    |
-
-## Alt Validation
-
-|                             Initial sample QC                            | Suggested guidance thresholds |
-| -----------------------------------------------------------------|----------------------------- |
+| **Initial sample QC**                                             |                               |
 | Specimens before going to NGS workflow                            | Ct <30                        |
 | Sequenced multiple dilutions of viral isolates                    | Cts ranging from 14-35        |
-
-### QC thresholds for NGS workflow
-
-|                          Per sample QC metrics                           | Suggested guidance thresholds |
-| ---------------------------------------------------------------|----------------------------- |
+| **QC thresholds for NGS workflow**                                |                               |
+| **Per sample QC metrics**                               |                               |
 | Average coverage depth                                            | ≥100                          |
 | Coverage at a single base to make a base call                     | ≥ 50x                         |
 | Percent genome coverage                                           | ≥ 95%                         |
@@ -141,15 +129,11 @@ Different sequencing platforms use different technologies to determine the nucle
 | Total reads                                                       | ≥ 100,000                     |
 | Number of open reading frames identified                          | ≥ 10                          |
 | Percent ambiguous base calls                                      | < 5%                         |
-
-|                          QC thresholds for negative and positive controls                          | Suggested guidance thresholds |
-| ---------------------------------------------------------------|----------------------------- |
+| **QC thresholds for negative and positive controls**              |                               |
 | Coverage of Wuhan reference                                       | < 10%                         |
-
-|                          QC thresholds to assign Spike protein substitutions                          | Suggested guidance thresholds |
-| ---------------------------------------------------------------|----------------------------- |
+| **QC thresholds to assign Spike protein substitutions**           |                               |
 | S-gene coverage                                                   | 99%; 95% for N-terminal domain coverage |
-| Wuhan reference sequence                                          | at least 50x read coverage    |
+| Wuhan reference sequence                                          | at least 30x read coverage    |
 |  ambiguous bases detected in the consensus assembly for ed S-gene | No more than 10%              |
 | Frameshift in the S-gene consensus sequence                       | 0                           |
 
