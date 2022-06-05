@@ -93,10 +93,6 @@ An examination of the resulting assembly quality is also critical as these assem
 
 # Community-Defined Guidance Thresholds
 
-## GISAID Assembly Acceptance Criteria
-
-## NCBI GenBank Assembly Acceptance Criteria
-
 ## PHA4GE Suggested Thresholds
 
 <table>
