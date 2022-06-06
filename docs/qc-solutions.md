@@ -132,15 +132,15 @@ Different sequencing platforms use different technologies to determine the nucle
 
 | Term                  | Definition                             |
 | ---------------------- | --------------------------------------- |
-| <h4>Reads</h4> | fragments of sequence DNA base pairs that are generated during sequencing; also referred to as the raw data generated from a sequencing platform |
+| <h4>Reads</h4> | Fragments of sequence DNA base pairs that are generated during sequencing; also referred to as the raw data generated from a sequencing platform |
 | <h4>Number of Reads</h4> | Count of reads generated in an NGS run|
-| <h4>BCL files</h4> | raw image files produced by Illumina instruments, converted to fastq via bcl2fastq program |
-| <h4>FAST5 files</h4> | raw electrical signal files produced by Oxford Nanopore Technologies sequencing equipment, converted to fastq via basecalling software (guppy is the current industry standard) |
+| <h4>BCL Files</h4> | Raw image files produced by Illumina instruments, converted to fastq via bcl2fastq program |
+| <h4>FAST5 Files</h4> | Raw electrical signal files produced by Oxford Nanopore Technologies sequencing equipment, converted to fastq via basecalling software (guppy is the current industry standard) |
 | <h4>Basecalling</h4> | The computational process of translating raw electrical signal files (FAST5) or flowcell images (BCL) to nucleotide sequence <br/>[Performance of neural network basecalling tools for Oxford Nanopore sequencing](https://pubmed.ncbi.nlm.nih.gov/31234903/) |
-| <h4>FASTQ files</h4> | The common “raw” sequence files containing nucleotide sequences and their associated quality scores  <br/> &bull; The quality scores contained within a fastq file are encoded as ASCII characters so that they require one bit per score making the string of nucleotide sequences and the string of quality scores equal in length <br/> &bull; The quality score (Q Score) represents the probability of an accurate base assignment at the associated nucleotide position <br/> &bull; Q scores range from 0 to 40 and are mathematically equivalent to: <br>&nbsp;&nbsp;&nbsp;&nbsp; <pre> Q = -10log<sub>10</sub>P</pre> &bull; [Quality Scores for Next-Generation Sequencing - illumina](https://www.illumina.com/documents/products/technotes/technote_Q-Scores.pdf) <br/>&bull; [Measuring sequencing accuracy - illumina](https://emea.illumina.com/science/technology/next-generation-sequencing/plan-experiments/quality-scores.html) <br/> &bull; Q Scores for Illumina and ONT sequencing will differ dramatically <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; An excellent Illumina run will have an average Q Score of 27-30 <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; An excellent Nanopore run will have an average Q Score of 12-15 <br/> &bull; Low Q Scores indicate poor sequencing quality which will impact all downstream analyses | 
+| <h4>FASTQ Files</h4> | The common “raw” sequence files containing nucleotide sequences and their associated quality scores  <br/> &bull; The quality scores contained within a fastq file are encoded as ASCII characters so that they require one bit per score making the string of nucleotide sequences and the string of quality scores equal in length <br/> &bull; The quality score (Q Score) represents the probability of an accurate base assignment at the associated nucleotide position <br/> &bull; Q scores range from 0 to 40 and are mathematically equivalent to: <br>&nbsp;&nbsp;&nbsp;&nbsp; <pre> Q = -10log<sub>10</sub>P</pre> &bull; [Quality Scores for Next-Generation Sequencing - illumina](https://www.illumina.com/documents/products/technotes/technote_Q-Scores.pdf) <br/>&bull; [Measuring sequencing accuracy - illumina](https://emea.illumina.com/science/technology/next-generation-sequencing/plan-experiments/quality-scores.html) <br/> &bull; Q Scores for Illumina and ONT sequencing will differ dramatically <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; An excellent Illumina run will have an average Q Score of 27-30 <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; An excellent Nanopore run will have an average Q Score of 12-15 <br/> &bull; Low Q Scores indicate poor sequencing quality which will impact all downstream analyses | 
 | <h4>Ambiguity / Mixed Sites</h4> | The percent of each read where the base called is ambiguous <br/> [IUPAC Codes](https://www.bioinformatics.org/sms/iupac.html) |
 | <h4>Sequence GC Content</h4> | The GC content of reads should be normally distributed |
-| <h4>Raw vs Processed reads</h4> | It is typical for some reads to be removed during quality filtering. Based on the known characteristics of the sample, one should be able to predict a reasonable proportion of the reads to be removed.|
+| <h4>Raw vs Processed Reads</h4> | It is typical for some reads to be removed during quality filtering. Based on the known characteristics of the sample, one should be able to predict a reasonable proportion of the reads to be removed.|
 | <h4>Percent Human Reads</h4> | Percentage of human read data sequenced in an NGS run. |
 
 ### Alignment QC Metrics
@@ -148,30 +148,30 @@ Consensus-genome assembly approaches have been widely adopted for SARS-CoV-2 gen
 
 | Term                  | Definition                             |
 | ---------------------- | --------------------------------------- |
-| <h4>Sequence alignment</h4>  | a method of arranging nucleic acid (DNA/RNA) or protein sequences to identify regions of similarity or conservation that may be of function, structural, or evolutionary relationships. Pairwise sequence alignment consists of two sequences whereas multiple sequence alignment consists of more than three sequences |
-|<h4>Sequencing depth</h4> | the number of reads that cover a particular nucleotide, section/amplicon of the genome, or average across the reference sequence<br/>  &bull; Ideally a min depth of 10X for Illumina or 20X for Nanopore would be reached<br/>&bull; Uniform depth of coverage is better<br/> &bull; Nonuniform depth may be indicative of differential amplification of amplicons, or amplicon dropout<br/> &nbsp;&nbsp;&nbsp;&nbsp;&bull; This can be assessed using bedtools |
-| <h4>Percent agreement</h4> | Percentage of basec call concordenance in reads mapped at a designated position in the reference genome|
+| <h4>Sequence Alignment</h4>  | A method of arranging nucleic acid (DNA/RNA) or protein sequences to identify regions of similarity or conservation that may be of function, structural, or evolutionary relationships. Pairwise sequence alignment consists of two sequences whereas multiple sequence alignment consists of more than three sequences |
+|<h4>Sequencing Depth</h4> | The number of reads that cover a particular nucleotide, section/amplicon of the genome, or average across the reference sequence<br/>  &bull; Ideally a min depth of 10X for Illumina or 20X for Nanopore would be reached<br/>&bull; Uniform depth of coverage is better<br/> &bull; Nonuniform depth may be indicative of differential amplification of amplicons, or amplicon dropout<br/> &nbsp;&nbsp;&nbsp;&nbsp;&bull; This can be assessed using bedtools |
+| <h4>Percent Agreement</h4> | Percentage of basec call concordenance in reads mapped at a designated position in the reference genome|
 | <h4>Coverage</h4> | What percent of the reference sequence is covered by the reads that have been produced<br/> &bull; This metric is typically used in conjunction with depth<br/>|
-| <h4>Percent mapped reads</h4> | Percentage of read data mapped to a specified reference genome|
-| <h4>Average base quality of aligned reads</h4> | Mean phred score of read data mapped to a reference genome|
+| <h4>Percent Mapped Reads</h4> | Percentage of read data mapped to a specified reference genome|
+| <h4>Average Base Quality of Aligned Reads</h4> | Mean phred score of read data mapped to a reference genome|
 
 ### Consensus Assembly QC Metrics
 An examination of the resulting assembly quality is also critical as these assemblies often inform critical downstream analysis, such as lineage and clade assignments and genomic epidmiology investigations. 
 
 | Term                  | Definition                             |
 | ---------------------- | --------------------------------------- |
-| <h4>Length of the assembly</h4> | Should be similar to that of reference. If it is not, why? Have there been large insertions/deletions, gene duplications, etc.| 
-| <h4>Total number of N’s</h4> | The total number of ambiguous basecalls in the assembly |
-| <h4>Length of strings of N’s</h4> | While the total number of N’s is important, the length of the strings of N’s can indicate issues with upstream laboratory workflows. If a string of N’s is consistently reported over a specific region of the genome, then one can cross reference the primer binding loci in the bed file to see if one amplicon is dropping out or amplifying at a lower rate than the other amplicons. This could be due to amplification bias, resulting from a large differential in the GC content between the amplicons. This may also indicate that you have a mixed population and there may be a subpopulation with a different sequence in the ambiguous region.|
-| <h4>Percent reference coverage</h4> | Percentage of the Wuhan-1 reference genome represented in the consensus assembly|
+| <h4>Length of the Assembly</h4> | Should be similar to that of reference. If it is not, why? Have there been large insertions/deletions, gene duplications, etc.| 
+| <h4>Total Number of N’s</h4> | The total number of ambiguous basecalls in the assembly |
+| <h4>Length of Strings of N’s</h4> | While the total number of N’s is important, the length of the strings of N’s can indicate issues with upstream laboratory workflows. If a string of N’s is consistently reported over a specific region of the genome, then one can cross reference the primer binding loci in the bed file to see if one amplicon is dropping out or amplifying at a lower rate than the other amplicons. This could be due to amplification bias, resulting from a large differential in the GC content between the amplicons. This may also indicate that you have a mixed population and there may be a subpopulation with a different sequence in the ambiguous region.|
+| <h4>Percent Reference Coverage</h4> | Percentage of the Wuhan-1 reference genome represented in the consensus assembly|
 | <h4>Number of Ns</h4> | Number of ambiguous base calls (Ns) incorporated into the consensus assembly|
-| <h4>Assembly length unambiguous</h4> | Number of unambiguous base calls (ATCGs) incorporated into the consensus assembly|
-| <h4>NTC percent coverage</h4> | Percentage of the Wuhan-1 reference genome represented in the consensus assembly of a non-template control (NTC; i.e. negative control)|
-| <h4>Lineage defining mutations</h4> | Percentage of lineage-specific mutations represented in the consensus assembly|
+| <h4>Assembly Length Unambiguous</h4> | Number of unambiguous base calls (ATCGs) incorporated into the consensus assembly|
+| <h4>NTC Percent Coverage</h4> | Percentage of the Wuhan-1 reference genome represented in the consensus assembly of a non-template control (NTC; i.e. negative control)|
+| <h4>Lineage Defining Mutations</h4> | Percentage of lineage-specific mutations represented in the consensus assembly|
 | <h4>Number of Ns</h4> | Number of ambiguous base calls (Ns) incorporated into the consensus assembly|
-| <h4>S-gene coverage</h4> | Percentage of the SARS-CoV-2 S-gene represented in the consensus assembly|
-| <h4>S-gene frameshifts</h4> | S-gene insertion or deletion events represented in the consensus assembly|
-| <h4>S-gene ambiguous bases</h4> | Number of ambiguous base calls (Ns) incorporated into the s-gene of the consensus assembly|
+| <h4>S-gene Coverage</h4> | Percentage of the SARS-CoV-2 S-gene represented in the consensus assembly|
+| <h4>S-gene Frameshifts</h4> | S-gene insertion or deletion events represented in the consensus assembly|
+| <h4>S-gene Ambiguous Bases</h4> | Number of ambiguous base calls (Ns) incorporated into the s-gene of the consensus assembly|
 
 
 ## Additional QC Resrouces and Materials
