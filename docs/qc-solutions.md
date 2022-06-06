@@ -114,7 +114,7 @@ When performing QC checks on SARS-CoV-2 genomic data, it can be helpful to estab
       <td rowspan=1>≥99%</td>
     </tr>
     <tr>
-      <td rowspan=1 height="5px"><a href="#s-gene-frameshifts">Frameshift in the S-gene consensus sequence</a></td>
+      <td rowspan=1 height="5px"><a href="#s-gene-frameshifts">S-gene frameshifts sequence</a></td>
       <td rowspan=1>0</td>
     </tr>
     <tr>
