@@ -98,7 +98,7 @@ When performing QC checks on SARS-CoV-2 genomic data, it can be helpful to estab
       <td rowspan=1><5,000bp</td>
     </tr>
     <tr>
-      <td rowspan=1 height="5px"><a href="#assembly-length-unambiguoust">Assembly length unambiguous</a></td>
+      <td rowspan=1 height="5px"><a href="#assembly-length-unambiguous">Assembly length unambiguous</a></td>
       <td rowspan=1>>24,000bp</td>
     </tr>
     <tr>
@@ -110,15 +110,11 @@ When performing QC checks on SARS-CoV-2 genomic data, it can be helpful to estab
       <td rowspan=1>≥60%</td>
     </tr>
     <tr>
-      <td rowspan=1 height="5px"><a href="#number-of-open-reading-frames">Number of open reading frames identified</a></td>
-      <td rowspan=1><10</td>
-    </tr>
-    <tr>
-      <td rowspan=1 height="5px"><a href="#s-gene-coverage">S-gene coverage  </a></td>
+      <td rowspan=1 height="5px"><a href="#s-gene-coverage">S-gene coverage</a></td>
       <td rowspan=1>≥99%</td>
     </tr>
     <tr>
-      <td rowspan=1 height="5px"><a href="#frameshifts-in-the-s-gene">Frameshift in the S-gene consensus sequence</a></td>
+      <td rowspan=1 height="5px"><a href="#s-gene-frameshifts">Frameshift in the S-gene consensus sequence</a></td>
       <td rowspan=1>0</td>
     </tr>
     <tr>
@@ -140,6 +136,7 @@ Different sequencing platforms use different technologies to determine the nucle
 | <h4>Number of Reads</h4> | Count of reads generated in an NGS run|
 | <h4>BCL files</h4> | raw image files produced by Illumina instruments, converted to fastq via bcl2fastq program |
 | <h4>FAST5 files</h4> | raw electrical signal files produced by Oxford Nanopore Technologies sequencing equipment, converted to fastq via basecalling software (guppy is the current industry standard) |
+| <h4>Basecalling</h4> | The computational process of translating raw electrical signal files (FAST5) or flowcell images (BCL) to nucleotide sequence <br/>[Performance of neural network basecalling tools for Oxford Nanopore sequencing](https://pubmed.ncbi.nlm.nih.gov/31234903/) |
 | <h4>FASTQ files</h4> | The common “raw” sequence files containing nucleotide sequences and their associated quality scores  <br/> &bull; The quality scores contained within a fastq file are encoded as ASCII characters so that they require one bit per score making the string of nucleotide sequences and the string of quality scores equal in length <br/> &bull; The quality score (Q Score) represents the probability of an accurate base assignment at the associated nucleotide position <br/> &bull; Q scores range from 0 to 40 and are mathematically equivalent to: <br>&nbsp;&nbsp;&nbsp;&nbsp; <pre> Q = -10log<sub>10</sub>P</pre> &bull; [Quality Scores for Next-Generation Sequencing - illumina](https://www.illumina.com/documents/products/technotes/technote_Q-Scores.pdf) <br/>&bull; [Measuring sequencing accuracy - illumina](https://emea.illumina.com/science/technology/next-generation-sequencing/plan-experiments/quality-scores.html) <br/> &bull; Q Scores for Illumina and ONT sequencing will differ dramatically <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; An excellent Illumina run will have an average Q Score of 27-30 <br>&nbsp;&nbsp;&nbsp;&nbsp; &bull; An excellent Nanopore run will have an average Q Score of 12-15 <br/> &bull; Low Q Scores indicate poor sequencing quality which will impact all downstream analyses | 
 | <h4>Ambiguity / Mixed Sites</h4> | The percent of each read where the base called is ambiguous <br/> [IUPAC Codes](https://www.bioinformatics.org/sms/iupac.html) |
 | <h4>Sequence GC Content</h4> | The GC content of reads should be normally distributed |
@@ -163,16 +160,25 @@ An examination of the resulting assembly quality is also critical as these assem
 
 | Term                  | Definition                             |
 | ---------------------- | --------------------------------------- |
-| Basecalling | The computational process of translating raw electrical signal files (FAST5) or flowcell images (BCL) to nucleotide sequence <br/>[Performance of neural network basecalling tools for Oxford Nanopore sequencing](https://pubmed.ncbi.nlm.nih.gov/31234903/) |
-| Length of the assembly | Should be similar to that of reference. If it is not, why? Have there been large insertions/deletions, gene duplications, etc.| 
-| Total number of N’s | The total number of ambiguous basecalls in the assembly |
-| Length of strings of N’s | While the total number of N’s is important, the length of the strings of N’s can indicate issues with upstream laboratory workflows. If a string of N’s is consistently reported over a specific region of the genome, then one can cross reference the primer binding loci in the bed file to see if one amplicon is dropping out or amplifying at a lower rate than the other amplicons. This could be due to amplification bias, resulting from a large differential in the GC content between the amplicons. This may also indicate that you have a mixed population and there may be a subpopulation with a different sequence in the ambiguous region.|
+| <h4>Length of the assembly</h4> | Should be similar to that of reference. If it is not, why? Have there been large insertions/deletions, gene duplications, etc.| 
+| <h4>Total number of N’s</h4> | The total number of ambiguous basecalls in the assembly |
+| <h4>Length of strings of N’s</h4> | While the total number of N’s is important, the length of the strings of N’s can indicate issues with upstream laboratory workflows. If a string of N’s is consistently reported over a specific region of the genome, then one can cross reference the primer binding loci in the bed file to see if one amplicon is dropping out or amplifying at a lower rate than the other amplicons. This could be due to amplification bias, resulting from a large differential in the GC content between the amplicons. This may also indicate that you have a mixed population and there may be a subpopulation with a different sequence in the ambiguous region.|
+| <h4>Percent reference coverage</h4> | Percentage of the Wuhan-1 reference genome represented in the consensus assembly|
+| <h4>Number of Ns</h4> | Number of ambiguous base calls (Ns) incorporated into the consensus assembly|
+| <h4>Assembly length unambiguous</h4> | Number of unambiguous base calls (ATCGs) incorporated into the consensus assembly|
+| <h4>NTC percent coverage</h4> | Percentage of the Wuhan-1 reference genome represented in the consensus assembly of a non-template control (NTC; i.e. negative control)|
+| <h4>Lineage defining mutations</h4> | Percentage of lineage-specific mutations represented in the consensus assembly|
+| <h4>Number of Ns</h4> | Number of ambiguous base calls (Ns) incorporated into the consensus assembly|
+| <h4>S-gene coverage</h4> | Percentage of the SARS-CoV-2 S-gene represented in the consensus assembly|
+| <h4>S-gene frameshifts</h4> | S-gene insertion or deletion events represented in the consensus assembly|
+| <h4>S-gene ambiguous bases</h4> | Number of ambiguous base calls (Ns) incorporated into the s-gene of the consensus assembly|
+
 
 ## Additional QC Resrouces and Materials
 
-- [ncov-tools](https://www.google.com/url?q=https://github.com/jts/ncov-tools&sa=D&source=docs&ust=1654260267077931&usg=AOvVaw2IVI8lkio5wig20ajxX-b5)
-- [Quality Management Systems Tools & Resources - Process Management](https://www.cdc.gov/labquality/qms-tools-and-resources.html#:~:text=Click%20to%20expand-,Process%20Management,-Provides%20guidance%20on)
-- [TheiaCoV QC output Video](https://www.youtube.com/watch?v=Amb-8M71umw&list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz&index=3)
-- [StaPH-B Glossary](http://www.staphb.org/resources/glossary/)
-- [PHA4GE Bioinformatics Solutions](https://github.com/pha4ge/pipeline-resources/blob/main/docs/bioinfo-solutions.md)
-- [ECDC: Guidance for representative and targeted genomic SARS-CoV-2 monitoring](https://www.ecdc.europa.eu/sites/default/files/documents/Guidance-for-representative-and-targeted-genomic-SARS-CoV-2-monitoring.pdf)
+- [ncov-tools](https://github.com/jts/ncov-tools) - Tools and plots for perfoming quality control on coronavirus sequencing results.
+- [Quality Management Systems Tools & Resources - Process Management](https://www.cdc.gov/labquality/qms-tools-and-resources.html#:~:text=Click%20to%20expand-,Process%20Management,-Provides%20guidance%20on) - US CDC Quality Management Systems for SARS-CoV-2 NGS Data
+- [TheiaCoV QC output Video](https://www.youtube.com/watch?v=Amb-8M71umw&list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz&index=3) - Video tutorial for assessing SARS-CoV-2 genomic characterization with Theiagen's TheiaCoV workflows
+- [StaPH-B Glossary](http://www.staphb.org/resources/glossary/) - US State Public Health Bioinformatics (StaPH-B) working group's bioinformatics glossary of terms
+- [PHA4GE Bioinformatics Solutions](https://github.com/pha4ge/pipeline-resources/blob/main/docs/bioinfo-solutions.md) - This working groups list of bioinformatics solutions for SARS-CoV-2 bioinformatics 
+- [ECDC: Guidance for representative and targeted genomic SARS-CoV-2 monitoring](https://www.ecdc.europa.eu/sites/default/files/documents/Guidance-for-representative-and-targeted-genomic-SARS-CoV-2-monitoring.pdf) - European CDC Guidance Document for SARS-CoV-2 genomic analysis
