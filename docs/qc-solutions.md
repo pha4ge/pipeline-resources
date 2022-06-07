@@ -32,7 +32,7 @@ Please note that the QC guidelines in this document are simply an attempt to hig
 - [Additional QC Resrouces and Materials](#additional-qc-resrouces-and-materials)
 
 # Process Control For Bioinformatics QC Checkpoints
-The focus of this document is on the quality control (QC) of tiled amplicon sequencing--through the Artic V3 protocol, for example--a common method for generating SC2 sequencing data. These sequencing experiments generate thousands of amplicon reads that represent fragments of the original SC2 genome present in a sample and--as discussed in this working group's [Bioinformatics Solutions for SARS-CoV-2 Genomic Analysis Guidance Documenthttps](github.com/pha4ge/pipeline-resources/blob/main/docs/bioinfo-solutions.md)--assembling a contiguous SC2 genome from these amplicon read data is a critical step in providing insight from sequenced samples.
+The focus of this document is on the quality control (QC) of tiled amplicon sequencing--through the Artic V3 protocol, for example--a common method for generating SC2 sequencing data. These sequencing experiments generate thousands of amplicon reads that represent fragments of the original SC2 genome present in a sample and--as discussed in this working group's [Bioinformatics Solutions for SARS-CoV-2 Genomic Analysis Guidance Document](../docs/bioinfo-solutions.md)--assembling a contiguous SC2 genome from these amplicon read data is a critical step in providing insight from sequenced samples.
 
 Throughout this process, quality control checkpoints should be conducted at different stages of bioinformatics analysis, including QC of raw read data, pre-processing stages (trimming and filtering), and alignment/assembly.
 
