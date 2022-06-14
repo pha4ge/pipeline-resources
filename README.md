@@ -9,9 +9,10 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 ## Contents
 - [Rationale](#rationale)
 - [SARS-CoV-2 Resources](#sars-cov-2-resources)
+	- [Omicron Variant Resources](#sars-cov-2-resources)	
 	- [Bioinformatics Solutions](#sars-cov-2-resources)
-	- [Quality Control Guidance](#sars-cov-2-resources)
 	- [Validation Data Sets](#sars-cov-2-resources)
+	- [Quality Control Guidance](#sars-cov-2-resources)
 	- [Informing Public Health Action](#sars-cov-2-resources)
 - [Contributing](#contributing)
 
