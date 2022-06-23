@@ -150,7 +150,7 @@ Consensus-genome assembly approaches have been widely adopted for SARS-CoV-2 gen
 | ---------------------- | --------------------------------------- |
 | <h4>Sequence Alignment</h4>  | A method of arranging nucleic acid (DNA/RNA) or protein sequences to identify regions of similarity or conservation that may be of function, structural, or evolutionary relationships. Pairwise sequence alignment consists of two sequences whereas multiple sequence alignment consists of more than three sequences |
 |<h4>Sequencing Depth</h4> | The number of reads that cover a particular nucleotide, section/amplicon of the genome, or average across the reference sequence<br/>  &bull; Ideally a min depth of 10X for Illumina or 20X for Nanopore would be reached<br/>&bull; Uniform depth of coverage is better<br/> &bull; Nonuniform depth may be indicative of differential amplification of amplicons, or amplicon dropout<br/> &nbsp;&nbsp;&nbsp;&nbsp;&bull; This can be assessed using bedtools |
-| <h4>Percent Agreement</h4> | Percentage of basec call concordenance in reads mapped at a designated position in the reference genome|
+| <h4>Percent Agreement</h4> | Percentage of base call concordance in reads mapped at a designated position in the reference genome|
 | <h4>Coverage</h4> | What percent of the reference sequence is covered by the reads that have been produced<br/> &bull; This metric is typically used in conjunction with depth<br/>|
 | <h4>Percent Mapped Reads</h4> | Percentage of read data mapped to a specified reference genome|
 | <h4>Average Base Quality of Aligned Reads</h4> | Mean phred score of read data mapped to a reference genome|
