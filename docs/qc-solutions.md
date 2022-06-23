@@ -23,13 +23,13 @@ Please note that the QC guidelines in this document are simply an attempt to hig
 
 ## Contents
 - [Process Control For Bioinformatics QC Checkpoints](#process-control-for-bioinformatics-qc-checkpoints)
-- [QC Acceptance Creiteria](#qc-acceptance-creiteria)
+- [QC Acceptance Criteria](#qc-acceptance-creiteria)
   - [PHA4GE Suggested Thresholds](#pha4ge-suggested-thresholds)
 - [QC Metric Definitions](#qc-metric-definitions)
   - [Read QC Metrics](#read-qc-metrics)
   - [Alignment QC Metrics](#alignment-qc-metrics)
   - [Consensus Assembly QC Metrics](#consensus-assembly-qc-metrics)
-- [Additional QC Resrouces and Materials](#additional-qc-resrouces-and-materials)
+- [Additional QC Resources and Materials](#additional-qc-resrouces-and-materials)
 
 # Process Control For Bioinformatics QC Checkpoints
 The focus of this document is on the quality control (QC) of tiled amplicon sequencing--through the Artic V3 protocol, for example--a common method for generating SC2 sequencing data. These sequencing experiments generate thousands of amplicon reads that represent fragments of the original SC2 genome present in a sample and--as discussed in this working group's [Bioinformatics Solutions for SARS-CoV-2 Genomic Analysis Guidance Document](../docs/bioinfo-solutions.md)--assembling a contiguous SC2 genome from these amplicon read data is a critical step in providing insight from sequenced samples.
