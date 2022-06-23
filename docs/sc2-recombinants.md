@@ -19,7 +19,6 @@ In no way does this document represent a comprehensive list of all available SC2
 
 ## Contents
 - [General Information](#general-information)
-- [Publications on SARS-CoV-2 recombinants](#publications-on-sars-cov-2-recombinants)
 - [Tools used to detect recombinants/find breakpoint](#tools-used-to-detect-recombinants/find-breakpoint)
 - [Investigating Putative Recombinant Specimen](#investigating-putative-recombinant-specimen)
     - [Common terminology](#common-terminology)
@@ -28,40 +27,12 @@ In no way does this document represent a comprehensive list of all available SC2
         - [Determine whether the genome belongs to a designated recombinant lineage or represents a novel recombinant lineage](#determine-whether-the-genome-belongs-to-a-designated-recombinant-lineage-or-represents-a-novel-recombinant-lineage)
         - [Identify the breakpoint of the putative recombinant](#identify-the-breakpoint-of-the-putative-recombinant)
     - [Proposing a new recombinant lineage](#proposing-a-new-recombinant-lineage)
-
+- [Publications on SARS-CoV-2 recombinants](#publications-on-sars-cov-2-recombinants)
         
 
 # General Information
 
 More info and resources on recombinants
-
-# Publications on SARS-CoV-2 recombinants
-
-- Bolze, A., White, S., Basler, T., Dei Rossi, A., Roychoudhury, P., Greninger, A. L., ... & Luo, S. (2022). Evidence for SARS-CoV-2 Delta and Omicron co-infections and recombination. medRxiv. doi: https://doi.org/10.1101/2022.03.09.22272113
-
-- Colson, P, Fournier, P-E, Delerce, J, et al. Culture and identification of a “Deltamicron” SARS-CoV-2 in a three cases cluster in southern France. J Med Virol. 2022; 1- 11. doi:10.1002/jmv.27789
-
-- Colson, P., Delerce, J., Marion-Paris, E., Lagier, J. C., Levasseur, A., Fournier, P. E., ... & Raoult, D. (2022). A 21L/BA. 2-21K/BA. 1 “MixOmicron” SARS-CoV-2 hybrid undetected by qPCR that screen for variant in routine diagnosis. medRxiv. doi: https://doi.org/10.1101/2022.03.28.22273010
-
-- Duerr, R., Dimartino, D., Marier, C., Zappile, P., Wang, G., Plitnick, J., ... & Heguy, A. (2022). Delta-Omicron recombinant SARS-CoV-2 in a transplant patient treated with Sotrovimab. bioRxiv. doi: https://doi.org/10.1101/2022.04.06.487325
-
-- Gu, H., Ng, D., Liu, G., Cheng, S., Krishnan, P., Chang, L....Poon, L. (2022). Recombinant BA.1/BA.2 SARS-CoV-2 Virus in Arriving Travelers, Hong Kong, February 2022. Emerging Infectious Diseases, 28(6), 1276-1278. https://doi.org/10.3201/eid2806.220523.
-
-- Lacek, Kristine A., Benjamin Rambo-Martin, Dhwani Batra, Xiao-yu Zheng, Matthew W. Keller, Malania Wilson, Mili Sheth et al. "Identification of a Novel SARS-CoV-2 Delta-Omicron Recombinant Virus in the United States." bioRxiv (2022). doi: https://doi.org/10.1101/2022.03.19.484981
-
-- Lacek, K. A., Rambo-Martin, B. L., Batra, D., Zheng, X. Y., Hassell, N., Sakaguchi, H., ... & Paden, C. R. (2022). SARS-CoV-2 Delta-Omicron Recombinant Viruses, United States. Emerging Infectious Diseases, 28(7). DOI: 10.3201/eid2807.220526 
-
-- da Silva, L. S., de Oliveira, C. M., Cota, B. D. C. V., Romano, C. M., & Levi, J. E. (2022). Three SARS-CoV-2 recombinants identified in Brazilian children. DOI: https://doi.org/10.21203/rs.3.rs-1641864/v1
-
-- Moisan, A., Mastrovito, B., De Oliveira, F., Martel, M., Hedin, H., Leoz, M., ... & Plantier, J. C. (2022). Evidence of transmission and circulation of Deltacron XD recombinant SARS-CoV-2 in Northwest France. Clinical Infectious Diseases. doi: https://doi.org/10.1093/cid/ciac360
-
-- SIMON-LORIERE, E., Montagutelli, X., Lemoine, F., Donati, F., Touret, F., Bourret, J., ... & Danish COVID-19 Genome Consortium (DCGC). (2022). Rapid characterization of a Delta-Omicron SARS-CoV-2 recombinant detected in Europe. https://doi.org/10.21203/rs.3.rs-1502293/v1
-
-- VanInsberghe, D., Neish, A. S., Lowen, A. C., & Koelle, K. (2021). Recombinant SARS-CoV-2 genomes circulated at low levels over the first year of the pandemic. Virus Evolution, 7(2), veab059.doi: https://doi.org/10.1093/ve/veab059
-
-- Wertheim, J. O., Wang, J. C., Leelawong, M., Martin, D. P., Havens, J. L., Chowdhury, M. A., ... & Hughes, S. (2022). Capturing intrahost recombination of SARS-CoV-2 during superinfection with Alpha and Epsilon variants in New York City. medRxiv. doi: https://doi.org/10.1101/2022.01.18.22269300
-
-
 
 # Tools used to detect recombinants/find breakpoint
 
@@ -202,3 +173,29 @@ In this case, the breakpoint was at two sites that confer amino acid substitutio
 ## Proposing a new recombinant lineage:
 
 The pango team recently released a set of [guidelines](https://www.pango.network/pango-lineages-guidelines-for-suggesting-novel-and-recombinant-lineages/) for proposing new recombinant lineages. 
+
+# Publications on SARS-CoV-2 recombinants
+
+- Bolze, A., White, S., Basler, T., Dei Rossi, A., Roychoudhury, P., Greninger, A. L., ... & Luo, S. (2022). Evidence for SARS-CoV-2 Delta and Omicron co-infections and recombination. medRxiv. doi: https://doi.org/10.1101/2022.03.09.22272113
+
+- Colson, P, Fournier, P-E, Delerce, J, et al. Culture and identification of a “Deltamicron” SARS-CoV-2 in a three cases cluster in southern France. J Med Virol. 2022; 1- 11. doi:10.1002/jmv.27789
+
+- Colson, P., Delerce, J., Marion-Paris, E., Lagier, J. C., Levasseur, A., Fournier, P. E., ... & Raoult, D. (2022). A 21L/BA. 2-21K/BA. 1 “MixOmicron” SARS-CoV-2 hybrid undetected by qPCR that screen for variant in routine diagnosis. medRxiv. doi: https://doi.org/10.1101/2022.03.28.22273010
+
+- Duerr, R., Dimartino, D., Marier, C., Zappile, P., Wang, G., Plitnick, J., ... & Heguy, A. (2022). Delta-Omicron recombinant SARS-CoV-2 in a transplant patient treated with Sotrovimab. bioRxiv. doi: https://doi.org/10.1101/2022.04.06.487325
+
+- Gu, H., Ng, D., Liu, G., Cheng, S., Krishnan, P., Chang, L....Poon, L. (2022). Recombinant BA.1/BA.2 SARS-CoV-2 Virus in Arriving Travelers, Hong Kong, February 2022. Emerging Infectious Diseases, 28(6), 1276-1278. https://doi.org/10.3201/eid2806.220523.
+
+- Lacek, Kristine A., Benjamin Rambo-Martin, Dhwani Batra, Xiao-yu Zheng, Matthew W. Keller, Malania Wilson, Mili Sheth et al. "Identification of a Novel SARS-CoV-2 Delta-Omicron Recombinant Virus in the United States." bioRxiv (2022). doi: https://doi.org/10.1101/2022.03.19.484981
+
+- Lacek, K. A., Rambo-Martin, B. L., Batra, D., Zheng, X. Y., Hassell, N., Sakaguchi, H., ... & Paden, C. R. (2022). SARS-CoV-2 Delta-Omicron Recombinant Viruses, United States. Emerging Infectious Diseases, 28(7). DOI: 10.3201/eid2807.220526 
+
+- da Silva, L. S., de Oliveira, C. M., Cota, B. D. C. V., Romano, C. M., & Levi, J. E. (2022). Three SARS-CoV-2 recombinants identified in Brazilian children. DOI: https://doi.org/10.21203/rs.3.rs-1641864/v1
+
+- Moisan, A., Mastrovito, B., De Oliveira, F., Martel, M., Hedin, H., Leoz, M., ... & Plantier, J. C. (2022). Evidence of transmission and circulation of Deltacron XD recombinant SARS-CoV-2 in Northwest France. Clinical Infectious Diseases. doi: https://doi.org/10.1093/cid/ciac360
+
+- SIMON-LORIERE, E., Montagutelli, X., Lemoine, F., Donati, F., Touret, F., Bourret, J., ... & Danish COVID-19 Genome Consortium (DCGC). (2022). Rapid characterization of a Delta-Omicron SARS-CoV-2 recombinant detected in Europe. https://doi.org/10.21203/rs.3.rs-1502293/v1
+
+- VanInsberghe, D., Neish, A. S., Lowen, A. C., & Koelle, K. (2021). Recombinant SARS-CoV-2 genomes circulated at low levels over the first year of the pandemic. Virus Evolution, 7(2), veab059.doi: https://doi.org/10.1093/ve/veab059
+
+- Wertheim, J. O., Wang, J. C., Leelawong, M., Martin, D. P., Havens, J. L., Chowdhury, M. A., ... & Hughes, S. (2022). Capturing intrahost recombination of SARS-CoV-2 during superinfection with Alpha and Epsilon variants in New York City. medRxiv. doi: https://doi.org/10.1101/2022.01.18.22269300
