@@ -176,7 +176,7 @@ An examination of the resulting assembly quality is also critical as these assem
 
 ## Additional QC Resrouces and Materials
 
-- [ncov-tools](https://github.com/jts/ncov-tools) - Tools and plots for perfoming quality control on coronavirus sequencing results.
+- [ncov-tools](https://github.com/jts/ncov-tools) - Tools and plots for performing quality control on coronavirus sequencing results.
 - [Quality Management Systems Tools & Resources - Process Management](https://www.cdc.gov/labquality/qms-tools-and-resources.html#:~:text=Click%20to%20expand-,Process%20Management,-Provides%20guidance%20on) - US CDC Quality Management Systems for SARS-CoV-2 NGS Data
 - [TheiaCoV QC output Video](https://www.youtube.com/watch?v=Amb-8M71umw&list=PLU47xRg_MKJrtyoFwqGiywl7lQj6vq8Uz&index=3) - Video tutorial for assessing SARS-CoV-2 genomic characterization with Theiagen's TheiaCoV workflows
 - [StaPH-B Glossary](http://www.staphb.org/resources/glossary/) - US State Public Health Bioinformatics (StaPH-B) working group's bioinformatics glossary of terms
