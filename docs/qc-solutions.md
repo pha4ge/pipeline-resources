@@ -174,7 +174,7 @@ An examination of the resulting assembly quality is also critical as these assem
 | <h4>S-gene Ambiguous Bases</h4> | Number of ambiguous base calls (Ns) incorporated into the s-gene of the consensus assembly|
 
 
-## Additional QC Resrouces and Materials
+## Additional QC Resources and Materials
 
 - [ncov-tools](https://github.com/jts/ncov-tools) - Tools and plots for performing quality control on coronavirus sequencing results.
 - [Quality Management Systems Tools & Resources - Process Management](https://www.cdc.gov/labquality/qms-tools-and-resources.html#:~:text=Click%20to%20expand-,Process%20Management,-Provides%20guidance%20on) - US CDC Quality Management Systems for SARS-CoV-2 NGS Data
