@@ -106,11 +106,11 @@ This genome received a clade assignment of “recombinant” using v1.14.1. It h
 This genome was given a lineage assignment of BA.2 by UShER. This differs from the Nextclade lineage assignment of XQ, which is a bit confusing.  On the UShER subtree, this genome falls into a clade of similar sequences, but all of them are assigned the BA.2 lineage. This means that this genome will need further investigation. Since this sequence was high quality, determined to be a recombinant by Nextclade, but was not assigned a recombinant pango lineage in UShER, it may belong to a novel recombinant lineage that has not been designated.
 
 <p align="center">
-  <img src="./images/sc2-recombinants/ex1-21.png" class="center">
+  <img src="./images/sc2-recombinants/ex1-usher-metrics.png" class="center">
 </p>
 
 <p align="center">
-  <img src="./images/sc2-recombinants/ex1-22.png" class="center">
+  <img src="./images/sc2-recombinants/ex1-usher-tree.png" class="center">
 </p>
 
 ##### Example 2
@@ -118,11 +118,11 @@ This genome was given a lineage assignment of BA.2 by UShER. This differs from t
 This genome was given a lineage assignment of XE by UShER. When viewing the UShER subtree, this sequence falls amongst many other XE genomes. In fact, it is nearly identical to several other genomes in the public repositories. Therefore, this genome is likely a true XE recombinant. Since this genome belongs to a designated recombinant lineage that has been previously characterized, no further investigation is necessary. 
 
 <p align="center">
-  <img src="./images/sc2-recombinants/ex1-21.png" class="center">
+  <img src="./images/sc2-recombinants/ex2-usher-metrics.png" class="center">
 </p>
 
 <p align="center">
-  <img src="./images/sc2-recombinants/ex1-22.png" class="center">
+  <img src="./images/sc2-recombinants/ex2-usher-tree.png" class="center">
 </p>
 
 
