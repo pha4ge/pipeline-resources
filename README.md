@@ -45,7 +45,7 @@ The US Centers for Disease Control and Prevention's Technical Outreach and Assis
 
 ### [Quality Control Guidance](docs/qc-solutions.md)
 
-{In development}
+In an attempt to assist with quality control (QC) measures, the bioinformatics pipeline and visualization working group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the QC challenges for SC2 genomic analysis and suggest a QC systems solutions to address them.
 
 ### Informing Public Health Action
 
