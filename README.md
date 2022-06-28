@@ -31,7 +31,9 @@ The PHA4GE Pipelines and Visualization Working Group has created this document t
 
 ### [Identifying SARS-CoV-2 Recombinants](docs/sc2-recombinants.md)
 
-{In development}
+SARS-CoV-2 recombinants have garnered the attention of the public health community largely due to the unknown clinical and epidemiological implications. This uncertainty emphasizes the need to detect and characterize recombinant SARS-CoV-2 genomes, but the ability to do so rapidly and systematically is not without challenges. Often, recombinant genomes receive an “Unassigned” pango lineage, a non-recombinant pango lineage, or the incorrect recombinant lineage assignment. Additionally, determining the site of recombination within the genome can be difficult for those without extensive SARS-CoV-2 bioinformatics experience.
+
+The PHA4GE Pipelines and Visualization Working Group has created this document as an attempt to highlight critical sources of information and open-source/access resources to aid in the analysis and surveillance of potential recombinant specimens.
 
 ### [Bioinformatics Solutions](docs/bioinfo-solutions.md)
 
