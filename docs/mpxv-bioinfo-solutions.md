@@ -42,6 +42,10 @@ The PHA4GE Bioinformatics Pipeline and Visualization Working Group has defined f
 
 # Open-Access/Source Bioinformatics Solutions & Resources
 
+## Video resources
+
+- [BV-BRC Monkeypox and Orthopoxvirus Mini Symposium Playlist] (https://youtube.com/playlist?list=PLWfOyhOW_OavOhvmuyUf19nsYASClMnXU)
+
 ## Sequencing resources
 
 - [PrimalSeq amplicon scheme and protocol](https://www.protocols.io/view/monkeypox-virus-multiplexed-pcr-amplicon-sequencin-cd8ds9s6)
@@ -62,7 +66,7 @@ The PHA4GE Bioinformatics Pipeline and Visualization Working Group has defined f
 
 ## Submission of sequence data to international accessible databases
 - [Sample Metadata Specifications](https://sprcdn-assets.sprinklr.com/1652/133486a8-9b49-4461-a0d7-211c140947cc-562840094.pdf)
-- Preparation and/or Submission of Samples:
+- Preparation and/or Submission of Samples
     - Terra_2_NCBI workflow (only SRA/BioSample at the moment) for programmatic submission of raw read data analysed on Terra to SRA and BioSample
     - [NCBI guide to submit consensus sequences using BankIt](https://www.ncbi.nlm.nih.gov/genbank/monkeypox_submission/)
 - Assess Data Quality Prior to Submission
@@ -70,26 +74,27 @@ The PHA4GE Bioinformatics Pipeline and Visualization Working Group has defined f
 
 ## Screening for Variants of Concern
 
--[Nextclade](https://clades.nextstrain.org/):
+- [Nextclade](https://clades.nextstrain.org/)
     - assignment of consensus sequences to nextstrain clades, quality control, and mutation effect annotation.  References pre-built for inferred ancestral monkeypox, the human monkeypox clade, and the specific B.1 human monkeypox clade. 
 
 
 ## Performing Phylogenetic analysis of MPXV datasets
 
-- [Augur](https://docs.nextstrain.org/projects/augur/en/stable/index.html):
+- [Augur](https://docs.nextstrain.org/projects/augur/en/stable/index.html)
     - A bioinformatics toolkit for phylogenetic analysis which constructs phylogenetic trees that can be visualised in NextStrain 
 
-- [Nextstrain Monkeypox build workflow](https://github.com/nextstrain/monkeypox):
+- [Nextstrain Monkeypox build workflow](https://github.com/nextstrain/monkeypox)
     - Workflow to perform contextualised phylogenetic analysis of monkeypox consensus sequences (by default using the human monkeypox reference genome NC_063383.1)
 
 - [Taxonium](https://taxonium.org/?treeUrl=https%3A%2F%2Fns-proxy.vercel.app%2Fapi%2Fcharon%2FgetDataset%3Fprefix%3Dmonkeypox%2Fhmpxv1&ladderizeTree=true&treeType=nextstrain&color=%7B%22field%22%3A%22meta_country%22%7D)
+    - Tool for exploring large phylogenetic trees - Monkeypox sequences from GenBank
 
 ## Publicly available data
 To help getting started with phylogenetic analysis, Nextstrain provides MPXV data available on NCBI in aggregated form:
 - [Sequences](https://data.nextstrain.org/files/workflows/monkeypox/sequences.fasta.xz)
 - [Metadata](https://data.nextstrain.org/files/workflows/monkeypox/metadata.tsv.gz)
 
-Pairwise alignments with [Nextclade](https://clades.nextstrain.org/) against the [reference sequence MPXV-M5312_HM12_Rivers](https://www.ncbi.nlm.nih.gov/nuccore/NC_063383), insertions relative to the reference, and translated ORFs are available at:
+Pairwise alignments with [Nextclade](https://clades.nextstrain.org/) against the [reference sequence MPXV-M5312_HM12_Rivers](https://www.ncbi.nlm.nih.gov/nuccore/NC_063383), insertions relative to the reference, and translated ORFs are available:
 
 - [Alignment](https://data.nextstrain.org/files/workflows/monkeypox/alignment.fasta.xz)
 - [Insertions](https://data.nextstrain.org/files/workflows/monkeypox/insertions.csv.gz)
