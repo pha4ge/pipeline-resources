@@ -9,6 +9,10 @@ Libuit KG, Spinler JK, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathai
 - 2021-12-19:
   - Added section detailing Omicron lineage and clade nomenclature, COVID-19 scenario modeling resource, and additional reference sequences
   - Updated Pangolin and Nextclade software minimums and resource links for genomic information (e.g. defining mutations), visualizations, and global case counts over time to include B.1.1.529 sub lineages
+
+ - 2022-10-10
+  - Updated variant designations
+  - Historical Information / Archived Data added
 </details>
 
 # Overview
@@ -38,7 +42,7 @@ In no way does this document represent a comprehensive list of all available SC2
 Below is a list of various educational material, public health announcements and publications, thechnical details and global trackers, phylogenetic visualiations, and resources to assist in data sharing and reporting of the Omicron variant.
 
 ## Omicron Lineage and Clade Nomenclature
-- The Omicron Variant is the [WHO SARS-CoV-2 VOC label](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/) for the pango lineage B.1.1.529 (Nextstrain clade 21M) and all descendant lineages: BA.1 (Nextstrain clade 21K), BA.2 (Nextstrain clade 21.L) and BA.3 (Nextstrain clade 21M)
+- The Omicron Variant is the [WHO SARS-CoV-2 VOC label](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/) for the pango lineage B.1.1.529 (includes BA.1, BA.2, BA.3, BA.4, BA.5 and descendent and recombinant lineage XE) Nextstrain designations include 21K, 21L, 21M, 22A, 22B, and 22C. 
 
 ## Educational Material
 - [Nature News Article - Heavily mutated Omicron variant puts scientists on alert](https://www.nature.com/articles/d41586-021-03552-w): Overview of the identified variant and its potential public health impacts.
@@ -55,18 +59,14 @@ Below is a list of various educational material, public health announcements and
 - [SARS-CoV-2 variants of concern and variants under investigation in England Variant of concern: Omicron, VOC21NOV-01 (B.1.1.529); Technical briefing 30 (2021-12-03)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1038404/Technical_Briefing_30.pdf)
 
 ## Technical Details and Global Trackers
-- [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) (Tom Peacock)
-- [Proposal for third sublineage in B.1.1.529 (BA.3)](https://github.com/cov-lineages/pango-designation/issues/367) (Andrew Rambaut)
-  - Includes table of shared and unique mutations across B.1.1.529, BA.1, BA.2, and BA.3
+
 - Various resources for genomic information (e.g. defining mutations), visualizations, and global case counts over time:
-  - COV-Lineage Variant Summary Pages: [B.1.1.529](https://cov-lineages.org/lineage.html?lineage=B.1.1.529), [BA.1](https://cov-lineages.org/lineage.html?lineage=BA.1), [BA.2](https://cov-lineages.org/lineage.html?lineage=BA.2), and [BA.3](https://cov-lineages.org/lineage.html?lineage=BA.3)
-  - BV-BRC Lineage Profiles: [BA.1](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.1), [BA.2](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.2), & [BA.3](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.3)
+  - COV-Lineage Variant Summary Pages: [B.1.1.529](https://cov-lineages.org/lineage.html?lineage=B.1.1.529), [BA.1](https://cov-lineages.org/lineage.html?lineage=BA.1), [BA.2](https://cov-lineages.org/lineage.html?lineage=BA.2),[BA.3](https://cov-lineages.org/lineage.html?lineage=BA.3), [BA.4](https://cov-lineages.org/lineage.html?lineage=BA.4), [BA.5](https://cov-lineages.org/lineage.html?lineage=BA.5) & [XE](https://cov-lineages.org/lineage.html?lineage=XE)
+  - BV-BRC Lineage Profiles: [BA.1](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.1), [BA.2](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.2), [BA.3](https://bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.3), [BA.4](https://www.bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.4), [BA.5](https://www.bv-brc.org/view/VariantLineage/#view_tab=lineage&loc=BA.5)
   - [Outbreak.info Omicron Variant Report](https://outbreak.info/situation-reports/omicron) 
-  - [CoVariants 21K (Omicron) Profile](https://covariants.org/variants/21K.Omicron)
+  - CoVariants (Omicron) Profiles for Nextstrain: [21K](https://covariants.org/variants/21K.Omicron), [21L](https://covariants.org/variants/21L.Omicron), [22A](https://covariants.org/variants/22A.Omicron), [22B](https://covariants.org/variants/22B.Omicron), [22C](https://covariants.org/variants/22C.Omicron), [22D](https://covariants.org/variants/22D.Omicron)
   - [CNCB RCoV19 Lineage Browser](https://ngdc.cncb.ac.cn/ncov/lineage?lineage=B.1.1.529#goto) 
-- [Galaxy EU Omicron Public Analysis](https://galaxyproject.eu/posts/2021/11/29/omicron-and-galaxy/): View of the Omicron lineage’s mutational pattern derived transparently and fully reproducibly from raw sequencing reads using the Galaxy Project bioinformatics platform
-- [Omicron Data Round Up](https://docs.google.com/presentation/d/1sOaHoXFZqIUnqmjdeuaUODCqaUSvtxQp4f2hF9pBdn8/edit#slide=id.g104e9fe3cf0_2_75): Summary of the Omicron variant and what can be inferred based on publicly-accessible data presented 2021-12-01 by Anna Niewiadomska 
-- [COVID-19 Scenario Modeling Hub](https://covid19scenariomodelinghub.org/viz.html): Synthesis of over 30 COVID-19 models for public health forecasting
+  - [COVID-19 Scenario Modeling Hub](https://covid19scenariomodelinghub.org/viz.html): Synthesis of over 30 COVID-19 models for public health forecasting
 
 ## Phylogenetic Visualizations
 - [NextStrain Build of B.1.1.529 (21K)](https://nextstrain.org/groups/neherlab/ncov/21K)
@@ -126,3 +126,10 @@ Primer dropouts in Omicron sequence data may lead to errant evolutionary inferen
 
 
 
+## Historical Information / Archived Data
+
+- [Pango-designation proposed new lineage](https://github.com/cov-lineages/pango-designation/issues/343) and the [associated twitter thread](https://twitter.com/PeacockFlu/status/1463176821416075279) (Tom Peacock)
+- [Proposal for third sublineage in B.1.1.529 (BA.3)](https://github.com/cov-lineages/pango-designation/issues/367) (Andrew Rambaut)
+  - Includes table of shared and unique mutations across B.1.1.529, BA.1, BA.2, and BA.3
+- [Galaxy EU Omicron Public Analysis](https://galaxyproject.eu/posts/2021/11/29/omicron-and-galaxy/): View of the Omicron lineage’s mutational pattern derived transparently and fully reproducibly from raw sequencing reads using the Galaxy Project bioinformatics platform
+- [Omicron Data Round Up](https://docs.google.com/presentation/d/1sOaHoXFZqIUnqmjdeuaUODCqaUSvtxQp4f2hF9pBdn8/edit#slide=id.g104e9fe3cf0_2_75): Summary of the Omicron variant and what can be inferred based on publicly-accessible data presented 2021-12-01 by Anna Niewiadomska 
