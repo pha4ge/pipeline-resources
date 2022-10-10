@@ -51,6 +51,12 @@ In an attempt to assist with quality control (QC) measures, the bioinformatics p
 
 {In development}
 
+
+Monkeypox Resources
+==================
+
+### [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
+
 Contributing
 ============
 Contributions to the documents are more than welcome. To propose a change, edit the source files and open a pull-request with the proposed changes.
