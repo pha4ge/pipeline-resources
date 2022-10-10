@@ -44,7 +44,7 @@ The PHA4GE Bioinformatics Pipeline and Visualization Working Group has defined f
 
 ## Video resources
 
-- [BV-BRC Monkeypox and Orthopoxvirus Mini Symposium Playlist] (https://youtube.com/playlist?list=PLWfOyhOW_OavOhvmuyUf19nsYASClMnXU)
+- [BV-BRC Monkeypox and Orthopoxvirus Mini Symposium Playlist](https://youtube.com/playlist?list=PLWfOyhOW_OavOhvmuyUf19nsYASClMnXU)
 
 ## Sequencing resources
 
