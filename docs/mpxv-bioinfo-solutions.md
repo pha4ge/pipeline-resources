@@ -1,7 +1,7 @@
 # **# Bioinformatics Challenges for Public Health**
 
 PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group <br/>
-
+Libuit KG, Southgate J, Ünal G, Maguire F, Smith E, Kapsak S, van Heusden P, Wright S, Neher R, Diallo A
 
 # Overview
 
