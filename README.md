@@ -9,12 +9,14 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 ## Contents
 - [Rationale](#rationale)
 - [SARS-CoV-2 Resources](#sars-cov-2-resources)
-	- [Omicron Variant Resources](#sars-cov-2-resources)
-	- [Identifying SARS-CoV-2 Recombinants](#sars-cov-2-resources)
-	- [Bioinformatics Solutions](#sars-cov-2-resources)
-	- [Validation Data Sets](#sars-cov-2-resources)
-	- [Quality Control Guidance](#sars-cov-2-resources)
+	- [Omicron Variant Resources](/docs/omicron-resources.md)
+	- [Identifying SARS-CoV-2 Recombinants](docs/sc2-recombinants.md)
+	- [Bioinformatics Solutions](docs/bioinfo-solutions.md)
+	- [Validation Data Sets](https://github.com/CDCgov/datasets-sars-cov-2)
+	- [Quality Control Guidance](docs/qc-solutions.md)
 	- [Informing Public Health Action](#sars-cov-2-resources)
+- [Monkeypox Resources](#monkeypox-resources)
+	- [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
 - [Contributing](#contributing)
 
 
