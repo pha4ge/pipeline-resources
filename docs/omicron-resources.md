@@ -9,6 +9,10 @@ Libuit KG, Spinler JK, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathai
 - 2021-12-19:
   - Added section detailing Omicron lineage and clade nomenclature, COVID-19 scenario modeling resource, and additional reference sequences
   - Updated Pangolin and Nextclade software minimums and resource links for genomic information (e.g. defining mutations), visualizations, and global case counts over time to include B.1.1.529 sub lineages
+
+ - 2022-10-10
+  - Updated variant designations
+  - Historical Information / Archived Data added
 </details>
 
 # Overview
