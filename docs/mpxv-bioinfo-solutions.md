@@ -16,7 +16,7 @@ Please note that the bioinformatics resources listed in this document are simply
 
 Monkeypox is a viral zoonosis which belongs to genus Orthopoxvirus in the family Poxviridae. The virus can be transmitted to humans from animals. After the eradication of smallpox in 1980, monkeypox emerged and became the most important orthopoxvirus for public health aspects. The virus is an enveloped double-stranded DNA virus and has two distinct genetic clades: the central African (Congo Basin) clade and the west African clades. Historically known as the Congo Basin can cause more severe disease and more transmissible [WHO](https://www.who.int/news-room/fact-sheets/detail/monkeypox). The clinical presentation of this virus is similar to smallpox but some vaccination with smallpox can help individuals for cross-immunity. Lethality rate varies %1-10 and transmission between humans mainly occurs either direct contact or body fluids and via droplets [Berthet, N. et al.](https://rdcu.be/cTOiG). 
 
-MPXV is a linear DNA genome of ≈197 kb. Like other orthopoxviruses, the central coding region sequence (CRS) at MPXV is between  between ≈56000–120000 and highly conserved. The genes in the terminal end of MPXV genome responsible for immunomodulation, host range and pathogenicity and also contaion at least 4 ORF in the ITR region [Kugelman, JR et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3901482/).  
+MPXV is a linear DNA genome of ≈197 kb. Like other orthopoxviruses, the central coding region sequence (CRS) at MPXV is between ≈56000–120000 and is highly conserved. The genes in the terminal end of MPXV genome responsible for immunomodulation, host range and pathogenicity and also contains at least 4 ORF in the ITR region [Kugelman, JR et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3901482/).  
 
 
 # Public Monkeypox Case Databases
@@ -62,7 +62,7 @@ The PHA4GE Bioinformatics Pipeline and Visualization Working Group has defined f
 - [Epi2Me](https://labs.epi2me.io/basic-monkeypox-workflow/)
     - Only supports metagenomic data
 -[Viral-Recon](https://github.com/nf-core/viralrecon):
-    - Workflow for raw read quality control, de-hosting, assembly, variant calling, and consensus generation for illumina and nanopore monkeypox data. Currently does not include pre-built support for monkeypox (e.g., reference genome, reference annotations, nextclade dataset, and amplicon schemes) but these can be user-supplied on the command line and should be appropropriate to the sequencing method (e.g., for amplicon sequencing using the reference used to create the amplicon scheme and for metagenomic sequencing, to be consistent with nextstrain, you can use NC_063383.1.fasta, NC_063383.1.gff, with the nextclade dataset nextclade_hMPXV_B1_pseudo_ON563414_XXXXXXX).
+    - Workflow for raw read quality control, de-hosting, assembly, variant calling, and consensus generation for illumina and nanopore monkeypox data. Currently does not include pre-built support for monkeypox (e.g., reference genome, reference annotations, nextclade dataset, and amplicon schemes) but these can be user-supplied on the command line and should be appropriate to the sequencing method (e.g., for amplicon sequencing using the reference used to create the amplicon scheme and for metagenomic sequencing, to be consistent with Nextstrain, you can use NC_063383.1.fasta, NC_063383.1.gff, with the nextclade dataset nextclade_hMPXV_B1_pseudo_ON563414_XXXXXXX).
 
 ## Submission of sequence data to international accessible databases
 - [Sample Metadata Specifications](https://sprcdn-assets.sprinklr.com/1652/133486a8-9b49-4461-a0d7-211c140947cc-562840094.pdf)
@@ -75,7 +75,7 @@ The PHA4GE Bioinformatics Pipeline and Visualization Working Group has defined f
 ## Screening for Variants of Concern
 
 - [Nextclade](https://clades.nextstrain.org/)
-    - assignment of consensus sequences to nextstrain clades, quality control, and mutation effect annotation.  References pre-built for inferred ancestral monkeypox, the human monkeypox clade, and the specific B.1 human monkeypox clade. 
+    - assignment of consensus sequences to Nextstrain clades, quality control, and mutation effect annotation.  References pre-built for inferred ancestral monkeypox, the human monkeypox clade, and the specific B.1 human monkeypox clade. 
 
 
 ## Performing Phylogenetic analysis of MPXV datasets
