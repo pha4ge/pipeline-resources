@@ -91,7 +91,7 @@ This genome (EPI_ISL_12612634) received a clade assignment of “recombinant” 
 This genome received a clade assignment of “recombinant” using v1.14.1. It has 10 mutations relative to the Wuhan-1 reference genome. It has 21,498 Ns, meaning that the majority of the genome assembly is composed of ambiguous bases. Despite the “recombinant” assignment and “XF” pango lineage, the quality of this sequence is too poor to continue investigating for recombination. 
 
 <p align="center">
-  <img src="./images/sc2-recombinants/ex2.png" class="center">
+  <img src="./images/sc2-recombinants/ex3.png" class="center">
 </p>
 
 
