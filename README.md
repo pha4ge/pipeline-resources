@@ -59,6 +59,8 @@ Monkeypox Resources
 
 ### [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
 
+In an attempt to assist this integration process, the bioinformatics pipeline and visualization working group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the major bioinformatics challenges for Mpox genomic analysis and suggest various open-source and freely available bioinformatics resources to address them.
+
 Contributing
 ============
 Contributions to the documents are more than welcome. To propose a change, edit the source files and open a pull-request with the proposed changes.
