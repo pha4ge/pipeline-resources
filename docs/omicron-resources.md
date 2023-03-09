@@ -4,7 +4,7 @@
 Libuit KG, Spinler JK, Southgate J, Black A, Nekrutenko A, Neuhaus B, O’Cathail C, Lemmer D, Jones D, Smith E, Gnimpieba E, Guthrie J, Maturure P, Monsierurs P, Maier W, Langhorst B, Page A, & Niewiadomska AM 
 
 <details>
- <summary> Document Change Log</summary>
+ <summary> Document Changelog</summary>
  
 - 2021-12-19:
   - Added section detailing Omicron lineage and clade nomenclature, COVID-19 scenario modeling resource, and additional reference sequences
