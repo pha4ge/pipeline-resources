@@ -4,10 +4,13 @@
 Libuit KG, Lunn S, Carleton H, Khan W, Kanwar S, van Heusden P, Amrosio F, Lemmer D, Mboowa G, Macori G, Southgate J 
 
 <details>
- <summary> Document Change Log</summary>
+ <summary> Document Changelog</summary>
  
-- {date}:
+- 2022-06-23:
   - First draft published
+- 2023-03-09:
+  - Added changelog
+
 </details>
 
 
