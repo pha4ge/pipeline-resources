@@ -3,6 +3,18 @@
 PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group <br/>
 Libuit KG, Southgate J, Ünal G, Maguire F, Smith E, Kapsak S, van Heusden P, Wright S, Neher R, Diallo A
 
+<details>
+ <summary> Document Changelog</summary>
+ 
+- 2022-10-10:
+  - First draft published
+- 2022-11-28:
+  - Nomenclature update: Monkeypox -> Mpox
+- 2023-03-09:
+  - Add changelog
+</details>
+
+
 # Overview
 
 Genomic analysis of monkeypox virus (MPXV) samples by public health laboratories is a critical component in understanding the global outbreak. The integration and awareness of appropriate bioinformatics tools to support these endeavours are potential challenges.
