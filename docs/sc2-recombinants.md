@@ -6,8 +6,12 @@ Smith E, Wright S, Libuit K
 <details>
  <summary> Document Change Log</summary>
  
-- {date}:
+- 2022-06-28:
   - First draft published
+- 2023-02-16:
+  - Update recombinant image (Example 3)
+- 2023-03-09:
+  - Add changelog
 </details>
 
 # Overview
