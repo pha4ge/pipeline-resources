@@ -1,7 +1,7 @@
 # **Bioinformatics Solutions for SARS-CoV-2 Genomic Analysis**
 
 PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group <br/>
-Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Lunn S, Langhorst B
+Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Lunn S, Constantinides B, Langhorst B
 
 # Overview
 
@@ -100,6 +100,12 @@ The bioinformatics resources listed below are open-source pipelines that run on 
   - **Documentation:** [https://staph-b.github.io/staphb\_toolkit/](https://staph-b.github.io/staphb_toolkit/install/), [Python Package Index (PyPI)](https://pypi.org/project/staphb-toolkit/)
   - **User base:** US PHLs
   - **User-interface:** CLI (Python package)
+- [ViralConsensus](https://github.com/niemasd/ViralConsensus)
+  - **Brief Description:** A primer-aware consensus assembler developed for efficient assembly of SARS-CoV-2 reads from CRAM/BAM/SAM input. Written in C++. [Preprint](https://www.biorxiv.org/content/10.1101/2023.01.05.522928v1).
+  - **Developed/supported by:** Niema Moshiri
+  - **Documentation:** [Github Readme](https://github.com/niemasd/ViralConsensus), [DockerHub](https://hub.docker.com/r/niemasd/viral_consensus)
+  - **User base:** Unknown
+  - **User-interface:** CLI (C++ executable)
  
 </details>
 
