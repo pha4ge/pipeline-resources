@@ -3,6 +3,14 @@
 PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group <br/>
 Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Lunn S, Constantinides B, Langhorst B
 
+<details>
+ <summary> Document Changelog</summary>
+
+- 2023-03-19:
+  - Add CLI tool ViralConsensus
+  - Add changelog
+</details>
+
 # Overview
 
 Genomic analysis of SARS-CoV-2 (SC2) samples is an increasingly critical function to public health laboratories around the world. Integration of the appropriate bioinformatics solutions to support these works, however, can be an overwhelming challenge.
