@@ -114,6 +114,13 @@ The bioinformatics resources listed below are open-source pipelines that run on 
   - **Documentation:** [Github Readme](https://github.com/niemasd/ViralConsensus), [DockerHub](https://hub.docker.com/r/niemasd/viral_consensus)
   - **User base:** Unknown
   - **User-interface:** CLI (C++ executable)
+- [nf-core/viralrecon](https://github.com/nf-core/viralrecon)
+  - **Brief Description:** nf-core/viralrecon is a bioinformatics analysis pipeline used to perform assembly and intra-host/low-frequency variant calling for viral samples. The pipeline supports both Illumina and Nanopore sequencing data.
+  - **Developed/supported by:** [nf-core](https://nf-co.re/)
+  - **Documentation:** [Github Readme](https://github.com/nf-core/viralrecon), [nf-core documentation](https://nf-co.re/viralrecon)
+  - **User base:** Unknown
+  - **Workflow language:** Nextflow
+    - **CLI Platforms:** Nextflow cli client, Nextflow Tower (local HPC, cloud, etc)
  
 </details>
 
