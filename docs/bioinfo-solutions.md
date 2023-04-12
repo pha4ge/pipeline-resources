@@ -115,7 +115,7 @@ The bioinformatics resources listed below are open-source pipelines that run on 
   - **User base:** Unknown
   - **User-interface:** CLI (C++ executable)
 - [nf-core/viralrecon](https://github.com/nf-core/viralrecon)
-  - **Brief Description:** nf-core/viralrecon is a bioinformatics analysis pipeline used to perform assembly and intra-host/low-frequency variant calling for viral samples. The pipeline supports both Illumina and Nanopore sequencing data.
+  - **Brief Description:** nf-core/viralrecon is a bioinformatics analysis pipeline used to perform assembly and intra-host/low-frequency variant calling for viral samples. The pipeline supports both Illumina and Nanopore sequencing data. For Illumina short-reads the pipeline is able to analyse metagenomics data typically obtained from shotgun sequencing (e.g. directly from clinical samples) and enrichment-based library preparation methods (e.g. amplicon-based: ARTIC SARS-CoV-2 enrichment protocol; or probe-capture-based). For Nanopore data the pipeline only supports amplicon-based analysis obtained from primer sets created and maintained by the ARTIC Network
   - **Developed/supported by:** [nf-core](https://nf-co.re/)
   - **Documentation:** [Github Readme](https://github.com/nf-core/viralrecon), [nf-core documentation](https://nf-co.re/viralrecon)
   - **User base:** Unknown
