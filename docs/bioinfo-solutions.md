@@ -9,7 +9,7 @@ Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mb
 - 2023-03-19:
   - Add CLI tool ViralConsensus
   - Add changelog
-- 2023-04-14:
+- 2023-04-13:
   - Add CLI tool nf-core/viralrecon
 </details>
 
