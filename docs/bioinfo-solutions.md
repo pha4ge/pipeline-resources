@@ -1,7 +1,7 @@
 # **Bioinformatics Solutions for SARS-CoV-2 Genomic Analysis**
 
 PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group <br/>
-Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Lunn S, Constantinides B, Langhorst B
+Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Lunn S, Constantinides B, Varona S, Langhorst B
 
 <details>
  <summary> Document Changelog</summary>
@@ -9,6 +9,8 @@ Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mb
 - 2023-03-19:
   - Add CLI tool ViralConsensus
   - Add changelog
+- 2023-04-14:
+  - Add CLI tool nf-core/viralrecon
 </details>
 
 # Overview
