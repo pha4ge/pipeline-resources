@@ -15,7 +15,7 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 	- [Validation Data Sets](https://github.com/CDCgov/datasets-sars-cov-2)
 	- [Quality Control Guidance](docs/qc-solutions.md)
 	- [Informing Public Health Action](#sars-cov-2-resources)
-- [Monkeypox Resources](#monkeypox-resources)
+- [Mpox Resources](#mpox-resources)
 	- [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
 - [Contributing](#contributing)
 
@@ -54,7 +54,7 @@ In an attempt to assist with quality control (QC) measures, the bioinformatics p
 {In development}
 
 
-Monkeypox Resources
+Mpox Resources
 ==================
 
 ### [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
