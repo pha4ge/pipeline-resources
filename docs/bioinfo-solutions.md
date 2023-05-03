@@ -1,7 +1,7 @@
 # **Bioinformatics Solutions for SARS-CoV-2 Genomic Analysis**
 
 PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group <br/>
-Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Lunn S, Constantinides B, Langhorst B
+Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mboowa G, Lunn S, Constantinides B, Varona S, Langhorst B
 
 <details>
  <summary> Document Changelog</summary>
@@ -9,6 +9,8 @@ Libuit KG, Park D, van Heusden P, Neher R, Kapsak CJ, Southgate J, Bridges D, Mb
 - 2023-03-19:
   - Add CLI tool ViralConsensus
   - Add changelog
+- 2023-04-13:
+  - Add CLI tool nf-core/viralrecon
 </details>
 
 # Overview
@@ -114,6 +116,13 @@ The bioinformatics resources listed below are open-source pipelines that run on 
   - **Documentation:** [Github Readme](https://github.com/niemasd/ViralConsensus), [DockerHub](https://hub.docker.com/r/niemasd/viral_consensus)
   - **User base:** Unknown
   - **User-interface:** CLI (C++ executable)
+- [nf-core/viralrecon](https://github.com/nf-core/viralrecon)
+  - **Brief Description:** nf-core/viralrecon is a bioinformatics analysis pipeline used to perform assembly and intra-host/low-frequency variant calling for viral samples. The pipeline supports both Illumina and Nanopore sequencing data. For Illumina short-reads the pipeline is able to analyse metagenomics data typically obtained from shotgun sequencing (e.g. directly from clinical samples) and enrichment-based library preparation methods (e.g. amplicon-based: ARTIC SARS-CoV-2 enrichment protocol; or probe-capture-based). For Nanopore data the pipeline only supports amplicon-based analysis obtained from primer sets created and maintained by the ARTIC Network
+  - **Developed/supported by:** [nf-core](https://nf-co.re/)
+  - **Documentation:** [Github Readme](https://github.com/nf-core/viralrecon), [nf-core documentation](https://nf-co.re/viralrecon)
+  - **User base:** Unknown
+  - **Workflow language:** Nextflow
+    - **CLI Platforms:** Nextflow cli client, Nextflow Tower (local HPC, cloud, etc)
  
 </details>
 
