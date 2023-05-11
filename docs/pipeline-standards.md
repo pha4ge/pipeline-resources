@@ -11,7 +11,7 @@ _{Author list}_
 
 ## Overview
 
-The field of public health bioinformatics relies heavily on the development and sustainability of high-quality software to support efforts in disease surveillance, outbreak investigation and genomic research. However, the lack of standardized guidelines and best practice for the development of software in this domain inhibited progress towards easily-accessible, reproducible, interoperable, and secure bioinformatics in our field.
+The field of public health bioinformatics relies heavily on the development and sustainability of high-quality software to support efforts in disease surveillance, outbreak investigation and genomic research. However, the lack of standardized guidelines and best practice for the development of software in this domain inhibited progress towards easily-accessible, reproducible, interoperable, and secure bioinformatics for pathogen genomics.
 
 In an attempt to assist software developers, the Bioinformatics Pipelines and Visualization Working Group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has proposed a set of software development standards, tailored specifically for public health bioinformatics software. The proposed standards aim to provide a guidance framework for development, testing, maintenance of bioinformatics software. By adhering closely to these standards, software developers can enhance the quality, reliability and sustainability of their software, facilitating impact in public health research.
 
