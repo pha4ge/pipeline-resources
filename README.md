@@ -17,6 +17,8 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 	- [Informing Public Health Action](#sars-cov-2-resources)
 - [Mpox Resources](#mpox-resources)
 	- [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
+- [Bioinformatics Development](#bioinformatics-development)
+	- [Proposed Software Standards](docs/pipeline-standards.md)
 - [Contributing](#contributing)
 
 
@@ -60,6 +62,13 @@ Mpox Resources
 ### [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
 
 In an attempt to assist this integration process, the bioinformatics pipeline and visualization working group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the major bioinformatics challenges for Mpox genomic analysis and suggest various open-source and freely available bioinformatics resources to address them.
+
+Bioinformatics Development
+==================
+
+### [Proposed Software Standards](docs/pipeline-standards.md)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Contributing
 ============
