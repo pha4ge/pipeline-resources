@@ -111,12 +111,12 @@ When appropriate, inclusion of additional testing strategies may also enhance th
 - Testing frameworks, e.g. use of GitHub Actions to automate defined software tests, provide a consistent and organized structure for writing and running test cases, enabling developers to efficiently validate the correctness, performance, and reliability of their software
 
 ### Community Guidelines for Contribution and Support
-Are there clear guidelines for third parties wishing to 1) contribute to the software 2) report issues or problems with the software and 3) seek support?
+_Are there clear guidelines for third parties wishing to 1) contribute to the software 2) report issues or problems with the software and 3) seek support?_
 
 Including community guidelines for contribution and support in public health bioinformatics software promotes open and transparent communication channels between developers, users, and the broader scientific community. These guidelines foster an environment of shared knowledge and expertise, enabling individuals to provide feedback, report issues, and contribute to the improvement and sustainability of essential tools and resources and can include repository style guides, issue templates, and/or guidelines for providing support to users, including how to report issues, how to troubleshoot common problems, and how to escalate issues that cannot be resolved through standard support channels.
 
 ### Benchmark/Validation Datasets
-Is there a publically available set of inputs with known outputs that can be used to test successful installation and benchmark against other tools? 
+_Is there a publically available set of inputs with known outputs that can be used to test successful installation and benchmark against other tools?_ 
 
 Including a benchmark or validation dataset for public health bioinformatics software provides researchers with a standard reference for evaluating and comparing the performance of different tools, promoting transparency and consistency in the evaluation of software. By establishing a common reference point, benchmarking enables researchers to identify the strengths and weaknesses of various software solutions and promotes the development of more accurate, reliable, and effective tools. Authors should make benchmark and/or validation datasets publicly available and well-documented, allowing others to reproduce the experiments and validate the results.
 
@@ -125,7 +125,7 @@ A benchmark dataset is a standardized set of inputs with known outputs that is u
 A validation dataset, on the other hand, is used to validate the accuracy and reliability of a specific bioinformatics tool. The validation dataset is designed to test the tool's performance on a range of input data types and sizes and evaluate its ability to correctly identify the target sequences and distinguish them from non-target sequences.
 
 ### Container/Packaged Software
-Has the software been made available through a packaging manager, e.g. conda, or software container, e.g. Docker, to enhance interoperable software distribution? 
+_Has the software been made available through a packaging manager, e.g. conda, or software container, e.g. Docker, to enhance interoperable software distribution?_ 
 
 Using software packages and/or containerization for public health bioinformatics software enhances interoperability by enabling seamless integration and deployment across different platforms and environments. This approach simplifies software distribution and installation, promotes reproducibility, and facilitates collaboration among researchers, contributing to the development of more accessible and interoperable tools and resources.
 
