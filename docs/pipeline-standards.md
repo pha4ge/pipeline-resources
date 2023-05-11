@@ -11,7 +11,10 @@ _{Author list}_
 
 ## Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The field of public health bioinformatics relies heavily on the development and sustainability of high-quality software to support efforts in disease surveillance, outbreak investigation and genomic research. However, the lack of standardized guidelines and best practice for the development of software in this domain inhibited progress towards easily-accessible, reproducible, interoperable, and secure bioinformatics.
+
+In an attempt to assist software developers, the Bioinformatics Pipelines and Visualization Working Group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has proposed a set of software development standards, tailored specifically for public health bioinformatics software. The proposed standards aim to provide a guidance framework for development, testing, maintenance of bioinformatics software. By adhering closely to these standards, software developers can enhance the quality, reliability and sustainability of their software, facilitating impact in public health research.
+
 
 ## Proposed Standards
 
