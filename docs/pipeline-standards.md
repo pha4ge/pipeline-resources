@@ -1,3 +1,20 @@
+# **Proposed Standards for Public Health Bioinformatics Software**
+
+PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group <br/>
+_{Author list}_
+<details>
+ <summary> Document Changelog</summary>
+
+- YYYY-MM-DD:
+    - Commit to main
+</details>
+
+## Overview
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Proposed Standards
+
 ### Publicly-Accessible Repository
 _Is the source code for this software available at a publicly-accessible repository URL?_
 
