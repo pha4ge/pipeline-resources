@@ -163,10 +163,26 @@ If an external reference data or database is required, the following standards s
 The format of open-access downloadable should be defined, ideally in compressed format, and in such a format that will be best suited for downstream usage/analysis.
 
 ### Software Documentation
+_Is the software documentation clearly written and publicly accessible?_
+
+Having clearly written and publicly-accessible software documentation enhances user understanding, facilitates adoption, and promotes efficient usage of the software. It provides comprehensive instructions, usage examples, and explanations of key functionalities, enabling public health scientists to effectively utilize the software for their specific bioinformatics needs. Best practices for software documentation include:
+- Defining the documentation scope: Identify what aspects of the tool's core functionality need to be documented and what format the documentation should take. This can include things like user guides, reference manuals, and API documentation.
+- Establishing documentation guidelines: Develop a set of guidelines or standards for documenting the tool's core functionality. 
+- Creating a documentation template: Develop a template or set of templates that can be used to create consistent and accurate documentation..
+- Reviewing and update the documentation: Regularly review and update the documentation to ensure that it is accurate and up to date. This can be done by gathering feedback, monitoring usage data, and making adjustments as necessary.
+- Keeping it accessible: Make the documentation easily accessible to users by providing it in different formats like HTML, PDF, and user-friendly formats.
 
 
 ### Software Security and Vulnerabilities
 _If there are any software security and vulnerability mitigation claims of the software, have they been confirmed?_
 
-
+Increasing recognition for disruptive technology like bioinformatics in public health pathogen genomics in recent years, will inevitably attract the interest of malicious users, which may target national public health services. Practising good cybersecurity when developing and distributing analysis pipelines or software is therefore critical.
+ 
+Users should ensure that basic software security testing has been performed and any critical vulnerabilities which are identified are resolved. Minimum security requirements could include, but are not limited to:
+- Never storing plain text passwords, API keys, ssh keys, or otherwise confidential information in software/pipelines which are distributed publicly 
+- Evidence of checking software/pipeline for known vulnerabilities in third-party libraries used
+- Using Git to keep up to date on security vulnerabilities in dependencies https://docs.github.com/en/code-security
+- Evidence of checking software/pipeline for common and critical vulnerabilities, e.g. SQL injection, Log4j vulnerability 
+ 
+Further information on the importance of cybersecurity in bioinformatics for public health pathogen genomics is available in the following review https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7029451/pdf/eurosurv-25-6-5.pdf 
 
