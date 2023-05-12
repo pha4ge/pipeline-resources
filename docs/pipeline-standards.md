@@ -21,7 +21,7 @@ In an attempt to assist software developers, the Bioinformatics Pipelines and Vi
 ### Publicly-Accessible Repository
 _Is the source code for this software available at a publicly-accessible repository URL?_
 
-Publicly-accessible software bolsters collaboration and expedites innovation in public health bioinformatics, empowering worldwide public health communities to address critical challenges. By enhancing transparency, open-source software enable interoperability and reproducibility across public health investigations, crucial for well-informed decision-making and policy creation. Popular code repositories such as GitHub, GitLab, Bitbucket, and SourceForge offer platforms for developers to share their work.
+Publicly-accessible software bolsters collaboration and expedites innovation in public health bioinformatics, empowering worldwide public health communities to address critical challenges. By enhancing accessibility, publicly available software enable interoperability and reproducibility across public health investigations, crucial for well-informed decision-making and policy creation. Popular code repositories such as GitHub, GitLab, Bitbucket, and SourceForge offer platforms for developers to share their work.
 
 ### Version Control 
 _Are stable releases that follow semantic versioning of the software available for implementation in public health laboratories?_
