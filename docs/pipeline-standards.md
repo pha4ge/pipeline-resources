@@ -5,7 +5,7 @@ Libuit KG, Guthrie J, Ambrosio F, Kapsak C, Unal Gultekin, Holmes J, Wright S, N
 <details>
  <summary> Document Changelog</summary>
 
-- YYYY-MM-DD:
+- 2023-07-05:
     - Commit to main
 </details>
 
