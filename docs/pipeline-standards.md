@@ -1,7 +1,7 @@
 # **Proposed Standards for Public Health Bioinformatics Software**
 
 PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group <br/>
-_{Author list}_
+Libuit KG, Guthrie J, Ambrosio F, Kapsak C, Unal Gultekin, Holmes J, Wright S, Nguinkal J, Doughty E, Southgate J, O'Cathail C, Carleton H, Kingwara L, Khan W, Baker K, Diallo A, Connor T, Kanwar S, Maturure P, James S, Cuesta I, Dyster V, Gaskin A, Williams C, Smith E, Rokney A, Petkau A, Varona S, Gnimpieba E, Rey S, Macori G, Mboowa G
 <details>
  <summary> Document Changelog</summary>
 
@@ -31,15 +31,14 @@ Utilizing stable software releases with semantic versioning in public health bio
 ### Open-Source License
 _Does the repository contain a plain-text LICENSE file with the contents of an OSI-approved software license?_
 
-Open-source licenses in public health bioinformatics encourage the widespread adoption and sharing of valuable tools and resources, fostering a collaborative environment for research and innovation. These licenses also support the unrestricted improvement and customization of software, enabling researchers to tailor solutions to specific public health challenges and enhance overall outcomes. Without a license, the code author retains all rights to the work, and others are not allowed to use, copy, distribute, or modify it without permission. This means that the code is effectively unusable by the research community as a whole. A license grants this permission and allows others to use, copy, distribute, or modify the work under certain conditions. Popular license types for open-source bioinformatics software include GNU General Public License (GPL), MIT License, and Apache License 2.0. For helpful information regarding open-source licenses, we recommend the ARS Technica Article “Open source licenses: What, which, and why”. 
+Open-source licenses in public health bioinformatics encourage the widespread adoption and sharing of valuable tools and resources, fostering a collaborative environment for research and innovation. These licenses also support the unrestricted improvement and customization of software, enabling researchers to tailor solutions to specific public health challenges and enhance overall outcomes. Without a license, the code author retains all rights to the work, and others are not allowed to use, copy, distribute, or modify it without permission. This means that the code is effectively unusable by the research community as a whole. A license grants this permission and allows others to use, copy, distribute, or modify the work under certain conditions. Popular license types for open-source bioinformatics software include GNU General Public License (GPL), MIT License, and Apache License 2.0. For helpful information regarding open-source licenses, we recommend the ARS Technica Article “[Open source licenses: What, which, and why]([url](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/))”. 
 
 ### Contribution, Authorship, and Verified Point of Contact
 _Does the full list of authors seem appropriate and include a verified point of contact?_
 
-Clearly listing authorship and credit in public health bioinformatics acknowledges the contributions of individual researchers, fostering a sense of ownership and responsibility for their work. This practice also promotes transparency, collaboration, and recognition within the scientific community, enhancing career development opportunities and encouraging the sharing of expertise. We would recommend using the CRedIT system adopted by the Natural Sciences field to acknowledge contributions to bioinformatic tools. Contributors to the software must be acknowledged as a co-author if they have contributed by: programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.
+Clearly listing authorship and credit in public health bioinformatics acknowledges the contributions of individual researchers, fostering a sense of ownership and responsibility for their work. This practice also promotes transparency, collaboration, and recognition within the scientific community, enhancing career development opportunities and encouraging the sharing of expertise. We would recommend using the [CRedIT system](https://credit.niso.org/) adopted by the Natural Sciences field to acknowledge contributions to bioinformatic tools. Contributors to the software must be acknowledged as a co-author if they have contributed by: programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.
 
 A verified point of contact must include a working email address of an individual or organization that is most likely to maintain the bioinformatic tool in the long term. Ideally, email addresses for multiple individuals should be provided and these should not be organizational email addresses (e.g. joe.bloggs@phag4e.org), as they could lose access to that email when they leave that organization. 
-
 
 ### Commitment to Maintain
 _Has a clear commitment been made to maintain this software for a designated period of time?_
@@ -74,8 +73,8 @@ _If there are any performance claims of the software, have they been confirmed?_
 
 Articulating compute performance claims for public health bioinformatics software allows researchers to evaluate the efficiency and scalability of a tool, ensuring its suitability for a laboratory’s public health needs within their specific compute infrastructure. This practice enables informed decision-making, optimizing resource allocation and maximizing the impact of research efforts. This can include claims regarding software responsiveness, scalability, parallelizability, and/or compute efficiency as well as instructions on how performance should be measured to validate these claims should be provided.
 
-Statement of Need with Respect to Public Health Pathogen Genomics
-Have the authors clearly stated the challenges in public health pathogen genomics that this software aims to address? 
+### Statement of Need with Respect to Public Health Pathogen Genomics
+_Have the authors clearly stated the challenges in public health pathogen genomics that this software aims to address?_
 
 A clear statement of need for public health bioinformatics software highlights the significance and relevance of the tool within the public health landscape, facilitating its adoption by the target user base. This practice also helps to align development efforts with pressing public health challenges, ensuring that resources are directed towards addressing the most critical issues. For instance, the tool could address the challenge of integrating multiple types of genomic data analysis, such as variant calling, phylogenetic reconstruction, and outbreak investigation, into a single platform. The software could also incorporate machine learning algorithms to provide automated classification and identification of pathogens, reducing the need for manual curation. The type of organization or researcher that the tool is intended for should be made clear, and it is helpful to provide information regarding the level of computational expertise needed.
 
@@ -174,7 +173,6 @@ Having clearly written and publicly-accessible software documentation enhances u
 - Creating a documentation template: Develop a template or set of templates that can be used to create consistent and accurate documentation..
 - Reviewing and update the documentation: Regularly review and update the documentation to ensure that it is accurate and up to date. This can be done by gathering feedback, monitoring usage data, and making adjustments as necessary.
 - Keeping it accessible: Make the documentation easily accessible to users by providing it in different formats like HTML, PDF, and user-friendly formats.
-
 
 ### Software Security and Vulnerabilities
 _If there are any software security and vulnerability mitigation claims of the software, have they been confirmed?_
