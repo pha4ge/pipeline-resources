@@ -68,7 +68,7 @@ Bioinformatics Development
 
 ### [Proposed Software Standards](docs/pipeline-standards.md)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In an attempt to assist software developers, the Bioinformatics Pipelines and Visualization Working Group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has proposed a set of software development standards, tailored specifically for public health bioinformatics software. The proposed standards aim to provide a guidance framework for development, testing, maintenance of bioinformatics software. By adhering closely to these standards, software developers can enhance the quality, reliability and sustainability of their software, facilitating impact in public health research.
 
 Contributing
 ============
