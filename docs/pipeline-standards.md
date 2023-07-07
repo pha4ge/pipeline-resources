@@ -101,7 +101,7 @@ This example usage showcases the necessary input files, command options, and the
 ### Software Testing
 _Are there automated and/or manual tests described so that the functionality of the software can be assessed?_
 
-Including software tests for public health bioinformatics software ensures the reliability and accuracy of the tools, enhancing user confidence and promoting consistent research outcomes. These tests also facilitate early detection and resolution of potential issues, contributing to the overall stability and robustness of the software in a rapidly evolving public healthlandscape. At a minimum, software being implemented for public health pathogen genomics should include: 
+Including software tests for public health bioinformatics software ensures the reliability and accuracy of the tools, enhancing user confidence and promoting consistent research outcomes. These tests also facilitate early detection and resolution of potential issues, contributing to the overall stability and robustness of the software in a rapidly evolving public health landscape. At a minimum, software being implemented for public health pathogen genomics should include: 
 - Smoke tests to ensure that the basic functionality of the program is working correctly
 - Unit tests to test individual code units
 - System tests/end-to-end tests to assess the overall functionality of the program, with a focus on common and important paths
