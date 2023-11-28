@@ -23,24 +23,24 @@ _Is the source code for this software available at a publicly-accessible reposit
 
 Publicly-accessible software bolsters collaboration and expedites innovation in public health bioinformatics, empowering worldwide public health communities to address critical challenges. By enhancing accessibility, publicly available software enable interoperability and reproducibility across public health investigations, crucial for well-informed decision-making and policy creation. Popular code repositories such as GitHub, GitLab, Bitbucket, and SourceForge offer platforms for developers to share their work. 
 
-To meet this standard, host the bioinformatics software on an open code repository platform. 
-To verify this standard, a link to the code repository should be provided, and the reviewer should confirm existence and functionality of the repository.
+- To meet this standard, host the bioinformatics software on an open code repository platform. 
+- To verify this standard, a link to the code repository should be provided, and the reviewer should confirm existence and functionality of the repository.
 
 ### Version Control 
 _Are stable releases that follow semantic versioning of the software available for implementation in public health laboratories?_
 
 Utilizing stable software releases with semantic versioning in public health bioinformatics ensures consistent functionality and compatibility, minimizing disruptions in research workflows. This approach also simplifies version tracking and communication, facilitating seamless collaboration among researchers and reducing the likelihood of errors due to software discrepancies. Maintaining a detailed changelog is also highly recommended to track software updates, bug fixes, and feature additions, ensuring transparency and ease of understanding for users.
 
-To meet this standard, implement semantic versioning (e.g., MAJOR.MINOR.PATCH) to communicate the nature of changes and maintain compatibility.
-To verify this standard, the reviewer should check for version tags in the repository, ensuring that versioning follows semantic versioning principles and accurately reflects the software's development history.
+- To meet this standard, implement semantic versioning (e.g., MAJOR.MINOR.PATCH).
+- To verify this standard, check for version tags in the repository, ensuring that versioning follows semantic versioning principles and accurately reflects the software's development history.
 
 ### Open-Source License
 _Does the repository contain a plain-text LICENSE file with the contents of an OSI-approved software license?_
 
 Open-source licenses in public health bioinformatics encourage the widespread adoption and sharing of valuable tools and resources, fostering a collaborative environment for research and innovation. These licenses also support the unrestricted improvement and customization of software, enabling researchers to tailor solutions to specific public health challenges and enhance overall outcomes. Without a license, the code author retains all rights to the work, and others are not allowed to use, copy, distribute, or modify it without permission. This means that the code is effectively unusable by the research community as a whole. A license grants this permission and allows others to use, copy, distribute, or modify the work under certain conditions. Popular license types for open-source bioinformatics software include GNU General Public License (GPL), MIT License, and Apache License 2.0. For helpful information regarding open-source licenses, we recommend the ARS Technica Article “[Open source licenses: What, which, and why]([url](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/))”. 
 
-To meet this standard, choose an open-source license (e.g., MIT) for the software, providing legal permissions for users to modify and share the code.
-To verify this standard, the reviewer should confirm the presence of a clearly defined open-source license in the software repository..
+- To meet this standard, choose an open-source license (e.g., MIT) for the software, providing legal permissions for users to modify and share the code.
+- To verify this standard, the reviewer should confirm the presence of a clearly defined open-source license in the software repository..
 
 ### Contribution, Authorship, and Verified Point of Contact
 _Does the full list of authors seem appropriate and include a verified point of contact?_
@@ -49,16 +49,16 @@ Clearly listing authorship and credit in public health bioinformatics acknowledg
 
 A verified point of contact must include a working email address of an individual or organization that is most likely to maintain the bioinformatic tool in the long term. Ideally, email addresses for multiple individuals should be provided and these should not be organizational email addresses (e.g. joe.bloggs@phag4e.org), as they could lose access to that email when they leave that organization. 
 
-To meet this standard, clearly list authorship and credit for the bioinformatics tool, acknowledging individual contributions and following the CRedIT system for appropriate recognition based on specific contributions.
-To verify this standard, the reviewer should check the documentation and repository for a clear and comprehensive list of authors, ensuring adherence to the CRedIT system and appropriate acknowledgment of contributors based on their roles in programming, software development, design, implementation, and testing.
+- To meet this standard, clearly list authorship and credit for the bioinformatics tool, acknowledging individual contributions and following the CRedIT system for appropriate recognition based on specific contributions.
+- To verify this standard, the reviewer should check the documentation and repository for a clear and comprehensive list of authors, ensuring adherence to the CRedIT system and appropriate acknowledgment of contributors based on their roles in programming, software development, design, implementation, and testing.
 
 ### Commitment to Maintain
 _Has a clear commitment been made to maintain this software for a designated period of time?_
 
 A clear commitment to maintaining software for public health bioinformatics ensures long-term stability, reliability, and functionality, ultimately enhancing the efficacy of research and analysis. Moreover, it fosters user confidence and facilitates wider adoption, as researchers can rely on consistent updates, improvements, and support for the software.
 
-To meet this standard, clearly communicate a commitment to maintaining the bioinformatics software for public health, indicating a dedication to stability, reliability, and functionality for at leat 2 years.
-To verify this standard, the reviewer should look for explicit statements or documentation expressing a commitment to ongoing maintenance, with evidence of regular updates, improvements, user support, and easily accessibly means of contact. Bi-annual re-verification will require the reviewer to reach out to the point of contact, and update if necessary.
+- To meet this standard, clearly communicate a commitment to maintaining the bioinformatics software for public health, indicating a dedication to stability, reliability, and functionality for at leat 2 years.
+- To verify this standard, the reviewer should look for explicit statements or documentation expressing a commitment to ongoing maintenance, with evidence of regular updates, improvements, user support, and easily accessibly means of contact. Bi-annual re-verification will require the reviewer to reach out to the point of contact, and update if necessary.
 
 ### Conflict of Interest Statement
 _Have all potential conflicts of interest been disclosed?_
