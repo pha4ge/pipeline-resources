@@ -7,6 +7,8 @@ Libuit KG, Guthrie J, Ambrosio F, Kapsak C, Unal Gultekin, Holmes J, Wright S, N
 
 - 2023-07-05:
     - Commit to main
+ - 2023-11-28:
+    - Adding max duration for commitments to maintain (3  years)
 </details>
 
 ## Overview
@@ -41,9 +43,9 @@ Clearly listing authorship and credit in public health bioinformatics acknowledg
 A verified point of contact must include a working email address of an individual or organization that is most likely to maintain the bioinformatic tool in the long term. Ideally, email addresses for multiple individuals should be provided and these should not be organizational email addresses (e.g. joe.bloggs@phag4e.org), as they could lose access to that email when they leave that organization. 
 
 ### Commitment to Maintain
-_Has a clear commitment been made to maintain this software for a designated period of time?_
+_Has a clear commitment been made to maintain this software for a designated period of time, not exceeding three years?_
 
-A clear commitment to maintaining software for public health bioinformatics ensures long-term stability, reliability, and functionality, ultimately enhancing the efficacy of research and analysis. Moreover, it fosters user confidence and facilitates wider adoption, as researchers can rely on consistent updates, improvements, and support for the software.
+A clear commitment to maintaining software for public health bioinformatics ensures long-term stability, reliability, and functionality, ultimately enhancing the efficacy of research and analysis. This commitment should be made for a specific duration, with a maximum limit of three years. This timeframe strikes a balance between providing sufficient longevity for user confidence and preventing the commitment from becoming stale or outdated. By stipulating a maximum duration, it encourages regular reassessment and renewal of the commitment, ensuring that the software remains relevant and up-to-date. Moreover, it fosters user confidence and facilitates wider adoption, as researchers can rely on consistent updates, improvements, and support for the software within this defined period.
 
 ### Conflict of Interest Statement
 _Have all potential conflicts of interest been disclosed?_
