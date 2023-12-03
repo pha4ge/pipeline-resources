@@ -7,8 +7,8 @@ Libuit KG, Guthrie J, Ambrosio F, Kapsak C, Unal Gultekin, Holmes J, Wright S, N
 
 - 2023-07-05:
     - Commit to main
- - 2023-11-28:
-    - Adding max duration for commitments to maintain (3  years)
+ - 2023-12-03:
+    - Adding max duration for commitments to maintain (2  years)
 </details>
 
 ## Overview
