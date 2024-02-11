@@ -9,6 +9,8 @@ Libuit KG, Guthrie J, Ambrosio F, Kapsak C, Unal Gultekin, Holmes J, Wright S, N
     - Commit to main
  - 2023-12-03:
     - Adding max duration for commitments to maintain (2  years)
+- 2024-02-11:
+    - Adding descriptions of meeting and verifying proposed standards
 </details>
 
 ## Overview
