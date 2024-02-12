@@ -41,7 +41,7 @@ Open-source licenses in public health bioinformatics encourage the widespread ad
 
 **To verify adherence to this best practice:** The reviewer should confirm the presence of a clearly defined open-source license in the pipeline repository.
 
-### 3. Version Controled Software 
+### 3. Version Controlled Software 
 _Are stable releases that follow semantic versioning of the pipeline available for implementation in public health laboratories?_
 
 Utilizing stable software releases with semantic versioning in public health bioinformatics ensures consistent functionality and compatibility, minimizing disruptions in research workflows. This approach also simplifies version tracking and communication, facilitating seamless collaboration among researchers and reducing the likelihood of errors due to software discrepancies. Maintaining a detailed changelog is also highly recommended to track software updates, bug fixes, and feature additions, ensuring transparency and ease of understanding for users.
@@ -179,7 +179,7 @@ The intended use of the software in the context of public health pathogen genomi
 **To verify adherence to this documentation practice:** The reviewer should check for explicit documentation that clearly communicates the software's functionality, intended use, limitations, validated organisms, and potential discrepancies.
 
 
-#### 10b. Contribution, Authorship, and Verified Point of Contact
+#### 10c. Contribution, Authorship, and Verified Point of Contact
 _Does the full list of authors seem appropriate and include a verified point of contact?_
 
 Clearly listing authorship and credit in public health bioinformatics acknowledges the contributions of individual researchers, fostering a sense of ownership and responsibility for their work. This practice also promotes transparency, collaboration, and recognition within the scientific community, enhancing career development opportunities and encouraging the sharing of expertise. We would recommend using the [CRedIT system](https://credit.niso.org/) adopted by the Natural Sciences field to acknowledge contributions to bioinformatic tools. Contributors to the pipeline must be acknowledged as a co-author if they have contributed by: programming, pipeline development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components.
@@ -190,7 +190,7 @@ A verified point of contact must include a working email address of an individua
 
 **To verify adherence to this documentation practice:** The reviewer should check the documentation and repository for a clear and comprehensive list of authors, ensuring adherence to the CRedIT system and appropriate acknowledgment of contributors based on their roles in programming, pipeline development, design, implementation, and testing.
 
-#### 10c. Conflict of Interest Statement
+#### 10d. Conflict of Interest Statement
 _Have all potential conflicts of interest been disclosed?_
 
 Stating potential conflicts of interest regarding pipeline authors in public health bioinformatics promotes transparency and integrity in scientific research. This practice enables users to make informed decisions about the pipeline they utilize, ensuring unbiased results and fostering trust within the research community. Conflict of interest is defined as any factor which renders an author, co-author, or collaborative team unable to (potentially or otherwise) perform an independent peer review or evaluation pertaining to a study. Examples of conflict of interest include but are not limited to commercial, personal, political, or religious interests. When developing bioinformatics (for public health) pipelines, any conflict of interest should be disclosed by the responsible authors to ensure independent peer review and testing of code has been carried out prior to publication. Some conflict of interest statements may be waived if an author can demonstrate they are able to perform an impartial code review. For example, JOSS suggests that if two co-authors did not ever truly collaborate, this might mean a co-author is a suitable selection for code review. 
@@ -199,7 +199,7 @@ Stating potential conflicts of interest regarding pipeline authors in public hea
 
 **To verify adherence to this documentation practice:** The reviewer should assess the presence of a clear conflict of interest statement in the documentation or repository, ensuring that responsible authors have openly disclosed any factors that may impact their ability to perform an unbiased peer review or evaluation.
 
-#### 10d. Community Guidelines for Contribution and Support
+#### 10e. Community Guidelines for Contribution and Support
 _Are there clear guidelines for third parties wishing to 1) contribute to the pipeline 2) report issues or problems with the pipeline and 3) seek support?_
 
 Including community guidelines for contribution and support in public health bioinformatics pipeline promotes open and transparent communication channels between developers, users, and the broader scientific community. These guidelines foster an environment of shared knowledge and expertise, enabling individuals to provide feedback, report issues, and contribute to the improvement and sustainability of essential tools and resources and can include repository style guides, issue templates, and/or guidelines for providing support to users, including how to report issues, how to troubleshoot common problems, and how to escalate issues that cannot be resolved through standard support channels.
@@ -208,7 +208,7 @@ Including community guidelines for contribution and support in public health bio
 
 **To verify adherence to this documentation practice:** The reviewer should confirm the presence of well-documented community guidelines in the documentation or repository, encompassing aspects such as repository style guides, issue templates, and guidelines for providing user support.
 
-#### 10e. Documentation for Local Installation and/or Remote Access (e.g. Web Server or Galaxy/Terra Workflow)
+#### 10f. Documentation for Local Installation and/or Remote Access (e.g. Web Server or Galaxy/Terra Workflow)
 _Does installation and/or access to the pipeline proceed as outlined in the documentation?_
 
 Providing clear local installation and/or remote access instructions for public health bioinformatics pipeline streamlines the user experience, enabling researchers to efficiently deploy and utilize essential tools. This practice also minimizes potential technical barriers, fostering accessibility and promoting widespread adoption within the scientific community. The pipeline installation guide should be clear, concise, and easy to follow. The system requirements for the pipeline should be outlined with a clearly-stated list of all prerequisites and dependencies that are necessary to install the pipeline correctly. Ideally, dependencies are handled with an automated package management solution. The necessary pipeline should be defined with the required minimum version and release.
@@ -222,7 +222,7 @@ If the resources have been made available via a web application (e.g. Galaxy or 
 
 **To verify adherence to this documentation practice:** The reviewer should check for a well-documented installation guide with clear, concise, and easy-to-follow step-by-step instructions, including system requirements, dependencies, and automated package management solutions, as well as information on software versioning.
 
-#### 10f. Example Usage
+#### 10g. Example Usage
 _Do the authors include examples of how to use this pipeline?_
 
 Documenting an example usage for public health bioinformatics pipeline provides researchers with practical guidance on how to effectively apply the tool in real-world scenarios, enhancing their understanding of its potential applications. This practice promotes successful integration of the pipeline into research workflows, ensuring that it is utilized to its full capacity and ultimately advancing public health outcomes. An example usage for a command-line interface (CLI) tool in public health bioinformatics might illustrate the required input data, command syntax, and expected output, providing a tangible demonstration of the tool's application. For instance, a tool analyzing genomic variants could have an example usage like:
