@@ -177,8 +177,8 @@ Stating potential conflicts of interest regarding pipeline authors in public hea
 
 **To verify adherence to this documentation practice:** The reviewer should assess the presence of a clear conflict of interest statement in the documentation or repository, ensuring that responsible authors have openly disclosed any factors that may impact their ability to perform an unbiased peer review or evaluation.
 
-#### 10c. Pipeline Maintenance
-_Have the authors provided documentation regarding the intended maintenance of the pipeline?_
+#### 10c. Pipeline Maintenance Statement
+_Have the authors provided documentation regarding the intent to maintain the pipeline?_
 
 Ensuring the long-term sustainability and maintenance of a public health bioinformatics pipeline is crucial for its continued relevance and reliability in the face of evolving public health challenges and technological advancements. Clear documentation regarding the author’s intent to maintain the pipeline not only signals to potential users that the tool will remain up-to-date and secure but also demonstrates the authors' dedication to supporting the public health community over time. 
 
