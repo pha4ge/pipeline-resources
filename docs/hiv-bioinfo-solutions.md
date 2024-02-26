@@ -1,4 +1,4 @@
-**HIV Bioinformatics Solutions <br\>**
+**HIV Bioinformatics Solutions**
 
 Authors
 =======
