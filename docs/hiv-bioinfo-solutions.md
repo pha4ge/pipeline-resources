@@ -236,14 +236,6 @@ Tools:
 
 The sequencing strategy (Table 2)  that you adopt is dependent on multiple factors but should be driven by the question that you are trying to answer. For example, targeted amplification of the Pol region has historically been used to assess drug resistance to antiretroviral therapy.
 
- Table 2: Potential sequencing  strategies for HIV-1
-
-<p align="center">
-  <img src="./images/hiv-bioinfo-solutions-table-2.svg" class="center">
-</p>
-
-✓✓
-
 Table 2: Potential sequencing  strategies for HIV-1
 | Tool | Type | CLI | GUI |
 | ---- | ---- | --- | --- |
@@ -253,33 +245,6 @@ Table 2: Potential sequencing  strategies for HIV-1
 | jpHMM [12] | statistical | X | ✓ |
 | REGA [4] | phylogenetic | X | ✓ |
 | SCUEAL13 [13] | phylogenetic | X | ✓ |
-
-NCBI 9
-similarity
-X
-✓
-Stanford 10
-similarity
-✓
-✓
-COMET 11
-statistical
-✓
-✓
-jpHMM 12
-statistical
-X
-✓
-REGA 4 
-phylogenetic
-X
-✓
-SCUEAL13
-phylogenetic
-X
-✓
-
-
 
 ** Will not be able to subtype some circulating recombinant forms due to missing breakpoints (CRF_AE & CRF_BG)[5,6](https://www.zotero.org/google-docs/?AVqBsR)
 
