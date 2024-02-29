@@ -22,20 +22,17 @@ This paper serves as a guidance document, aiming to address existing challenges 
 
 Therefore, this paper aims to contribute to a global network of knowledge-sharing, promoting equitable access to genomics for HIV -- empowering researchers and clinicians worldwide in pursuit of reducing the burden of disease. 
 
-Background Information for Bioinformaticians
---------------------------------------------
+## Background Information for Bioinformaticians
 
 Understanding the HIV genome, evolutionary dynamics, and subtypes are essential for designing bioinformatic processes. Here, we present a set of resources to help springboard researchers into the world of HIV bioinformatics! 
 
-Genomic Structure 
-------------------
+## Genomic Structure 
 
 The diploid genome of HIV-1 consists of approximately 9700 nucleotides, and features nine genes which encode for fifteen proteins (Figure 1)[1](https://www.zotero.org/google-docs/?d63R6n) which interact with human proteins as part of the HIV-1 viral life cycle. Structural proteins, enzymes, and envelope proteins are encoded by three main genes: gag, pol, and env respectively. The remaining genes are responsible for coding regulatory (tat, rev) and accessory (vif, vpr, vpu/vpx, nef) proteins.
 
 Figure 1: HIV-1 DNA genome structure[1](https://www.zotero.org/google-docs/?ELvnGh)
 
-Evolution
----------
+## Evolution
 
 The HIV-1 population, despite having a relatively small genome (Figure 1), showcases extensive genomic diversity primarily due to its exceptionally high mutation rate. This rapid mutation occurs during replication, leading to an accumulation of genetic variations within the viral population. Furthermore, the virus exhibits a high proficiency in recombination[2](https://www.zotero.org/google-docs/?rsgo16), particularly notable due to the varying recombination event rates observed in different segments of the HIV genome, which contribute to the overall genomic diversity of the virus.
 
@@ -43,8 +40,7 @@ In turn, this high genomic diversity gives rise to minor variants that assume a 
 
 A comprehensive understanding of these evolutionary mechanisms is crucial, as they pose a significant challenge in the clinical and public health management of HIV-1 by significantly influencing treatment outcomes.
 
-Subtypes
---------
+## Subtypes
 
 HIV is classified into types, groups and subtypes according to its genetic diversity. [3](https://www.zotero.org/google-docs/?WdpgqI)
 
@@ -54,8 +50,7 @@ Group M is the most widespread subtype, responsible for the majority of infectio
 
 Table  1: Subtypes and main locations for group M
 
-HIV Bioinformatics Guidance Pathways 
-=====================================
+## HIV Bioinformatics Guidance Pathways 
 
 Below, we outline key guidance pathways, which aim to capture  distinct themes of common types of bioinformatics analysis specifically tailored to HIV research. These pathways include real-world public health case studies along with relevant sequencing strategies and HIV bioinformatics tools.
 
@@ -223,8 +218,7 @@ Tools:
 
 -   GrapeTree
 
-Sequencing strategies
----------------------
+## Sequencing Strategies
 
 The sequencing strategy (Table 2)  that you adopt is dependent on multiple factors but should be driven by the question that you are trying to answer. For example, targeted amplification of the Pol region has historically been used to assess drug resistance to antiretroviral therapy.
 
@@ -234,8 +228,7 @@ The sequencing strategy (Table 2)  that you adopt is dependent on multiple fact
 
 A tiled amplicon sequencing primer scheme has been developed by the Association of Public Health Laboratories (APHL): <https://www.protocols.io/view/an-ngs-amplicon-tiling-protocol-for-hiv-1-drug-res-n92ldmq4ol5b/v2> (DOI:10.17504/protocols.io.n92ldmq4ol5b/v2)
 
-HIV-1 Bioinformatics Tools 
----------------------------
+## HIV-1 Bioinformatics Tools 
 
 For researchers and clinicians alike, designing a bioinformatics analysis of HIV sequence data comes down to careful selection of bioinformatics tools. The effectiveness of analysis, accuracy of results, and subsequent genomic and epidemiological insights hinge on the appropriateness of the chosen tools. This decision encapsulates the essence of bioinformatics in HIV research, where precise tool selection aligns with the specific research objectives, ensuring that analytical methods harmonize with the intricacies of the virus. Below, we provide a categorised list of bioinformatics tools used in HIV research, distinguishing between general tools applicable to various contexts and those specifically designed for HIV-related analyses.
 
@@ -255,7 +248,7 @@ Multiple considerations need to be taken into account when choosing a subtyping 
 
 Although the gold standard for HIV-1 subtyping is full-genome, often only the pol region is available. This region will allow for subtyping for most group M subtypes but will not differentiate CRF_AE & CRF_BG from the pure parent subtype due to lacking the recombination breakpoint in this region.[5,6](https://www.zotero.org/google-docs/?O3urnG) The second is that an up-to-date alignment is desirable especially when considering treatment failures e.g. cabotegravir (integrase inhibitor) not working on HIV-1 subtypes A1/A6.[15](https://www.zotero.org/google-docs/?aM4QLV)
 
-Resistance detection
+### Resistance detection
 
 Resistance detection is mainly undertaken in reference to HXB2 (Accession Number:K03455)
 
@@ -273,13 +266,13 @@ Other Stanford HIVdb resources which are useful to investigate especially for pi
 
 -   Github repository (<https://github.com/hivdb>)
 
-Transmission network analysis 
+### Transmission network analysis 
 
 -   HIV-TRACE: A command line tool for identifying and visualizing HIV transmission clusters using molecular sequence data [20](https://www.zotero.org/google-docs/?JkPOE4)
 
 -   Clusterpicker (no longer actively maintained): A command line tool for identifying clusters in a phylogenetic tree based on bootstrap support and pairwise genetic distance within clusters [21](https://www.zotero.org/google-docs/?Gk777r)
 
-Sequence Databases
+### Sequence Databases
 
 -   NCBI HIV-1 Human Interaction Database
 
@@ -291,47 +284,47 @@ An online database of HIV-1 sequence data and annotations, including drug resist
 
 -   Stanford University HIVdb: In addition to being the most up-to-date resource for investigating HIV-1 drug resistance(see above) it also has a wealth of information on HIV-1 virus isolates,  published drug susceptibilities and archived treatment episodes (incorporates ARVs received, mutations detected and new regimen initiated with measured viral loads and CD4 counts longitudinally).
 
-Case Studies
+### Case Studies
 
-Case Study: Tracking HIV Transmission Networks in a High-Incidence Area
+#### Case Study: Tracking HIV Transmission Networks in a High-Incidence Area
 
-Description: Using molecular epidemiology, this study identified transmission networks among individuals with acute HIV infection in a high-incidence region, providing insights into transmission dynamics and hotspots.
+**Description:** Using molecular epidemiology, this study identified transmission networks among individuals with acute HIV infection in a high-incidence region, providing insights into transmission dynamics and hotspots.
 
-Citation: Wertheim JO, et al. (2014). "Social and Genetic Networks of HIV-1 Transmission in New York City." PLOS Pathogens, 10(7), e1004280.
+**Citation:** Wertheim JO, et al. (2014). "Social and Genetic Networks of HIV-1 Transmission in New York City." PLOS Pathogens, 10(7), e1004280.
 
-Tool(s) & databases used: HIV-TRACE, Los Alamos
+**Tool(s) & databases used:** HIV-TRACE, Los Alamos
 
-Case Study: Evolution of Drug Resistance Mutations in Long-Term ART Patients
+#### Case Study: Evolution of Drug Resistance Mutations in Long-Term ART Patients
 
-Description: This study investigated the dynamics of drug resistance mutations in individuals on long-term therapy (ART), revealing the persistence of archived resistant variants and the importance of continuous monitoring.
+**Description:** This study investigated the dynamics of drug resistance mutations in individuals on long-term therapy (ART), revealing the persistence of archived resistant variants and the importance of continuous monitoring.
 
-Citation: Rhee SY, et al. (2006). "HIV-1 Protease and Reverse-Transcriptase Mutations: Correlations with Antiretroviral Therapy in Subtype B Isolates and Implications for Drug-Resistance Surveantiretroviral illance." Journal of Infectious Diseases, 194(4), 454-465.
+**Citation:** Rhee SY, et al. (2006). "HIV-1 Protease and Reverse-Transcriptase Mutations: Correlations with Antiretroviral Therapy in Subtype B Isolates and Implications for Drug-Resistance Surveantiretroviral illance." Journal of Infectious Diseases, 194(4), 454-465.
 
-Tool(s) & databases used: PAUP, MESQUITE, Stanford HIVdb
+**Tool(s) & databases used:** PAUP, MESQUITE, Stanford HIVdb
 
-Case Study: Impact of Drug Resistance Mutations on Treatment Outcomes
+#### Case Study: Impact of Drug Resistance Mutations on Treatment Outcomes
 
-Description: This study assessed the impact of specific drug resistance mutations on treatment response and virological outcomes, contributing to the optimization of treatment regimens for individuals with drug-resistant HIV.
+**Description:** This study assessed the impact of specific drug resistance mutations on treatment response and virological outcomes, contributing to the optimization of treatment regimens for individuals with drug-resistant HIV.
 
-Citation: Gupta RK, et al. (2009). "HIV-1 Drug Resistance before Initiation or Re-initiation of First-line Antiretroviral Therapy in Low-Income and Middle-Income Countries: A Systematic Review and Meta-Regression Analysis." The Lancet Infectious Diseases, 9(10), 711-718.
+**Citation:** Gupta RK, et al. (2009). "HIV-1 Drug Resistance before Initiation or Re-initiation of First-line Antiretroviral Therapy in Low-Income and Middle-Income Countries: A Systematic Review and Meta-Regression Analysis." The Lancet Infectious Diseases, 9(10), 711-718.
 
-Tool(s) & databases used: Stanford HIVdb
+**Tool(s) & databases used:** Stanford HIVdb
 
-Case Study: HIV Phylogenetics to Investigate Cross-Border Transmission
+#### Case Study: HIV Phylogenetics to Investigate Cross-Border Transmission
 
-Description: Using phylogenetic analysis, this study traced cross-border transmission of HIV strains between neighboring countries, highlighting the need for coordinated prevention efforts in the region.
+**Description:** Using phylogenetic analysis, this study traced cross-border transmission of HIV strains between neighboring countries, highlighting the need for coordinated prevention efforts in the region.
 
-Citation: Novitsky V, et al. (2015). "Phylogenetic Relatedness of Circulating HIV-1C Strains in Mochudi, Botswana, and Implications for HIV Subtype Distribution in Botswana." AIDS Research and Human Retroviruses, 31(6), 631-638.
+**Citation:** Novitsky V, et al. (2015). "Phylogenetic Relatedness of Circulating HIV-1C Strains in Mochudi, Botswana, and Implications for HIV Subtype Distribution in Botswana." AIDS Research and Human Retroviruses, 31(6), 631-638.
 
-Tool(s) & databases used: Los Alamos
+**Tool(s) & databases used:** Los Alamos
 
-Case Study: Cross-clade simultaneous HIV drug resistance genotyping for reverse transcriptase, protease, and integrase inhibitor mutations by Illumina MiSeq
+#### Case Study: Cross-clade simultaneous HIV drug resistance genotyping for reverse transcriptase, protease, and integrase inhibitor mutations by Illumina MiSeq
 
-Description: This study created a universal Illumina MiSeq-based HIV drug resistance genotyping assay, which works across all major group M HIV-1 subtypes and identifies DRMs in the pol gene known to confer resistance to protease, reverse transcriptase, and integrase inhibitors.
+**Description:** This study created a universal Illumina MiSeq-based HIV drug resistance genotyping assay, which works across all major group M HIV-1 subtypes and identifies DRMs in the pol gene known to confer resistance to protease, reverse transcriptase, and integrase inhibitors.
 
-Citation: Dudley, D. M., et al. (2014). "Cross-clade simultaneous HIV drug resistance genotyping for reverse transcriptase, protease, and integrase inhibitor mutations by Illumina MiSeq". Retrovirology, 11, 122. <https://doi.org/10.1186/s12977-014-0122-8> 
+**Citation:** Dudley, D. M., et al. (2014). "Cross-clade simultaneous HIV drug resistance genotyping for reverse transcriptase, protease, and integrase inhibitor mutations by Illumina MiSeq". Retrovirology, 11, 122. <https://doi.org/10.1186/s12977-014-0122-8> 
 
-Tool(s) & databases used: Los Alamos
+**Tool(s) & databases used:** Los Alamos
 
 References
 ==========
