@@ -43,7 +43,8 @@ In turn, this high genomic diversity gives rise to minor variants that assume a 
 
 A comprehensive understanding of these evolutionary mechanisms is crucial, as they pose a significant challenge in the clinical and public health management of HIV-1 by significantly influencing treatment outcomes.
 
-### Subtypes
+Subtypes
+--------
 
 HIV is classified into types, groups and subtypes according to its genetic diversity. [3](https://www.zotero.org/google-docs/?WdpgqI)
 
