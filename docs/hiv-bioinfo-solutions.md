@@ -44,11 +44,12 @@ A comprehensive understanding of these evolutionary mechanisms is crucial, as th
 
 HIV is classified into types, groups and subtypes according to its genetic diversity. [3](https://www.zotero.org/google-docs/?WdpgqI)
 
-HIV-1 / Group M, N, O, P
+**HIV-1 / Group M, N, O, P**
 
 Group M is the most widespread subtype, responsible for the majority of infections globally (Table  1). Groups N, O, and P are less common. These variations impact transmission, virulence, and treatment responses.
 
 Table  1: Subtypes and main locations for group M
+
 
 ## HIV Bioinformatics Guidance Pathways 
 
