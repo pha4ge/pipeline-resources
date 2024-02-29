@@ -64,6 +64,8 @@ A clear commitment to maintaining software for public health bioinformatics ensu
 - To meet this standard, clearly communicate a commitment to maintaining the bioinformatics software for public health, indicating a dedication to stability, reliability, and functionality for at leat 2 years.
 - To verify this standard, the reviewer should look for explicit statements or documentation expressing a commitment to ongoing maintenance, with evidence of regular updates, improvements, user support, and easily accessibly means of contact. Bi-annual re-verification will require the reviewer to reach out to the point of contact, and update if necessary.
 
+If the personnel or funding that is required to maintain the software becomes unavailable, the original maintainer should provide notification to known users and add a "final PR" on the readme of the open source repository where the tool is hosted announcing the software will no longer be maintained by the original development team. Additionally, the original maintainer should reach out to known power-users to request a hand-off of maintenance responsibilities. 
+
 ### Conflict of Interest Statement
 _Have all potential conflicts of interest been disclosed?_
 
