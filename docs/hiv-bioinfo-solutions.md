@@ -49,7 +49,17 @@ HIV is classified into types, groups and subtypes according to its genetic diver
 Group M is the most widespread subtype, responsible for the majority of infections globally (Table  1). Groups N, O, and P are less common. These variations impact transmission, virulence, and treatment responses.
 
 Table  1: Subtypes and main locations for group M
-
+| Subtype                | Predominant Region                      |
+| ---------------------- | --------------------------------------- |
+| Breakpoint | The site within the genome where recombination occurred. |
+| A | Eastern Europe & former Soviet Union countries |
+| B | North America and Western Europe |
+| C | Sub-saharan Africa |
+| D | East Africa |
+| F | Central Africa, Eastern Europe, and South America |
+| G | Western and Central Africa |
+| H | Central Africa |
+| J | Spain |
 
 ## HIV Bioinformatics Guidance Pathways 
 
