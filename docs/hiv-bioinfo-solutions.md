@@ -242,6 +242,7 @@ The sequencing strategy (Table 2)  that you adopt is dependent on multiple fact
   <img src="./images/hiv-bioinfo-solutions-table-2.svg" class="center">
 </p>
 
+✓✓
 
 *Will not be able to subtype some circulating recombinant forms due to missing breakpoints (CRF_AE & CRF_BG)[5,6](https://www.zotero.org/google-docs/?AVqBsR)
 
