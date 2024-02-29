@@ -1,5 +1,5 @@
-**HIV Bioinformatics Solutions**
-================================
+# HIV Bioinformatics Solutions
+============================
 
 Authors
 =======
