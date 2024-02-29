@@ -11,8 +11,8 @@ Frank Ambrosio
 
 Abbas Abel Anzaku
 
-Introduction
-============
+## Introduction
+
 
 Human Immunodeficiency Virus (HIV), a highly contagious retrovirus, presents a formidable global public health challenge. According to the World Health Organization (WHO), HIV infections lead to severe immunodeficiency and acquired immunodeficiency syndrome (AIDS), causing millions of deaths annually. The virus primarily targets CD4+ T cells, compromising the immune system and necessitating effective treatment strategies. Given its high mutation rate, understanding the genomics of HIV is crucial for designing treatments, including antiretrovirals and vaccines.
 
@@ -22,13 +22,12 @@ This paper serves as a guidance document, aiming to address existing challenges 
 
 Therefore, this paper aims to contribute to a global network of knowledge-sharing, promoting equitable access to genomics for HIV -- empowering researchers and clinicians worldwide in pursuit of reducing the burden of disease. 
 
-Background information for bioinformaticians
-============================================
+Background Information for Bioinformaticians
+--------------------------------------------
 
 Understanding the HIV genome, evolutionary dynamics, and subtypes are essential for designing bioinformatic processes. Here, we present a set of resources to help springboard researchers into the world of HIV bioinformatics! 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Genomic structure 
+Genomic Structure 
 ------------------
 
 The diploid genome of HIV-1 consists of approximately 9700 nucleotides, and features nine genes which encode for fifteen proteins (Figure 1)[1](https://www.zotero.org/google-docs/?d63R6n) which interact with human proteins as part of the HIV-1 viral life cycle. Structural proteins, enzymes, and envelope proteins are encoded by three main genes: gag, pol, and env respectively. The remaining genes are responsible for coding regulatory (tat, rev) and accessory (vif, vpr, vpu/vpx, nef) proteins.
