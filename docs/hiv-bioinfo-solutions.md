@@ -33,7 +33,7 @@ The diploid genome of HIV-1 consists of approximately 9700 nucleotides, and feat
 Figure 1: HIV-1 DNA genome structure[1](https://www.zotero.org/google-docs/?ELvnGh)
 
 <p align="center">
-  <img src="./hiv-bioinfo-solutions-figure-1.svg" class="center">
+  <img src="./images/hiv-bioinfo-solutions-figure-1.svg" class="center">
 </p>
 
 ## Evolution
