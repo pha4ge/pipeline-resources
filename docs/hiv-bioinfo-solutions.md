@@ -51,7 +51,6 @@ Group M is the most widespread subtype, responsible for the majority of infectio
 Table  1: Subtypes and main locations for group M
 | Subtype                | Predominant Region                      |
 | ---------------------- | --------------------------------------- |
-| Breakpoint | The site within the genome where recombination occurred. |
 | A | Eastern Europe & former Soviet Union countries |
 | B | North America and Western Europe |
 | C | Sub-saharan Africa |
