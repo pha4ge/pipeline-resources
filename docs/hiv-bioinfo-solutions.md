@@ -32,6 +32,10 @@ The diploid genome of HIV-1 consists of approximately 9700 nucleotides, and feat
 
 Figure 1: HIV-1 DNA genome structure[1](https://www.zotero.org/google-docs/?ELvnGh)
 
+docs/images/hiv-bioinfo-solutions-figure-1.svg
+
+frankambrosio3/pipeline-resources/docs/images/hiv-bioinfo-solutions-figure-1.svg
+
 ## Evolution
 
 The HIV-1 population, despite having a relatively small genome (Figure 1), showcases extensive genomic diversity primarily due to its exceptionally high mutation rate. This rapid mutation occurs during replication, leading to an accumulation of genetic variations within the viral population. Furthermore, the virus exhibits a high proficiency in recombination[2](https://www.zotero.org/google-docs/?rsgo16), particularly notable due to the varying recombination event rates observed in different segments of the HIV genome, which contribute to the overall genomic diversity of the virus.
