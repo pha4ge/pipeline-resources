@@ -244,6 +244,43 @@ The sequencing strategy (Table 2)  that you adopt is dependent on multiple fact
 
 ✓✓
 
+Table 2: Potential sequencing  strategies for HIV-1
+| Tool | Type | CLI | GUI |
+| ---- | ---- | --- | --- |
+| NCBI [9] | similarity | X | ✓ |
+| Stanford [10] | similarity | ✓ | ✓ |
+| COMET [11] | similarity | ✓ | ✓ |
+| jpHMM [12] | statistical | X | ✓ |
+| REGA [4] | phylogenetic | X | ✓ |
+| SCUEAL13 [13] | phylogenetic | X | ✓ |
+
+NCBI 9
+similarity
+X
+✓
+Stanford 10
+similarity
+✓
+✓
+COMET 11
+statistical
+✓
+✓
+jpHMM 12
+statistical
+X
+✓
+REGA 4 
+phylogenetic
+X
+✓
+SCUEAL13
+phylogenetic
+X
+✓
+
+
+
 ** Will not be able to subtype some circulating recombinant forms due to missing breakpoints (CRF_AE & CRF_BG)[5,6](https://www.zotero.org/google-docs/?AVqBsR)
 
 A tiled amplicon sequencing primer scheme has been developed by the Association of Public Health Laboratories (APHL): <https://www.protocols.io/view/an-ngs-amplicon-tiling-protocol-for-hiv-1-drug-res-n92ldmq4ol5b/v2> (DOI:10.17504/protocols.io.n92ldmq4ol5b/v2)
