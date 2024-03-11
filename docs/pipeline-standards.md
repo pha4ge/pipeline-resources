@@ -11,6 +11,8 @@ Libuit KG, Guthrie J, Ambrosio F, Kapsak C, Unal Gultekin, Holmes J, Wright S, N
     - Adding max duration for commitments to maintain (2  years)
 - 2024-02-11:
     - Adding descriptions of meeting and verifying proposed standards
+- 2024-03-11:
+    - Focus shift from proposed standards for bioinformatics software to best practices for bioinformatics pipelines
 </details>
 
 ## Overview
@@ -72,14 +74,11 @@ Containers are essential for modern bioinformatics development and pipeline dist
 - Singularity containers
 - Docker containers.
 
-There should be a clear summary in the Git README pointing to which containerisation method has been chosen and instructions for how a lab can install this pipeline and/or where docker images are available, e.g. dockerhub and quay for containers; and where conda packages are available, e.g. anaconda and bioconda (cross-referenced with Installation Instructions).
+There should be a clear summary in the Git README pointing to which containerisation method has been chosen and instructions for how a lab can install this pipeline and/or where docker images are available, e.g. dockerhub and quay for containers; and where conda packages are available, e.g. anaconda and bioconda (cross-referenced with Installation Instructions). Documentation should indicate the specific version included in the pipeline. This is important as specific software versions  may impact functionality.
 
-When bioinformatics software is containerised, there should be a supplementary document justifying, where appropriate, why a particular version was chosen for analysis. Reasons for choosing specific pipeline versions include but are not limited to ensuring functionality by selecting compatible dependencies and major differences in functionality and features between pipeline versions.
-Similarly, if a pipeline version within the container changes, this should be appropriately version-controlled, outlining any expected effects on results, documented in a CHANGELOG. This could also provide a useful way for prompting improvements during the code review process, e.g. questioning why pipeline with an upcoming end-of-life was chosen during development.
+**To adhear this best practice:** Implement pipeline components within Docker containers or distribute them as Conda packages; use of containerized/packaged software should be clearly documented.
 
-**To adhear this best practice:** Implement pipeline components within Docker containers or distribute them as Conda packages.
-
-**To verify adherence to this best practice:** The reviewer should inspect the pipeline source code and review analyatical steps (e.g. NextFLow processes or WDL tasks) to ensure use of containerized or packaged softare.
+**To verify adherence to this best practice:** The reviewer should inspect the pipeline source code and review analyatical steps (e.g. NextFLow processes or WDL tasks) to ensure use of containerized or packaged softare and verify documentation of these resources.
 
 ### 6. Common File Formats
 _Does the pipeline accept as input and generate as output common file format utilized in public health pathogen genomics?_
@@ -139,7 +138,7 @@ If an external reference data or database is required, the following standards s
 
 The format of open-access downloadable should be defined, ideally in compressed format, and in such a format that will be best suited for downstream usage/analysis.
 
-**To adhere to this best practice:** Tthe required reference data and/or databases for public health bioinformatics pipeline should be clearly documented, publicly accessible, and maintained. If an external reference database is required, it should also adhere to standards such as static versioning, open-access, and clear instructions for installation/access. Clearly document aspects of the database, such as the schema, table structure, and stored procedures, in a format suitable for users, such as technical documentation, user guides, and reference manuals.
+**To adhere to this best practice:** The required reference data and/or databases for public health bioinformatics pipeline should be clearly documented, publicly accessible, and maintained. If an external reference database is required, it should also adhere to standards such as static versioning, open-access, and clear instructions for installation/access. Clearly document aspects of the database, such as the schema, table structure, and stored procedures, in a format suitable for users, such as technical documentation, user guides, and reference manuals.
 
 **To verify adherence to this best practice:** The reviewer should check the documentation or repository for comprehensive information on external reference data or database requirements, ensuring transparency, usability, and reproducibility.
 
@@ -155,7 +154,7 @@ Having clearly written and publicly-accessible pipeline documentation enhances u
 
 Effective pipeline documentation encompasses a broad range of practices, each targeting specific aspects of usability, transparency, and collaboration. These documentation practices ensure that users and contributors have a clear understanding of the pipeline's development, usage, and governance. By incorporating these elements, documentation becomes a comprehensive resource that supports the pipeline's integrity, facilitates community contribution, and enhances user engagement, making it an indispensable part of best practices in bioinformatics pipeline development.
 
-**To adhere to this best practice and verify adherence to this best practice:** Refer to the documentation practices listed below.
+**To adhere to this best practice and verify adherence to this best practice:** Refer to the documentation practices listed below; all pipeline documentation practices should be met.
 
 #### 10a. Contribution, Authorship, and Verified Point of Contact
 _Does the full list of authors seem appropriate and include a verified point of contact?_
@@ -186,7 +185,7 @@ This documentation may detail the support mechanism for users, including how the
 
 **To adhere to this documentation practice:** Authors must include a detailed statement regarding the pipeline's future upkeep, covering aspects such as update schedules, user support mechanisms, and funding or community support strategies. 
 
-*To verify adherence to this documentation practice:** the reviewer will check that the documentation contains a comprehensive statement detailing the authors' commitment to maintaining the pipeline, including specific plans for updates, user support, and securing the pipeline's sustainability.
+**To verify adherence to this documentation practice:** The reviewer will check that the documentation contains a comprehensive statement detailing the authors' commitment to maintaining the pipeline, including specific plans for updates, user support, and securing the pipeline's sustainability.
 
 #### 10d. Community Guidelines for Contribution and Support
 _Are there clear guidelines for third parties wishing to 1) contribute to the pipeline 2) report issues or problems with the pipeline and 3) seek support?_
@@ -207,7 +206,7 @@ Users are more likely to adopt a new tool if they can see how it addresses exist
 
 **To adhere to this documentation practice:** Clearly state the significance and relevance of public health bioinformatics pipeline and explain how the tool differs from existing ones and/or improves established methods.
 
-**To verify adherence to this documentation practice:**the reviewer will ensure that the documentation includes a statement highlighting the pipeline's purpose and its alignment with pressing public health challenges.
+**To verify adherence to this documentation practice:** The reviewer will ensure that the documentation includes a statement highlighting the pipeline's purpose and its alignment with pressing public health challenges.
 
 #### 10f. Pipeline Functionality
 _Has the function of this software as it pertains to public health bioinformatics been clearly articulated?_
