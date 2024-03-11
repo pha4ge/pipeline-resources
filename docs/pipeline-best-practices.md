@@ -119,6 +119,7 @@ A benchmark dataset is a standardized set of inputs with known outputs that is u
 A validation dataset, on the other hand, is used to validate the accuracy and reliability of a specific bioinformatics tool. The validation dataset is designed to test the tool's performance on a range of input data types and sizes and evaluate its ability to correctly identify the target sequences and distinguish them from non-target sequences.
 
 **To adhere to this best practice:** Include a benchmark or validation dataset for public health bioinformatics pipeline, promoting transparency and consistency in the evaluation and comparison of different tools. 
+
 **To verify adherence to this best practice:** The reviewer should check the documentation or repository for information on the availability and accessibility of a benchmark and/or validation dataset for the public health bioinformatics pipeline.
 
 ### 9. Reference Data Requirements
