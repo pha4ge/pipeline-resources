@@ -18,7 +18,7 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 - [Mpox Resources](#mpox-resources)
 	- [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
 - [Bioinformatics Development](#bioinformatics-development)
-	- [Best Practices for Public Health Bioinformatics Pipelines](docs/pipeline-standards.md)
+	- [Best Practices for Public Health Bioinformatics Pipelines](docs/pipeline-best-practices.md)
 - [Contributing](#contributing)
 
 
