@@ -18,7 +18,7 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 - [Mpox Resources](#mpox-resources)
 	- [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
 - [Bioinformatics Development](#bioinformatics-development)
-	- [Best Practices for Public Health Bioinformatics Pipelines](docs/pipeline-best-practices.md)
+	- [Best Practices for Public Health Bioinformatics Pipelines](https://github.com/pha4ge/public-health-pipeline-best-practices/blob/main/docs/pipeline-best-practices.md)
 - [Contributing](#contributing)
 
 
@@ -66,7 +66,7 @@ In an attempt to assist this integration process, the bioinformatics pipeline an
 Bioinformatics Development
 ==================
 
-### [Public Health Pipeline Best Practices](docs/pipeline-best-practices.md)
+### [Public Health Pipeline Best Practices](https://github.com/pha4ge/public-health-pipeline-best-practices/blob/main/docs/pipeline-best-practices.md)
 
 In an attempt to assist software developers, the Bioinformatics Pipelines and Visualization Working Group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has proposed a set of best practices, tailored specifically for public health bioinformatics pipelines. These best practices aim to provide a guidance framework for development, testing, maintenance of bioinformatics software. By adhering closely to these best practices, developers can enhance the quality, reliability and sustainability of their software, facilitating impact in public health research.
 
