@@ -1,3 +1,9 @@
+
+**<p align="center">NOTE: AS OF 2024-03-24, THIS DOCUMENT HAS BEEN MOVED TO A SEPARATE REPOSITORY. FOR THE MOST UPDATED BRTDION  OF THIS DOCUMENT, PLEASE VISIT https://github.com/pha4ge/public-health-pipeline-best-practices. </p>**
+
+----
+
+
 # **Best Practices for Public Health Bioinformatics Pipelines**
 
 **PHA4GE Bioinformatics Pipelines &amp; Visualization Working Group <br/>**
