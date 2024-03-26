@@ -236,15 +236,10 @@ Tools:
 
 The sequencing strategy (Table 2)  that you adopt is dependent on multiple factors but should be driven by the question that you are trying to answer. For example, targeted amplification of the Pol region has historically been used to assess drug resistance to antiretroviral therapy.
 
-Table 2: Potential sequencing  strategies for HIV-1
-| Tool | Type | CLI | GUI |
-| ---- | ---- | --- | --- |
-| NCBI [9] | similarity | X | ✓ |
-| Stanford [10] | similarity | ✓ | ✓ |
-| COMET [11] | similarity | ✓ | ✓ |
-| jpHMM [12] | statistical | X | ✓ |
-| REGA [4] | phylogenetic | X | ✓ |
-| SCUEAL13 [13] | phylogenetic | X | ✓ |
+| Strategy/Application | DR Detection | Subtyping | Phylogenomics| Phylogenetics |
+| Targeted Amplicon Sequencing** | ✓ | ✓ | X | ✓ |
+| Long-Range PCR | X | ✓ | X | X |
+| Tiled amplicon WGS | ✓ | ✓ | ✓ | ✓ |
 
 ** Will not be able to subtype some circulating recombinant forms due to missing breakpoints (CRF_AE & CRF_BG)[5,6](https://www.zotero.org/google-docs/?AVqBsR)
 
@@ -265,6 +260,14 @@ Subtyping
 Various HIV-1 subtyping tools are available (Table 3) which have been benchmarked previously [4,14](https://www.zotero.org/google-docs/?qUlDzn)
 
 Table 3: HIV-1  subtyping tools
+| Tool | Type | CLI | GUI |
+| ---- | ---- | --- | --- |
+| NCBI [9] | similarity | X | ✓ |
+| Stanford [10] | similarity | ✓ | ✓ |
+| COMET [11] | similarity | ✓ | ✓ |
+| jpHMM [12] | statistical | X | ✓ |
+| REGA [4] | phylogenetic | X | ✓ |
+| SCUEAL13 [13] | phylogenetic | X | ✓ |
 
 Multiple considerations need to be taken into account when choosing a subtyping tool.
 
