@@ -17,6 +17,8 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 	- [Informing Public Health Action](#sars-cov-2-resources)
 - [Mpox Resources](#mpox-resources)
 	- [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
+- [HIV Resources](#hiv-resources)
+	- [Bioinformatics Solutions](docs/hiv-bioinfo-solutions.md)
 - [Bioinformatics Development](#bioinformatics-development)
 	- [Best Practices for Public Health Bioinformatics Pipelines](https://github.com/pha4ge/public-health-pipeline-best-practices/blob/main/docs/pipeline-best-practices.md)
 - [Contributing](#contributing)
@@ -62,6 +64,13 @@ Mpox Resources
 ### [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
 
 In an attempt to assist this integration process, the bioinformatics pipeline and visualization working group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the major bioinformatics challenges for Mpox genomic analysis and suggest various open-source and freely available bioinformatics resources to address them.
+
+HIV Resources
+==================
+
+### [Bioinformatics Solutions](docs/hiv-bioinfo-solutions.md)
+
+Understanding the HIV genome, evolutionary dynamics, and subtypes are essential for designing bioinformatic processes. Here, we present a set of resources to help springboard researchers into the world of HIV bioinformatics.
 
 Bioinformatics Development
 ==================
