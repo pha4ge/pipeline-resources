@@ -237,6 +237,7 @@ Tools:
 The sequencing strategy (Table 2)  that you adopt is dependent on multiple factors but should be driven by the question that you are trying to answer. For example, targeted amplification of the Pol region has historically been used to assess drug resistance to antiretroviral therapy.
 
 | Strategy/Application | DR Detection | Subtyping | Phylogenomics| Phylogenetics |
+| -------------------- | ------------ | --------- | ------------ | ------------- |
 | Targeted Amplicon Sequencing** | ✓ | ✓ | X | ✓ |
 | Long-Range PCR | X | ✓ | X | X |
 | Tiled amplicon WGS | ✓ | ✓ | ✓ | ✓ |
