@@ -28,9 +28,9 @@ Understanding the HIV genome, evolutionary dynamics, and subtypes are essential 
 
 ## Genomic Structure 
 
-The diploid genome of HIV-1 consists of approximately 9700 nucleotides, and features nine genes which encode for fifteen proteins (Figure 1)[1](https://www.zotero.org/google-docs/?d63R6n) which interact with human proteins as part of the HIV-1 viral life cycle. Structural proteins, enzymes, and envelope proteins are encoded by three main genes: gag, pol, and env respectively. The remaining genes are responsible for coding regulatory (tat, rev) and accessory (vif, vpr, vpu/vpx, nef) proteins.
+The diploid genome of HIV-1 consists of approximately 9700 nucleotides, and features nine genes which encode for fifteen proteins (Figure 1)<sup>1</sup> which interact with human proteins as part of the HIV-1 viral life cycle. Structural proteins, enzymes, and envelope proteins are encoded by three main genes: gag, pol, and env respectively. The remaining genes are responsible for coding regulatory (tat, rev) and accessory (vif, vpr, vpu/vpx, nef) proteins.
 
-Figure 1: HIV-1 DNA genome structure[1](https://www.zotero.org/google-docs/?ELvnGh)
+Figure 1: HIV-1 DNA genome structure <sup>1</sup>
 
 <p align="center">
   <img src="./images/hiv-bioinfo-solutions-figure-1.svg" class="center">
@@ -350,14 +350,10 @@ An online database of HIV-1 sequence data and annotations, including drug resist
 
 References
 ==========
-
-[1.  Xiao, Q., Guo, D. & Chen, S. Application of CRISPR/Cas9-Based Gene Editing in HIV-1/AIDS Therapy. Front. Cell. Infect. Microbiol. 9, (2019).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[2.  Olabode, A. S. et al. Evidence for a recombinant origin of HIV-1 Group M from genomic variation. Virus Evol. 5, vey039 (2019).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[3.  Bbosa, N., Kaleebu, P. & Ssemwanga, D. HIV subtype diversity worldwide. Curr. Opin. HIV AIDS 14, 153--160 (2019).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[4.  Pineda-Peña, A.-C. et al. Automated subtyping of HIV-1 genetic sequences for clinical and surveillance purposes: Performance evaluation of the new REGA version 3 and seven other tools. Infect. Genet. Evol. 19, 337--348 (2013).](https://www.zotero.org/google-docs/?OTPY9Q)
+1. Xiao, Q., Guo, D. & Chen, S. Application of CRISPR/Cas9-Based Gene Editing in HIV-1/AIDS Therapy. Front. Cell. Infect. Microbiol. 9, (2019). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6439341/
+2. Olabode, A. S. et al. Evidence for a recombinant origin of HIV-1 Group M from genomic variation. Virus Evol. 5, vey039 (2019). https://pubmed.ncbi.nlm.nih.gov/30687518/
+3. Bbosa, N., Kaleebu, P. & Ssemwanga, D. HIV subtype diversity worldwide. Curr. Opin. HIV AIDS 14, 153--160 (2019). https://pubmed.ncbi.nlm.nih.gov/30882484/
+4. Pineda-Peña, A.-C. et al. Automated subtyping of HIV-1 genetic sequences for clinical and surveillance purposes: Performance evaluation of the new REGA version 3 and seven other tools. Infect. Genet. Evol. 19, 337--348 (2013). https://pubmed.ncbi.nlm.nih.gov/23660484/
 
 [5.  Delgado, E. et al. Identification of a Newly Characterized HIV-1 BG Intersubtype Circulating Recombinant Form in Galicia, Spain, Which Exhibits a Pseudotype-Like Virion Structure. JAIDS J. Acquir. Immune Defic. Syndr. 29, 536 (2002).](https://www.zotero.org/google-docs/?OTPY9Q)
 
