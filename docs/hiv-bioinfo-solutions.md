@@ -28,9 +28,9 @@ Understanding the HIV genome, evolutionary dynamics, and subtypes are essential 
 
 ## Genomic Structure 
 
-The diploid genome of HIV-1 consists of approximately 9700 nucleotides, and features nine genes which encode for fifteen proteins (Figure 1)<sup>1</sup> which interact with human proteins as part of the HIV-1 viral life cycle. Structural proteins, enzymes, and envelope proteins are encoded by three main genes: gag, pol, and env respectively. The remaining genes are responsible for coding regulatory (tat, rev) and accessory (vif, vpr, vpu/vpx, nef) proteins.
+The diploid genome of HIV-1 consists of approximately 9700 nucleotides, and features nine genes which encode for fifteen proteins (Figure 1)[<sup>1</sup>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6439341/) which interact with human proteins as part of the HIV-1 viral life cycle. Structural proteins, enzymes, and envelope proteins are encoded by three main genes: gag, pol, and env respectively. The remaining genes are responsible for coding regulatory (tat, rev) and accessory (vif, vpr, vpu/vpx, nef) proteins.
 
-Figure 1: HIV-1 DNA genome structure <sup>1</sup>
+Figure 1: HIV-1 DNA genome structure [<sup>1</sup>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6439341/)
 
 <p align="center">
   <img src="./images/hiv-bioinfo-solutions-figure-1.svg" class="center">
@@ -38,7 +38,7 @@ Figure 1: HIV-1 DNA genome structure <sup>1</sup>
 
 ## Evolution
 
-The HIV-1 population, despite having a relatively small genome (Figure 1), showcases extensive genomic diversity primarily due to its exceptionally high mutation rate. This rapid mutation occurs during replication, leading to an accumulation of genetic variations within the viral population. Furthermore, the virus exhibits a high proficiency in recombination<sup>2</sup>, particularly notable due to the varying recombination event rates observed in different segments of the HIV genome, which contribute to the overall genomic diversity of the virus.
+The HIV-1 population, despite having a relatively small genome (Figure 1), showcases extensive genomic diversity primarily due to its exceptionally high mutation rate. This rapid mutation occurs during replication, leading to an accumulation of genetic variations within the viral population. Furthermore, the virus exhibits a high proficiency in recombination[<sup>2</sup>](https://pubmed.ncbi.nlm.nih.gov/30687518/), particularly notable due to the varying recombination event rates observed in different segments of the HIV genome, which contribute to the overall genomic diversity of the virus.
 
 In turn, this high genomic diversity gives rise to minor variants that assume a critical role in the development of drug resistance. When exposed to selective pressures, such as antiretroviral drugs or the host immune system, the virus adapts by favouring the proliferation of specific minor variants carrying resistance mutations.
 
@@ -46,7 +46,7 @@ A comprehensive understanding of these evolutionary mechanisms is crucial, as th
 
 ## Subtypes
 
-HIV is classified into types, groups and subtypes according to its genetic diversity. <sup>3</sup>
+HIV is classified into types, groups and subtypes according to its genetic diversity. [<sup>3</sup>](https://pubmed.ncbi.nlm.nih.gov/30882484/)
 
 **HIV-1 / Group M, N, O, P**
 
@@ -70,7 +70,7 @@ Below, we outline key guidance pathways, which aim to capture  distinct themes 
 
 ### Genomic Characterisation/Subtyping
 
-Subtyping of HIV-1 refers to the categorization of the genome into groups (M, N, O or P) and further into subtypes (A-J  & CRFs) or clades. Following the production of a consensus   sequence various different approaches (similarity, statistical or phylogenetic) can be used  to assign a probable subtype.
+Subtyping of HIV-1 refers to the categorization of the genome into groups (M, N, O or P) and further into subtypes (A-J  & CRFs) or clades. Following the production of a consensus sequence various different approaches (similarity, statistical or phylogenetic) can be used  to assign a probable subtype.
 
 Sequencing strategy
 
@@ -94,7 +94,7 @@ Tools
 
 -   Stanford HIVdb, REGA
 
-Case Study: Benchmarking study of HIV-1 subtyping tools for clinical and surveillance purposes <sup>4</sup>
+Case Study: Benchmarking study of HIV-1 subtyping tools for clinical and surveillance purposes [<sup>4</sup>](https://pubmed.ncbi.nlm.nih.gov/23660484/)
 
 Description: In this study HIV-1 pol sequences obtained from Los Alamos were subtyped using various automated subtyping tools which were compared to manual phylogenetic analysis.This concluded that most automated subtyping tools work well with pure subtypes especially A & C, however variability of sensitivity and  specificity in subtyping CRFs concluded that multiple tools should be used to confirm HIV-1 subtype.
 
@@ -138,7 +138,7 @@ Tools 
 
 -   Stanford Database (either for pipeline implementation - codon frequency file - or for API query from consensus sequence)
 
-Case Study: Bioinformatic data processing pipelines in support of next-generation sequencing-based HIV drug resistance testing: the Winnipeg Consensus
+Case Study: Bioinformatic data processing pipelines in support of next-generation sequencing-based HIV drug resistance testing: the Winnipeg Consensus [<sup>5</sup>](https://pubmed.ncbi.nlm.nih.gov/30350345/)
 
 Pipelines: 
 
@@ -150,7 +150,7 @@ HIV-DRIVES:  <https://www.medrxiv.org/content/10.1101/2023.09.30.23296350v1>
 
 Drug Target Identification: Understanding the genome aids in identifying potential drug targets, such as the Protease, Reverse Transcriptase, and Integrase enzymes. Bioinformatics tools predict inhibitors for these targets.
 
-Drug Resistance Prediction: Analysing genomic sequences helps predict drug resistance mutations, informing clinicians about the efficacy of personalised highly active antiretroviral therapies (HAART).The treatment success of HIV infection is affected by development of viral drug resistance, thereby, complicating clinicians choice of selecting the right drugs for patients' treatment. This challenge has led to the development  of various bioinformatics software tools and databases for predicting drug resistance, and responses to combination therapy from viral genotypes.<sup>5</sup>
+Drug Resistance Prediction: Analysing genomic sequences helps predict drug resistance mutations, informing clinicians about the efficacy of personalised highly active antiretroviral therapies (HAART).The treatment success of HIV infection is affected by development of viral drug resistance, thereby, complicating clinicians choice of selecting the right drugs for patients' treatment. This challenge has led to the development  of various bioinformatics software tools and databases for predicting drug resistance, and responses to combination therapy from viral genotypes.[<sup>6</sup>](https://link.springer.com/chapter/10.1007/978-981-10-7483-7_16)
 
 Phylogenetics
 
@@ -243,7 +243,7 @@ Table 2: Potential sequencing  strategies for HIV-1
 | Long-Range PCR | X | ✓ | X | X |
 | Tiled amplicon WGS | ✓ | ✓ | ✓ | ✓ |
 
-** Will not be able to subtype some circulating recombinant forms due to missing breakpoints (CRF_AE & CRF_BG) <sup>6,7</sup>
+** Will not be able to subtype some circulating recombinant forms due to missing breakpoints (CRF_AE & CRF_BG) [<sup>7,8</sup>](https://pubmed.ncbi.nlm.nih.gov/11981372/,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC190613/)
 
 A tiled amplicon sequencing primer scheme has been developed by the Association of Public Health Laboratories (APHL): <https://www.protocols.io/view/an-ngs-amplicon-tiling-protocol-for-hiv-1-drug-res-n92ldmq4ol5b/v2> (DOI:10.17504/protocols.io.n92ldmq4ol5b/v2)
 
@@ -253,25 +253,34 @@ For researchers and clinicians alike, designing a bioinformatics analysis of HIV
 
 ### Assembly
 
--   shiver: A tool for assembling HIV sequences, particularly focusing on improving de novo assembly by minimising biased information <sup>8</sup>
--   iva: Generating de novo assembly of RNA virus genomes <sup>9</sup>
+-   shiver: A tool for assembling HIV sequences, particularly focusing on improving de novo assembly by minimising biased information [<sup>9</sup>](https://pubmed.ncbi.nlm.nih.gov/29876136/)
+-   iva: Generating de novo assembly of RNA virus genomes [<sup>10</sup>](https://pubmed.ncbi.nlm.nih.gov/25725497/)
 
 Subtyping
 
-Various HIV-1 subtyping tools are available (Table 3) which have been benchmarked previously <sup>4,10</sup>
+Various HIV-1 subtyping tools are available (Table 3) which have been benchmarked previously [<sup>4,11</sup>](https://pubmed.ncbi.nlm.nih.gov/23660484/,https://pubmed.ncbi.nlm.nih.gov/28701420/)
+
 Table 3: HIV-1  subtyping tools
+| Tool | Type | CLI | GUI |
+| ---- | ---- | --- | --- |
+| NCBI [<sup>12</sup>](https://pubmed.ncbi.nlm.nih.gov/15215470/) | similarity | X | ✓ |
+| Stanford [<sup>13</sup>](https://hivdb.stanford.edu/page/hiv-subtyper/) | similarity | ✓ | ✓ |
+| COMET [<sup>14</sup>](https://pubmed.ncbi.nlm.nih.gov/25120265/) | similarity | ✓ | ✓ |
+| jpHMM [<sup>15</sup>](https://pubmed.ncbi.nlm.nih.gov/16845050/) | statistical | X | ✓ |
+| REGA [<sup>4</sup>](https://pubmed.ncbi.nlm.nih.gov/23660484/) | phylogenetic | X | ✓ |
+| SCUEAL [<sup>16</sup>](https://pubmed.ncbi.nlm.nih.gov/19956739/) | phylogenetic | X | ✓ |
 
 Multiple considerations need to be taken into account when choosing a subtyping tool.
 
-Although the gold standard for HIV-1 subtyping is full-genome, often only the pol region is available. This region will allow for subtyping for most group M subtypes but will not differentiate CRF_AE & CRF_BG from the pure parent subtype due to lacking the recombination breakpoint in this region.[5,6](https://www.zotero.org/google-docs/?O3urnG) The second is that an up-to-date alignment is desirable especially when considering treatment failures e.g. cabotegravir (integrase inhibitor) not working on HIV-1 subtypes A1/A6.[15](https://www.zotero.org/google-docs/?aM4QLV)
+Although the gold standard for HIV-1 subtyping is full-genome, often only the pol region is available. This region will allow for subtyping for most group M subtypes but will not differentiate CRF_AE & CRF_BG from the pure parent subtype due to lacking the recombination breakpoint in this region [<sup>7,8</sup>](https://pubmed.ncbi.nlm.nih.gov/11981372/,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC190613/). The second is that an up-to-date alignment is desirable especially when considering treatment failures e.g. cabotegravir (integrase inhibitor) not working on HIV-1 subtypes A1/A6 [<sup>17</sup>](https://pubmed.ncbi.nlm.nih.gov/33730748/)
 
 ### Resistance detection
 
 Resistance detection is mainly undertaken in reference to HXB2 (Accession Number:K03455)
 
--   Stanford University HIVdb (<https://hivdb.stanford.edu/>) : An online database and tool for identifying drug-resistant mutations in HIV-1 using consensus and next-generation sequencing data [16--18](https://www.zotero.org/google-docs/?SChQDb)
+-   Stanford University HIVdb (<https://hivdb.stanford.edu/>) : An online database and tool for identifying drug-resistant mutations in HIV-1 using consensus and next-generation sequencing data [<sup>18,19,20</sup>](https://pubmed.ncbi.nlm.nih.gov/12520007/,https://pubmed.ncbi.nlm.nih.gov/16921473/,https://pubmed.ncbi.nlm.nih.gov/16652319/)
 
--   Quasitools HyDRA (no longer actively maintained): Command line tool to analyse next-generation sequencing data for cataloging drug resistance mutations using the Stanford University HIVdb [19](https://www.zotero.org/google-docs/?deyvXC)
+-   Quasitools HyDRA (no longer actively maintained): Command line tool to analyse next-generation sequencing data for cataloging drug resistance mutations using the Stanford University HIVdb [<sup>21</sup>](https://www.biorxiv.org/content/biorxiv/early/2019/08/13/733238.full.pdf)
 
 -   SierraPy: Python client to query Stanford University HIVdb (<https://github.com/hivdb/sierra-client/blob/master/python/README.md>)
 
@@ -285,15 +294,16 @@ Other Stanford HIVdb resources which are useful to investigate especially for pi
 
 ### Transmission network analysis 
 
--   HIV-TRACE: A command line tool for identifying and visualizing HIV transmission clusters using molecular sequence data [20](https://www.zotero.org/google-docs/?JkPOE4)
-
--   Clusterpicker (no longer actively maintained): A command line tool for identifying clusters in a phylogenetic tree based on bootstrap support and pairwise genetic distance within clusters [21](https://www.zotero.org/google-docs/?Gk777r)
+-   HIV-TRACE: A command line tool for identifying and visualizing HIV transmission clusters using molecular sequence data [<sup>22</sup>](https://pubmed.ncbi.nlm.nih.gov/29401317/)
+  
+-   Clusterpicker (no longer actively maintained): A command line tool for identifying clusters in a phylogenetic tree based on bootstrap support and pairwise genetic distance within clusters [<sup>23</sup>](https://pubmed.ncbi.nlm.nih.gov/24191891/)
+  
 
 ### Sequence Databases
 
 -   NCBI HIV-1 Human Interaction Database
 
-(<https://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions> )[22](https://www.zotero.org/google-docs/?iOtiCG) :
+(<https://www.ncbi.nlm.nih.gov/genome/viruses/retroviruses/hiv-1/interactions> )[<sup>24</sup>](https://pubmed.ncbi.nlm.nih.gov/25378338/)
 
 An online database of HIV-1 sequence data and annotations, including drug resistance and subtype information
 
@@ -349,46 +359,23 @@ References
 2. Olabode, A. S. et al. Evidence for a recombinant origin of HIV-1 Group M from genomic variation. Virus Evol. 5, vey039 (2019). https://pubmed.ncbi.nlm.nih.gov/30687518/
 3. Bbosa, N., Kaleebu, P. & Ssemwanga, D. HIV subtype diversity worldwide. Curr. Opin. HIV AIDS 14, 153--160 (2019). https://pubmed.ncbi.nlm.nih.gov/30882484/
 4. Pineda-Peña, A.-C. et al. Automated subtyping of HIV-1 genetic sequences for clinical and surveillance purposes: Performance evaluation of the new REGA version 3 and seven other tools. Infect. Genet. Evol. 19, 337--348 (2013). https://pubmed.ncbi.nlm.nih.gov/23660484/
-
-[5.  Delgado, E. et al. Identification of a Newly Characterized HIV-1 BG Intersubtype Circulating Recombinant Form in Galicia, Spain, Which Exhibits a Pseudotype-Like Virion Structure. JAIDS J. Acquir. Immune Defic. Syndr. 29, 536 (2002).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[6.  Carr, J. K. et al. Full-length sequence and mosaic structure of a human immunodeficiency virus type 1 isolate from Thailand. J. Virol. 70, 5935--5943 (1996).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[7.  Wymant, C. et al. Easy and accurate reconstruction of whole HIV genomes from short-read sequence data with shiver. Virus Evol. 4, vey007 (2018).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[8.  Hunt, M. et al. IVA: accurate de novo assembly of RNA virus genomes. Bioinformatics 31, 2374--2376 (2015).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[9.  Rozanov, M., Plikat, U., Chappey, C., Kochergin, A. & Tatusova, T. A web-based genotyping resource for viral sequences. Nucleic Acids Res. 32, W654-659 (2004).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[10.  HIV Subtyping Program - HIV Drug Resistance Database. https://hivdb.stanford.edu/page/hiv-subtyper/.](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[11.  Struck, D., Lawyer, G., Ternes, A.-M., Schmit, J.-C. & Bercoff, D. P. COMET: adaptive context-based modeling for ultrafast HIV-1 subtype identification. Nucleic Acids Res. 42, e144 (2014).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[12.  Zhang, M. et al. jpHMM at GOBICS: a web server to detect genomic recombinations in HIV-1. Nucleic Acids Res. 34, W463--W465 (2006).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[13.  Pond, S. L. K. et al. An Evolutionary Model-Based Algorithm for Accurate Phylogenetic Breakpoint Mapping and Subtype Prediction in HIV-1. PLOS Comput. Biol. 5, e1000581 (2009).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[14.  Fabeni, L. et al. Comparative Evaluation of Subtyping Tools for Surveillance of Newly Emerging HIV-1 Strains. J. Clin. Microbiol. 55, 2827--2837 (2017).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[15.  Cutrell, A. G. et al. Exploring predictors of HIV-1 virologic failure to long-acting cabotegravir and rilpivirine: a multivariable analysis. AIDS Lond. Engl. 35, 1333--1342 (2021).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[16.  Rhee, S.-Y. et al. Human immunodeficiency virus reverse transcriptase and protease sequence database. Nucleic Acids Res. 31, 298--303 (2003).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[17.  Shafer, R. W. Rationale and Uses of a Public HIV Drug-Resistance Database. J. Infect. Dis. 194, S51--S58 (2006).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[18.  Liu, T. F. & Shafer, R. W. Web Resources for HIV Type 1 Genotypic-Resistance Test Interpretation. Clin. Infect. Dis. Off. Publ. Infect. Dis. Soc. Am. 42, 1608--1618 (2006).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[19.  Marinier, E. et al. quasitools: A Collection of Tools for Viral Quasispecies Analysis. 733238 Preprint at https://doi.org/10.1101/733238 (2019).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[20.  Kosakovsky Pond, S. L., Weaver, S., Leigh Brown, A. J. & Wertheim, J. O. HIV-TRACE (TRAnsmission Cluster Engine): a Tool for Large Scale Molecular Epidemiology of HIV-1 and Other Rapidly Evolving Pathogens. Mol. Biol. Evol. 35, 1812--1819 (2018).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[21.  Ragonnet-Cronin, M. et al. Automated analysis of phylogenetic clusters. BMC Bioinformatics 14, 317 (2013).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[22.  Ako-Adjei, D. et al. HIV-1, human interaction database: current status and new features. Nucleic Acids Res. 43, D566-570 (2015).](https://www.zotero.org/google-docs/?OTPY9Q)
-
-[23.  Mannu, J. & Mathur, P. P. Role of Bioinformatics in Drug Resistance Prediction for HIV/AIDS. in Current trends in Bioinformatics: An Insight (eds. Wadhwa, G., Shanmughavel, P., Singh, A. K. & Bellare, J. R.) 277--286 (Springer, Singapore, 2018). doi:10.1007/978-981-10-7483-7_16.](https://www.zotero.org/google-docs/?OTPY9Q)
-
-Further Reading, Courses, and Training Materials
-------------------------------------------------
-
--   Ji, H., Enns, E., Brumme, C. J., Parkin, N., Howison, M., Lee, E. R., Capina, R., Marinier, E., Avila-Rios, S., Sandstrom, P., Van Domselaar, G., Harrigan, R., Paredes, R., Kantor, R., & Noguera-Julian, M. (2018). Bioinformatic data processing pipelines in support of next-generation sequencing-based HIV drug resistance testing: the Winnipeg Consensus. Journal of the International AIDS Society, 21(10), e25193.
+5. Ji, H., Enns, E., Brumme, C. J., Parkin, N., Howison, M., Lee, E. R., Capina, R., Marinier, E., Avila-Rios, S., Sandstrom, P., Van Domselaar, G., Harrigan, R., Paredes, R., Kantor, R., & Noguera-Julian, M. (2018). Bioinformatic data processing pipelines in support of next-generation sequencing-based HIV drug resistance testing: the Winnipeg Consensus. Journal of the International AIDS Society, 21(10), e25193. https://pubmed.ncbi.nlm.nih.gov/30350345/
+6. Mannu, J. & Mathur, P. P. Role of Bioinformatics in Drug Resistance Prediction for HIV/AIDS. in Current trends in Bioinformatics: An Insight (eds. Wadhwa, G., Shanmughavel, P., Singh, A. K. & Bellare, J. R.) 277--286 (Springer, Singapore, 2018). doi:10.1007/978-981-10-7483-7_16. https://link.springer.com/chapter/10.1007/978-981-10-7483-7_16
+7. Delgado, E. et al. Identification of a Newly Characterized HIV-1 BG Intersubtype Circulating Recombinant Form in Galicia, Spain, Which Exhibits a Pseudotype-Like Virion Structure. JAIDS J. Acquir. Immune Defic. Syndr. 29, 536 (2002). https://pubmed.ncbi.nlm.nih.gov/11981372/
+8. Carr, J. K. et al. Full-length sequence and mosaic structure of a human immunodeficiency virus type 1 isolate from Thailand. J. Virol. 70, 5935--5943 (1996). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC190613/
+9. Wymant, C. et al. Easy and accurate reconstruction of whole HIV genomes from short-read sequence data with shiver. Virus Evol. 4, vey007 (2018). https://pubmed.ncbi.nlm.nih.gov/29876136/
+10. Hunt, M. et al. IVA: accurate de novo assembly of RNA virus genomes. Bioinformatics 31, 2374--2376 (2015). https://pubmed.ncbi.nlm.nih.gov/25725497/
+11. Fabeni, L. et al. Comparative Evaluation of Subtyping Tools for Surveillance of Newly Emerging HIV-1 Strains. J. Clin. Microbiol. 55, 2827--2837 (2017). https://pubmed.ncbi.nlm.nih.gov/28701420/
+12. Rozanov, M., Plikat, U., Chappey, C., Kochergin, A. & Tatusova, T. A web-based genotyping resource for viral sequences. Nucleic Acids Res. 32, W654-659 (2004). https://pubmed.ncbi.nlm.nih.gov/15215470/
+13. HIV Subtyping Program - HIV Drug Resistance Database. https://hivdb.stanford.edu/page/hiv-subtyper/
+14. Struck, D., Lawyer, G., Ternes, A.-M., Schmit, J.-C. & Bercoff, D. P. COMET: adaptive context-based modeling for ultrafast HIV-1 subtype identification. Nucleic Acids Res. 42, e144 (2014). https://pubmed.ncbi.nlm.nih.gov/25120265/
+15. Zhang, M. et al. jpHMM at GOBICS: a web server to detect genomic recombinations in HIV-1. Nucleic Acids Res. 34, W463--W465 (2006). https://pubmed.ncbi.nlm.nih.gov/16845050/
+16. Pond, S. L. K. et al. An Evolutionary Model-Based Algorithm for Accurate Phylogenetic Breakpoint Mapping and Subtype Prediction in HIV-1. PLOS Comput. Biol. 5, e1000581 (2009).https://pubmed.ncbi.nlm.nih.gov/19956739/
+17. Cutrell, A. G. et al. Exploring predictors of HIV-1 virologic failure to long-acting cabotegravir and rilpivirine: a multivariable analysis. AIDS Lond. Engl. 35, 1333--1342 (2021). https://pubmed.ncbi.nlm.nih.gov/33730748/
+18. Rhee, S.-Y. et al. Human immunodeficiency virus reverse transcriptase and protease sequence database. Nucleic Acids Res. 31, 298--303 (2003). https://pubmed.ncbi.nlm.nih.gov/12520007/
+19. Shafer, R. W. Rationale and Uses of a Public HIV Drug-Resistance Database. J. Infect. Dis. 194, S51--S58 (2006). https://pubmed.ncbi.nlm.nih.gov/16921473/
+20.  Liu, T. F. & Shafer, R. W. Web Resources for HIV Type 1 Genotypic-Resistance Test Interpretation. Clin. Infect. Dis. Off. Publ. Infect. Dis. Soc. Am. 42, 1608--1618 (2006). https://pubmed.ncbi.nlm.nih.gov/16652319/
+21.  Marinier, E. et al. quasitools: A Collection of Tools for Viral Quasispecies Analysis. 733238 Preprint at https://doi.org/10.1101/733238 (2019). https://www.biorxiv.org/content/biorxiv/early/2019/08/13/733238.full.pdf
+22.  Kosakovsky Pond, S. L., Weaver, S., Leigh Brown, A. J. & Wertheim, J. O. HIV-TRACE (TRAnsmission Cluster Engine): a Tool for Large Scale Molecular Epidemiology of HIV-1 and Other Rapidly Evolving Pathogens. Mol. Biol. Evol. 35, 1812--1819 (2018). https://pubmed.ncbi.nlm.nih.gov/29401317/
+23. Ragonnet-Cronin, M. et al. Automated analysis of phylogenetic clusters. BMC Bioinformatics 14, 317 (2013). https://pubmed.ncbi.nlm.nih.gov/24191891/
+24. Ako-Adjei, D. et al. HIV-1, human interaction database: current status and new features. Nucleic Acids Res. 43, D566-570 (2015). https://pubmed.ncbi.nlm.nih.gov/25378338/
