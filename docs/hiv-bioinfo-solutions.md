@@ -38,7 +38,7 @@ Figure 1: HIV-1 DNA genome structure <sup>1</sup>
 
 ## Evolution
 
-The HIV-1 population, despite having a relatively small genome (Figure 1), showcases extensive genomic diversity primarily due to its exceptionally high mutation rate. This rapid mutation occurs during replication, leading to an accumulation of genetic variations within the viral population. Furthermore, the virus exhibits a high proficiency in recombination[2](https://www.zotero.org/google-docs/?rsgo16), particularly notable due to the varying recombination event rates observed in different segments of the HIV genome, which contribute to the overall genomic diversity of the virus.
+The HIV-1 population, despite having a relatively small genome (Figure 1), showcases extensive genomic diversity primarily due to its exceptionally high mutation rate. This rapid mutation occurs during replication, leading to an accumulation of genetic variations within the viral population. Furthermore, the virus exhibits a high proficiency in recombination<sup>2</sup>, particularly notable due to the varying recombination event rates observed in different segments of the HIV genome, which contribute to the overall genomic diversity of the virus.
 
 In turn, this high genomic diversity gives rise to minor variants that assume a critical role in the development of drug resistance. When exposed to selective pressures, such as antiretroviral drugs or the host immune system, the virus adapts by favouring the proliferation of specific minor variants carrying resistance mutations.
 
@@ -46,7 +46,7 @@ A comprehensive understanding of these evolutionary mechanisms is crucial, as th
 
 ## Subtypes
 
-HIV is classified into types, groups and subtypes according to its genetic diversity. [3](https://www.zotero.org/google-docs/?WdpgqI)
+HIV is classified into types, groups and subtypes according to its genetic diversity. <sup>3</sup>
 
 **HIV-1 / Group M, N, O, P**
 
@@ -94,7 +94,7 @@ Tools
 
 -   Stanford HIVdb, REGA
 
-Case Study: Benchmarking study of HIV-1 subtyping tools for clinical and surveillance purposes [4](https://www.zotero.org/google-docs/?TnxG7k)
+Case Study: Benchmarking study of HIV-1 subtyping tools for clinical and surveillance purposes <sup>4</sup>
 
 Description: In this study HIV-1 pol sequences obtained from Los Alamos were subtyped using various automated subtyping tools which were compared to manual phylogenetic analysis.This concluded that most automated subtyping tools work well with pure subtypes especially A & C, however variability of sensitivity and  specificity in subtyping CRFs concluded that multiple tools should be used to confirm HIV-1 subtype.
 
@@ -150,7 +150,7 @@ HIV-DRIVES:  <https://www.medrxiv.org/content/10.1101/2023.09.30.23296350v1>
 
 Drug Target Identification: Understanding the genome aids in identifying potential drug targets, such as the Protease, Reverse Transcriptase, and Integrase enzymes. Bioinformatics tools predict inhibitors for these targets.
 
-Drug Resistance Prediction: Analysing genomic sequences helps predict drug resistance mutations, informing clinicians about the efficacy of personalised highly active antiretroviral therapies (HAART).The treatment success of HIV infection is affected by development of viral drug resistance, thereby, complicating clinicians choice of selecting the right drugs for patients' treatment. This challenge has led to the development  of various bioinformatics software tools and databases for predicting drug resistance, and responses to combination therapy from viral genotypes [23](https://www.zotero.org/google-docs/?MPxock).
+Drug Resistance Prediction: Analysing genomic sequences helps predict drug resistance mutations, informing clinicians about the efficacy of personalised highly active antiretroviral therapies (HAART).The treatment success of HIV infection is affected by development of viral drug resistance, thereby, complicating clinicians choice of selecting the right drugs for patients' treatment. This challenge has led to the development  of various bioinformatics software tools and databases for predicting drug resistance, and responses to combination therapy from viral genotypes.<sup>5</sup>
 
 Phylogenetics
 
@@ -237,16 +237,13 @@ Tools:
 The sequencing strategy (Table 2)  that you adopt is dependent on multiple factors but should be driven by the question that you are trying to answer. For example, targeted amplification of the Pol region has historically been used to assess drug resistance to antiretroviral therapy.
 
 Table 2: Potential sequencing  strategies for HIV-1
-| Tool | Type | CLI | GUI |
-| ---- | ---- | --- | --- |
-| NCBI [9] | similarity | X | ✓ |
-| Stanford [10] | similarity | ✓ | ✓ |
-| COMET [11] | similarity | ✓ | ✓ |
-| jpHMM [12] | statistical | X | ✓ |
-| REGA [4] | phylogenetic | X | ✓ |
-| SCUEAL13 [13] | phylogenetic | X | ✓ |
+| Strategy/Application | DR Detection | Subtyping | Phylogenomics| Phylogenetics |
+| -------------------- | ------------ | --------- | ------------ | ------------- |
+| Targeted Amplicon Sequencing** | ✓ | ✓ | X | ✓ |
+| Long-Range PCR | X | ✓ | X | X |
+| Tiled amplicon WGS | ✓ | ✓ | ✓ | ✓ |
 
-** Will not be able to subtype some circulating recombinant forms due to missing breakpoints (CRF_AE & CRF_BG)[5,6](https://www.zotero.org/google-docs/?AVqBsR)
+** Will not be able to subtype some circulating recombinant forms due to missing breakpoints (CRF_AE & CRF_BG) <sup>6,7</sup>
 
 A tiled amplicon sequencing primer scheme has been developed by the Association of Public Health Laboratories (APHL): <https://www.protocols.io/view/an-ngs-amplicon-tiling-protocol-for-hiv-1-drug-res-n92ldmq4ol5b/v2> (DOI:10.17504/protocols.io.n92ldmq4ol5b/v2)
 
@@ -256,14 +253,12 @@ For researchers and clinicians alike, designing a bioinformatics analysis of HIV
 
 ### Assembly
 
--   shiver: A tool for assembling HIV sequences, particularly focusing on improving de novo assembly by minimising biased information [7](https://www.zotero.org/google-docs/?sahTRG)
-
--   iva: Generating de novo assembly of RNA virus genomes [8](https://www.zotero.org/google-docs/?9jQ24S)
+-   shiver: A tool for assembling HIV sequences, particularly focusing on improving de novo assembly by minimising biased information <sup>8</sup>
+-   iva: Generating de novo assembly of RNA virus genomes <sup>9</sup>
 
 Subtyping
 
-Various HIV-1 subtyping tools are available (Table 3) which have been benchmarked previously [4,14](https://www.zotero.org/google-docs/?qUlDzn)
-
+Various HIV-1 subtyping tools are available (Table 3) which have been benchmarked previously <sup>4,10</sup>
 Table 3: HIV-1  subtyping tools
 
 Multiple considerations need to be taken into account when choosing a subtyping tool.
@@ -397,5 +392,3 @@ Further Reading, Courses, and Training Materials
 ------------------------------------------------
 
 -   Ji, H., Enns, E., Brumme, C. J., Parkin, N., Howison, M., Lee, E. R., Capina, R., Marinier, E., Avila-Rios, S., Sandstrom, P., Van Domselaar, G., Harrigan, R., Paredes, R., Kantor, R., & Noguera-Julian, M. (2018). Bioinformatic data processing pipelines in support of next-generation sequencing-based HIV drug resistance testing: the Winnipeg Consensus. Journal of the International AIDS Society, 21(10), e25193.
-
--   Kanyerezi, S., Sserwadda, I., Ssemaganda, A., Sseruyange, J., Ayitewala, A., Oundo, H., ... & Mboowa, G. (2023). HIV-DRIVES: HIV Drug Resistance Identification, Variant Evaluation, & Surveillance Pipeline. medRxiv, 2023-09.
