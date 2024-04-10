@@ -236,7 +236,9 @@ Tools:
 
 The sequencing strategy (Table 2)  that you adopt is dependent on multiple factors but should be driven by the question that you are trying to answer. For example, targeted amplification of the Pol region has historically been used to assess drug resistance to antiretroviral therapy.
 
+
 Table 2: Potential sequencing  strategies for HIV-1
+
 | Strategy/Application | DR Detection | Subtyping | Phylogenomics| Phylogenetics |
 | -------------------- | ------------ | --------- | ------------ | ------------- |
 | Targeted Amplicon Sequencing** | ✓ | ✓ | X | ✓ |
@@ -355,6 +357,7 @@ An online database of HIV-1 sequence data and annotations, including drug resist
 
 References
 ==========
+
 1. Xiao, Q., Guo, D. & Chen, S. Application of CRISPR/Cas9-Based Gene Editing in HIV-1/AIDS Therapy. Front. Cell. Infect. Microbiol. 9, (2019). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6439341/
 2. Olabode, A. S. et al. Evidence for a recombinant origin of HIV-1 Group M from genomic variation. Virus Evol. 5, vey039 (2019). https://pubmed.ncbi.nlm.nih.gov/30687518/
 3. Bbosa, N., Kaleebu, P. & Ssemwanga, D. HIV subtype diversity worldwide. Curr. Opin. HIV AIDS 14, 153--160 (2019). https://pubmed.ncbi.nlm.nih.gov/30882484/
@@ -379,3 +382,6 @@ References
 22.  Kosakovsky Pond, S. L., Weaver, S., Leigh Brown, A. J. & Wertheim, J. O. HIV-TRACE (TRAnsmission Cluster Engine): a Tool for Large Scale Molecular Epidemiology of HIV-1 and Other Rapidly Evolving Pathogens. Mol. Biol. Evol. 35, 1812--1819 (2018). https://pubmed.ncbi.nlm.nih.gov/29401317/
 23. Ragonnet-Cronin, M. et al. Automated analysis of phylogenetic clusters. BMC Bioinformatics 14, 317 (2013). https://pubmed.ncbi.nlm.nih.gov/24191891/
 24. Ako-Adjei, D. et al. HIV-1, human interaction database: current status and new features. Nucleic Acids Res. 43, D566-570 (2015). https://pubmed.ncbi.nlm.nih.gov/25378338/
+
+
+
