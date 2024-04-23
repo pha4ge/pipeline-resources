@@ -88,17 +88,17 @@ Analysis
 
 Tools
 
--   minimap2 [<sup>4</sup>](https://pubmed.ncbi.nlm.nih.gov/29750242/), shiver [<sup>6</sup>](https://pubmed.ncbi.nlm.nih.gov/29876136/), iva [<sup>5</sup>](https://pubmed.ncbi.nlm.nih.gov/25725497/)
+-   minimap2 [<sup>4</sup>](https://pubmed.ncbi.nlm.nih.gov/29750242/), iva [<sup>5</sup>](https://pubmed.ncbi.nlm.nih.gov/25725497/), shiver [<sup>6</sup>](https://pubmed.ncbi.nlm.nih.gov/29876136/)
 
--   Quasitools HyDRA [<sup>7</sup>](https://www.biorxiv.org/content/biorxiv/early/2019/08/13/733238.full.pdf), samtools[<sup>8</sup>](https://pubmed.ncbi.nlm.nih.gov/33590861/), bcftools[<sup>8</sup>](https://pubmed.ncbi.nlm.nih.gov/33590861/)
+-   Quasitools HyDRA [<sup>7</sup>](https://www.biorxiv.org/content/biorxiv/early/2019/08/13/733238.full.pdf), samtools [<sup>8</sup>](https://pubmed.ncbi.nlm.nih.gov/33590861/), bcftools [<sup>8</sup>](https://pubmed.ncbi.nlm.nih.gov/33590861/)
 
--   Stanford HIVdb, REGA
+-   Stanford HIVdb [<sup>9,10,11</sup>](https://pubmed.ncbi.nlm.nih.gov/12520007/,https://pubmed.ncbi.nlm.nih.gov/16921473/,https://pubmed.ncbi.nlm.nih.gov/16652319/), REGA [<sup>12</sup>](https://pubmed.ncbi.nlm.nih.gov/23660484/)
 
-Case Study: Benchmarking study of HIV-1 subtyping tools for clinical and surveillance purposes [<sup>4</sup>](https://pubmed.ncbi.nlm.nih.gov/23660484/)
+Case Study: Benchmarking study of HIV-1 subtyping tools for clinical and surveillance purposes [<sup>12</sup>](https://pubmed.ncbi.nlm.nih.gov/23660484/)
 
 Description: In this study HIV-1 pol sequences obtained from Los Alamos were subtyped using various automated subtyping tools which were compared to manual phylogenetic analysis.This concluded that most automated subtyping tools work well with pure subtypes especially A & C, however variability of sensitivity and  specificity in subtyping CRFs concluded that multiple tools should be used to confirm HIV-1 subtype.
 
-Tools & databases used: Los Alamos HIV Sequence Database, REGA,COMET, jpHMM, STAR, Stanford HIVdb, NCBI and SCUEAL.
+Tools & databases used: Los Alamos HIV Sequence Database (https://www.hiv.lanl.gov/), REGA [<sup>12</sup>](https://pubmed.ncbi.nlm.nih.gov/23660484/) ,COMET [<sup>13</sup>](https://pubmed.ncbi.nlm.nih.gov/25120265/) , jpHMM [<sup>14</sup](https://pubmed.ncbi.nlm.nih.gov/16845050/), STAR [<sup>15</sup](https://pubmed.ncbi.nlm.nih.gov/16046498/), NCBI [<sup>16</sup](https://pubmed.ncbi.nlm.nih.gov/15215470/), Stanford HIVdb [<sup>17</sup](https://hivdb.stanford.edu/page/hiv-subtyper/) and SCUEAL [<sup>18</sup](https://pubmed.ncbi.nlm.nih.gov/19956739/).
 
 ### Drug Resistance Surveillance
 
@@ -134,11 +134,11 @@ Tools 
 
 -   minimap2 [<sup>4</sup>](https://pubmed.ncbi.nlm.nih.gov/29750242/), iva [<sup>5</sup>](https://pubmed.ncbi.nlm.nih.gov/25725497/), shiver [<sup>6</sup>](https://pubmed.ncbi.nlm.nih.gov/29876136/)
 
--   VarScan
+-   VarScan [<sup>19</sup>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734323/)
 
--   Stanford Database (either for pipeline implementation - codon frequency file - or for API query from consensus sequence)
+-   Stanford Database (either for pipeline implementation - codon frequency file - or for API query from consensus sequence) [<sup>9,10,11</sup>](https://pubmed.ncbi.nlm.nih.gov/12520007/,https://pubmed.ncbi.nlm.nih.gov/16921473/,https://pubmed.ncbi.nlm.nih.gov/16652319/)
 
-Case Study: Bioinformatic data processing pipelines in support of next-generation sequencing-based HIV drug resistance testing: the Winnipeg Consensus [<sup>5</sup>](https://pubmed.ncbi.nlm.nih.gov/30350345/)
+Case Study: Bioinformatic data processing pipelines in support of next-generation sequencing-based HIV drug resistance testing: the Winnipeg Consensus [<sup>20</sup>](https://pubmed.ncbi.nlm.nih.gov/30350345/)
 
 Pipelines: 
 
@@ -150,7 +150,7 @@ HIV-DRIVES:  <https://www.medrxiv.org/content/10.1101/2023.09.30.23296350v1>
 
 Drug Target Identification: Understanding the genome aids in identifying potential drug targets, such as the Protease, Reverse Transcriptase, and Integrase enzymes. Bioinformatics tools predict inhibitors for these targets.
 
-Drug Resistance Prediction: Analysing genomic sequences helps predict drug resistance mutations, informing clinicians about the efficacy of personalised highly active antiretroviral therapies (HAART).The treatment success of HIV infection is affected by development of viral drug resistance, thereby, complicating clinicians choice of selecting the right drugs for patients' treatment. This challenge has led to the development  of various bioinformatics software tools and databases for predicting drug resistance, and responses to combination therapy from viral genotypes.[<sup>6</sup>](https://link.springer.com/chapter/10.1007/978-981-10-7483-7_16)
+Drug Resistance Prediction: Analysing genomic sequences helps predict drug resistance mutations, informing clinicians about the efficacy of personalised highly active antiretroviral therapies (HAART).The treatment success of HIV infection is affected by development of viral drug resistance, thereby, complicating clinicians choice of selecting the right drugs for patients' treatment. This challenge has led to the development  of various bioinformatics software tools and databases for predicting drug resistance, and responses to combination therapy from viral genotypes.[<sup>21</sup>](https://link.springer.com/chapter/10.1007/978-981-10-7483-7_16)
 
 Phylogenetics
 
@@ -182,11 +182,11 @@ Analysis
 
 Tools 
 
--   minimap2 [<sup>4</sup>](https://pubmed.ncbi.nlm.nih.gov/29750242/), iva [<sup>5</sup>](https://pubmed.ncbi.nlm.nih.gov/25725497/), shiver
+-   minimap2 [<sup>4</sup>](https://pubmed.ncbi.nlm.nih.gov/29750242/), iva [<sup>5</sup>](https://pubmed.ncbi.nlm.nih.gov/25725497/), shiver [<sup>6</sup>](https://pubmed.ncbi.nlm.nih.gov/29876136/)
 
--   VarScan
+-   VarScan [<sup>19</sup>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734323/)
 
--   HIV-TRACE
+-   HIV-TRACE [<sup>22</sup>](https://pubmed.ncbi.nlm.nih.gov/29401317/)
 
 Protocol: https://www.researchgate.net/publication/376330219_An_NGS_amplicon_tiling_protocol_for_HIV-1_drug_resistance_detection_using_IlluminaR_COVIDSeq_Assay_Kit_v2
 
@@ -281,7 +281,7 @@ Resistance detection is mainly undertaken in reference to HXB2 (Accession Number
 
 -   Stanford University HIVdb (<https://hivdb.stanford.edu/>) : An online database and tool for identifying drug-resistant mutations in HIV-1 using consensus and next-generation sequencing data [<sup>18,19,20</sup>](https://pubmed.ncbi.nlm.nih.gov/12520007/,https://pubmed.ncbi.nlm.nih.gov/16921473/,https://pubmed.ncbi.nlm.nih.gov/16652319/)
 
--   Quasitools HyDRA (no longer actively maintained): Command line tool to analyse next-generation sequencing data for cataloging drug resistance mutations using the Stanford University HIVdb [<sup>21</sup>](https://www.biorxiv.org/content/biorxiv/early/2019/08/13/733238.full.pdf)
+-   Quasitools HyDRA (no longer actively maintained): Command line tool to analyse next-generation sequencing data for cataloging drug resistance mutations using the Stanford University HIVdb [<sup>7</sup>](https://www.biorxiv.org/content/biorxiv/early/2019/08/13/733238.full.pdf)
 
 -   SierraPy: Python client to query Stanford University HIVdb (<https://github.com/hivdb/sierra-client/blob/master/python/README.md>)
 
@@ -365,27 +365,30 @@ References
 6. Wymant, C. et al. Easy and accurate reconstruction of whole HIV genomes from short-read sequence data with shiver. Virus Evol. 4, vey007 (2018). https://pubmed.ncbi.nlm.nih.gov/29876136/
 7. Marinier, E. et al. quasitools: A Collection of Tools for Viral Quasispecies Analysis. 733238 Preprint at https://doi.org/10.1101/733238 (2019). https://www.biorxiv.org/content/biorxiv/early/2019/08/13/733238.full.pdf
 8. Danecek P, et al. Twelve years of SAMtools and BCFtools. Gigascience 10(2):giab008 (2021).https://pubmed.ncbi.nlm.nih.gov/33590861/
-9. Pineda-Peña, A.-C. et al. Automated subtyping of HIV-1 genetic sequences for clinical and surveillance purposes: Performance evaluation of the new REGA version 3 and seven other tools. Infect. Genet. Evol. 19, 337--348 (2013). https://pubmed.ncbi.nlm.nih.gov/23660484/
-10. Ji, H., Enns, E., Brumme, C. J., Parkin, N., Howison, M., Lee, E. R., Capina, R., Marinier, E., Avila-Rios, S., Sandstrom, P., Van Domselaar, G., Harrigan, R., Paredes, R., Kantor, R., & Noguera-Julian, M. (2018). Bioinformatic data processing pipelines in support of next-generation sequencing-based HIV drug resistance testing: the Winnipeg Consensus. Journal of the International AIDS Society, 21(10), e25193. https://pubmed.ncbi.nlm.nih.gov/30350345/
-11. Mannu, J. & Mathur, P. P. Role of Bioinformatics in Drug Resistance Prediction for HIV/AIDS. in Current trends in Bioinformatics: An Insight (eds. Wadhwa, G., Shanmughavel, P., Singh, A. K. & Bellare, J. R.) 277--286 (Springer, Singapore, 2018). doi:10.1007/978-981-10-7483-7_16. https://link.springer.com/chapter/10.1007/978-981-10-7483-7_16
-12. Delgado, E. et al. Identification of a Newly Characterized HIV-1 BG Intersubtype Circulating Recombinant Form in Galicia, Spain, Which Exhibits a Pseudotype-Like Virion Structure. JAIDS J. Acquir. Immune Defic. Syndr. 29, 536 (2002). https://pubmed.ncbi.nlm.nih.gov/11981372/
-13. Carr, J. K. et al. Full-length sequence and mosaic structure of a human immunodeficiency virus type 1 isolate from Thailand. J. Virol. 70, 5935--5943 (1996). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC190613/
-14. Wymant, C. et al. Easy and accurate reconstruction of whole HIV genomes from short-read sequence data with shiver. Virus Evol. 4, vey007 (2018). https://pubmed.ncbi.nlm.nih.gov/29876136/
-15. 
-16. Fabeni, L. et al. Comparative Evaluation of Subtyping Tools for Surveillance of Newly Emerging HIV-1 Strains. J. Clin. Microbiol. 55, 2827--2837 (2017). https://pubmed.ncbi.nlm.nih.gov/28701420/
-17. Rozanov, M., Plikat, U., Chappey, C., Kochergin, A. & Tatusova, T. A web-based genotyping resource for viral sequences. Nucleic Acids Res. 32, W654-659 (2004). https://pubmed.ncbi.nlm.nih.gov/15215470/
-18. HIV Subtyping Program - HIV Drug Resistance Database. https://hivdb.stanford.edu/page/hiv-subtyper/
-19. Struck, D., Lawyer, G., Ternes, A.-M., Schmit, J.-C. & Bercoff, D. P. COMET: adaptive context-based modeling for ultrafast HIV-1 subtype identification. Nucleic Acids Res. 42, e144 (2014). https://pubmed.ncbi.nlm.nih.gov/25120265/
-20. Zhang, M. et al. jpHMM at GOBICS: a web server to detect genomic recombinations in HIV-1. Nucleic Acids Res. 34, W463--W465 (2006). https://pubmed.ncbi.nlm.nih.gov/16845050/
-21. Pond, S. L. K. et al. An Evolutionary Model-Based Algorithm for Accurate Phylogenetic Breakpoint Mapping and Subtype Prediction in HIV-1. PLOS Comput. Biol. 5, e1000581 (2009).https://pubmed.ncbi.nlm.nih.gov/19956739/
-22. Cutrell, A. G. et al. Exploring predictors of HIV-1 virologic failure to long-acting cabotegravir and rilpivirine: a multivariable analysis. AIDS Lond. Engl. 35, 1333--1342 (2021). https://pubmed.ncbi.nlm.nih.gov/33730748/
-23. Rhee, S.-Y. et al. Human immunodeficiency virus reverse transcriptase and protease sequence database. Nucleic Acids Res. 31, 298--303 (2003). https://pubmed.ncbi.nlm.nih.gov/12520007/
-24. Shafer, R. W. Rationale and Uses of a Public HIV Drug-Resistance Database. J. Infect. Dis. 194, S51--S58 (2006). https://pubmed.ncbi.nlm.nih.gov/16921473/
-25.  Liu, T. F. & Shafer, R. W. Web Resources for HIV Type 1 Genotypic-Resistance Test Interpretation. Clin. Infect. Dis. Off. Publ. Infect. Dis. Soc. Am. 42, 1608--1618 (2006). https://pubmed.ncbi.nlm.nih.gov/16652319/
-26.  Marinier, E. et al. quasitools: A Collection of Tools for Viral Quasispecies Analysis. 733238 Preprint at https://doi.org/10.1101/733238 (2019). https://www.biorxiv.org/content/biorxiv/early/2019/08/13/733238.full.pdf
-27.  Kosakovsky Pond, S. L., Weaver, S., Leigh Brown, A. J. & Wertheim, J. O. HIV-TRACE (TRAnsmission Cluster Engine): a Tool for Large Scale Molecular Epidemiology of HIV-1 and Other Rapidly Evolving Pathogens. Mol. Biol. Evol. 35, 1812--1819 (2018). https://pubmed.ncbi.nlm.nih.gov/29401317/
-28. Ragonnet-Cronin, M. et al. Automated analysis of phylogenetic clusters. BMC Bioinformatics 14, 317 (2013). https://pubmed.ncbi.nlm.nih.gov/24191891/
-29. Ako-Adjei, D. et al. HIV-1, human interaction database: current status and new features. Nucleic Acids Res. 43, D566-570 (2015). https://pubmed.ncbi.nlm.nih.gov/25378338/
+9. Rhee, S.-Y. et al. Human immunodeficiency virus reverse transcriptase and protease sequence database. Nucleic Acids Res. 31, 298--303 (2003). https://pubmed.ncbi.nlm.nih.gov/12520007/
+10. Shafer, R. W. Rationale and Uses of a Public HIV Drug-Resistance Database. J. Infect. Dis. 194, S51--S58 (2006). https://pubmed.ncbi.nlm.nih.gov/16921473/
+11. Liu, T. F. & Shafer, R. W. Web Resources for HIV Type 1 Genotypic-Resistance Test Interpretation. Clin. Infect. Dis. Off. Publ. Infect. Dis. Soc. Am. 42, 1608--1618 (2006). https://pubmed.ncbi.nlm.nih.gov/16652319/   
+12. Pineda-Peña, A.-C. et al. Automated subtyping of HIV-1 genetic sequences for clinical and surveillance purposes: Performance evaluation of the new REGA version 3 and seven other tools. Infect. Genet. Evol. 19, 337--348 (2013). https://pubmed.ncbi.nlm.nih.gov/23660484/
+13. Struck, D., Lawyer, G., Ternes, A.-M., Schmit, J.-C. & Bercoff, D. P. COMET: adaptive context-based modeling for ultrafast HIV-1 subtype identification. Nucleic Acids Res. 42, e144 (2014). https://pubmed.ncbi.nlm.nih.gov/25120265/
+14. Zhang, M. et al. jpHMM at GOBICS: a web server to detect genomic recombinations in HIV-1. Nucleic Acids Res. 34, W463--W465 (2006). https://pubmed.ncbi.nlm.nih.gov/16845050/
+15. Myers, R. et al. A statistical model for HIV-1 sequence classification using the subtype analyser (STAR). Bioinformatics 21(17):3535-40 (2005). https://pubmed.ncbi.nlm.nih.gov/16046498/
+16. Rozanov, M., Plikat, U., Chappey, C., Kochergin, A. & Tatusova, T. A web-based genotyping resource for viral sequences. Nucleic Acids Res. 32, W654-659 (2004). https://pubmed.ncbi.nlm.nih.gov/15215470/
+17. HIV Subtyping Program - HIV Drug Resistance Database. https://hivdb.stanford.edu/page/hiv-subtyper/
+18. Pond, S. L. K. et al. An Evolutionary Model-Based Algorithm for Accurate Phylogenetic Breakpoint Mapping and Subtype Prediction in HIV-1. PLOS Comput. Biol. 5, e1000581 (2009). https://pubmed.ncbi.nlm.nih.gov/19956739/
+19. Koboldt, D. C. et al. VarScan: variant detection in massively parallel sequencing of individual and pooled samples. Bioinformatics 25(17):2283-5 (2009).https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734323/
+20. Ji, H., Enns, E., Brumme, C. J., Parkin, N., Howison, M., Lee, E. R., Capina, R., Marinier, E., Avila-Rios, S., Sandstrom, P., Van Domselaar, G., Harrigan, R., Paredes, R., Kantor, R., & Noguera-Julian, M. (2018). Bioinformatic data processing pipelines in support of next-generation sequencing-based HIV drug resistance testing: the Winnipeg Consensus. Journal of the International AIDS Society, 21(10), e25193. https://pubmed.ncbi.nlm.nih.gov/30350345/
+21. Mannu, J. & Mathur, P. P. Role of Bioinformatics in Drug Resistance Prediction for HIV/AIDS. in Current trends in Bioinformatics: An Insight (eds. Wadhwa, G., Shanmughavel, P., Singh, A. K. & Bellare, J. R.) 277--286 (Springer, Singapore, 2018). doi:10.1007/978-981-10-7483-7_16. https://link.springer.com/chapter/10.1007/978-981-10-7483-7_16
+22. Kosakovsky Pond, S. L., Weaver, S., Leigh Brown, A. J. & Wertheim, J. O. HIV-TRACE (TRAnsmission Cluster Engine): a Tool for Large Scale Molecular Epidemiology of HIV-1 and Other Rapidly Evolving Pathogens. Mol. Biol. Evol. 35, 1812--1819 (2018). https://pubmed.ncbi.nlm.nih.gov/29401317/
+23. 
+15. Delgado, E. et al. Identification of a Newly Characterized HIV-1 BG Intersubtype Circulating Recombinant Form in Galicia, Spain, Which Exhibits a Pseudotype-Like Virion Structure. JAIDS J. Acquir. Immune Defic. Syndr. 29, 536 (2002). https://pubmed.ncbi.nlm.nih.gov/11981372/
+16. Carr, J. K. et al. Full-length sequence and mosaic structure of a human immunodeficiency virus type 1 isolate from Thailand. J. Virol. 70, 5935--5943 (1996). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC190613/
+18. Fabeni, L. et al. Comparative Evaluation of Subtyping Tools for Surveillance of Newly Emerging HIV-1 Strains. J. Clin. Microbiol. 55, 2827--2837 (2017). https://pubmed.ncbi.nlm.nih.gov/28701420/
+19. Rozanov, M., Plikat, U., Chappey, C., Kochergin, A. & Tatusova, T. A web-based genotyping resource for viral sequences. Nucleic Acids Res. 32, W654-659 (2004). https://pubmed.ncbi.nlm.nih.gov/15215470/
+
+24. Cutrell, A. G. et al. Exploring predictors of HIV-1 virologic failure to long-acting cabotegravir and rilpivirine: a multivariable analysis. AIDS Lond. Engl. 35, 1333--1342 (2021). https://pubmed.ncbi.nlm.nih.gov/33730748/
+29.  
+30. Ragonnet-Cronin, M. et al. Automated analysis of phylogenetic clusters. BMC Bioinformatics 14, 317 (2013). https://pubmed.ncbi.nlm.nih.gov/24191891/
+31. Ako-Adjei, D. et al. HIV-1, human interaction database: current status and new features. Nucleic Acids Res. 43, D566-570 (2015). https://pubmed.ncbi.nlm.nih.gov/25378338/
 
 
 
