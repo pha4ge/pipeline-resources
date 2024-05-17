@@ -36,8 +36,9 @@ copies of nucleoprotein (NP) and RNA-dependent RNA polymerase complex (RdRp), co
 facilitates both the transcription of vRNA into viral mRNA, complete
 with a 5′ cap and a 3′ poly(A) tail, and the replication of vRNA
 through a complementary RNA (cRNA) intermediate. M segment of the
-virus coding matrix gene.**  
-**<img src="images/influenza-guidance-fig1.png" style="width:3.95313in;height:3.28467in" />
+virus coding matrix gene.  
+
+<img src="images/influenza-guidance-fig1.png" style="width:3.95313in;height:3.28467in" />
 
 **Figure 1**. Influenza A virus genome organization
 
@@ -172,7 +173,7 @@ potential for cross-species transmission, emphasizing the necessity for
 ongoing surveillance to curtail further dissemination ([<u>Burrough et
 al., 2024</u>](https://wwwnc.cdc.gov/eid/article/30/7/24-0508_article)).
 
-<img src="images/influenza-guidance-fig2.jpg" style="width:5.21354in;height:4.9468in" />
+<img src="images/influenza-guidance-fig2.png" style="width:5.21354in;height:4.9468in" />
 
 **Figure 3.** Reservoirs and inter-species transmission events of low
 pathogenic avian influenza viruses. Wild birds, domestic birds, pigs,
