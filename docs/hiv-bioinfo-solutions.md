@@ -314,43 +314,53 @@ An online database of HIV-1 sequence data and annotations, including drug resist
 
 ### Case Studies
 
-#### Case Study: Tracking HIV Transmission Networks in a High-Incidence Area
+##
+
+#### Case Study: *Tracking HIV Transmission Networks in a High-Incidence Area*
 
 **Description:** Using molecular epidemiology, this study identified transmission networks among individuals with acute HIV infection in a high-incidence region, providing insights into transmission dynamics and hotspots.
 
-**Citation:** Wertheim JO, et al. (2014). "Social and Genetic Networks of HIV-1 Transmission in New York City." PLOS Pathogens, 10(7), e1004280.
+**Citation:** Wertheim JO, *et al.* (2014). "Social and Genetic Networks of HIV-1 Transmission in New York City." PLOS Pathogens, 10(7), e1004280. <https://pubmed.ncbi.nlm.nih.gov/28068413>
 
 **Tool(s) & databases used:** HIV-TRACE, Los Alamos
 
-#### Case Study: Evolution of Drug Resistance Mutations in Long-Term ART Patients
+##
+
+#### Case Study: *Evolution of Drug Resistance Mutations in Long-Term ART Patients*
 
 **Description:** This study investigated the dynamics of drug resistance mutations in individuals on long-term therapy (ART), revealing the persistence of archived resistant variants and the importance of continuous monitoring.
 
-**Citation:** Rhee SY, et al. (2005). "HIV-1 Protease and Reverse-Transcriptase Mutations: Correlations with Antiretroviral Therapy in Subtype B Isolates and Implications for Drug-Resistance Surveillance." Journal of Infectious Diseases, 194(4), 454-465.
+**Citation:** Rhee SY, *et al.* (2005). "HIV-1 Protease and Reverse-Transcriptase Mutations: Correlations with Antiretroviral Therapy in Subtype B Isolates and Implications for Drug-Resistance Surveillance." Journal of Infectious Diseases, 194(4), 454-465. <https://pubmed.ncbi.nlm.nih.gov/15995959>
 
 **Tool(s) & databases used:** PAUP, MESQUITE, Stanford HIVdb
 
-#### Case Study: Impact of Drug Resistance Mutations on Treatment Outcomes
+##
+
+#### Case Study: *Impact of Drug Resistance Mutations on Treatment Outcomes*
 
 **Description:** This study assessed the impact of specific drug resistance mutations on treatment response and virological outcomes, contributing to the optimization of treatment regimens for individuals with drug-resistant HIV.
 
-**Citation:** Gupta RK, et al. (2009). "HIV-1 Drug Resistance before Initiation or Re-initiation of First-line Antiretroviral Therapy in Low-Income and Middle-Income Countries: A Systematic Review and Meta-Regression Analysis." The Lancet Infectious Diseases, 9(10), 711-718.
+**Citation:** Gupta RK, *et al.* (2009). "HIV-1 Drug Resistance before Initiation or Re-initiation of First-line Antiretroviral Therapy in Low-Income and Middle-Income Countries: A Systematic Review and Meta-Regression Analysis." The Lancet Infectious Diseases, 9(10), 711-718. <https://pubmed.ncbi.nlm.nih.gov/29198909>
 
 **Tool(s) & databases used:** Stanford HIVdb
 
-#### Case Study: HIV Phylogenetics to Investigate Cross-Border Transmission
+##
+
+#### Case Study: *HIV Phylogenetics to Investigate Cross-Border Transmission*
 
 **Description:** Using phylogenetic analysis, this study traced cross-border transmission of HIV strains between neighboring countries, highlighting the need for coordinated prevention efforts in the region.
 
-**Citation:** Novitsky V, et al. (2015). "Phylogenetic Relatedness of Circulating HIV-1C Strains in Mochudi, Botswana, and Implications for HIV Subtype Distribution in Botswana." AIDS Research and Human Retroviruses, 31(6), 631-638.
+**Citation:** Novitsky V, *et al.* (2015). "Phylogenetic Relatedness of Circulating HIV-1C Strains in Mochudi, Botswana, and Implications for HIV Subtype Distribution in Botswana." AIDS Research and Human Retroviruses, 31(6), 631-638. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3859477>
 
 **Tool(s) & databases used:** Los Alamos
 
-#### Case Study: Cross-clade simultaneous HIV drug resistance genotyping for reverse transcriptase, protease, and integrase inhibitor mutations by Illumina MiSeq
+##
+
+#### Case Study: *Cross-clade simultaneous HIV drug resistance genotyping for reverse transcriptase, protease, and integrase inhibitor mutations by Illumina MiSeq*
 
 **Description:** This study created a universal Illumina MiSeq-based HIV drug resistance genotyping assay, which works across all major group M HIV-1 subtypes and identifies DRMs in the pol gene known to confer resistance to protease, reverse transcriptase, and integrase inhibitors.
 
-**Citation:** Dudley, D. M., et al. (2014). "Cross-clade simultaneous HIV drug resistance genotyping for reverse transcriptase, protease, and integrase inhibitor mutations by Illumina MiSeq". Retrovirology, 11, 122. <https://doi.org/10.1186/s12977-014-0122-8> 
+**Citation:** Dudley, D. M., *et al.* (2014). "Cross-clade simultaneous HIV drug resistance genotyping for reverse transcriptase, protease, and integrase inhibitor mutations by Illumina MiSeq". Retrovirology, 11, 122. <https://doi.org/10.1186/s12977-014-0122-8> 
 
 **Tool(s) & databases used:** Los Alamos
 
