@@ -24,23 +24,26 @@ integrating both theoretical concepts and practical applications.
 
 ## Influenza Genomic Structure
 
-The influenza A virus genome is segmented into eight pieces of
+The influenza A and influenza B genomes are segmented into eight pieces of
 single-stranded negative-sense viral RNAs (vRNAs). Each of these
 segments is characterized by conserved 5′ and 3′ termini,
 segment-specific untranslated regions (UTRs), and typically contains
 one large open reading frame (ORF). These genomic structures are
 crucial for the virus's ability to use host cellular machinery for
-replication and protein synthesis. The viral RNAs are incorporated
+replication and protein synthesis ([<u>Ferhadian et al, 2018</u>](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2018.00559/full)).
+
+
+The viral RNAs are incorporated
 into viral ribonucleoproteins (vRNPs), which consist of multiple
-copies of nucleoprotein (NP) and RNA-dependent RNA polymerase complex (RdRp), composed of PB1, PB2, and PA subunits. This assembly
-facilitates both the transcription of vRNA into viral mRNA, complete
+copies of nucleoprotein (NP) and RNA-dependent RNA polymerase complex (RdRp), composed of the polymerase basic 1 (PB1), polymerase basic 2 (PB2), and polymerase acidic (PA) subunits ([<u>Chauhan & Gordon, 2022</u>](https://link.springer.com/article/10.1007/s11262-022-01904-w)). This facilitates both the transcription of vRNA into viral mRNA, complete
 with a 5′ cap and a 3′ poly(A) tail, and the replication of vRNA
-through a complementary RNA (cRNA) intermediate. M segment of the
-virus coding matrix gene.  
+through a complementary RNA (cRNA) intermediate. The matrix segment (M) encodes the M1 and M2 proteins that form a bridge between the nucleocapside and viral envelope. The non-structural gene (NS) encodes two proteins that play a role in evading the host innate immune response and export of viral ribonucleoproteins ([<u>Bouvier & Palese, 2008</u>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074182/)). 
+
+There are two surface glycoproteins critical for viral and and release. The hemagglutinin (HA) protein is a multifunctional glycoprotein on the surface of the virus which is integral to infectivity, serving as an attachment factor and membrane fusion protein. The neuraminidase (NA) protein is another surface glycoprotein that faciliatates viral release from infected cells. Both HA and NA are "antigens", meaning they are capable of eliciting a host immune response ([<u>CDC, 2023</u>](https://www.cdc.gov/flu/about/viruses/types.htm)). 
 
 <img src="images/influenza-guidance-fig1.png" style="width:3.95313in;height:3.28467in" />
 
-**Figure 1**. Influenza A virus genome organization
+**Figure 1**. Influenza A virus genome structure ([<u>Breen et al, 2016</u>](https://www.mdpi.com/1999-4915/8/7/179)).
 
 ## Public Health Relevance
 
@@ -689,3 +692,11 @@ accomplish those goals is the global genomic surveillance of influenza.
 20. Qu, Y., Zhang, R., Cui, P., Song, G., Duan, Z., & Lei, F. (2011).
     Evolutionary genomics of the pandemic 2009 H1N1 influenza viruses
     (pH1N1v). Virology Journal, 8, 250
+
+21. Breen, M., Nogales, A., Baker, S. F., & Martínez-Sobrido, L. (2016). Replication-competent influenza A viruses expressing reporter genes. Viruses, 8(7), 179.
+
+22. Ferhadian, D., Contrant, M., Printz-Schweigert, A., Smyth, R. P., Paillart, J. C., & Marquet, R. (2018). Structural and functional motifs in influenza virus RNAs. Frontiers in microbiology, 9, 354580.
+
+23. Chauhan, R. P., & Gordon, M. L. (2022). An overview of influenza A virus genes, protein functions, and replication cycle highlighting important updates. Virus Genes, 58(4), 255-269.
+
+24. Bouvier, N. M., & Palese, P. (2008). The biology of influenza viruses. Vaccine, 26, D49-D53.
