@@ -59,27 +59,13 @@ wealth of information about potential origins, evolution, and
 virulence ([<u>Shao et. al.,
 2017</u>](https://www.ncbi.nlm.nih.gov/pmc/articlesPMC5578040/pdf/ijms-18-01650.pdf),[<u>Liu et. al., 2021</u>](https://pure.johnshopkins.edu/en/publications/differential-disease-severity-and-whole-genome-sequence-analysis-)).
 
-## Influenza Typing
-
-Influenza typing plays a pivotal role in understanding the
-epidemiology and evolutionary dynamics of the virus. Seasonal
-influenza, a recurrent global health challenge, primarily involves
-Influenza A and Influenza B viruses. Influenza A viruses are
-classified into subtypes based on the combinations of surface proteins
-hemagglutinin (HA) and neuraminidase (NA). For instance, currently
-circulating Influenza A subtypes include A/H1N1 and A/H3N2, while
-Influenza B viruses are categorized into lineages such as B/Yamagata
-or B/Victoria. Surveillance efforts focus on identifying these
-subtypes to inform vaccine strain selection and monitor changes over
-time.
-
 ## Seasonal Influenza
 
 Seasonal influenza is an annual, worldwide occurrence that typically
 causes acute respiratory infections with Influenza A or Influenza B
 ([<u>WHO</u>](https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal))).
 Influenza A viruses are further classified into subtypes according to
-the combinations of the hemagglutinin (HA) (shown in **Figure 1**) and
+the combinations of the hemagglutinin (HA) and
 neuraminidase (NA) gene segments, which encode proteins on the surface
 of the flu virus. Currently, circulating Influenza A subtypes include
 A/H1N1 and A/H3N2. Influenza B viruses do not have subtypes, but can
@@ -178,14 +164,9 @@ al., 2024</u>](https://wwwnc.cdc.gov/eid/article/30/7/24-0508_article)).
 
 <img src="images/influenza-guidance-fig2.png" style="width:5.21354in;height:4.9468in" />
 
-**Figure 3.** Reservoirs and inter-species transmission events of low
-pathogenic avian influenza viruses. Wild birds, domestic birds, pigs,
-horses, humans and bats maintain their influenza A viruses (circular
-arrow, subtype in bold). Spill-over events occur occasionally, most
-frequently from wild birds (straight arrow, subtype normal font). \*H7N7
+**Figure 3.** Reservoirs and inter-species transmission events of pathogenic avian influenza viruses. \*H7N7
 virus emerged amongst horses in the 1950s but is currently thought to be
-extinct. [<u>Image
-Source</u>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4542011/)
+extinct. ([<u>Short et al, 2015 </u>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4542011/))
 
 ## Sequencing for Influenza
 
