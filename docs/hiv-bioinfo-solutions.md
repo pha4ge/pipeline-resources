@@ -3,13 +3,44 @@
 Authors
 =======
 
-Amy Gaskin
+[Amy Gaskin](https://github.com/gaskinae), [Marc Niebel](https://github.com/MarcNiebel), [Frank Ambrosio](https://github.com/frankambrosio3), Abbas Abel Anzaku
 
-Marc Niebel
+## Contents
 
-Frank Ambrosio
+[Introduction](#introduction)
 
-Abbas Abel Anzaku
+[Background Information for Bioinformaticians](#background-information-for-bioinformaticians)
+
+[Genomic Structure](#genomic-structure)
+
+[Evolution](#evolution)
+
+[Subtypes](#subtypes)
+
+[HIV Bioinformatics Guidance Pathways](#hiv-bioinformatics-guidance-pathways)
+
+  [Genomic Characterisation/Subtyping](#genomic-characterisationsubtyping)
+
+  [Drug Resistance Surveillance](#drug-resistance-surveillance)
+
+  [Drug Development and Resistance Prediction](#drug-development-and-resistance-prediction)
+  
+  
+  [Genomic Epidemiology](#genomic-epidemiology)
+
+[Sequencing Strategies](#sequencing-strategies)
+
+[HIV-1 Bioinformatics Tools](#hiv-1-bioinformatics-tools)
+
+  [Assembly](#assembly)
+
+  [Resistance detection](#resistance-detection)
+
+  [Transmission Network Analysis](#transmission-network-analysis)
+
+  [Sequence Databases](#sequence-databases)
+
+  [Case Studies](#case-studies)
 
 ## Introduction
 
@@ -293,7 +324,7 @@ Other Stanford HIVdb resources which are useful to investigate especially for pi
 
 -   Github repository (<https://github.com/hivdb>)
 
-### Transmission network analysis 
+### Transmission Network Analysis 
 
 -   HIV-TRACE: A command line tool for identifying and visualizing HIV transmission clusters using molecular sequence data [<sup>22</sup>](https://pubmed.ncbi.nlm.nih.gov/29401317/)
   
