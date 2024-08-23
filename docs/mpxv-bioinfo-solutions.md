@@ -12,6 +12,8 @@ Libuit KG, Southgate J, Ünal G, Maguire F, Smith E, Kapsak S, van Heusden P, Wr
   - Nomenclature update: Monkeypox -> Mpox
 - 2023-03-09:
   - Add changelog
+- 2024-08-23:
+  - Add PolkaPax and TOSTADAS details
 </details>
 
 
@@ -73,14 +75,17 @@ The PHA4GE Bioinformatics Pipeline and Visualization Working Group has defined f
     - Supports amplicon and metagenomic data
 - [Epi2Me](https://labs.epi2me.io/basic-monkeypox-workflow/)
     - Only supports metagenomic data
--[Viral-Recon](https://github.com/nf-core/viralrecon):
+- [Viral-Recon](https://github.com/nf-core/viralrecon):
     - Workflow for raw read quality control, de-hosting, assembly, variant calling, and consensus generation for illumina and nanopore monkeypox data. Currently does not include pre-built support for monkeypox (e.g., reference genome, reference annotations, nextclade dataset, and amplicon schemes) but these can be user-supplied on the command line and should be appropriate to the sequencing method (e.g., for amplicon sequencing using the reference used to create the amplicon scheme and for metagenomic sequencing, to be consistent with Nextstrain, you can use NC_063383.1.fasta, NC_063383.1.gff, with the nextclade dataset nextclade_hMPXV_B1_pseudo_ON563414_XXXXXXX).
+- [PolkaPox](https://github.com/CDCgov/polkapox):
+    - Nextflow workflow for taxonomic filtering, trimming, quality control, reference-based analysis, and de novo assembly of Illumina metagenomic sequencing reads from orthopoxviruses, including multiple lineages of MPXV.
 
 ## Submission of sequence data to international accessible databases
 - [Sample Metadata Specifications](https://sprcdn-assets.sprinklr.com/1652/133486a8-9b49-4461-a0d7-211c140947cc-562840094.pdf)
 - Preparation and/or Submission of Samples
     - Terra_2_NCBI workflow (only SRA/BioSample at the moment) for programmatic submission of raw read data analysed on Terra to SRA and BioSample
     - [NCBI guide to submit consensus sequences using BankIt](https://www.ncbi.nlm.nih.gov/genbank/monkeypox_submission/)
+    - [TOSTADAS](https://github.com/CDCgov/tostadas): Metadata validation, standardized gene annotation, and programmatic NCBI submission (Biosample, SRA, Genbank).
 - Assess Data Quality Prior to Submission
 
 
