@@ -17,6 +17,7 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 	- [Informing Public Health Action](#sars-cov-2-resources)
 - [Mpox Resources](#mpox-resources)
 	- [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
+	- [Workflow Comparison](docs/mpxv-workflows.md)
 - [HIV Resources](#hiv-resources)
 	- [Bioinformatics Solutions](docs/hiv-bioinfo-solutions.md)
 - [Bioinformatics Development](#bioinformatics-development)
