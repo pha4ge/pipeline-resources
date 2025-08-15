@@ -17,6 +17,8 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 	- [Informing Public Health Action](#sars-cov-2-resources)
 - [Mpox Resources](#mpox-resources)
 	- [Bioinformatics Solutions](docs/mpxv-bioinfo-solutions.md)
+- [Influenza Resources](#influenza-resources)
+	- [Bioinformatics Solutions](docs/influenza-bioinfo-solutions.md)
 - [HIV Resources](#hiv-resources)
 	- [Bioinformatics Solutions](docs/hiv-bioinfo-solutions.md)
 - [Bioinformatics Development](#bioinformatics-development)
@@ -65,6 +67,13 @@ Mpox Resources
 
 In an attempt to assist this integration process, the bioinformatics pipeline and visualization working group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has drafted this living document to help define the major bioinformatics challenges for Mpox genomic analysis and suggest various open-source and freely available bioinformatics resources to address them.
 
+Influenza Resources
+==================
+
+### [Bioinformatics Solutions](pipeline-resources/docs/influenza-bioinfo-solutions.md)
+
+Understanding the influenza genome, its rapid mutation rates, and subtype diversity is crucial for effective genomic surveillance and bioinformatic analyses. This section provides a collection of open-source and freely available resources to support researchers in influenza genome analysis, from sequencing to data interpretation.
+
 HIV Resources
 ==================
 
@@ -84,4 +93,3 @@ Contributing
 Contributions to the documents are more than welcome. To propose a change, edit the source files and open a pull-request with the proposed changes.
 
 If you're interested in participating in further discussions please free to join the [Working Group](https://pha4ge.org/bioinformatics-pipelines-and-visualization/).
-
