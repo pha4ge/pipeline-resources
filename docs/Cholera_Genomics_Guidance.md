@@ -278,7 +278,7 @@ Toxigenicity, the capacity to cause epidemic cholera, depends on the acquisition
   * Recombination, where segments of the core genome are exchanged between co-circulating strains, shuffling existing diversity and generating new combinations beyond what mutation alone would produce.   
   * Mobile element-mediated transfer, where new genetic content, such as resistance cassettes, virulence factors and pathogenicity islands, is acquired from other strains or the environment via plasmids, phages, ICEs, and integrons (discussed throughout Section 5), enabling the rapid transfer of beneficial traits.
 
-![Cholera genomics guidance figure 8](images/cholera-genomics/figure_6_without_embedded_caption.svg)
+![Cholera genomics guidance figure 8](images/cholera-genomics/figure_6.svg)
 
 <sub><small><strong>Figure 8. How *V. cholerae* evolves: mutation and horizontal gene transfer.</strong> Two mechanisms generate genetic diversity, enabling rapid adaptation to antimicrobial exposure and the human host. Sources: PHA4GE Cholera Genomics Guidance, Section 2.3; Sjölund-Karlsson et al. (2011); Chun et al. (2009); Mutreja et al. (2011); Waldor and Mekalanos (1996).</small></sub>
 
