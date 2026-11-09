@@ -12,7 +12,7 @@ Authors: Emma Doughty, Justice Ohene Amofa, Dana Itani, Peter van Heusden, Rekha
 
 [1.4 Values and Principles in Genomic Implementation](#14-values-and-principles-in-genomic-implementation)
 
-[**2 Cholera Background in a Public Health Context	9**](#2-cholera-background-in-a-public-health-context)
+[2 Cholera Background in a Public Health**](#2-cholera-background-in-a-public-health-context)
 
 [2.1 Cholera: Disease, Burden and Public Health Significance](#21-cholera-disease-burden-and-public-health-significance)
 
