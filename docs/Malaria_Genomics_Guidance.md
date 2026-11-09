@@ -1121,7 +1121,7 @@ To ensure complete traceability throughout the workflow, metadata should be link
 * Analysis ID – uniquely identifies a bioinformatics analysis workflow and resulting dataset  
 * Report ID – uniquely identifies a surveillance report, public health assessment, or final analytical output
 
-<img src="images/malaria-genomics/Figure_5.png" alt="Figure 8.2: Specimen and analysis identifier hierarchy" width="60%">
+<img src="images/malaria-genomics/Figure_5.png" alt="Figure 8.2: Specimen and analysis identifier hierarchy" width="40%">
 
 *Figure 8.2: Example identifier hierarchy for malaria genomic surveillance. These identifiers should be linked throughout the workflow to preserve the chain of custody from collection to report, support quality assurance, and enable integration of epidemiological and genomic data. It should allow any result to be traced back to the specimen and forward to its published accession. Specimen collector identifiers are treated as identifying data and are handled under the access rules.*
 
