@@ -1,0 +1,117 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='210mm' height='143.75mm' viewBox='0 0 1566 1072'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<marker id='ab' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#0072B2'/></marker></defs>
+<rect width='1566' height='1072' fill='#FFFFFF'/>
+<g transform='translate(42,42)'>
+<rect x='0' y='46' width='272' height='320' rx='22' fill='#FFFFFF' stroke='#56B4E9' stroke-width='3'/>
+<rect x='0' y='0' width='272' height='66' rx='22' fill='#56B4E9'/>
+<circle cx='38' cy='33.0' r='24' fill='#fff'/>
+<text x='38' y='43.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#005A8C'>1</text>
+<text x='74' y='43.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>Submit</text>
+<path d='M112.0,110 v18 h48 v-18' stroke='#0072B2' stroke-width='6' fill='none' stroke-linejoin='round'/><path d='M136.0,120 v-30' stroke='#0072B2' stroke-width='6'/><path d='M122.0,100 l14,-16 l14,16 z' fill='#0072B2'/>
+<text x='18' y='170' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Illumina reads to</text>
+<text x='18' y='204' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>SRA (with</text>
+<text x='18' y='238' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>BioSample</text>
+<text x='18' y='272' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>metadata) or</text>
+<text x='18' y='306' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>assemblies to</text>
+<text x='18' y='340' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>GenBank</text>
+<path d='M275,33 L299,33' stroke='#4D4D4D' stroke-width='3' fill='none' marker-end='url(#ar)'/>
+<rect x='302' y='46' width='272' height='320' rx='22' fill='#FFFFFF' stroke='#E69F00' stroke-width='3'/>
+<rect x='302' y='0' width='272' height='66' rx='22' fill='#E69F00'/>
+<circle cx='340' cy='33.0' r='24' fill='#fff'/>
+<text x='340' y='43.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#A66A00'>2</text>
+<text x='376' y='43.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>Assemble</text>
+<rect x='433.0' y='86' width='10' height='44' rx='2' fill='#E69F00' transform='rotate(0 438.0 108)'/><rect x='433.0' y='86' width='10' height='44' rx='2' fill='#E69F00' transform='rotate(45 438.0 108)'/><rect x='433.0' y='86' width='10' height='44' rx='2' fill='#E69F00' transform='rotate(90 438.0 108)'/><rect x='433.0' y='86' width='10' height='44' rx='2' fill='#E69F00' transform='rotate(135 438.0 108)'/><circle cx='438.0' cy='108' r='14' fill='#E69F00'/><circle cx='438.0' cy='108' r='6' fill='#fff'/>
+<text x='320' y='170' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>SKESA de novo</text>
+<text x='320' y='204' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>and SAUTE guided</text>
+<text x='320' y='238' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>assembly of</text>
+<text x='320' y='272' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Illumina reads</text>
+<path d='M577,33 L601,33' stroke='#4D4D4D' stroke-width='3' fill='none' marker-end='url(#ar)'/>
+<rect x='604' y='46' width='272' height='320' rx='22' fill='#FFFFFF' stroke='#009E73' stroke-width='3'/>
+<rect x='604' y='0' width='272' height='66' rx='22' fill='#009E73'/>
+<circle cx='642' cy='33.0' r='24' fill='#fff'/>
+<text x='642' y='43.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#007A5A'>3</text>
+<text x='678' y='43.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>Call wgMLST</text>
+<rect x='716.0' y='84' width='12' height='12' rx='2' fill='#009E73'/><rect x='716.0' y='102' width='12' height='12' rx='2' fill='#009E73'/><rect x='716.0' y='120' width='12' height='12' rx='2' fill='#009E73'/><rect x='734.0' y='84' width='12' height='12' rx='2' fill='#009E73'/><rect x='734.0' y='102' width='12' height='12' rx='2' fill='#009E73'/><rect x='734.0' y='120' width='12' height='12' rx='2' fill='#009E73'/><rect x='752.0' y='84' width='12' height='12' rx='2' fill='#009E73'/><rect x='752.0' y='102' width='12' height='12' rx='2' fill='#009E73'/><rect x='752.0' y='120' width='12' height='12' rx='2' fill='#009E73'/>
+<text x='622' y='170' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Loci and alleles</text>
+<text x='622' y='204' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>identified against</text>
+<text x='622' y='238' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>the reference</text>
+<text x='622' y='272' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>V. cholerae</tspan></text>
+<text x='622' y='306' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>wgMLST scheme</text>
+<path d='M879,33 L903,33' stroke='#4D4D4D' stroke-width='3' fill='none' marker-end='url(#ar)'/>
+<rect x='906' y='46' width='272' height='320' rx='22' fill='#FFFFFF' stroke='#D55E00' stroke-width='3'/>
+<rect x='906' y='0' width='272' height='66' rx='22' fill='#D55E00'/>
+<circle cx='944' cy='33.0' r='24' fill='#fff'/>
+<text x='944' y='43.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#B34700'>4</text>
+<text x='980' y='43.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>Cluster</text>
+<path d='M1024.0,118 L1042.0,94 L1062.0,116' stroke='#D55E00' stroke-width='5' fill='none'/><circle cx='1024.0' cy='118' r='9' fill='#D55E00'/><circle cx='1042.0' cy='94' r='9' fill='#D55E00'/><circle cx='1062.0' cy='116' r='9' fill='#D55E00'/>
+<text x='924' y='170' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Genomes within</text>
+<text x='924' y='204' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>the 25-allele cut-off</text>
+<text x='924' y='238' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>are linked into a</text>
+<text x='924' y='272' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>SNP cluster (PDS)</text>
+<path d='M1181,33 L1205,33' stroke='#4D4D4D' stroke-width='3' fill='none' marker-end='url(#ar)'/>
+<rect x='1208' y='46' width='272' height='320' rx='22' fill='#FFFFFF' stroke='#CC79A7' stroke-width='3'/>
+<rect x='1208' y='0' width='272' height='66' rx='22' fill='#CC79A7'/>
+<circle cx='1246' cy='33.0' r='24' fill='#fff'/>
+<text x='1246' y='43.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#9A4573'>5</text>
+<text x='1282' y='43.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>Call SNPs</text>
+<path d='M1320.0,108 h12 M1332.0,94 v28 M1332.0,94 h22 M1332.0,122 h10 M1342.0,114 v16 M1342.0,114 h12 M1342.0,130 h12' stroke='#CC79A7' stroke-width='5' fill='none'/><rect x='1354.0' y='89' width='12' height='10' fill='#CC79A7'/><rect x='1354.0' y='109' width='12' height='10' fill='#CC79A7'/><rect x='1354.0' y='125' width='12' height='10' fill='#CC79A7'/>
+<text x='1226' y='170' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>In each cluster:</text>
+<text x='1226' y='204' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>reference chosen,</text>
+<text x='1226' y='238' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>assemblies aligned,</text>
+<text x='1226' y='272' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>SNPs called, tree</text>
+<text x='1226' y='306' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>built</text>
+<circle cx='30' cy='416' r='20' fill='none' stroke='#4D4D4D' stroke-width='6'/><path d='M30,405 V416 l9,7' stroke='#4D4D4D' stroke-width='5' fill='none' stroke-linecap='round'/>
+<text x='68' y='426' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Runs automatically once a day for each organism group, only when new data have been submitted</text>
+<rect x='0' y='478' width='730' height='508' rx='22' fill='#FFFFFF' stroke='#D55E00' stroke-width='3'/>
+<rect x='0' y='478' width='730' height='52' rx='22' fill='#D55E00'/>
+<text x='365.0' y='515' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>Clustering: wgMLST allele differences</text>
+<path d='M119,693.0 L231,693.0' stroke='#0072B2' stroke-width='5'/>
+<path d='M299,693.0 L411,693.0' stroke='#0072B2' stroke-width='5'/>
+<path d='M479,693.0 L586,693.0' stroke='#D55E00' stroke-width='4' stroke-dasharray='3 9' stroke-linecap='round'/>
+<circle cx='85' cy='693.0' r='34' fill='#0072B2'/>
+<text x='85' y='703.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>A</text>
+<circle cx='265' cy='693.0' r='34' fill='#0072B2'/>
+<text x='265' y='703.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>B</text>
+<circle cx='445' cy='693.0' r='34' fill='#0072B2'/>
+<text x='445' y='703.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>C</text>
+<circle cx='620' cy='693.0' r='34' fill='#8C8C8C'/>
+<text x='620' y='703.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>D</text>
+<text x='175.0' y='671.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>12</text>
+<text x='175.0' y='729.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>alleles</text>
+<text x='355.0' y='671.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>20</text>
+<text x='355.0' y='729.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>alleles</text>
+<text x='532.5' y='671.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#B34700'>61</text>
+<text x='532.5' y='729.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>alleles</text>
+<path d='M85,641.0 H445 A52,52 0 0 1 445,745.0 H85 A52,52 0 0 1 85,641.0 Z' fill='none' stroke='#0072B2' stroke-width='3' stroke-dasharray='12 8'/>
+<text x='265.0' y='629.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>cluster</text>
+<text x='22' y='824' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>A, B and C form one cluster: each is within 25 allele</text>
+<text x='22' y='858' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>differences of at least one other member (A and C may</text>
+<text x='22' y='892' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>differ by more than 25). D is more than 25 allele</text>
+<text x='22' y='926' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>differences from every member, so it is not linked.</text>
+<text x='22' y='960' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Distances are hypothetical.</text>
+<rect x='750' y='478' width='730' height='250' rx='22' fill='#FFFFFF' stroke='#CC79A7' stroke-width='3'/>
+<rect x='750' y='478' width='730' height='52' rx='22' fill='#CC79A7'/>
+<text x='1115.0' y='515' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>Within-cluster phylogeny: SNPs</text>
+<path d='M790,629.0 h40 M830,595.0 v68 M830,595.0 h110 M830,663.0 h40 M870,639.0 v48 M870,639.0 h70 M870,687.0 h70' stroke='#9A4573' stroke-width='5' fill='none'/>
+<circle cx='960' cy='595.0' r='20' fill='#CC79A7'/>
+<text x='960' y='605.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>A</text>
+<circle cx='960' cy='639.0' r='20' fill='#CC79A7'/>
+<text x='960' y='649.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>B</text>
+<circle cx='960' cy='687.0' r='20' fill='#CC79A7'/>
+<text x='960' y='697.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>C</text>
+<text x='1020' y='605.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>SNP tree built only from the</text>
+<text x='1020' y='639.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>members of the cluster; SNP</text>
+<text x='1020' y='673.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>distances are shown in the SNP</text>
+<text x='1020' y='707.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Tree Viewer</text>
+<rect x='750' y='748' width='730' height='238' rx='22' fill='#FFF6E3' stroke='#E69F00' stroke-width='3'/>
+<text x='772' y='786' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A66A00'>Common misconception</text>
+<text x='772' y='820' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>V. cholerae</tspan> clusters are not defined by a SNP threshold.</text>
+<text x='772' y='854' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>The 50-SNP single-linkage method belongs to NCBI's</text>
+<text x='772' y='888' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>other, k-mer-based clustering pipeline, which is being</text>
+<text x='772' y='922' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>replaced by wgMLST and remains in use for organism</text>
+<text x='772' y='956' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>groups with fewer than 1,000 isolates.</text>
+</g>
+
+</svg>

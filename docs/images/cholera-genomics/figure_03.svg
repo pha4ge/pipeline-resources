@@ -1,0 +1,68 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='210mm' height='113.98mm' viewBox='0 0 1566 850'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<marker id='ab' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#0072B2'/></marker></defs>
+<rect width='1566' height='850' fill='#FFFFFF'/>
+<g transform='translate(42,8)'>
+<path d='M1260,90 L1260,44 L220,44 L220,86' stroke='#4D4D4D' stroke-width='3' fill='none' marker-end='url(#ar)'/>
+<rect x='472' y='22' width='535' height='44' fill='#fff'/>
+<text x='740' y='54' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>new host becomes infected: cycle repeats</text>
+<rect x='0' y='96' width='440' height='190' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3'/>
+<circle cx='58' cy='158' r='36' fill='#fff'/>
+<circle cx='58' cy='146' r='11' fill='#009E73'/><path d='M39,178 q0,-22 19,-22 q19,0 19,22 z' fill='#009E73'/>
+<text x='110' y='164' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>1  Infected person</text>
+<text x='110' y='206' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Sheds <tspan font-style='italic'>V. cholerae</tspan></text>
+<text x='110' y='239' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>in faeces</text>
+<rect x='520' y='96' width='440' height='190' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3'/>
+<circle cx='578' cy='158' r='36' fill='#fff'/>
+<path d='M578,136 q-20,24 -20,34 a20,20 0 0 0 40,0 q0,-10 -20,-34 z' fill='#009E73'/>
+<text x='630' y='164' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>2  Contamination</text>
+<text x='630' y='206' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Faeces reach drinking</text>
+<text x='630' y='239' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>water or food</text>
+<rect x='1040' y='96' width='440' height='190' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3'/>
+<circle cx='1098' cy='158' r='36' fill='#fff'/>
+<circle cx='1098' cy='146' r='11' fill='#009E73'/><path d='M1079,178 q0,-22 19,-22 q19,0 19,22 z' fill='#009E73'/>
+<text x='1150' y='164' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>3  Ingestion</text>
+<text x='1150' y='206' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>A new host swallows</text>
+<text x='1150' y='239' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>contaminated water</text>
+<text x='1150' y='272' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>or food</text>
+<path d='M446,191 L512,191' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<path d='M966,191 L1032,191' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<rect x='0' y='372' width='700' height='184' rx='26' fill='#E69F00'/>
+<circle cx='64' cy='464.0' r='38' fill='#fff'/>
+<rect x='40' y='450.0' width='34' height='12' rx='3' fill='#E69F00'/><rect x='54' y='440.0' width='8' height='12' fill='#E69F00'/><rect x='66' y='450.0' width='12' height='22' rx='3' fill='#E69F00'/><path d='M72,478.0 q-6,8 0,12 q6,-4 0,-12z' fill='#E69F00'/>
+<text x='124' y='428' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>KEY DRIVER: inadequate WASH</text>
+<text x='124' y='470' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Lack of safe water, sanitation</text>
+<text x='124' y='501' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>and hygiene enables</text>
+<text x='124' y='532' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>faecal contamination</text>
+<path d='M620,370 L620,292' stroke='#E69F00' stroke-width='5' marker-end='url(#ao)'/>
+<rect x='820' y='372' width='660' height='184' rx='26' fill='#EAF4FB' stroke='#0072B2' stroke-width='3'/>
+<circle cx='884' cy='464.0' r='38' fill='#fff'/>
+<path d='M858,454.0 q6.5,-8 13,0 t13,0 t13,0 t13,0' stroke='#0072B2' stroke-width='5' fill='none' stroke-linecap='round'/><path d='M858,466.0 q6.5,-8 13,0 t13,0 t13,0 t13,0' stroke='#0072B2' stroke-width='5' fill='none' stroke-linecap='round'/><path d='M858,478.0 q6.5,-8 13,0 t13,0 t13,0 t13,0' stroke='#0072B2' stroke-width='5' fill='none' stroke-linecap='round'/>
+<text x='944' y='428' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Aquatic environmental reservoir</text>
+<text x='944' y='470' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>V. cholerae</tspan> persists in aquatic</text>
+<text x='944' y='501' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>environments, contributing to</text>
+<text x='944' y='532' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>seasonal and endemic transmission</text>
+<path d='M818,464.0 L760,464.0 L760,292' stroke='#0072B2' stroke-width='4' stroke-dasharray='10 7' fill='none' marker-end='url(#ab)'/>
+<line x1='0' y1='600' x2='1480' y2='600' stroke='#DDDDDD' stroke-width='2'/>
+<text x='0' y='648' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#D55E00' letter-spacing='2'>SETTINGS DISPROPORTIONATELY AFFECTED</text>
+<rect x='0' y='674' width='290' height='124' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<circle cx='58' cy='736.0' r='36' fill='#fff'/>
+<path d='M58,714.0 l26,44 h-52 z' fill='#D55E00'/><rect x='55' y='728.0' width='6' height='18' fill='#fff'/><circle cx='58' cy='752.0' r='3.5' fill='#fff'/>
+<text x='108' y='746.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Conflict</text>
+<rect x='314' y='674' width='350' height='124' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<circle cx='372' cy='736.0' r='36' fill='#fff'/>
+<path d='M344,758.0 l28,-44 l28,44 z' fill='#D55E00'/><path d='M363,758.0 l9,-18 l9,18 z' fill='#fff'/>
+<text x='422' y='746.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Displacement</text>
+<rect x='688' y='674' width='270' height='124' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<circle cx='746' cy='736.0' r='36' fill='#fff'/>
+<circle cx='746' cy='738.0' r='22' fill='#D55E00'/><circle cx='746' cy='738.0' r='15' fill='none' stroke='#fff' stroke-width='3'/><path d='M746,730.0 v16' stroke='#fff' stroke-width='4'/>
+<text x='796' y='746.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Poverty</text>
+<rect x='982' y='674' width='498' height='124' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<circle cx='1040' cy='736.0' r='36' fill='#fff'/>
+<rect x='1016' y='716.0' width='48' height='44' rx='6' fill='#D55E00'/><path d='M1040,725.0 v26 M1027,738.0 h26' stroke='#fff' stroke-width='8'/>
+<text x='1090' y='728.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Limited public health</text>
+<text x='1090' y='764.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>infrastructure</text>
+</g>
+
+</svg>

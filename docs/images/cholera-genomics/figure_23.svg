@@ -1,0 +1,137 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='152.25mm' viewBox='0 0 1600 1432.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='1432.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-115.80)'>
+<circle cx='72' cy='188' r='24' fill='#005A8C'/><text x='72' y='198' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='199' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>7.3.1 ANALYSE A DEFINED SET OF GENOMES: WHO DOES WHAT</text>
+<line x1='50' y1='216' x2='1550' y2='216' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='238' width='1500' height='459' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='412' y='277' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Masked</text>
+<text x='412' y='308' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>ML tree</text>
+<text x='562' y='277' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>SNP</text>
+<text x='562' y='308' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>matrix</text>
+<text x='712' y='277' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>cgMLST</text>
+<text x='862' y='277' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Built-in</text>
+<text x='862' y='308' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>context</text>
+<text x='1012' y='277' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Characteri-</text>
+<text x='1012' y='308' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>sation</text>
+<text x='1107' y='277' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Tree and notes</text>
+<line x1='67' y1='319' x2='1533' y2='319' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='347' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>Pathogenwatch</text>
+<text x='1107' y='347' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>NJ tree on 2,736 core genes;</text>
+<text x='1107' y='378' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>recombination not modelled</text>
+<circle cx='412' cy='356.0' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M405,356.0 H419' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='562' cy='356.0' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M562,342.0 A14,14 0 0 0 562,370.0 Z' fill='#007A5A'/>
+<circle cx='712' cy='356.0' r='15' fill='#007A5A'/>
+<circle cx='862' cy='356.0' r='15' fill='#007A5A'/>
+<circle cx='1012' cy='356.0' r='15' fill='#007A5A'/>
+<line x1='67' y1='397' x2='1533' y2='397' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='425' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>EnteroBase</text>
+<text x='1107' y='425' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Dendrograms, GrapeTree MSTs</text>
+<circle cx='412' cy='418.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M405,418.5 H419' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='562' cy='418.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M555,418.5 H569' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='712' cy='418.5' r='15' fill='#007A5A'/>
+<circle cx='862' cy='418.5' r='15' fill='#007A5A'/>
+<circle cx='1012' cy='418.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M1005,418.5 H1019' stroke='#4D4D4D' stroke-width='3'/>
+<line x1='67' y1='444' x2='1533' y2='444' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='472' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>BacPage</text>
+<text x='1107' y='472' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>IQ-TREE 2; Gubbins optional</text>
+<circle cx='412' cy='465.5' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M412,451.5 A14,14 0 0 0 412,479.5 Z' fill='#007A5A'/>
+<circle cx='562' cy='465.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M555,465.5 H569' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='712' cy='465.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M705,465.5 H719' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='862' cy='465.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M855,465.5 H869' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='1012' cy='465.5' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M1012,451.5 A14,14 0 0 0 1012,479.5 Z' fill='#007A5A'/>
+<line x1='67' y1='491' x2='1533' y2='491' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='519' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>Snippy_Streamline</text>
+<text x='1107' y='519' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Terra; files for outside viewers</text>
+<circle cx='412' cy='512.5' r='15' fill='#007A5A'/>
+<circle cx='562' cy='512.5' r='15' fill='#007A5A'/>
+<circle cx='712' cy='512.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M705,512.5 H719' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='862' cy='512.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M855,512.5 H869' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='1012' cy='512.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M1005,512.5 H1019' stroke='#4D4D4D' stroke-width='3'/>
+<line x1='67' y1='538' x2='1533' y2='538' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='566' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A84300'>CholeraSeq</text>
+<text x='1107' y='566' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Nextflow; 4,196 O1 genomes</text>
+<circle cx='412' cy='559.5' r='15' fill='#007A5A'/>
+<circle cx='562' cy='559.5' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M562,545.5 A14,14 0 0 0 562,573.5 Z' fill='#007A5A'/>
+<circle cx='712' cy='559.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M705,559.5 H719' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='862' cy='559.5' r='15' fill='#007A5A'/>
+<circle cx='1012' cy='559.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M1005,559.5 H1019' stroke='#4D4D4D' stroke-width='3'/>
+<line x1='67' y1='585' x2='1533' y2='585' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='613' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#4D4D4D'>Custom CLI</text>
+<text x='1107' y='613' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Snippy, Gubbins, IQ-TREE 2</text>
+<circle cx='412' cy='606.5' r='15' fill='#007A5A'/>
+<circle cx='562' cy='606.5' r='15' fill='#007A5A'/>
+<circle cx='712' cy='606.5' r='15' fill='#007A5A'/>
+<circle cx='862' cy='606.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M855,606.5 H869' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='1012' cy='606.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M1005,606.5 H1019' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='83' cy='656' r='15' fill='#007A5A'/>
+<text x='109' y='665' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>has it</text>
+<circle cx='230.49921875' cy='656' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M230.49921875,642 A14,14 0 0 0 230.49921875,670 Z' fill='#007A5A'/>
+<text x='256.49921875' y='665' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>partial or limited</text>
+<circle cx='506.126328125' cy='656' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M499.126328125,656 H513.126328125' stroke='#4D4D4D' stroke-width='3'/>
+<text x='532.126328125' y='665' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>does not</text>
+<circle cx='72' cy='746' r='24' fill='#007A5A'/><text x='72' y='756' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='757' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>7.3.2 FIND CONTEXTUAL GENOMES IN PUBLIC DATABASES</text>
+<line x1='50' y1='774' x2='1550' y2='774' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='796' width='486' height='338' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<circle cx='95' cy='839' r='17' fill='#fff' stroke='#0072B2' stroke-width='7'/><path d='M108,852 L127,871' stroke='#0072B2' stroke-width='9' stroke-linecap='round'/>
+<text x='151' y='837' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>EnteroBase</text>
+<text x='151' y='873' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>all <tspan font-style='italic'>Vibrio</tspan> species</text>
+<rect x='67' y='894' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='95' y='909' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Typing: cgMLST with 1,128 loci, or</text>
+<text x='95' y='940' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>wgMLST with 152,249 loci</text>
+<rect x='67' y='959' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='95' y='974' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Upload a genome privately or</text>
+<text x='95' y='1005' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>search a public accession</text>
+<rect x='67' y='1024' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='95' y='1039' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Dendrogram or GrapeTree views</text>
+<rect x='556' y='796' width='486' height='338' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<polyline points='607.0,818.0 617.6,823.4 624.1,828.8 624.1,834.2 617.6,839.6 607.0,845.0 596.4,850.4 589.9,855.8 589.9,861.2 596.4,866.6 607.0,872.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='607.0,818.0 596.4,823.4 589.9,828.8 589.9,834.2 596.4,839.6 607.0,845.0 617.6,850.4 624.1,855.8 624.1,861.2 617.6,866.6 607.0,872.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M590.2,828.8 H623.8' stroke='#4D4D4D' stroke-width='3'/><path d='M607.0,845.0 H607.0' stroke='#4D4D4D' stroke-width='3'/><path d='M623.8,861.2 H590.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='657' y='837' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>NCBI Pathogen</text>
+<text x='657' y='873' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Detection</text>
+<text x='657' y='909' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'><tspan font-style='italic'>V. cholerae</tspan> organism group</text>
+<rect x='573' y='929' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='601' y='944' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Clusters by wgMLST distance: 25</text>
+<text x='601' y='975' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>loci or fewer from any member</text>
+<rect x='573' y='994' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='601' y='1009' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>SNP trees only inside each cluster</text>
+<rect x='573' y='1028' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='601' y='1043' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>AMRFinderPlus AMR genotypes</text>
+<rect x='573' y='1062' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='601' y='1077' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Search by public accession; no</text>
+<text x='601' y='1108' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>private upload</text>
+<rect x='1062' y='796' width='488' height='338' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<path d='M1113,873 C1083,841 1089,817 1113,817 C1137,817 1143,841 1113,873 z' fill='#0072B2'/><circle cx='1113' cy='837' r='9' fill='#fff'/>
+<text x='1163' y='837' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Pathogenwatch</text>
+<text x='1163' y='873' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>curated collections</text>
+<rect x='1079' y='894' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='1107' y='909' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Collections mostly come from</text>
+<text x='1107' y='940' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>published studies</text>
+<rect x='1079' y='959' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='1107' y='974' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>cgMLST context search from</text>
+<text x='1107' y='1005' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>genome reports</text>
+<rect x='1079' y='1024' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='1107' y='1039' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Collection-view context search is</text>
+<text x='1107' y='1070' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>labelled experimental</text>
+<circle cx='72' cy='1183' r='24' fill='#A84300'/><text x='72' y='1193' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='1194' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A84300'>READ BEFORE CHOOSING</text>
+<line x1='50' y1='1211' x2='1550' y2='1211' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1233' width='1500' height='266' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='1257' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1272' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>EnteroBase and NCBI give no serogroup or lineage; NCBI reports AMRFinderPlus genotypes, but characterise</text>
+<text x='95' y='1303' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>downloaded genomes yourself (7.2)</text>
+<rect x='67' y='1322' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1337' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: 7.3.2 says AMR cannot be read in-platform, yet lists AMR gene content as an NCBI filter</text>
+<rect x='67' y='1356' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1371' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: CholeraSeq adds isolates by rebuilding an ML tree on a joined alignment, not 6.2.3 placement</text>
+<rect x='67' y='1390' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1405' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: EnteroBase MSTs can label edges with allele differences (GrapeTree docs); not fully verified</text>
+<rect x='67' y='1424' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1439' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: Sánchez-Busó 2021 covers <tspan font-style='italic'>N. gonorrhoeae</tspan>, yet is cited for <tspan font-style='italic'>V. cholerae</tspan> context search</text>
+<rect x='67' y='1458' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1473' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: 7.3 intro says NCBI Pathogen Genome Browser; 7.3.2 uses Isolate Browser</text>
+</g>
+</svg>

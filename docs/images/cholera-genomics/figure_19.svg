@@ -1,0 +1,107 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='151.93mm' viewBox='0 0 1600 1429.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='1429.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-115.80)'>
+<circle cx='72' cy='188' r='24' fill='#005A8C'/><text x='72' y='198' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='199' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>WHY COMPARE GENOMES: FINER RESOLUTION THAN CHARACTERISATION</text>
+<line x1='50' y1='216' x2='1550' y2='216' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='238' width='345' height='141' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Serogroup</text>
+<text x='67' y='317' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>O1, O139 or other</text>
+<rect x='435' y='238' width='345' height='141' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='452' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>MLST</text>
+<text x='452' y='317' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ST69 spans all 7PET</text>
+<rect x='820' y='238' width='345' height='141' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='837' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Lineage</text>
+<text x='837' y='317' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>T/AFR lineage</text>
+<rect x='1205' y='238' width='345' height='141' rx='22' fill='#FDF3DC' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<text x='1222' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>Comparative</text>
+<text x='1222' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>genomics</text>
+<text x='1222' y='353' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Isolate relationships</text>
+<path d='M401,308.5 H429' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M786,308.5 H814' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M1171,308.5 H1199' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<text x='50' y='416' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#4D4D4D'>coarser</text>
+<text x='1550' y='416' text-anchor='end' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#4D4D4D'>finer</text>
+<path d='M165.73062499999997,407 H1466.606640625' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<circle cx='72' cy='468' r='24' fill='#007A5A'/><text x='72' y='478' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='479' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>THREE QUESTIONS, TWO COMPLEMENTARY APPROACHES</text>
+<line x1='50' y1='496' x2='1550' y2='496' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='518' width='486' height='170' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<circle cx='95' cy='561' r='17' fill='#fff' stroke='#0072B2' stroke-width='7'/><path d='M108,574 L127,593' stroke='#0072B2' stroke-width='9' stroke-linecap='round'/>
+<text x='151' y='559' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Transmission chain</text>
+<text x='67' y='631' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Do isolates share one?</text>
+<rect x='556' y='518' width='486' height='170' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<path d='M607,595 C577,563 583,539 607,539 C631,539 637,563 607,595 z' fill='#0072B2'/><circle cx='607' cy='559' r='9' fill='#fff'/>
+<text x='657' y='559' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Introduction or local</text>
+<text x='573' y='631' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>New introduction or ongoing local</text>
+<text x='573' y='662' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>circulation?</text>
+<rect x='1062' y='518' width='488' height='170' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='1087' y='541' width='52' height='52' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M1113,541 V593 M1087,567 H1139' stroke='#0072B2' stroke-width='3'/><circle cx='1100' cy='554' r='6' fill='#E69F00'/><circle cx='1126' cy='580' r='6' fill='#009E73'/>
+<text x='1163' y='559' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Local to global</text>
+<text x='1079' y='631' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>How do local findings relate to</text>
+<text x='1079' y='662' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>regional or global spread?</text>
+<rect x='50' y='750' width='655' height='326' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<rect x='81' y='772' width='40' height='54' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M90,786 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M90,799 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M90,812 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/>
+<text x='151' y='791' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>Public database query</text>
+<rect x='67' y='848' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='95' y='863' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Finds genetically related or metadata-selected</text>
+<text x='95' y='894' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>genomes in large public databases</text>
+<rect x='67' y='913' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='95' y='928' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Efficient methods that need not be re-run as new</text>
+<text x='95' y='959' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>genomes are deposited</text>
+<rect x='67' y='976' width='136.22609375' height='44' rx='22.0' fill='#fff' stroke='#E69F00' stroke-width='3'/>
+<text x='82' y='1007' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>cgMLST</text>
+<rect x='217.22609375' y='976' width='341.44640625' height='44' rx='22.0' fill='#fff' stroke='#E69F00' stroke-width='3'/>
+<text x='232.22609375' y='1007' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>phylogenetic placement</text>
+<rect x='67' y='1035' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1050' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: cgMLST also serves defined sets (6.1.1)</text>
+<rect x='895' y='750' width='655' height='326' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<polyline points='946.0,772.0 956.6,777.4 963.1,782.8 963.1,788.2 956.6,793.6 946.0,799.0 935.4,804.4 928.9,809.8 928.9,815.2 935.4,820.6 946.0,826.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='946.0,772.0 935.4,777.4 928.9,782.8 928.9,788.2 935.4,793.6 946.0,799.0 956.6,804.4 963.1,809.8 963.1,815.2 956.6,820.6 946.0,826.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M929.2,782.8 H962.8' stroke='#4D4D4D' stroke-width='3'/><path d='M946.0,799.0 H946.0' stroke='#4D4D4D' stroke-width='3'/><path d='M962.8,815.2 H929.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='996' y='791' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Defined isolate set</text>
+<rect x='912' y='848' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='940' y='863' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Curated group, analysed at high resolution</text>
+<rect x='912' y='882' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='940' y='897' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Local genomes plus selected context genomes</text>
+<rect x='912' y='914' width='327.775625' height='44' rx='22.0' fill='#fff' stroke='#009E73' stroke-width='3'/>
+<text x='927' y='945' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>phylogenetic inference</text>
+<rect x='1253.775625' y='914' width='136.22609375' height='44' rx='22.0' fill='#fff' stroke='#009E73' stroke-width='3'/>
+<text x='1268.775625' y='945' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>cgMLST</text>
+<rect x='912' y='973' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='940' y='988' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>With pairwise SNP or allele distances</text>
+<path d='M717,939.0 H883' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<text x='800' y='879.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>contextual</text>
+<text x='800' y='910.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>genomes</text>
+<rect x='1359.12328125' y='767' width='156.87671875' height='38' rx='19.0' fill='#009E73'/>
+<text x='1375.12328125' y='795' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>PRIMARY</text>
+<path d='M240,746 V696' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<text x='262' y='728.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>answers questions directly</text>
+<path d='M1085,746 V696' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<text x='1107' y='728.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>answers questions</text>
+<rect x='50' y='1092' width='1500' height='139' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='1133' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>Caution when using public genomes (6.1.2)</text>
+<rect x='67' y='1156' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1171' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Quality-check public genomes first (Section 5.2): artefactual SNPs cause spurious clusters</text>
+<rect x='67' y='1190' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1205' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Regional context may be sparse: say so when reporting origin (Section 9.1.3)</text>
+<circle cx='72' cy='1280' r='24' fill='#9A4573'/><text x='72' y='1290' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='1291' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>AN ITERATIVE LOOP: ASK, COMPARE, REFINE</text>
+<line x1='50' y1='1308' x2='1550' y2='1308' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1330' width='1500' height='166' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='1371' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>Questions are asked and answered as the epidemiology becomes clearer</text>
+<rect x='154.58523437500003' y='1395' width='224.84828124999999' height='44' rx='22.0' fill='#EAF4FB' stroke='#0072B2' stroke-width='3'/>
+<text x='169.58523437500003' y='1426' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Ask a question</text>
+<rect x='451.43351562500004' y='1395' width='258.549453125' height='44' rx='22.0' fill='#E6F5EF' stroke='#009E73' stroke-width='3'/>
+<text x='466.43351562500004' y='1426' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Compare isolates</text>
+<rect x='781.98296875' y='1395' width='307.142578125' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='796.98296875' y='1426' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Epidemiology clearer</text>
+<rect x='1161.125546875' y='1395' width='284.28921875' height='44' rx='22.0' fill='#fff' stroke='#CC79A7' stroke-width='3'/>
+<text x='1176.125546875' y='1426' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Refine the question</text>
+<path d='M387.43351562500004,1417 H443.43351562500004' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M717.98296875,1417 H773.98296875' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M1097.125546875,1417 H1153.125546875' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M1303.2701562500001,1443 V1473 H267.00937500000003 V1447' fill='none' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+</g>
+</svg>

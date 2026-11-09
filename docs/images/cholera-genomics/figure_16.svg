@@ -1,0 +1,116 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='180.51mm' viewBox='0 0 1600 1698.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='1698.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-97.80)'>
+<circle cx='72' cy='170' r='24' fill='#1A1A1A'/><text x='72' y='180' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='181' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>TWO LEVELS OF RESOLUTION: SEQUENCE TYPE FIRST, THEN LINEAGE PLACEMENT</text>
+<line x1='50' y1='198' x2='1550' y2='198' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='220' width='380' height='105' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='261' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>WGS assembly</text>
+<text x='67' y='299' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Several resolution levels</text>
+<rect x='500' y='220' width='520' height='105' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='517' y='261' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>1 MLST</text>
+<text x='517' y='299' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Broad ST; confirms 7PET membership</text>
+<rect x='1090' y='220' width='460' height='105' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='1107' y='261' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>2 T/AFR lineage</text>
+<text x='1107' y='299' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Fine-grained, regional context</text>
+<path d='M442,272.5 H488' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M1032,272.5 H1078' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<circle cx='72' cy='374' r='24' fill='#005A8C'/><text x='72' y='384' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='385' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>5.4.1 MULTILOCUS SEQUENCE TYPING: A RAPID CHECK OF PANDEMIC LINEAGE MEMBERSHIP</text>
+<line x1='50' y1='402' x2='1550' y2='402' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='424' width='800' height='289' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<polyline points='101.0,446.0 111.6,451.4 118.1,456.8 118.1,462.2 111.6,467.6 101.0,473.0 90.4,478.4 83.9,483.8 83.9,489.2 90.4,494.6 101.0,500.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='101.0,446.0 90.4,451.4 83.9,456.8 83.9,462.2 90.4,467.6 101.0,473.0 111.6,478.4 118.1,483.8 118.1,489.2 111.6,494.6 101.0,500.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M84.2,456.8 H117.8' stroke='#4D4D4D' stroke-width='3'/><path d='M101.0,473.0 H101.0' stroke='#4D4D4D' stroke-width='3'/><path d='M117.8,489.2 H84.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='151' y='465' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Two PubMLST schemes (Jolley 2018)</text>
+<rect x='67' y='515' width='158.04859374999998' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='82' y='546' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Scheme 1</text>
+<text x='241.04859374999998' y='541' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>7 loci, Octavia 2013 (default scheme)</text>
+<rect x='67' y='573' width='158.04859374999998' height='44' rx='22.0' fill='#EAF4FB' stroke='#0072B2' stroke-width='3'/>
+<text x='82' y='604' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Scheme 2</text>
+<text x='241.04859374999998' y='599' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>5 loci, O1/O139, Kanampalliwar and Singh 2020</text>
+<rect x='67' y='638' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='95' y='653' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ST69, ST40, ST635 quoted here are Octavia-scheme STs</text>
+<rect x='67' y='672' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='687' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>STs not comparable between schemes: report the scheme</text>
+<rect x='870' y='424' width='680' height='289' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<circle cx='921' cy='473' r='25' fill='#0072B2'/><path d='M909,474 L918,484 L934,464' stroke='#fff' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='971' y='465' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>What an ST tells you</text>
+<rect x='887' y='522' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='915' y='537' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ST69 dominates 7PET (ST515 occasionally)</text>
+<rect x='887' y='556' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='915' y='571' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Confirms 7PET fast; flags non-7PET isolates</text>
+<rect x='887' y='590' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='915' y='605' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Malawi: O7 ST40, O19 ST635 (Chaguza 2024)</text>
+<rect x='887' y='624' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='915' y='639' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>40 of 67 isolates ST69; 2 O1 isolates were</text>
+<text x='915' y='670' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>pre-7PET ST75-2LV (Foster-Nyarko 2025)</text>
+<rect x='50' y='729' width='1500' height='101' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='755' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='770' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>In silico: <tspan font-style='italic'>mlst</tspan> tool (Seemann) on an assembled genome; scheme 1 is its default, as in Pathogenwatch</text>
+<rect x='67' y='789' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='804' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Also built into VibrioWatch/PathogenWatch and TheiaProk, so usually produced by standard pipelines</text>
+<circle cx='72' cy='879' r='24' fill='#007A5A'/><text x='72' y='889' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='890' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>5.4.2 LINEAGE CLASSIFICATION: PLACE THE ISOLATE WITHIN THE T/AFR FRAMEWORK</text>
+<line x1='50' y1='907' x2='1550' y2='907' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='929' width='1500' height='193' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='948' width='271.458984375' height='44' rx='22.0' fill='#E6F5EF' stroke='#007A5A' stroke-width='3'/>
+<text x='82' y='979' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>T1–T12  Weill 2017</text>
+<path d='M346.458984375,970 H386.458984375' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='394.458984375' y='948' width='224.22976562499997' height='44' rx='22.0' fill='#E6F5EF' stroke='#007A5A' stroke-width='3'/>
+<text x='409.458984375' y='979' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>T13  Weill 2019</text>
+<path d='M626.68875,970 H666.68875' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='674.68875' y='948' width='397.35070312499994' height='44' rx='22.0' fill='#E6F5EF' stroke='#007A5A' stroke-width='3'/>
+<text x='689.68875' y='979' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>AFR14–15  outbreak studies</text>
+<path d='M1080.039453125,970 H1120.039453125' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='1128.039453125' y='948' width='345.141640625' height='44' rx='22.0' fill='#fff' stroke='#4D4D4D' stroke-width='3'/>
+<text x='1143.039453125' y='979' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>AFR16–17  preprint only</text>
+<rect x='67' y='1013' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1028' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Same lineages, two prefixes: AFR10 was formerly T10 (Section 2.4)</text>
+<rect x='67' y='1047' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1062' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Each is a whole-genome SNP clade with its own geography and timing; T2 was Africa to Latin America</text>
+<rect x='67' y='1081' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1096' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>CholGEN: all 739 analysed genomes (of 763 passing QC) descend from known introductions (Mboowa 2026)</text>
+<rect x='50' y='1138' width='740' height='269' rx='22' fill='#fff' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<rect x='75' y='1161' width='52' height='52' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M101,1161 V1213 M75,1187 H127' stroke='#0072B2' stroke-width='3'/><circle cx='88' cy='1174' r='6' fill='#E69F00'/><circle cx='114' cy='1200' r='6' fill='#009E73'/>
+<text x='151' y='1179' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>West and Central: long-persisting</text>
+<rect x='67' y='1236' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1251' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>AFR10 in the DRC: at least 29 years</text>
+<rect x='67' y='1270' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1285' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>AFR12 in Nigeria, Cameroon: at least 15 years</text>
+<rect x='810' y='1138' width='740' height='269' rx='22' fill='#fff' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<path d='M831,1211 H891 M831,1211 V1161' stroke='#4D4D4D' stroke-width='4' fill='none'/><path d='M837,1201 L853,1187 L865,1195 L887,1169' stroke='#0072B2' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/><circle cx='887' cy='1169' r='7' fill='#D55E00'/>
+<text x='911' y='1179' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>East and Southern: more diverse</text>
+<rect x='827' y='1236' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='855' y='1251' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>AFR10, AFR11, AFR13, AFR15; often two or more</text>
+<text x='855' y='1282' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>lineages per country in five years</text>
+<rect x='827' y='1301' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='855' y='1316' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>AFR15: Malawi 2022–2023, 11–16 SNPs from</text>
+<text x='855' y='1347' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Pakistani and Iraqi genomes</text>
+<rect x='827' y='1366' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='855' y='1381' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Zambia 2023: AFR10 and AFR15 together</text>
+<rect x='50' y='1423' width='1500' height='101' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='1449' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1464' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Tendencies, not boundaries: AFR10 spans both regions, so treat distributions as overlapping</text>
+<rect x='67' y='1483' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1498' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Use: separate outbreaks, rule out cross-border spread, frame clinical and AMR findings</text>
+<rect x='50' y='1540' width='740' height='207' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<polyline points='101.0,1562.0 111.6,1567.4 118.1,1572.8 118.1,1578.2 111.6,1583.6 101.0,1589.0 90.4,1594.4 83.9,1599.8 83.9,1605.2 90.4,1610.6 101.0,1616.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='101.0,1562.0 90.4,1567.4 83.9,1572.8 83.9,1578.2 90.4,1583.6 101.0,1589.0 111.6,1594.4 118.1,1599.8 118.1,1605.2 111.6,1610.6 101.0,1616.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M84.2,1572.8 H117.8' stroke='#4D4D4D' stroke-width='3'/><path d='M101.0,1589.0 H101.0' stroke='#4D4D4D' stroke-width='3'/><path d='M117.8,1605.2 H84.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='151' y='1581' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>How lineages are assigned</text>
+<rect x='67' y='1638' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='1653' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Tree with contextual references, read manually</text>
+<rect x='67' y='1672' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='1687' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Or phylogenetic placement (Vibecheck)</text>
+<rect x='67' y='1706' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1721' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ONT: indel errors can add false variants</text>
+<rect x='810' y='1540' width='740' height='207' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<circle cx='861' cy='1589' r='22' fill='none' stroke='#D55E00' stroke-width='5'/><path d='M851,1579 L871,1599 M871,1579 L851,1599' stroke='#D55E00' stroke-width='5' stroke-linecap='round'/>
+<text x='911' y='1581' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>Out of scope for T/AFR typing</text>
+<rect x='827' y='1638' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='855' y='1653' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Built for O1 El Tor 7PET; meaningless for</text>
+<text x='855' y='1684' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>non-O1/non-O139</text>
+<rect x='827' y='1703' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='855' y='1718' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>O139: report as O139, phylogenetic context separate</text>
+</g>
+</svg>

@@ -1,0 +1,123 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='297mm' height='188.32mm' viewBox='0 0 2025 1284'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6.5' markerHeight='6.5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='av' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6.5' markerHeight='6.5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#D55E00'/></marker></defs>
+<rect width='2025' height='1284' fill='#FFFFFF'/>
+<g transform='translate(17.5,7.5)'>
+<rect x='50' y='60' width='350' height='192' rx='22' fill='#E8F3FA' stroke='#0072B2' stroke-width='3'/>
+<circle cx='110' cy='156.0' r='38' fill='#FFFFFF' stroke='#0072B2' stroke-width='3'/><path d='M102,132.0 h16 v14 l14,26 q3,8 -6,8 h-32 q-9,0 -6,-8 l14,-26 z' fill='#0072B2'/><rect x='99' y='128.0' width='22' height='5' rx='2' fill='#0072B2'/><path d='M98,164.0 h24 l5,10 h-34 z' fill='#fff' opacity='0.55'/>
+<text x='168' y='99.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>Suspected</tspan></text>
+<text x='168' y='131.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>cholera isolate</tspan></text>
+<text x='168' y='163.1' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>or specimen</tspan></text>
+<text x='168' y='199.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#1A1A1A'><tspan>(clinical or</tspan></text>
+<text x='168' y='228.3' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#1A1A1A'><tspan>environmental)</tspan></text>
+<rect x='480' y='60' width='390' height='192' rx='22' fill='#FFF6DE' stroke='#E69F00' stroke-width='3'/>
+<circle cx='540' cy='156.0' r='38' fill='#FFFFFF' stroke='#E69F00' stroke-width='3'/><rect x='516' y='173.0' width='48' height='7' rx='3' fill='#B07A00'/><path d='M550,173.0 C570,169.0 570,142.0 548,138.0' stroke='#B07A00' stroke-width='6' fill='none' stroke-linecap='round'/><polygon points='525,129.0 534,124.0 549,155.0 540,160.0' fill='#B07A00'/><rect x='520' y='125.0' width='11' height='5' rx='2' fill='#B07A00'/><polygon points='537,160.0 545,156.0 548,163.0 540,166.0' fill='#B07A00'/><rect x='530' y='167.0' width='24' height='5' rx='2' fill='#B07A00'/>
+<text x='598' y='115.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>Is </tspan><tspan font-style='italic'>V. cholerae</tspan></text>
+<text x='598' y='147.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>confirmed?</tspan></text>
+<text x='598' y='183.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#1A1A1A'><tspan>(culture, RDT, PCR or</tspan></text>
+<text x='598' y='212.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#1A1A1A'><tspan>MALDI-TOF)</tspan></text>
+<rect x='950' y='60' width='390' height='192' rx='22' fill='#FFF6DE' stroke='#E69F00' stroke-width='3'/>
+<circle cx='1010' cy='156.0' r='38' fill='#FFFFFF' stroke='#E69F00' stroke-width='3'/><circle cx='1010' cy='156.0' r='25' fill='none' stroke='#B07A00' stroke-width='6'/><circle cx='1010' cy='156.0' r='16' fill='none' stroke='#B07A00' stroke-width='2' opacity='0.5'/><circle cx='1011' cy='157.0' r='8' fill='#B07A00'/>
+<text x='1068' y='115.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>Pure culture from a</tspan></text>
+<text x='1068' y='147.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>single colony?</tspan></text>
+<text x='1068' y='183.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#1A1A1A'><tspan>(metadata captured at</tspan></text>
+<text x='1068' y='212.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#1A1A1A'><tspan>sampling?)</tspan></text>
+<rect x='1440' y='60' width='500' height='307.72' rx='22' fill='#FFF6DE' stroke='#E69F00' stroke-width='3'/>
+<circle cx='1630.0' cy='124' r='38' fill='#FFFFFF' stroke='#E69F00' stroke-width='3'/><path d='M1630.0,148 q-22,-24 -22,-40 a22,22 0 0 1 44,0 q0,16 -22,40 z' fill='#B07A00'/><circle cx='1630.0' cy='108' r='8' fill='#fff'/>
+<circle cx='1750.0' cy='124' r='38' fill='#FFFFFF' stroke='#E69F00' stroke-width='3'/><rect x='1720.0' y='104' width='60' height='40' rx='7' fill='#B07A00'/><rect x='1728.0' y='111' width='28' height='15' rx='3' fill='#fff'/><rect x='1733.0' y='117' width='10' height='3' fill='#B07A00'/><rect x='1733.0' y='123' width='18' height='3' fill='#B07A00'/><circle cx='1767.0' cy='117' r='4' fill='#fff'/><rect x='1728.0' y='132' width='44' height='5' rx='2.5' fill='#fff'/>
+<text x='1464' y='205.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>Which public health setting? Is</tspan></text>
+<text x='1464' y='237.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>sequencing capacity available and</tspan></text>
+<text x='1464' y='269.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>justified by the question?</tspan></text>
+<text x='1464' y='306.9' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#1A1A1A'><tspan>(resource priorities; pre-defined, stratified</tspan></text>
+<text x='1464' y='336.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#1A1A1A'><tspan>sampling plan)</tspan></text>
+<path d='M404,156.0 H474' fill='none' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+<path d='M874,156.0 H944' fill='none' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+<path d='M1344,156.0 H1434' fill='none' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+<text x='910' y='144.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='700' fill='#1B6E4E'>Yes</text>
+<text x='1380' y='144.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='700' fill='#1B6E4E'>Yes</text>
+<rect x='457.0' y='308' width='436' height='220.36' rx='22' fill='#FBE9DF' stroke='#D55E00' stroke-width='3'/>
+<circle cx='517.0' cy='418.18' r='38' fill='#FFFFFF' stroke='#D55E00' stroke-width='3'/><circle cx='517.0' cy='418.18' r='24' fill='none' stroke='#D55E00' stroke-width='6'/><line x1='500.0' y1='401.18' x2='534.0' y2='435.18' stroke='#D55E00' stroke-width='6' stroke-linecap='round'/>
+<text x='575' y='396.9' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>Confirm first: diagnosis is out</tspan></text>
+<text x='575' y='425.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>of scope for genomics</tspan></text>
+<text x='575' y='453.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>(GTFCC 2024 guidance)</tspan></text>
+<path d='M675.0,256 V302' fill='none' stroke='#D55E00' stroke-width='4' marker-end='url(#av)'/>
+<text x='691.0' y='288' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='700' fill='#D55E00'>No</text>
+<rect x='927.0' y='308' width='436' height='220.36' rx='22' fill='#FBE9DF' stroke='#D55E00' stroke-width='3'/>
+<circle cx='987.0' cy='418.18' r='38' fill='#FFFFFF' stroke='#D55E00' stroke-width='3'/><path d='M972.0,396.18 h20 l10,10 v32 h-30 z' fill='#D55E00'/><rect x='978.0' y='413.18' width='18' height='3' fill='#fff'/><rect x='978.0' y='421.18' width='18' height='3' fill='#fff'/><rect x='978.0' y='429.18' width='18' height='3' fill='#fff'/>
+<text x='1045' y='351.8' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>Subculture to purity;</tspan></text>
+<text x='1045' y='379.9' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>complete metadata now</tspan></text>
+<text x='1045' y='407.9' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>(retrospective completion</tspan></text>
+<text x='1045' y='436.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>rarely feasible).</tspan></text>
+<text x='1045' y='470.1' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>Mixed culture/broth =</tspan></text>
+<text x='1045' y='498.1' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>metagenomic sample</tspan></text>
+<path d='M1145.0,256 V302' fill='none' stroke='#D55E00' stroke-width='4' marker-end='url(#av)'/>
+<text x='1161.0' y='288' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='700' fill='#D55E00'>No</text>
+<path d='M1665.0,371.72 V610.36' fill='none' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+<path d='M1665.0,572.36 H410.0 V610.36' fill='none' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+<path d='M1080.0,572.36 V610.36' fill='none' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+<rect x='50' y='616.36' width='720' height='104' rx='22' fill='#E69F00' stroke='#333333' stroke-width='2.5'/>
+<circle cx='108' cy='668.36' r='36' fill='#FFFFFF'/><path d='M108,646.36 L134,688.36 L82,688.36 z' fill='#D55E00' stroke='#D55E00' stroke-width='6' stroke-linejoin='round'/><rect x='105' y='660.36' width='6' height='16' rx='2' fill='#fff'/><circle cx='108' cy='682.36' r='3.4' fill='#fff'/>
+<text x='158' y='659.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'><tspan>ACTIVE OUTBREAK</tspan></text>
+<text x='158' y='693.9' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#1A1A1A'><tspan>(endemic or epidemic setting)</tspan></text>
+<rect x='800' y='616.36' width='560' height='104' rx='22' fill='#56B4E9' stroke='#333333' stroke-width='2.5'/>
+<circle cx='858' cy='668.36' r='36' fill='#FFFFFF'/><path d='M830,668.36 l12,0 l7,-18 l9,34 l7,-16 l20,0' stroke='#0072B2' stroke-width='5.5' fill='none' stroke-linejoin='round' stroke-linecap='round'/>
+<text x='908' y='659.9' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'><tspan>INTER-OUTBREAK / ENDEMIC</tspan></text>
+<text x='908' y='692.8' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'><tspan>SURVEILLANCE</tspan></text>
+<rect x='1390' y='616.36' width='550' height='104' rx='22' fill='#9A9A9A' stroke='#333333' stroke-width='2.5'/>
+<circle cx='1448' cy='668.36' r='36' fill='#FFFFFF'/><ellipse cx='1448' cy='668.36' rx='29' ry='6.5' fill='#4D4D4D'/><polygon points='1444,664.36 1457,664.36 1439,641.36 1430,641.36' fill='#4D4D4D'/><polygon points='1444,672.36 1457,672.36 1439,695.36 1430,695.36' fill='#4D4D4D'/><polygon points='1425,665.36 1434,665.36 1423,654.36 1418,654.36' fill='#4D4D4D'/><polygon points='1425,671.36 1434,671.36 1423,682.36 1418,682.36' fill='#4D4D4D'/>
+<text x='1498' y='659.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'><tspan>IMPORTED / SPORADIC CASE</tspan></text>
+<text x='1498' y='693.9' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' fill='#1A1A1A'><tspan>(non-endemic, e.g. returning traveller)</tspan></text>
+<rect x='50' y='750.36' width='720' height='458.6599999999995' rx='22' fill='#FDF1D6' stroke='#E69F00' stroke-width='3'/>
+<path d='M410.0,723.36 V745.36' fill='none' stroke='#4D4D4D' stroke-width='3.5' marker-end='url(#ar)'/>
+<text x='80' y='801.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='700' fill='#1A1A1A'><tspan>Sequence to answer, in order:</tspan></text>
+<circle cx='97' cy='830.4499999999999' r='17' fill='#0072B2'/><text x='97' y='838.4499999999999' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='22' font-weight='700' fill='#fff'>1</text>
+<text x='126' y='837.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>Initial characterisation: species, serogroup, biotype/MLST</tspan></text>
+<text x='126' y='865.3' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>(7PET?), </tspan><tspan font-style='italic'>ctxA</tspan><tspan>, </tspan><tspan font-style='italic'>ctxB</tspan><tspan> genotype, AMR → report to clinicians</tspan></text>
+<circle cx='97' cy='898.5699999999998' r='17' fill='#0072B2'/><text x='97' y='906.5699999999998' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='22' font-weight='700' fill='#fff'>2</text>
+<text x='126' y='905.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>Clonality &amp; transmission: one clonal introduction or several?</tspan></text>
+<text x='126' y='933.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>env vs clinical</tspan></text>
+<circle cx='97' cy='966.6899999999997' r='17' fill='#0072B2'/><text x='97' y='974.6899999999997' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='22' font-weight='700' fill='#fff'>3</text>
+<text x='126' y='973.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>Origins: T/AFR lineage, nearest public genomes, regional</tspan></text>
+<text x='126' y='1001.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>links</tspan></text>
+<circle cx='97' cy='1034.8099999999997' r='17' fill='#0072B2'/><text x='97' y='1042.8099999999997' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='22' font-weight='700' fill='#fff'>4</text>
+<text x='126' y='1041.6' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>Within-outbreak evolution: new AMR, virulence or</tspan></text>
+<text x='126' y='1069.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>secondary clones</tspan></text>
+<rect x='80' y='1094.8999999999996' width='660' height='84.12' rx='16' fill='#FFFFFF' stroke='#D55E00' stroke-width='2.5'/>
+<path d='M120,1112.9599999999996 L142,1120.9599999999996 V1138.9599999999996 Q142,1152.9599999999996 120,1162.9599999999996 Q98,1152.9599999999996 98,1138.9599999999996 V1120.9599999999996 z' fill='#D55E00'/><polyline points='110,1137.9599999999996 117,1145.9599999999996 131,1128.9599999999996' fill='none' stroke='#fff' stroke-width='5.5' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='158' y='1129.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan font-style='italic'>Ctx</tspan><tspan> confirmation is priority in previously unaffected or</tspan></text>
+<text x='158' y='1157.8' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>cholera-eliminated countries</tspan></text>
+<rect x='800' y='750.36' width='560' height='458.6599999999995' rx='22' fill='#E4F2FB' stroke='#56B4E9' stroke-width='3'/>
+<path d='M1080.0,723.36 V745.36' fill='none' stroke='#4D4D4D' stroke-width='3.5' marker-end='url(#ar)'/>
+<text x='830' y='801.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='700' fill='#1A1A1A'><tspan>Sequence a deliberate, stratified set of</tspan></text>
+<text x='830' y='829.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='700' fill='#1A1A1A'><tspan>sporadic cases, low-level clusters and</tspan></text>
+<text x='830' y='857.3' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='700' fill='#1A1A1A'><tspan>environmental isolates to explore:</tspan></text>
+<rect x='835' y='880.5699999999998' width='12' height='12' rx='3' fill='#0072B2'/>
+<text x='876' y='893.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>relationship to previous outbreak strains vs</tspan></text>
+<text x='876' y='921.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>new introductions</tspan></text>
+<rect x='835' y='948.6899999999997' width='12' height='12' rx='3' fill='#0072B2'/>
+<text x='876' y='961.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>environmental persistence vs re-introduction</tspan></text>
+<rect x='835' y='988.7499999999997' width='12' height='12' rx='3' fill='#0072B2'/>
+<text x='876' y='1001.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>trends in AMR / virulence genes</tspan></text>
+<rect x='830' y='1026.7799999999997' width='500' height='112.17999999999999' rx='16' fill='#FFFFFF' stroke='#0072B2' stroke-width='2.5'/>
+<rect x='850' y='1080.8699999999997' width='10' height='20' fill='#0072B2'/><rect x='865' y='1068.8699999999997' width='10' height='32' fill='#0072B2'/><rect x='880' y='1058.8699999999997' width='10' height='42' fill='#0072B2'/>
+<text x='908' y='1061.6' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>Builds the genomic baseline for the next</tspan></text>
+<text x='908' y='1089.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>outbreak. Evidence base still limited;</tspan></text>
+<text x='908' y='1117.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>expect non-7PET / non-O1 strains</tspan></text>
+<rect x='1390' y='750.36' width='550' height='458.6599999999995' rx='22' fill='#EEEEEE' stroke='#777777' stroke-width='3'/>
+<path d='M1665.0,723.36 V745.36' fill='none' stroke='#4D4D4D' stroke-width='3.5' marker-end='url(#ar)'/>
+<text x='1420' y='801.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='700' fill='#1A1A1A'><tspan>Sequence (where routine) to:</tspan></text>
+<rect x='1425' y='824.4499999999999' width='12' height='12' rx='3' fill='#0072B2'/>
+<text x='1466' y='837.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>characterise the strain (7PET?, </tspan><tspan font-style='italic'>ctxB</tspan><tspan>, AMR)</tspan></text>
+<text x='1466' y='865.3' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>for patient management</tspan></text>
+<rect x='1425' y='892.5699999999998' width='12' height='12' rx='3' fill='#0072B2'/>
+<text x='1466' y='905.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>link to source country / lineage</tspan></text>
+<rect x='1425' y='932.6299999999998' width='12' height='12' rx='3' fill='#0072B2'/>
+<text x='1466' y='945.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>contribute genomes to global public</tspan></text>
+<text x='1466' y='973.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>databases</tspan></text>
+<rect x='1420' y='998.7199999999997' width='490' height='84.12' rx='16' fill='#FFFFFF' stroke='#4D4D4D' stroke-width='2.5'/>
+<rect x='1456' y='1020.7799999999997' width='8' height='40' rx='2' fill='#4D4D4D' transform='rotate(0 1460 1040.7799999999997)'/><rect x='1456' y='1020.7799999999997' width='8' height='40' rx='2' fill='#4D4D4D' transform='rotate(45 1460 1040.7799999999997)'/><rect x='1456' y='1020.7799999999997' width='8' height='40' rx='2' fill='#4D4D4D' transform='rotate(90 1460 1040.7799999999997)'/><rect x='1456' y='1020.7799999999997' width='8' height='40' rx='2' fill='#4D4D4D' transform='rotate(135 1460 1040.7799999999997)'/><circle cx='1460' cy='1040.7799999999997' r='13' fill='#4D4D4D'/><circle cx='1460' cy='1040.7799999999997' r='5.5' fill='#fff'/>
+<text x='1498' y='1033.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>Same analytical methods apply;</tspan></text>
+<text x='1498' y='1061.6' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#1A1A1A'><tspan>questions and reporting pathways differ</tspan></text>
+</g>
+
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='57.8mm' viewBox='0 0 1800 612'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1800' height='612' fill='#FFFFFF'/>
+<g transform='translate(0,-122)'>
+<text x='60' y='200' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#0072B2' letter-spacing='2'>PURPOSE</text>
+<rect x='60' y='228' width='400' height='170' rx='22' fill='#EAF4FB' stroke='#56B4E9' stroke-width='3' filter='url(#sh)'/>
+<path d='M105,293 h20 l10,10 v30 h-30 z' fill='#0072B2'/><rect x='111' y='310' width='18' height='3' fill='#fff'/><rect x='111' y='318' width='18' height='3' fill='#fff'/><rect x='111' y='326' width='18' height='3' fill='#fff'/>
+<text x='170' y='300' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>General genomics</text>
+<text x='170' y='337' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>resources</text>
+<rect x='1340' y='228' width='400' height='170' rx='22' fill='#EAF4FB' stroke='#56B4E9' stroke-width='3' filter='url(#sh)'/>
+<path d='M1388,289 C1420,305 1380,321 1412,337' stroke='#0072B2' stroke-width='5' fill='none'/><path d='M1412,289 C1380,305 1420,321 1388,337' stroke='#0072B2' stroke-width='5' fill='none'/>
+<text x='1450' y='285' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>Specific</text>
+<text x='1450' y='321' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>requirements for</text>
+<text x='1450' y='357' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>cholera genomics</text>
+<path d='M470,313 L640,313' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<path d='M1330,313 L1160,313' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<rect x='650' y='218' width='500' height='190' rx='26' fill='#009E73' filter='url(#sh)'/>
+<text x='900' y='262' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='22' font-weight='700' fill='#fff'>THE GUIDANCE</text>
+<text x='900' y='305' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#fff'>Bridges the gap</text>
+<text x='900' y='348' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='400' fill='#fff'>Addresses bioinformatics challenges</text>
+<text x='900' y='378' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='23' font-weight='400' fill='#fff'>and considerations unique to cholera</text>
+<text x='900' y='462' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='23' fill='#4D4D4D'>applied to</text>
+<rect x='255' y='482' width='410' height='76' rx='38' fill='#FFFFFF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<rect x='283' y='518' width='10' height='20' fill='#009E73'/><rect x='298' y='506' width='10' height='32' fill='#009E73'/><rect x='313' y='496' width='10' height='42' fill='#009E73'/>
+<text x='345' y='530' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'>Surveillance</text>
+<rect x='695' y='482' width='410' height='76' rx='38' fill='#FFFFFF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<path d='M719,520 l10,0 l6,-16 l8,30 l6,-14 l18,0' stroke='#009E73' stroke-width='5' fill='none' stroke-linejoin='round'/>
+<text x='785' y='530' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'>Outbreak investigation</text>
+<rect x='1135' y='482' width='410' height='76' rx='38' fill='#FFFFFF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<path d='M1183,544 q-22,-24 -22,-40 a22,22 0 0 1 44,0 q0,16 -22,40 z' fill='#009E73'/><circle cx='1183' cy='504' r='8' fill='#fff'/>
+<text x='1225' y='530' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'>Source attribution</text>
+<path d='M900,568 L900,600' stroke='#E69F00' stroke-width='5' marker-end='url(#ao)'/>
+<rect x='450' y='608' width='900' height='66' rx='33' fill='#E69F00' filter='url(#sh)'/>
+<text x='900' y='651' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Translating genomic data into public health action</text>
+</g>
+</svg>

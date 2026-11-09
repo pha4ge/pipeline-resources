@@ -1,0 +1,105 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='157.03mm' viewBox='0 0 1600 1477.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='1477.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-115.80)'>
+<circle cx='72' cy='188' r='24' fill='#005A8C'/><text x='72' y='198' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='199' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>PRINCIPLES: INTERPRETATION IS ITERATIVE, JUDGEMENT-BASED AND BOUNDED</text>
+<line x1='50' y1='216' x2='1550' y2='216' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='238' width='1500' height='241' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<path d='M101,263 V309 M87,311 H115 M73,273 H129' stroke='#4D4D4D' stroke-width='5' stroke-linecap='round'/><path d='M63,295 h20 a10,10 0 0 1 -20,0 z' fill='#D55E00'/><path d='M119,295 h20 a10,10 0 0 1 -20,0 z' fill='#D55E00'/><path d='M73,273 L63,295 M73,273 L83,295 M129,273 L119,295 M129,273 L139,295' stroke='#4D4D4D' stroke-width='3'/>
+<text x='151' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Read the evidence with its limits</text>
+<text x='151' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Section 9 introduction</text>
+<rect x='67' y='336' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Iterative: clonality, origin and resistance conclusions change as data accrue</text>
+<rect x='67' y='370' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='385' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Judgement: unlike Sections 5–7, no standard protocol; many calls are expert reasoning</text>
+<rect x='67' y='404' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='419' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Limits: raises or lowers probability, cannot prove transmission, source or causality</text>
+<rect x='67' y='438' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='453' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Rules hypotheses out better than in; corroborate with epidemiology, not prior assumptions</text>
+<circle cx='72' cy='528' r='24' fill='#007A5A'/><text x='72' y='538' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='539' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>9.1 OUTBREAK GENOMICS: FOUR QUESTIONS</text>
+<line x1='50' y1='556' x2='1550' y2='556' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='578' width='740' height='368' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<polyline points='101.0,600.0 111.6,605.4 118.1,610.8 118.1,616.2 111.6,621.6 101.0,627.0 90.4,632.4 83.9,637.8 83.9,643.2 90.4,648.6 101.0,654.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='101.0,600.0 90.4,605.4 83.9,610.8 83.9,616.2 90.4,621.6 101.0,627.0 111.6,632.4 118.1,637.8 118.1,643.2 111.6,648.6 101.0,654.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M84.2,610.8 H117.8' stroke='#4D4D4D' stroke-width='3'/><path d='M101.0,627.0 H101.0' stroke='#4D4D4D' stroke-width='3'/><path d='M117.8,643.2 H84.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='151' y='619' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>9.1.1 Outbreak characteristics</text>
+<text x='151' y='655' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Section 5 results come first</text>
+<rect x='67' y='676' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='691' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>O1/O139; ST69 suggests 7PET; <tspan font-style='italic'>ctxA</tspan>: toxigenic</text>
+<rect x='67' y='710' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='725' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>ctxB7</tspan> supports wave 3, but lineage needs phylogeny,</text>
+<text x='95' y='756' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>not <tspan font-style='italic'>ctxB</tspan> alone</text>
+<rect x='67' y='775' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='790' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Report AMR first; genomic results are predictions</text>
+<rect x='67' y='809' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='824' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>catB9</tspan> and <tspan font-style='italic'>varG</tspan> are not clinical resistance</text>
+<rect x='67' y='843' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='858' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Other <tspan font-style='italic'>ctxB</tspan> variants need historical context (5.5.1)</text>
+<rect x='810' y='578' width='740' height='368' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<circle cx='855' cy='621' r='17' fill='#fff' stroke='#0072B2' stroke-width='7'/><path d='M868,634 L887,653' stroke='#0072B2' stroke-width='9' stroke-linecap='round'/>
+<text x='911' y='619' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>9.1.2 Clonality and transmission</text>
+<text x='911' y='655' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>what the cluster pattern suggests</text>
+<rect x='827' y='676' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='691' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Tight: point source. Diverse: sustained local spread.</text>
+<text x='855' y='722' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Distant clusters: several introductions</text>
+<rect x='827' y='741' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='756' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>No fixed threshold: compare within- and</text>
+<text x='855' y='787' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>between-cluster distances</text>
+<rect x='827' y='806' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='821' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Even zero SNPs never confirm transmission</text>
+<rect x='827' y='840' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='855' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Method, reference, masking and quality change</text>
+<text x='855' y='886' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>distances: report them</text>
+<rect x='827' y='905' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='920' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Few cases: characterise and place, do not cluster</text>
+<rect x='50' y='966' width='740' height='272' rx='22' fill='#fff' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<rect x='75' y='989' width='52' height='52' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M101,989 V1041 M75,1015 H127' stroke='#0072B2' stroke-width='3'/><circle cx='88' cy='1002' r='6' fill='#E69F00'/><circle cx='114' cy='1028' r='6' fill='#009E73'/>
+<text x='151' y='1007' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>9.1.3 Origins and context</text>
+<text x='151' y='1043' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>where from, and how sure?</text>
+<rect x='67' y='1064' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1079' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>T-lineage gives broad provenance, not recent spread</text>
+<rect x='67' y='1098' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1113' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Public data mirror surveillance density; no close</text>
+<text x='95' y='1144' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>relatives is not evidence against</text>
+<rect x='67' y='1163' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1178' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Direction of spread needs dense, dated sampling</text>
+<rect x='67' y='1197' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1212' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Share travel and exposure data across borders</text>
+<rect x='810' y='966' width='740' height='272' rx='22' fill='#fff' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<path d='M831,1039 H891 M831,1039 V989' stroke='#4D4D4D' stroke-width='4' fill='none'/><path d='M837,1029 L853,1015 L865,1023 L887,997' stroke='#0072B2' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/><circle cx='887' cy='997' r='7' fill='#D55E00'/>
+<text x='911' y='1007' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>9.1.4 Within-outbreak evolution</text>
+<text x='911' y='1043' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>keep re-analysing</text>
+<rect x='827' y='1064' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='1079' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Watch for new AMR determinants or</text>
+<text x='855' y='1110' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>fluoroquinolone-target mutations</text>
+<rect x='827' y='1129' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='1144' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Divergence may be a new strain, not in-host change</text>
+<rect x='827' y='1163' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='1178' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Share interim findings; do not wait for a final report</text>
+<circle cx='72' cy='1287' r='24' fill='#9A4573'/><text x='72' y='1297' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='1298' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>9.2 ENDEMIC AND INTER-OUTBREAK SURVEILLANCE</text>
+<line x1='50' y1='1315' x2='1550' y2='1315' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1337' width='740' height='207' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<rect x='75' y='1362' width='52' height='52' rx='7' fill='#fff' stroke='#0072B2' stroke-width='5'/><rect x='75' y='1362' width='52' height='16' rx='6' fill='#0072B2'/><rect x='85' y='1384' width='8' height='8' rx='2' fill='#0072B2'/><rect x='98' y='1384' width='8' height='8' rx='2' fill='#0072B2'/><rect x='111' y='1384' width='8' height='8' rx='2' fill='#0072B2'/><rect x='85' y='1396' width='8' height='8' rx='2' fill='#0072B2'/><rect x='98' y='1396' width='8' height='8' rx='2' fill='#0072B2'/><rect x='111' y='1396' width='8' height='8' rx='2' fill='#0072B2'/>
+<text x='151' y='1378' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Sporadic cases</text>
+<text x='151' y='1414' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>related to earlier outbreaks?</text>
+<rect x='67' y='1435' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1450' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Compare with archived local strains and public data</text>
+<rect x='67' y='1469' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1484' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Inside a recent cluster: possible ongoing transmission</text>
+<rect x='67' y='1503' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1518' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Outside clusters: new introduction or local diversity</text>
+<rect x='810' y='1337' width='740' height='207' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<path d='M861,1358 C869,1374 883,1384 883,1396 A22,22 0 0 1 839,1396 C839,1384 853,1374 861,1358 z' fill='#0072B2'/>
+<text x='911' y='1378' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>Non-7PET and environmental isolates</text>
+<text x='911' y='1414' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>expect them; take care</text>
+<rect x='827' y='1435' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='1450' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Tools assume 7PET: limit to AMR, virulence, phylogeny</text>
+<rect x='827' y='1469' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='1484' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Toxigenic 7PET in water is a clearer risk signal</text>
+<rect x='827' y='1503' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='1518' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Cannot tell if water infected patients or the reverse</text>
+</g>
+</svg>

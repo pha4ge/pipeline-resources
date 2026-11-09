@@ -1,0 +1,200 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='247.02mm' viewBox='0 0 1600 2324.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='2324.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-97.80)'>
+<circle cx='72' cy='170' r='24' fill='#005A8C'/><text x='72' y='180' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='181' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>EXPECTED STRUCTURE: TWO CHROMOSOMES, SO CHECK THE ASSEMBLY AGAINST THEM</text>
+<line x1='50' y1='198' x2='1550' y2='198' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='218' width='740' height='290' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='82' y='248' width='38' height='38' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><rect x='92' y='258' width='18' height='18' rx='3' fill='#0072B2'/><path d='M91,248 v-8 M91,286 v8 M82,257 h-8 M120,257 h8' stroke='#0072B2' stroke-width='4' stroke-linecap='round'/><path d='M101,248 v-8 M101,286 v8 M82,267 h-8 M120,267 h8' stroke='#0072B2' stroke-width='4' stroke-linecap='round'/><path d='M111,248 v-8 M111,286 v8 M82,277 h-8 M120,277 h8' stroke='#0072B2' stroke-width='4' stroke-linecap='round'/>
+<text x='151' y='259' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Illumina de novo assembly</text>
+<text x='151' y='295' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Fragmented: two major scaffold groups</text>
+<text x='67' y='337' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>Chromosome I (~2.96 Mb)</text>
+<rect x='67.0' y='360' width='175.5' height='30' rx='6' fill='#0072B2'/>
+<rect x='250.5' y='360' width='139.5' height='30' rx='6' fill='#0072B2'/>
+<rect x='398.0' y='360' width='117.0' height='30' rx='6' fill='#0072B2'/>
+<rect x='523.0' y='360' width='92.2' height='30' rx='6' fill='#0072B2'/>
+<rect x='623.2' y='360' width='74.2' height='30' rx='6' fill='#0072B2'/>
+<rect x='705.5' y='360' width='67.5' height='30' rx='6' fill='#0072B2'/>
+<text x='67' y='428' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>Chromosome II (~1.07 Mb)</text>
+<rect x='67.0' y='451' width='101.2' height='30' rx='6' fill='#E69F00'/>
+<rect x='176.2' y='451' width='76.5' height='30' rx='6' fill='#E69F00'/>
+<rect x='260.8' y='451' width='63.0' height='30' rx='6' fill='#E69F00'/>
+<rect x='810' y='218' width='740' height='290' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<polyline points='831,267 839,267 843,249 849,283 855,259 861,271 865,245 871,287 877,261 883,267 891,267' fill='none' stroke='#CC79A7' stroke-width='5' stroke-linejoin='round' stroke-linecap='round'/>
+<text x='911' y='259' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Complete long-read assembly</text>
+<text x='911' y='295' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Both chromosomes closed circles</text>
+<circle cx='889' cy='379.0' r='56.0' fill='none' stroke='#0072B2' stroke-width='12'/>
+<circle cx='999.2432432432432' cy='379.0' r='20.2' fill='none' stroke='#E69F00' stroke-width='12'/>
+<text x='1059.4864864864865' y='339' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>Chromosome I</text>
+<text x='1059.4864864864865' y='370' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>~2.96 Mb, closed</text>
+<text x='1059.4864864864865' y='407' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>Chromosome II</text>
+<text x='1059.4864864864865' y='438' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>~1.07 Mb, closed</text>
+<text x='54' y='538' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Illustrative schematic, not real data. Sizes: N16961, 2,961,146 + 1,072,314 bp (Heidelberg et al., 2000).</text>
+<circle cx='72' cy='596' r='24' fill='#007A5A'/><text x='72' y='606' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='607' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>ASSEMBLY QUALITY CONTROL: METRICS, SPECIES-SPECIFIC THRESHOLDS AND VERDICT</text>
+<line x1='50' y1='624' x2='1550' y2='624' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='646' width='500' height='553' rx='22' fill='#fff' stroke='#4D4D4D' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='663' width='466' height='95' rx='22' fill='#fff' stroke='#4D4D4D' stroke-width='3' filter='url(#sh)'/>
+<polyline points='111.0,680.0 121.6,685.4 128.1,690.8 128.1,696.2 121.6,701.6 111.0,707.0 100.4,712.4 93.9,717.8 93.9,723.2 100.4,728.6 111.0,734.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='111.0,680.0 100.4,685.4 93.9,690.8 93.9,696.2 100.4,701.6 111.0,707.0 121.6,712.4 128.1,717.8 128.1,723.2 121.6,728.6 111.0,734.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M94.2,690.8 H127.8' stroke='#4D4D4D' stroke-width='3'/><path d='M111.0,707.0 H111.0' stroke='#4D4D4D' stroke-width='3'/><path d='M127.8,723.2 H94.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='157' y='699' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Assembly</text>
+<text x='157' y='735' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Illumina or long-read</text>
+<path d='M300.0,762 V812' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='67' y='816' width='466' height='95' rx='22' fill='#fff' stroke='#4D4D4D' stroke-width='3' filter='url(#sh)'/>
+<rect x='85' y='866' width='14' height='20' rx='3' fill='#E69F00'/><rect x='105' y='850' width='14' height='36' rx='3' fill='#E69F00'/><rect x='125' y='832' width='14' height='54' rx='3' fill='#E69F00'/><path d='M81,888 H141' stroke='#4D4D4D' stroke-width='3'/>
+<text x='157' y='852' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>QUAST + CheckM2</text>
+<text x='157' y='888' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Generate the metrics</text>
+<path d='M300.0,915 V965' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='67' y='969' width='466' height='95' rx='22' fill='#fff' stroke='#4D4D4D' stroke-width='3' filter='url(#sh)'/>
+<path d='M83,1031 A28,28 0 0 1 139,1031' fill='none' stroke='#009E73' stroke-width='7' stroke-linecap='round'/><path d='M111,1031 L125,1005' stroke='#4D4D4D' stroke-width='5' stroke-linecap='round'/><circle cx='111' cy='1031' r='6' fill='#4D4D4D'/>
+<text x='157' y='1005' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>QualiBact thresholds</text>
+<text x='157' y='1041' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>For <tspan font-style='italic'>V. cholerae</tspan></text>
+<rect x='570' y='646' width='980' height='553' rx='22' fill='#FFFBF2' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<text x='587' y='685' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>QualiBact <tspan font-style='italic'>V. cholerae</tspan> thresholds (v1.0)</text>
+<text x='587' y='721' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Check on 13,049 genomes: 11,080 PASS, 1,411 WARN, 558 FAIL</text>
+<text x='601' y='769' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#4D4D4D'>Metric</text>
+<rect x='883.0' y='738' width='152.0' height='44' rx='22.0' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<text x='959.0' y='769' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A84300'>Fail below</text>
+<rect x='1047.0' y='738' width='152.0' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='1123.0' y='769' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>Warn below</text>
+<rect x='1211.0' y='738' width='152.0' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='1287.0' y='769' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>Warn above</text>
+<rect x='1375.0' y='738' width='152.0' height='44' rx='22.0' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<text x='1451.0' y='769' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A84300'>Fail above</text>
+<rect x='587' y='792' width='946' height='42' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='601' y='822' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Genome size (bp)</text>
+<rect x='883.0' y='795' width='152.0' height='36' rx='8' fill='#FBEDE4'/>
+<text x='959.0' y='822' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>3,800,000</text>
+<rect x='1047.0' y='795' width='152.0' height='36' rx='8' fill='#FDF3DC'/>
+<text x='1123.0' y='822' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>3,900,000</text>
+<rect x='1211.0' y='795' width='152.0' height='36' rx='8' fill='#FDF3DC'/>
+<text x='1287.0' y='822' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>4,200,000</text>
+<rect x='1375.0' y='795' width='152.0' height='36' rx='8' fill='#FBEDE4'/>
+<text x='1451.0' y='822' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>4,500,000</text>
+<rect x='587' y='838' width='946' height='42' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='601' y='868' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>GC content (%)</text>
+<rect x='883.0' y='841' width='152.0' height='36' rx='8' fill='#FBEDE4'/>
+<text x='959.0' y='868' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>47</text>
+<rect x='1047.0' y='841' width='152.0' height='36' rx='8' fill='#FDF3DC'/>
+<text x='1123.0' y='868' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>47.3</text>
+<rect x='1211.0' y='841' width='152.0' height='36' rx='8' fill='#FDF3DC'/>
+<text x='1287.0' y='868' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>47.7</text>
+<rect x='1375.0' y='841' width='152.0' height='36' rx='8' fill='#FBEDE4'/>
+<text x='1451.0' y='868' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>47.9</text>
+<rect x='587' y='884' width='946' height='42' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='601' y='914' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Coding sequences</text>
+<rect x='883.0' y='887' width='152.0' height='36' rx='8' fill='#FBEDE4'/>
+<text x='959.0' y='914' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>3,400</text>
+<rect x='1047.0' y='887' width='152.0' height='36' rx='8' fill='#FDF3DC'/>
+<text x='1123.0' y='914' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>3,400</text>
+<rect x='1211.0' y='887' width='152.0' height='36' rx='8' fill='#FDF3DC'/>
+<text x='1287.0' y='914' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>3,800</text>
+<rect x='1375.0' y='887' width='152.0' height='36' rx='8' fill='#FBEDE4'/>
+<text x='1451.0' y='914' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>4,200</text>
+<rect x='587' y='930' width='946' height='42' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='601' y='960' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Completeness (%)</text>
+<rect x='883.0' y='933' width='152.0' height='36' rx='8' fill='#FBEDE4'/>
+<text x='959.0' y='960' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>95</text>
+<rect x='1047.0' y='933' width='152.0' height='36' rx='8' fill='#FDF3DC'/>
+<text x='1123.0' y='960' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>100</text>
+<text x='1287.0' y='960' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>–</text>
+<text x='1451.0' y='960' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>–</text>
+<rect x='587' y='976' width='946' height='42' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='601' y='1006' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Contamination (%)</text>
+<text x='959.0' y='1006' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>–</text>
+<text x='1123.0' y='1006' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>–</text>
+<rect x='1211.0' y='979' width='152.0' height='36' rx='8' fill='#FDF3DC'/>
+<text x='1287.0' y='1006' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>1</text>
+<rect x='1375.0' y='979' width='152.0' height='36' rx='8' fill='#FBEDE4'/>
+<text x='1451.0' y='1006' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>5</text>
+<rect x='587' y='1022' width='946' height='42' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='601' y='1052' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>N50 (bp)</text>
+<rect x='883.0' y='1025' width='152.0' height='36' rx='8' fill='#FBEDE4'/>
+<text x='959.0' y='1052' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>81,000</text>
+<rect x='1047.0' y='1025' width='152.0' height='36' rx='8' fill='#FDF3DC'/>
+<text x='1123.0' y='1052' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>108,000</text>
+<text x='1287.0' y='1052' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>–</text>
+<text x='1451.0' y='1052' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>–</text>
+<rect x='587' y='1068' width='946' height='42' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='601' y='1098' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Contigs</text>
+<text x='959.0' y='1098' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>–</text>
+<text x='1123.0' y='1098' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>–</text>
+<rect x='1211.0' y='1071' width='152.0' height='36' rx='8' fill='#FDF3DC'/>
+<text x='1287.0' y='1098' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>180</text>
+<rect x='1375.0' y='1071' width='152.0' height='36' rx='8' fill='#FBEDE4'/>
+<text x='1451.0' y='1098' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>230</text>
+<text x='587' y='1142' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>PASS: between the WARN bounds. WARN: between a WARN bound and its</text>
+<text x='587' y='1173' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>FAIL bound. FAIL: beyond a FAIL bound. Dash: no bound.</text>
+<path d='M290,1199 V1225' stroke='#4D4D4D' stroke-width='5'/><path d='M290,1225 H1310' stroke='#4D4D4D' stroke-width='5' stroke-linecap='round'/>
+<path d='M290,1225 V1261' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M800,1225 V1261' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M1310,1225 V1261' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='50' y='1261' width='480' height='168' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<circle cx='101' cy='1310' r='25' fill='#009E73'/><path d='M89,1311 L98,1321 L114,1301' stroke='#fff' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='151' y='1302' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='33' font-weight='700' fill='#007A5A'>PASS</text>
+<text x='67' y='1372' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Between the WARN bounds: typical</text>
+<text x='67' y='1403' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>for the species</text>
+<rect x='560' y='1261' width='480' height='168' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<path d='M611,1284 L641,1334 H581 z' fill='#E69F00' stroke='#E69F00' stroke-width='4' stroke-linejoin='round'/><rect x='607.5' y='1300' width='7' height='18' rx='3' fill='#fff'/><circle cx='611' cy='1326' r='4' fill='#fff'/>
+<text x='661' y='1302' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='33' font-weight='700' fill='#8A5A00'>WARN</text>
+<text x='577' y='1372' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Interpret with caution and flag for</text>
+<text x='577' y='1403' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>manual review</text>
+<rect x='1070' y='1261' width='480' height='168' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<circle cx='1121' cy='1310' r='25' fill='#D55E00'/><path d='M1110,1299 L1132,1321 M1132,1299 L1110,1321' stroke='#fff' stroke-width='7' fill='none' stroke-linecap='round'/>
+<text x='1171' y='1302' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='33' font-weight='700' fill='#A84300'>FAIL</text>
+<text x='1087' y='1372' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Beyond a FAIL bound: exclude from</text>
+<text x='1087' y='1403' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>further analysis</text>
+<text x='54' y='1459' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Caveat: QualiBact thresholds come from short-read (SPAdes-style) draft assemblies, so contig count and N50 do not suit</text>
+<text x='54' y='1490' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>complete long-read assemblies. QualiBact notes that outliers stretch the FAIL bounds. Check the live page.</text>
+<circle cx='72' cy='1548' r='24' fill='#005A8C'/><text x='72' y='1558' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='1559' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>SPECIES CONFIRMATION: BEFORE ANY DOWNSTREAM ANALYSIS</text>
+<line x1='50' y1='1576' x2='1550' y2='1576' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1598' width='1500' height='86' rx='22' fill='#fff' stroke='#4D4D4D' stroke-width='3' filter='url(#sh)'/>
+<polyline points='101.0,1614.0 111.6,1619.4 118.1,1624.8 118.1,1630.2 111.6,1635.6 101.0,1641.0 90.4,1646.4 83.9,1651.8 83.9,1657.2 90.4,1662.6 101.0,1668.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='101.0,1614.0 90.4,1619.4 83.9,1624.8 83.9,1630.2 90.4,1635.6 101.0,1641.0 111.6,1646.4 118.1,1651.8 118.1,1657.2 111.6,1662.6 101.0,1668.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M84.2,1624.8 H117.8' stroke='#4D4D4D' stroke-width='3'/><path d='M101.0,1641.0 H101.0' stroke='#4D4D4D' stroke-width='3'/><path d='M117.8,1657.2 H84.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='151' y='1652' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Input: sequencing reads or assembled contigs</text>
+<path d='M290,1688 V1720' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M800,1688 V1720' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M1310,1688 V1720' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='50' y='1724' width='480' height='152' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='1741' width='206.07078124999998' height='44' rx='22.0' fill='#fff' stroke='#0072B2' stroke-width='3'/>
+<text x='82' y='1772' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>ANI (FastANI)</text>
+<text x='67' y='1819' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Genome-wide identity; species</text>
+<text x='67' y='1850' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>boundary about 95% (Jain 2018)</text>
+<rect x='560' y='1724' width='480' height='152' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='577' y='1741' width='164.027578125' height='44' rx='22.0' fill='#fff' stroke='#0072B2' stroke-width='3'/>
+<text x='592' y='1772' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Sourmash</text>
+<text x='577' y='1819' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>MinHash k-mer sketches vs genome</text>
+<text x='577' y='1850' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>databases (Pierce 2019)</text>
+<rect x='1070' y='1724' width='480' height='152' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='1087' y='1741' width='137.78031249999998' height='44' rx='22.0' fill='#fff' stroke='#0072B2' stroke-width='3'/>
+<text x='1102' y='1772' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>GAMBIT</text>
+<text x='1087' y='1819' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>k-mer search of 48,224 curated</text>
+<text x='1087' y='1850' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>genomes (Lumpe 2023)</text>
+<path d='M290,1876 V1902 M800,1876 V1902 M1310,1876 V1902' stroke='#4D4D4D' stroke-width='5'/><path d='M290,1902 H1310' stroke='#4D4D4D' stroke-width='5' stroke-linecap='round'/>
+<path d='M420,1902 V1938' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='50' y='1938' width='740' height='168' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<circle cx='101' cy='1987' r='25' fill='#009E73'/><path d='M89,1988 L98,1998 L114,1978' stroke='#fff' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='151' y='1979' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Confirmed <tspan font-style='italic'>V. cholerae</tspan></text>
+<text x='67' y='2049' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Proceed to downstream analyses</text>
+<rect x='810' y='1938' width='740' height='168' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<path d='M861,1961 L891,2011 H831 z' fill='#D55E00' stroke='#D55E00' stroke-width='4' stroke-linejoin='round'/><rect x='857.5' y='1977' width='7' height='18' rx='3' fill='#fff'/><circle cx='861' cy='2003' r='4' fill='#fff'/>
+<text x='911' y='1979' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>Why it matters</text>
+<text x='827' y='2049' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Prevents misinterpretation where a contaminating</text>
+<text x='827' y='2080' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>organism was inadvertently assembled.</text>
+<circle cx='72' cy='2155' r='24' fill='#9A4573'/><text x='72' y='2165' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>4</text>
+<text x='106' y='2166' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>BEFORE YOU TRUST THE DATA</text>
+<line x1='50' y1='2183' x2='1550' y2='2183' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='2205' width='740' height='168' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<path d='M101,2228 L131,2278 H71 z' fill='#D55E00' stroke='#D55E00' stroke-width='4' stroke-linejoin='round'/><rect x='97.5' y='2244' width='7' height='18' rx='3' fill='#fff'/><circle cx='101' cy='2270' r='4' fill='#fff'/>
+<text x='151' y='2246' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>Public genomes used as context</text>
+<text x='67' y='2316' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>May not meet the quality standards of surveillance</text>
+<text x='67' y='2347' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>genomes. Quality-check before inclusion.</text>
+<rect x='810' y='2205' width='740' height='168' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<circle cx='861' cy='2254' r='25' fill='#0072B2'/><text x='861' y='2267' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#fff'>?</text>
+<text x='911' y='2246' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Assemblies are estimates</text>
+<text x='827' y='2316' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Even good data, and especially assemblies, are estimates</text>
+<text x='827' y='2347' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>of a genome, not definitive truth.</text>
+</g>
+</svg>

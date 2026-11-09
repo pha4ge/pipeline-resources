@@ -1,0 +1,49 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='54.54mm' viewBox='0 0 1800 577.5'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1800' height='577.5' fill='#FFFFFF'/>
+<g transform='translate(0,-684)'>
+<text x='60' y='762' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#0072B2' letter-spacing='2'>PRIMARY TARGET AUDIENCE</text>
+<rect x='60' y='786' width='402' height='200' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<circle cx='110' cy='836' r='30' fill='#fff'/>
+<rect x='86' y='818' width='48' height='32' rx='4' fill='#009E73'/><rect x='92' y='824' width='36' height='20' fill='#fff'/><text x='110' y='840' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='14' font-weight='700' fill='#009E73'>&lt;/&gt;</text><rect x='102' y='850' width='16' height='8' fill='#009E73'/>
+<text x='90' y='905' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>Public health</text>
+<text x='90' y='937' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>laboratory</text>
+<text x='90' y='969' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>bioinformaticians</text>
+<rect x='486' y='786' width='402' height='200' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<circle cx='536' cy='836' r='30' fill='#fff'/>
+<rect x='516' y='836' width='10' height='20' fill='#009E73'/><rect x='531' y='824' width='10' height='32' fill='#009E73'/><rect x='546' y='814' width='10' height='42' fill='#009E73'/>
+<text x='516' y='905' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>Surveillance programme</text>
+<text x='516' y='937' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>coordinators implementing</text>
+<text x='516' y='969' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>genomic surveillance</text>
+<rect x='912' y='786' width='402' height='200' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<circle cx='962' cy='836' r='30' fill='#fff'/>
+<path d='M938,838 l10,0 l6,-16 l8,30 l6,-14 l18,0' stroke='#009E73' stroke-width='5' fill='none' stroke-linejoin='round'/>
+<text x='942' y='905' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>Epidemiologists working</text>
+<text x='942' y='937' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>with genomic data for</text>
+<text x='942' y='969' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>outbreak investigation</text>
+<rect x='1338' y='786' width='402' height='200' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<circle cx='1388' cy='836' r='30' fill='#fff'/>
+<path d='M1380,814 h16 v14 l14,26 q3,8 -6,8 h-32 q-9,0 -6,-8 l14,-26 z' fill='#009E73'/><rect x='1377' y='810' width='22' height='5' rx='2' fill='#009E73'/>
+<text x='1368' y='905' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>Laboratory staff</text>
+<text x='1368' y='937' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>responsible for cholera</text>
+<text x='1368' y='969' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#1A1A1A'>genomic analysis workflows</text>
+<text x='60' y='1046' font-family='Helvetica, Arial, sans-serif' font-size='25' font-weight='700' fill='#4D4D4D' letter-spacing='2'>SECONDARY AUDIENCE</text>
+<rect x='60' y='1070' width='544' height='130' rx='22' fill='#FFFFFF' stroke='#E69F00' stroke-width='3' stroke-dasharray='10 7'/>
+<circle cx='116' cy='1135' r='32' fill='#FFF6E3'/>
+<circle cx='111' cy='1132' r='15' fill='none' stroke='#E69F00' stroke-width='6'/><line x1='122' y1='1143' x2='136' y2='1157' stroke='#E69F00' stroke-width='8' stroke-linecap='round'/>
+<text x='168' y='1125' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' font-weight='700' fill='#1A1A1A'>Research scientists collaborating</text>
+<text x='168' y='1157' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' font-weight='700' fill='#1A1A1A'>with public health agencies</text>
+<rect x='628' y='1070' width='544' height='130' rx='22' fill='#FFFFFF' stroke='#E69F00' stroke-width='3' stroke-dasharray='10 7'/>
+<circle cx='684' cy='1135' r='32' fill='#FFF6E3'/>
+<path d='M658,1131 l26,-16 l26,16 z' fill='#E69F00'/><rect x='662' y='1135' width='7' height='20' fill='#E69F00'/><rect x='675' y='1135' width='7' height='20' fill='#E69F00'/><rect x='688' y='1135' width='7' height='20' fill='#E69F00'/><rect x='701' y='1135' width='7' height='20' fill='#E69F00'/><rect x='658' y='1155' width='52' height='6' fill='#E69F00'/>
+<text x='736' y='1125' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' font-weight='700' fill='#1A1A1A'>Organisations supporting</text>
+<text x='736' y='1157' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' font-weight='700' fill='#1A1A1A'>cholera surveillance capacity</text>
+<rect x='1196' y='1070' width='544' height='130' rx='22' fill='#FFFFFF' stroke='#E69F00' stroke-width='3' stroke-dasharray='10 7'/>
+<circle cx='1252' cy='1135' r='32' fill='#FFF6E3'/>
+<path d='M1226,1131 l26,-13 l26,13 l-26,13 z' fill='#E69F00'/><path d='M1237,1138 v12 q15,9 30,0 v-12 l-15,7 z' fill='#E69F00'/>
+<text x='1304' y='1125' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' font-weight='700' fill='#1A1A1A'>Training programme developers</text>
+<text x='1304' y='1157' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='24' font-weight='700' fill='#1A1A1A'>for genomics capacity building</text>
+</g>
+</svg>

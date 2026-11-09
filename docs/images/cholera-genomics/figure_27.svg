@@ -1,0 +1,82 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='210mm' height='107.52mm' viewBox='0 0 1582 810'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<marker id='ab' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#0072B2'/></marker></defs>
+<rect width='1582' height='810' fill='#FFFFFF'/>
+<g transform='translate(50,50)'>
+<rect x='0' y='68' width='350' height='254' rx='22' fill='#FFFFFF' stroke='#56B4E9' stroke-width='3'/>
+<rect x='0' y='0' width='350' height='88' rx='22' fill='#56B4E9'/>
+<circle cx='50.0' cy='44.0' r='36' fill='#fff'/>
+<path d='M42.0,22.0 h16 v14 l14,26 q3,8 -6,8 h-32 q-9,0 -6,-8 l14,-26 z' fill='#0072B2'/><rect x='39.0' y='18.0' width='22' height='5' rx='2' fill='#0072B2'/>
+<text x='98.0' y='54.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>Laboratory</text>
+<text x='18.0' y='120' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Isolate, DNA, sequencing</text>
+<text x='18.0' y='154' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>reads and assembly, plus</text>
+<text x='18.0' y='188' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>sample and case records</text>
+<path d='M353,195 L373.667,195' stroke='#4D4D4D' stroke-width='3' fill='none' marker-end='url(#ar)'/>
+<rect x='0' y='386' width='350' height='234' rx='22' fill='#F2F2F2' stroke='#8C8C8C' stroke-width='3'/>
+<text x='18.0' y='426' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>Vibrio cholerae</tspan></text>
+<text x='18.0' y='460' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Community Metadata</text>
+<text x='18.0' y='494' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Standard v2.0.1</text>
+<text x='18.0' y='528' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(collection template;</text>
+<text x='18.0' y='562' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ontology terms)</text>
+<rect x='376.667' y='68' width='350' height='254' rx='22' fill='#FFFFFF' stroke='#E69F00' stroke-width='3'/>
+<rect x='376.667' y='0' width='350' height='88' rx='22' fill='#E69F00'/>
+<circle cx='426.6666666666667' cy='44.0' r='36' fill='#fff'/>
+<rect x='408.6666666666667' y='28.0' width='36' height='36' fill='#A66A00'/><ellipse cx='426.6666666666667' cy='28.0' rx='18' ry='7' fill='#A66A00' stroke='#fff' stroke-width='3'/><ellipse cx='426.6666666666667' cy='46.0' rx='18' ry='7' fill='none' stroke='#fff' stroke-width='3'/><ellipse cx='426.6666666666667' cy='64.0' rx='18' ry='7' fill='#A66A00'/>
+<text x='474.6666666666667' y='36.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>Internal and</text>
+<text x='474.6666666666667' y='72.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>national systems</text>
+<text x='394.6666666666667' y='120' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>LIMS, national genomic</text>
+<text x='394.6666666666667' y='154' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>database and AGARI</text>
+<text x='394.6666666666667' y='188' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(Africa CDC), linked to</text>
+<text x='394.6666666666667' y='222' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>epidemiological case data</text>
+<path d='M729.667,195 L750.333,195' stroke='#4D4D4D' stroke-width='3' fill='none' marker-end='url(#ar)'/>
+<rect x='376.667' y='386' width='350' height='234' rx='22' fill='#F2F2F2' stroke='#8C8C8C' stroke-width='3'/>
+<text x='394.6666666666667' y='426' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Same standard with</text>
+<text x='394.6666666666667' y='460' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>harmonised field names,</text>
+<text x='394.6666666666667' y='494' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>aligned with the PHA4GE</text>
+<text x='394.6666666666667' y='528' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>minimal</text>
+<text x='394.6666666666667' y='562' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>pathogen-agnostic</text>
+<text x='394.6666666666667' y='596' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>contextual specification</text>
+<rect x='753.333' y='68' width='350' height='254' rx='22' fill='#FFFFFF' stroke='#F0E442' stroke-width='3'/>
+<rect x='753.333' y='0' width='350' height='88' rx='22' fill='#F0E442'/>
+<circle cx='803.3333333333334' cy='44.0' r='36' fill='#fff'/>
+<rect x='783.3333333333334' y='42.0' width='40' height='28' rx='5' fill='#8A7F00'/><path d='M791.3333333333334,42.0 v-8 a12,12 0 0 1 24,0 v8' stroke='#8A7F00' stroke-width='6' fill='none'/><circle cx='803.3333333333334' cy='56.0' r='4' fill='#fff'/>
+<text x='851.3333333333334' y='54.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>Pre-submission</text>
+<text x='771.3333333333334' y='120' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Pseudonymise IDs; keep</text>
+<text x='771.3333333333334' y='154' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>an access-controlled</text>
+<text x='771.3333333333334' y='188' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>register linking internal ID,</text>
+<text x='771.3333333333334' y='222' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>pseudonym and</text>
+<text x='771.3333333333334' y='256' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>accession</text>
+<path d='M1106.33,195 L1127,195' stroke='#4D4D4D' stroke-width='3' fill='none' marker-end='url(#ar)'/>
+<rect x='753.333' y='386' width='350' height='234' rx='22' fill='#F2F2F2' stroke='#8C8C8C' stroke-width='3'/>
+<text x='771.3333333333334' y='426' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Map fields to MIxS</text>
+<text x='771.3333333333334' y='460' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(MIGS) packages; drop</text>
+<text x='771.3333333333334' y='494' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>personal identifiers before</text>
+<text x='771.3333333333334' y='528' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>sharing</text>
+<rect x='1130' y='68' width='350' height='254' rx='22' fill='#FFFFFF' stroke='#009E73' stroke-width='3'/>
+<rect x='1130' y='0' width='350' height='88' rx='22' fill='#009E73'/>
+<circle cx='1180.0' cy='44.0' r='36' fill='#fff'/>
+<circle cx='1180.0' cy='46.0' r='22' fill='none' stroke='#007A5A' stroke-width='5'/><ellipse cx='1180.0' cy='46.0' rx='9' ry='22' fill='none' stroke='#007A5A' stroke-width='4'/><path d='M1158.0,46.0 h44 M1162.0,35.0 h36 M1162.0,57.0 h36' stroke='#007A5A' stroke-width='4'/>
+<text x='1228.0' y='36.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>INSDC</text>
+<text x='1228.0' y='72.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>repositories</text>
+<text x='1148.0' y='120' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>NCBI: BioSample, SRA</text>
+<text x='1148.0' y='154' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(reads) and GenBank</text>
+<text x='1148.0' y='188' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(assemblies); ENA</text>
+<text x='1148.0' y='222' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(mirrored via INSDC);</text>
+<text x='1148.0' y='256' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>then NCBI Pathogen</text>
+<text x='1148.0' y='290' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Detection</text>
+<rect x='1130' y='386' width='350' height='234' rx='22' fill='#F2F2F2' stroke='#8C8C8C' stroke-width='3'/>
+<text x='1148.0' y='426' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>INSDC BioSample</text>
+<text x='1148.0' y='460' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>packages (NCBI</text>
+<text x='1148.0' y='494' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Pathogen clinical and</text>
+<text x='1148.0' y='528' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>environmental; ENA</text>
+<text x='1148.0' y='562' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>checklists)</text>
+<path d='M0,346 H1480' stroke='#8C8C8C' stroke-width='2' stroke-dasharray='3 7'/>
+<rect x='0' y='322' width='729' height='48' fill='#FFFFFF'/>
+<text x='24' y='356' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#4D4D4D' letter-spacing='1'>METADATA STANDARD APPLYING AT EACH HOP</text>
+<rect x='0' y='642' width='1480' height='66' rx='33' fill='#FFF6E3' stroke='#E69F00' stroke-width='3'/>
+<circle cx='48' cy='675' r='22' fill='none' stroke='#A66A00' stroke-width='5'/><ellipse cx='48' cy='675' rx='9' ry='22' fill='none' stroke='#A66A00' stroke-width='4'/><path d='M26,675 h44 M30,664 h36 M30,686 h36' stroke='#A66A00' stroke-width='4'/>
+<text x='88' y='685' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>EnteroBase also accepts reads and assemblies (not an INSDC member; <tspan font-style='italic'>Vibrio</tspan> cgMLST and HierCC typing)</text>
+</g>
+
+</svg>

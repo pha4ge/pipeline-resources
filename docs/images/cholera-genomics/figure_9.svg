@@ -1,0 +1,159 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='203.07mm' viewBox='0 0 1604 1916'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1604' height='1916' fill='#FFFFFF'/>
+<g transform='translate(2,-96)'>
+<circle cx='72' cy='170' r='24' fill='#005A8C'/><text x='72' y='180' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='181' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>3.1 OUTBREAK INVESTIGATION</text>
+<text x='106' y='212' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Active outbreaks in endemic or epidemic settings</text>
+<circle cx='1062' cy='170' r='24' fill='#009E73'/><text x='1062' y='180' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='1096' y='181' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>3.2 BETWEEN OUTBREAKS</text>
+<text x='1096' y='212' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Endemic or recurrent outbreaks</text>
+<rect x='50' y='244' width='950' height='221' rx='22' fill='#FFFFFF' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='261' width='88.94757812499999' height='38' rx='19.0' fill='#56B4E9'/>
+<text x='81' y='289' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>3.1.1</text>
+<text x='169.947578125' y='285' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Initial characterisation: the strain's identity</text>
+<circle cx='947' cy='275' r='17' fill='#fff' stroke='#0072B2' stroke-width='7'/><path d='M960,288 L979,307' stroke='#0072B2' stroke-width='9' stroke-linecap='round'/>
+<rect x='67' y='334' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='349' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Species and serogroup</text>
+<rect x='515.0030468750001' y='334' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='543.0030468750001' y='349' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Biotype and MLST (may flag 7PET)</text>
+<rect x='67' y='367' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='382' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Virulence: <tspan font-style='italic'>ctxA</tspan>, <tspan font-style='italic'>ctxB</tspan> genotype</text>
+<rect x='515.0030468750001' y='367' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='543.0030468750001' y='382' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>AMR profile</text>
+<rect x='67' y='401' width='916' height='47' rx='14' fill='#FDEBD8' stroke='#E69F00' stroke-width='3'/>
+<text x='81' y='431' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>AMR predictions go to clinicians promptly. Methods: Section 5</text>
+<path d='M525.0,467 V489' stroke='#0072B2' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='50' y='491' width='950' height='651' rx='22' fill='#FFFFFF' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='508' width='88.94757812499999' height='38' rx='19.0' fill='#56B4E9'/>
+<text x='81' y='536' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>3.1.2</text>
+<text x='169.947578125' y='532' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Clonality and transmission structure</text>
+<text x='67' y='596' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>One clonal introduction or several? Judged from SNP or allele differences</text>
+<text x='67' y='627' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>and phylogenetic clustering:</text>
+<rect x='67' y='642' width='916' height='80' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='233' y='672' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Single tight cluster</text>
+<text x='233' y='703' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>→ Consistent with a point-source outbreak</text>
+<path d='M77,682.0 H117 M117,660.0 V704.0' stroke='#0072B2' stroke-width='4'/><path d='M117,660.0 h14' stroke='#0072B2' stroke-width='4'/><circle cx='137' cy='660.0' r='6' fill='#0072B2'/><path d='M117,671.0 h14' stroke='#0072B2' stroke-width='4'/><circle cx='137' cy='671.0' r='6' fill='#0072B2'/><path d='M117,682.0 h14' stroke='#0072B2' stroke-width='4'/><circle cx='137' cy='682.0' r='6' fill='#0072B2'/><path d='M117,693.0 h14' stroke='#0072B2' stroke-width='4'/><circle cx='137' cy='693.0' r='6' fill='#0072B2'/><path d='M117,704.0 h14' stroke='#0072B2' stroke-width='4'/><circle cx='137' cy='704.0' r='6' fill='#0072B2'/>
+<rect x='67' y='728' width='916' height='109' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='233' y='758' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Single cluster with accumulated diversity</text>
+<text x='233' y='789' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>→ May reflect divergence during sustained local</text>
+<text x='233' y='820' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>transmission</text>
+<path d='M77,782.5 H117 M117,760.5 V804.5' stroke='#0072B2' stroke-width='4'/><path d='M117,760.5 h12' stroke='#0072B2' stroke-width='4'/><circle cx='135' cy='760.5' r='6' fill='#0072B2'/><path d='M117,771.5 h34' stroke='#0072B2' stroke-width='4'/><circle cx='157' cy='771.5' r='6' fill='#0072B2'/><path d='M117,782.5 h60' stroke='#0072B2' stroke-width='4'/><circle cx='183' cy='782.5' r='6' fill='#0072B2'/><path d='M117,793.5 h26' stroke='#0072B2' stroke-width='4'/><circle cx='149' cy='793.5' r='6' fill='#0072B2'/><path d='M117,804.5 h84' stroke='#0072B2' stroke-width='4'/><circle cx='207' cy='804.5' r='6' fill='#0072B2'/>
+<rect x='67' y='843' width='916' height='80' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='233' y='873' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Distinct clusters separated by many mutations</text>
+<text x='233' y='904' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>→ May suggest multiple introductions (polyclonal)</text>
+<path d='M77,883.0 H107 M107,861.0 V905.0' stroke='#4D4D4D' stroke-width='4'/><path d='M107,861.0 H173' stroke='#4D4D4D' stroke-width='4'/><path d='M173,853.0 V869.0' stroke='#0072B2' stroke-width='4'/><path d='M173,853.0 h12' stroke='#0072B2' stroke-width='4'/><circle cx='191' cy='853.0' r='6' fill='#0072B2'/><path d='M173,869.0 h12' stroke='#0072B2' stroke-width='4'/><circle cx='191' cy='869.0' r='6' fill='#0072B2'/><path d='M107,883.0 H173' stroke='#4D4D4D' stroke-width='4'/><path d='M173,875.0 V891.0' stroke='#E69F00' stroke-width='4'/><path d='M173,875.0 h12' stroke='#E69F00' stroke-width='4'/><circle cx='191' cy='875.0' r='6' fill='#E69F00'/><path d='M173,891.0 h12' stroke='#E69F00' stroke-width='4'/><circle cx='191' cy='891.0' r='6' fill='#E69F00'/><path d='M107,905.0 H173' stroke='#4D4D4D' stroke-width='4'/><path d='M173,897.0 V913.0' stroke='#009E73' stroke-width='4'/><path d='M173,897.0 h12' stroke='#009E73' stroke-width='4'/><circle cx='191' cy='897.0' r='6' fill='#009E73'/><path d='M173,913.0 h12' stroke='#009E73' stroke-width='4'/><circle cx='191' cy='913.0' r='6' fill='#009E73'/>
+<rect x='67' y='940' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='955' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Environmental genomes close to clinical ones: may support a shared</text>
+<text x='95' y='986' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>point source, but cannot be told apart from a widely circulating lineage</text>
+<text x='95' y='1017' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>without epidemiological context</text>
+<rect x='67' y='1035' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='1050' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Clinical-only similarity: may point to person-to-person transmission</text>
+<rect x='67' y='1068' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='1083' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Close relatives in neighbouring countries or regions: signal for</text>
+<text x='95' y='1114' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>coordinated regional surveillance and response</text>
+<path d='M525.0,1144 V1166' stroke='#0072B2' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='50' y='1168' width='950' height='246' rx='22' fill='#FFFFFF' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='1185' width='88.94757812499999' height='38' rx='19.0' fill='#56B4E9'/>
+<text x='81' y='1213' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>3.1.3</text>
+<text x='169.947578125' y='1209' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Origins and context: where from?</text>
+<path d='M953,1233 C923,1201 929,1177 953,1177 C977,1177 983,1201 953,1233 z' fill='#0072B2'/><circle cx='953' cy='1197' r='9' fill='#fff'/>
+<rect x='67.0' y='1251' width='298.6666666666667' height='76' rx='16' fill='#fff' stroke='#0072B2' stroke-width='3'/>
+<text x='79.0' y='1280' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Endemic persistence</text>
+<rect x='375.6666666666667' y='1251' width='298.6666666666667' height='76' rx='16' fill='#fff' stroke='#0072B2' stroke-width='3'/>
+<text x='387.6666666666667' y='1280' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Reactivated earlier</text>
+<text x='387.6666666666667' y='1311' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>lineage</text>
+<rect x='684.3333333333334' y='1251' width='298.6666666666667' height='76' rx='16' fill='#fff' stroke='#0072B2' stroke-width='3'/>
+<text x='696.3333333333334' y='1280' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>New introduction</text>
+<text x='67' y='1357' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Place it in the global 7PET framework (T-lineage) and query public</text>
+<text x='67' y='1388' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>databases for the closest genomes. Methods: Sections 6 and 7</text>
+<path d='M525.0,1416 V1438' stroke='#0072B2' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='50' y='1440' width='950' height='226' rx='22' fill='#FFFFFF' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='1457' width='88.94757812499999' height='38' rx='19.0' fill='#56B4E9'/>
+<text x='81' y='1485' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>3.1.4</text>
+<text x='169.947578125' y='1481' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Monitoring within-outbreak evolution</text>
+<path d='M923,1501 H983 M923,1501 V1451' stroke='#4D4D4D' stroke-width='4' fill='none'/><path d='M929,1491 L945,1477 L957,1485 L979,1459' stroke='#0072B2' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/><circle cx='979' cy='1459' r='7' fill='#D55E00'/>
+<rect x='67' y='1530' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1545' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Early emergence of more virulent or resistant strains (horizontal gene</text>
+<text x='95' y='1576' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>transfer or point mutations)</text>
+<rect x='67' y='1594' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='95' y='1609' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Additional clones entering as secondary outbreaks, which may need</text>
+<text x='95' y='1640' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>different management</text>
+<rect x='1040' y='244' width='510' height='668' rx='22' fill='#F2FAF7' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='1057' y='283' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Sequencing sporadic cases,</text>
+<text x='1057' y='314' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>environmental samples or low-level</text>
+<text x='1057' y='345' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>clusters has a complementary but less</text>
+<text x='1057' y='376' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>clearly established role.</text>
+<text x='1057' y='411' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>No consensus yet on key questions.</text>
+<text x='1057' y='442' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>Being explored:</text>
+<rect x='1057' y='455' width='476' height='140' rx='22' fill='#fff' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='1133' y='485' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Are sporadic cases or</text>
+<text x='1133' y='516' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>environmental isolates linked to</text>
+<text x='1133' y='547' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>earlier outbreaks, or new</text>
+<text x='1133' y='578' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>introductions?</text>
+<circle cx='1089' cy='525.0' r='25' fill='#009E73'/><text x='1089' y='538.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#fff'>?</text>
+<rect x='1057' y='601' width='476' height='109' rx='22' fill='#fff' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='1133' y='631' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Is <tspan font-style='italic'>V. cholerae</tspan> persisting in local</text>
+<text x='1133' y='662' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>waters, or repeatedly</text>
+<text x='1133' y='693' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>re-introduced?</text>
+<circle cx='1089' cy='655.5' r='25' fill='#009E73'/><text x='1089' y='668.5' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#fff'>?</text>
+<rect x='1057' y='716' width='476' height='78' rx='22' fill='#fff' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='1133' y='746' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Do AMR or virulence trends</text>
+<text x='1133' y='777' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>signal future outbreak severity?</text>
+<circle cx='1089' cy='755.0' r='25' fill='#009E73'/><text x='1089' y='768.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#fff'>?</text>
+<text x='1057' y='824' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Evidence for how well genomics can</text>
+<text x='1057' y='855' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>answer these, and what actions</text>
+<text x='1057' y='886' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>follow, remains limited.</text>
+<rect x='1040' y='924' width='510' height='261' rx='22' fill='#FFFFFF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='1141' y='967' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Environmental sampling: a</text>
+<text x='1141' y='998' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>key role</text>
+<path d='M1087,939 C1095,955 1109,965 1109,977 A22,22 0 0 1 1065,977 C1065,965 1079,955 1087,939 z' fill='#0072B2'/>
+<rect x='1057' y='1018' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='1085' y='1033' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Can identify toxigenic strains,</text>
+<text x='1085' y='1064' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>resistance determinants and</text>
+<text x='1085' y='1095' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>lineages of concern</text>
+<rect x='1057' y='1113' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='1085' y='1128' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>On its own, cannot confirm</text>
+<text x='1085' y='1159' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>transmission risk</text>
+<rect x='1040' y='1197' width='510' height='226' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<text x='1141' y='1236' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A84300'>Expect non-7PET and</text>
+<text x='1141' y='1267' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A84300'>non-O1/O139 strains</text>
+<path d='M1091,1218 L1121,1268 H1061 z' fill='#D55E00' stroke='#D55E00' stroke-width='4' stroke-linejoin='round'/><rect x='1087.5' y='1234' width='7' height='18' rx='3' fill='#fff'/><circle cx='1091' cy='1260' r='4' fill='#fff'/>
+<text x='1057' y='1304' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Typing schemes, databases and</text>
+<text x='1057' y='1335' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>lineage frameworks were built around</text>
+<text x='1057' y='1366' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>7PET, so these are harder to interpret</text>
+<text x='1057' y='1397' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>and act on. Take care.</text>
+<rect x='1040' y='1435' width='510' height='226' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='1141' y='1474' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>Why sequence between</text>
+<text x='1141' y='1505' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>outbreaks?</text>
+<rect x='1063' y='1486' width='15' height='20' rx='3' fill='#009E73'/><rect x='1083' y='1472' width='15' height='34' rx='3' fill='#009E73'/><rect x='1103' y='1456' width='15' height='50' rx='3' fill='#009E73'/><path d='M1059,1474 H1123' stroke='#E69F00' stroke-width='4' stroke-dasharray='6 4'/>
+<text x='1057' y='1542' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>It gives a genomic baseline to</text>
+<text x='1057' y='1573' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>contextualise new isolates when an</text>
+<text x='1057' y='1604' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>outbreak occurs, even with a modest</text>
+<text x='1057' y='1635' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>programme linked to good metadata.</text>
+<path d='M1036,1548.0 H1020 V1291.0 H1007' fill='none' stroke='#E69F00' stroke-width='6' stroke-linejoin='round' marker-end='url(#ao)'/>
+<circle cx='72' cy='1706' r='24' fill='#4D4D4D'/><text x='72' y='1716' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='1717' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#4D4D4D'>APPLIES TO BOTH</text>
+<line x1='50' y1='1738' x2='1550' y2='1738' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50.0' y='1756' width='486.6666666666667' height='205' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='164.0' y='1796' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#0072B2'>Confirm <tspan font-style='italic'>V. cholerae</tspan> first</text>
+<circle cx='110.0' cy='1804' r='25' fill='#0072B2'/><path d='M98.0,1805 L107.0,1815 L123.0,1795' stroke='#fff' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='68.0' y='1872' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Diagnosis is out of scope (see</text>
+<text x='68.0' y='1903' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>GTFCC); weigh resource priorities.</text>
+<rect x='556.6666666666667' y='1756' width='486.6666666666667' height='205' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='670.6666666666667' y='1796' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>Metadata at sampling</text>
+<rect x='596.6666666666667' y='1777' width='40' height='54' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M605.6666666666667,1791 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M605.6666666666667,1804 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M605.6666666666667,1817 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/>
+<text x='574.6666666666667' y='1872' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Epidemiological, clinical and lab</text>
+<text x='574.6666666666667' y='1903' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>data; adding them later is rarely</text>
+<text x='574.6666666666667' y='1934' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>feasible.</text>
+<rect x='1063.3333333333335' y='1756' width='486.6666666666667' height='205' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<text x='1177.3333333333335' y='1796' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A84300'>Informs, not replaces</text>
+<path d='M1123.3333333333335,1780 V1826 M1109.3333333333335,1828 H1137.3333333333335 M1095.3333333333335,1790 H1151.3333333333335' stroke='#4D4D4D' stroke-width='5' stroke-linecap='round'/><path d='M1085.3333333333335,1812 h20 a10,10 0 0 1 -20,0 z' fill='#D55E00'/><path d='M1141.3333333333335,1812 h20 a10,10 0 0 1 -20,0 z' fill='#D55E00'/><path d='M1095.3333333333335,1790 L1085.3333333333335,1812 M1095.3333333333335,1790 L1105.3333333333335,1812 M1151.3333333333335,1790 L1141.3333333333335,1812 M1151.3333333333335,1790 L1161.3333333333335,1812' stroke='#4D4D4D' stroke-width='3'/>
+<text x='1081.3333333333335' y='1872' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Genomics can raise or lower the</text>
+<text x='1081.3333333333335' y='1903' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>probability of a hypothesis, not</text>
+<text x='1081.3333333333335' y='1934' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>replace the investigation.</text>
+</g>
+
+</svg>

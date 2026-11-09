@@ -1,0 +1,113 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='181.78mm' viewBox='0 0 1600 1710.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='1710.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-97.80)'>
+<circle cx='72' cy='170' r='24' fill='#1A1A1A'/><text x='72' y='180' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='181' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>PHENOTYPIC SUBTYPES: THREE WAYS TO SUBTYPE, ALL PREDICTABLE FROM GENOMES</text>
+<line x1='50' y1='198' x2='1550' y2='198' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='220' width='280' height='142' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='261' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Serogroup</text>
+<text x='67' y='301' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>About 200, by LPS</text>
+<text x='67' y='332' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>O-antigen type</text>
+<rect x='370' y='220' width='540' height='142' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='387' y='261' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>O1: pandemic serogroup</text>
+<text x='387' y='301' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>Serotypes: Ogawa, Inaba, Hikojima</text>
+<text x='387' y='336' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>Biotypes: Classical, El Tor</text>
+<rect x='950' y='220' width='300' height='142' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='967' y='261' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>O139: pandemic</text>
+<text x='967' y='301' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Derived from O1 El</text>
+<text x='967' y='332' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Tor; mostly ST69</text>
+<rect x='1290' y='220' width='260' height='142' rx='22' fill='#fff' stroke='#4D4D4D' stroke-width='3' filter='url(#sh)'/>
+<text x='1307' y='261' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Other</text>
+<text x='1307' y='301' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Sporadic</text>
+<text x='1307' y='332' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>outbreaks</text>
+<path d='M338,291.0 H362' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<circle cx='72' cy='411' r='24' fill='#005A8C'/><text x='72' y='421' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='422' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>5.3.1 SEROGROUP: DETECT THE SEROGROUP-SPECIFIC O-ANTIGEN GENE CLUSTER</text>
+<line x1='50' y1='439' x2='1550' y2='439' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='461' width='740' height='238' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<polyline points='101.0,483.0 111.6,488.4 118.1,493.8 118.1,499.2 111.6,504.6 101.0,510.0 90.4,515.4 83.9,520.8 83.9,526.2 90.4,531.6 101.0,537.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='101.0,483.0 90.4,488.4 83.9,493.8 83.9,499.2 90.4,504.6 101.0,510.0 111.6,515.4 118.1,520.8 118.1,526.2 111.6,531.6 101.0,537.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M84.2,493.8 H117.8' stroke='#4D4D4D' stroke-width='3'/><path d='M101.0,510.0 H101.0' stroke='#4D4D4D' stroke-width='3'/><path d='M117.8,526.2 H84.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='151' y='502' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Where it is encoded</text>
+<rect x='67' y='559' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='574' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>One conserved locus, flanked by <tspan font-style='italic'>gmhD</tspan> and <tspan font-style='italic'>rjg</tspan></text>
+<rect x='67' y='593' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='608' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Inside it the genes are hypervariable: <tspan font-style='italic'>wbe</tspan> in O1, <tspan font-style='italic'>wbf</tspan> in</text>
+<text x='95' y='639' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>O139, own clusters in others</text>
+<rect x='67' y='658' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='673' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>So no single probe or marker detects every serogroup</text>
+<rect x='810' y='461' width='740' height='238' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<circle cx='855' cy='504' r='17' fill='#fff' stroke='#0072B2' stroke-width='7'/><path d='M868,517 L887,536' stroke='#0072B2' stroke-width='9' stroke-linecap='round'/>
+<text x='911' y='502' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>How to call it</text>
+<rect x='827' y='559' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='855' y='574' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>BLAST against <tspan font-style='italic'>wbe</tspan> and <tspan font-style='italic'>wbf</tspan> references (Vista, or</text>
+<text x='855' y='605' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>abricate with a custom database), or k-mer mapping to</text>
+<text x='855' y='636' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>cluster references</text>
+<rect x='827' y='655' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='855' y='670' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Negative for both: flag it; no 7PET lineage tools</text>
+<circle cx='72' cy='748' r='24' fill='#8A5A00'/><text x='72' y='758' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='759' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>5.3.2 SEROTYPE (O1 ONLY): SAME REGION, BUT A TARGETED <tspan font-style='italic'>wbeT</tspan> CHECK</text>
+<line x1='50' y1='776' x2='1550' y2='776' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='798' width='620' height='318' rx='22' fill='#FFFBF2' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<rect x='89' y='817' width='24' height='58' rx='12' fill='#fff' stroke='#0072B2' stroke-width='5'/><rect x='89' y='849' width='24' height='26' rx='12' fill='#0072B2'/><rect x='83' y='813' width='36' height='8' rx='3' fill='#0072B2'/>
+<text x='151' y='839' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>Serotype: <tspan font-style='italic'>wbeT</tspan> methylation</text>
+<rect x='67' y='889' width='119.367578125' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='82' y='920' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Ogawa</text>
+<text x='217' y='911' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Functional <tspan font-style='italic'>wbeT</tspan>: A and methylated</text>
+<text x='217' y='942' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>B epitopes</text>
+<rect x='67' y='959' width='101.58921874999999' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='82' y='990' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Inaba</text>
+<text x='217' y='981' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Inactivating <tspan font-style='italic'>wbeT</tspan> mutation: A and</text>
+<text x='217' y='1012' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>C epitopes</text>
+<rect x='67' y='1029' width='143.45796875' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='82' y='1060' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Hikojima</text>
+<text x='217' y='1051' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>A, B and C: rare, unstable</text>
+<text x='217' y='1082' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>transitional form</text>
+<rect x='690' y='798' width='860' height='318' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<path d='M741,821 L771,871 H711 z' fill='#D55E00' stroke='#D55E00' stroke-width='4' stroke-linejoin='round'/><rect x='737.5' y='837' width='7' height='18' rx='3' fill='#fff'/><circle cx='741' cy='863' r='4' fill='#fff'/>
+<text x='791' y='839' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>Cautions for in silico calls</text>
+<rect x='707' y='896' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='735' y='911' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>No dedicated tool: inspect <tspan font-style='italic'>wbeT</tspan> in assemblies or call SNPs</text>
+<rect x='707' y='930' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='735' y='945' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Malawi: <tspan font-style='italic'>wbeT</tspan> alone did not always separate serotypes; confirm</text>
+<text x='735' y='976' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>phenotypically (Chaguza 2024)</text>
+<rect x='707' y='995' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='735' y='1010' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ONT indel errors can fake frameshifts and false Inaba calls</text>
+<rect x='707' y='1029' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='735' y='1044' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Ogawa and Inaba interconvert: biology, not epidemiology</text>
+<circle cx='72' cy='1165' r='24' fill='#007A5A'/><text x='72' y='1175' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>4</text>
+<text x='106' y='1176' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>5.3.3 BIOTYPE (O1 ONLY): CLASSICAL OR EL TOR, INDEPENDENT OF SEROTYPE</text>
+<line x1='50' y1='1193' x2='1550' y2='1193' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1215' width='1500' height='320' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<rect x='81' y='1237' width='40' height='54' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M90,1251 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M90,1264 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M90,1277 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/>
+<text x='151' y='1256' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Key genomic markers</text>
+<rect x='67' y='1306' width='1466' height='47' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='83' y='1336' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'><tspan font-style='italic'>rstR</tspan></text>
+<text x='217' y='1336' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>CTX phage repressor; distinct Classical and El Tor alleles</text>
+<rect x='67' y='1359' width='1466' height='47' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='83' y='1389' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'><tspan font-style='italic'>ctxB</tspan></text>
+<text x='217' y='1389' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>B subunit of cholera toxin</text>
+<rect x='67' y='1412' width='1466' height='47' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='83' y='1442' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'><tspan font-style='italic'>tcpA</tspan></text>
+<text x='217' y='1442' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Major pilin of the TCP; distinct alleles, different pili</text>
+<rect x='67' y='1465' width='1466' height='47' rx='12' fill='#fff' stroke='#C9CED3' stroke-width='2'/>
+<text x='83' y='1495' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'><tspan font-style='italic'>hlyA</tspan></text>
+<text x='217' y='1495' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Classical: 11-bp deletion, ~27 vs ~82 kDa precursor; haemolysis unreliable</text>
+<rect x='50' y='1555' width='740' height='204' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<rect x='79' y='1576' width='44' height='58' rx='7' fill='#fff' stroke='#0072B2' stroke-width='5'/><rect x='89' y='1570' width='24' height='12' rx='4' fill='#0072B2'/><path d='M89,1598 h24' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M89,1612 h24' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M89,1626 h24' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/>
+<text x='151' y='1596' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>In practice</text>
+<rect x='67' y='1653' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1668' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Classical: 5th and 6th pandemics; El Tor: 7th (7PET)</text>
+<rect x='67' y='1687' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1702' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>All circulating 7PET is El Tor, so markers are rarely</text>
+<text x='95' y='1733' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>predicted</text>
+<rect x='810' y='1555' width='740' height='204' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<path d='M861,1578 L891,1628 H831 z' fill='#D55E00' stroke='#D55E00' stroke-width='4' stroke-linejoin='round'/><rect x='857.5' y='1594' width='7' height='18' rx='3' fill='#fff'/><circle cx='861' cy='1620' r='4' fill='#fff'/>
+<text x='911' y='1596' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>Hybrid 7PET variants</text>
+<rect x='827' y='1653' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='855' y='1668' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>El Tor backbone, <tspan font-style='italic'>rstR</tspan>-ElTor, but <tspan font-style='italic'>ctxB7</tspan> not <tspan font-style='italic'>ctxB3</tspan></text>
+<rect x='827' y='1687' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='855' y='1702' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Some add a Classical-type CTX prophage: not binary</text>
+</g>
+</svg>

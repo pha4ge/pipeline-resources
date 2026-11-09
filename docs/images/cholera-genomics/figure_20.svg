@@ -1,0 +1,129 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='162.34mm' viewBox='0 0 1600 1527.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='1527.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-115.80)'>
+<circle cx='72' cy='188' r='24' fill='#005A8C'/><text x='72' y='198' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='199' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>THREE METHODS: WHICH JOB EACH ONE DOES</text>
+<line x1='50' y1='216' x2='1550' y2='216' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='238' width='486' height='269' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<polyline points='101.0,260.0 111.6,265.4 118.1,270.8 118.1,276.2 111.6,281.6 101.0,287.0 90.4,292.4 83.9,297.8 83.9,303.2 90.4,308.6 101.0,314.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='101.0,260.0 90.4,265.4 83.9,270.8 83.9,276.2 90.4,281.6 101.0,287.0 111.6,292.4 118.1,297.8 118.1,303.2 111.6,308.6 101.0,314.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M84.2,270.8 H117.8' stroke='#4D4D4D' stroke-width='3'/><path d='M101.0,287.0 H101.0' stroke='#4D4D4D' stroke-width='3'/><path d='M117.8,303.2 H84.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='151' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Phylogenetic inference</text>
+<text x='151' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>principal method</text>
+<rect x='67' y='336' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>SNP-based tree: finest resolution</text>
+<rect x='67' y='370' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='385' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Too heavy for large databases</text>
+<rect x='67' y='404' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='419' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Needs expertise to interpret</text>
+<rect x='556' y='238' width='486' height='269' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<rect x='587' y='260' width='40' height='54' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M596,274 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M596,287 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M596,300 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/>
+<text x='657' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>cgMLST</text>
+<text x='657' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>principal method</text>
+<rect x='573' y='336' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='601' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Allele differences at core loci</text>
+<rect x='573' y='370' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='601' y='385' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Scales to database queries</text>
+<rect x='573' y='404' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='601' y='419' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Comparable across datasets with</text>
+<text x='601' y='450' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>one scheme</text>
+<rect x='1062' y='238' width='488' height='269' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<path d='M1113,315 C1083,283 1089,259 1113,259 C1137,259 1143,283 1113,315 z' fill='#0072B2'/><circle cx='1113' cy='279' r='9' fill='#fff'/>
+<text x='1163' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>Phylogenetic placement</text>
+<text x='1163' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>other method</text>
+<rect x='1079' y='336' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='1107' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Places a genome on a fixed tree</text>
+<rect x='1079' y='370' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='1107' y='385' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Fast lineage assignment; no</text>
+<text x='1107' y='416' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>relationships among queries</text>
+<rect x='1079' y='435' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='1107' y='450' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: Vibecheck is O1 only;</text>
+<text x='1107' y='481' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>takes assemblies or reads</text>
+<circle cx='72' cy='556' r='24' fill='#9A4573'/><text x='72' y='566' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='567' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>6.2.1 PHYLOGENETIC INFERENCE: SELECT, CALL, MASK, BUILD, CHECK</text>
+<line x1='50' y1='584' x2='1550' y2='584' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='606' width='1500' height='112' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='623' width='239.169296875' height='44' rx='22.0' fill='#EAF4FB' stroke='#0072B2' stroke-width='3'/>
+<text x='82' y='654' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Select genomes</text>
+<rect x='416.85310546875' y='623' width='159.4759375' height='44' rx='22.0' fill='#E6F5EF' stroke='#009E73' stroke-width='3'/>
+<text x='431.85310546875' y='654' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Call SNPs</text>
+<rect x='687.0128515625' y='623' width='241.4371875' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='702.0128515625' y='654' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Mask, keep core</text>
+<rect x='1039.13384765625' y='623' width='156.494375' height='44' rx='22.0' fill='#fff' stroke='#CC79A7' stroke-width='3'/>
+<text x='1054.13384765625' y='654' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Build tree</text>
+<rect x='1306.31203125' y='623' width='226.68796874999998' height='44' rx='22.0' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<text x='1321.31203125' y='654' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>QC and rebuild</text>
+<path d='M314.169296875,645 H408.85310546875' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M584.32904296875,645 H679.0128515625' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M936.4500390625001,645 H1031.13384765625' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M1203.62822265625,645 H1298.31203125' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<path d='M1419.656015625,671 V697 H186.5846484375 V675' fill='none' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='50' y='734' width='740' height='396' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='775' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>Cholera-specific choices</text>
+<rect x='67' y='798' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='813' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Reference N16961 for 7PET and O139 (omit capsule</text>
+<text x='95' y='844' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>locus); not for non-O1/non-O139</text>
+<rect x='67' y='863' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='878' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Snippy calls SNPs from Illumina reads, or ONT</text>
+<text x='95' y='909' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>pseudo-reads or assemblies</text>
+<rect x='67' y='928' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='943' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Gubbins masks recombination (CTXφ, ICE-SXT vary);</text>
+<text x='95' y='974' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>SNP-sites keeps core sites</text>
+<rect x='67' y='993' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='1008' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Maximum likelihood trees; neighbour joining if</text>
+<text x='95' y='1039' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>error-prone or very large</text>
+<rect x='67' y='1058' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1073' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: NZ_CP028827.1 is another N16961 record,</text>
+<text x='95' y='1104' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>chromosome 1 only</text>
+<rect x='810' y='734' width='740' height='396' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<text x='827' y='775' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>Quality control and reading the tree</text>
+<rect x='827' y='798' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='813' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Per genome: count heterozygous sites and absolute</text>
+<text x='855' y='844' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>aligned sites</text>
+<rect x='827' y='863' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='878' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Odd position or long branch: review quality first</text>
+<rect x='827' y='897' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='912' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>No universal SNP cut-off: compare within and between</text>
+<text x='855' y='943' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>clusters (BAPS, fastbaps)</text>
+<rect x='827' y='962' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='977' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Poor genome: use placement, not a forced tree</text>
+<rect x='827' y='996' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='855' y='1011' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: QC is Section 5.2; 6.2.1.1 cites 5.1</text>
+<circle cx='72' cy='1179' r='24' fill='#007A5A'/><text x='72' y='1189' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='1190' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>6.2.2 cgMLST: ALLELE DISTANCES AND THRESHOLDS</text>
+<line x1='50' y1='1207' x2='1550' y2='1207' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1229' width='740' height='365' rx='22' fill='#fff' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='1270' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Schemes: use one, and report it</text>
+<rect x='67' y='1293' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1308' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Liang 2020 on PubMLST: 2,443 core loci</text>
+<rect x='67' y='1327' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1342' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>EnteroBase <tspan font-style='italic'>Vibrio</tspan> genus scheme: 1,128 loci, with</text>
+<text x='95' y='1373' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>GrapeTree MSTs</text>
+<rect x='67' y='1392' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1407' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Schemes are not comparable; PubMLST gives cgST,</text>
+<text x='95' y='1438' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>not clusters</text>
+<rect x='67' y='1457' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='1472' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>chewBBACA and similar tools can evaluate schemes</text>
+<rect x='67' y='1491' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1506' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: Achtman 2022 is the HierCC paper; the 1,128</text>
+<text x='95' y='1537' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>loci come from EnteroBase docs</text>
+<rect x='810' y='1229' width='740' height='365' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='827' y='1270' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Thresholds (Liang 2020)</text>
+<rect x='827' y='1288' width='60.291406249999994' height='44' rx='22.0' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<text x='842' y='1319' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>≤7</text>
+<text x='923' y='1314' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>outbreak: closely related isolates (published)</text>
+<rect x='827' y='1342' width='90.773125' height='44' rx='22.0' fill='#EAF4FB' stroke='#0072B2' stroke-width='3'/>
+<text x='842' y='1373' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>≤133</text>
+<text x='923' y='1368' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>sublineage, close to classical MLST types</text>
+<rect x='827' y='1396' width='90.9634375' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='842' y='1427' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>5–15</text>
+<text x='923' y='1422' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>laboratories consulted: local validation</text>
+<rect x='827' y='1457' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='855' y='1472' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>State the scheme and threshold; wgMLST cut-offs do</text>
+<text x='855' y='1503' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>not transfer</text>
+<rect x='827' y='1522' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='855' y='1537' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check locus completeness separately: standard QC</text>
+<text x='855' y='1568' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>misses it</text>
+</g>
+</svg>

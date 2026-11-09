@@ -1,0 +1,122 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='176.15mm' viewBox='0 0 1600 1657.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='1657.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-115.80)'>
+<circle cx='72' cy='188' r='24' fill='#005A8C'/><text x='72' y='198' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='199' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>5.6.1–5.6.2 THREE TREATMENT AGENTS, THREE RESISTANCE ROUTES</text>
+<line x1='50' y1='216' x2='1550' y2='216' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='238' width='1500' height='139' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='259' width='185.05710937499998' height='44' rx='22.0' fill='#EAF4FB' stroke='#0072B2' stroke-width='3'/>
+<text x='82' y='290' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>doxycycline</text>
+<rect x='268.057109375' y='259' width='199.5684375' height='44' rx='22.0' fill='#E6F5EF' stroke='#009E73' stroke-width='3'/>
+<text x='283.057109375' y='290' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>ciprofloxacin</text>
+<rect x='483.62554687499994' y='259' width='197.934921875' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='498.62554687499994' y='290' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>azithromycin</text>
+<text x='701.5604687499999' y='283' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Doxycycline is first line if the strain is susceptible; ciprofloxacin or</text>
+<text x='701.5604687499999' y='314' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>azithromycin if not (GTFCC 2022). Resistance or reduced</text>
+<text x='701.5604687499999' y='345' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>susceptibility to all three is documented in 7PET</text>
+<rect x='50' y='393' width='460' height='334' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<polyline points='101.0,415.0 111.6,420.4 118.1,425.8 118.1,431.2 111.6,436.6 101.0,442.0 90.4,447.4 83.9,452.8 83.9,458.2 90.4,463.6 101.0,469.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='101.0,415.0 90.4,420.4 83.9,425.8 83.9,431.2 90.4,436.6 101.0,442.0 111.6,447.4 118.1,452.8 118.1,458.2 111.6,463.6 101.0,469.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M84.2,425.8 H117.8' stroke='#4D4D4D' stroke-width='3'/><path d='M101.0,442.0 H101.0' stroke='#4D4D4D' stroke-width='3'/><path d='M117.8,458.2 H84.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='151' y='434' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Fluoroquinolone</text>
+<rect x='67' y='491' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='506' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>gyrA</tspan> S83I, then <tspan font-style='italic'>parC</tspan> S85L</text>
+<rect x='67' y='525' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='540' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Nalidixic acid R; cipro MIC</text>
+<text x='95' y='571' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>0.25–1.0 mg/L: reduced, not</text>
+<text x='95' y='602' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>high-level resistance</text>
+<rect x='67' y='621' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='636' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: SXT ICE carries <tspan font-style='italic'>qnrVC3</tspan>;</text>
+<text x='95' y='667' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>low-level (Kim 2010)</text>
+<rect x='530' y='393' width='410' height='334' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='561' y='415' width='40' height='54' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M570,429 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M570,442 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M570,455 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/>
+<text x='631' y='434' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>ICE-SXT cassette</text>
+<rect x='547' y='491' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='575' y='506' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>~64% of African isolates;</text>
+<text x='575' y='537' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>content varies by lineage</text>
+<rect x='547' y='556' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='575' y='571' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>dfrA1</tspan>, <tspan font-style='italic'>sul2</tspan>: cotrimoxazole;</text>
+<text x='575' y='602' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>floR</tspan>; <tspan font-style='italic'>strA</tspan>, <tspan font-style='italic'>strB</tspan></text>
+<rect x='547' y='621' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='575' y='636' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: <tspan font-style='italic'>floR</tspan> MICs were only</text>
+<text x='575' y='667' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>4–16 mg/L in Haiti 2010</text>
+<rect x='960' y='393' width='590' height='334' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<path d='M1011,416 L1041,466 H981 z' fill='#D55E00' stroke='#D55E00' stroke-width='4' stroke-linejoin='round'/><rect x='1007.5' y='432' width='7' height='18' rx='3' fill='#fff'/><circle cx='1011' cy='458' r='4' fill='#fff'/>
+<text x='1061' y='434' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>Azithromycin, ESBL</text>
+<rect x='977' y='491' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='1005' y='506' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>mph(A)</tspan>, <tspan font-style='italic'>mrx(A)</tspan>, <tspan font-style='italic'>msr(E)</tspan>, <tspan font-style='italic'>mph(E)</tspan>: 6.6–6.8%;</text>
+<text x='1005' y='537' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>blaPER-7</tspan>: 6.4%</text>
+<rect x='977' y='556' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='1005' y='571' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Yemen XDR: <tspan font-style='italic'>blaPER-7</tspan> and macrolide</text>
+<text x='1005' y='602' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>genes on an IncC plasmid</text>
+<rect x='977' y='621' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='1005' y='636' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Zimbabwe 2018: <tspan font-style='italic'>blaCTX-M-15</tspan>;</text>
+<text x='1005' y='667' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>azithromycin susceptible</text>
+<rect x='977' y='686' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='1005' y='701' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: rates are from a preprint</text>
+<circle cx='72' cy='776' r='24' fill='#9A4573'/><text x='72' y='786' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='787' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>5.6.3 AND 5.6.5 TOOLS: DETECT, THEN PLACE THE GENE IN ITS ELEMENT</text>
+<line x1='50' y1='804' x2='1550' y2='804' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='826' width='486' height='273' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<circle cx='95' cy='869' r='17' fill='#fff' stroke='#0072B2' stroke-width='7'/><path d='M108,882 L127,901' stroke='#0072B2' stroke-width='9' stroke-linecap='round'/>
+<text x='151' y='867' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>AMRFinderPlus</text>
+<rect x='67' y='924' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='939' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Needs --organism <tspan font-style='italic'>Vibrio_cholerae</tspan></text>
+<rect x='67' y='958' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='973' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Record software and DB versions</text>
+<rect x='67' y='992' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1007' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: catalogue has 6 QRDR</text>
+<text x='95' y='1038' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>mutations, not 2</text>
+<rect x='556' y='826' width='486' height='273' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<rect x='581' y='849' width='52' height='52' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M607,849 V901 M581,875 H633' stroke='#0072B2' stroke-width='3'/><circle cx='594' cy='862' r='6' fill='#E69F00'/><circle cx='620' cy='888' r='6' fill='#009E73'/>
+<text x='657' y='867' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>ICEfinder</text>
+<rect x='573' y='924' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='601' y='939' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Finds ICEs and the integration site</text>
+<rect x='573' y='958' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='601' y='973' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Annotates cargo and AMR</text>
+<text x='601' y='1004' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>cassettes</text>
+<rect x='573' y='1023' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='601' y='1038' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Is the gene on a transferable ICE?</text>
+<rect x='1062' y='826' width='488' height='273' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<rect x='1093' y='848' width='40' height='54' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M1102,862 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M1102,875 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M1102,888 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/>
+<text x='1163' y='867' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>PlasmidFinder,</text>
+<text x='1163' y='903' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>MOB-suite</text>
+<rect x='1079' y='928' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='1107' y='943' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Replicon type and mobility class</text>
+<rect x='1079' y='962' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='1107' y='977' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Short reads: gene and replicon</text>
+<text x='1107' y='1008' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>may split across contigs</text>
+<rect x='1079' y='1027' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='1107' y='1042' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: Zimbabwe had</text>
+<text x='1107' y='1073' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>blaCTX-M-15</tspan>, not <tspan font-style='italic'>blaPER-7</tspan></text>
+<rect x='50' y='1115' width='1500' height='173' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='1156' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>Interpretation resources and a sequencing caution</text>
+<rect x='67' y='1179' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='1194' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>CARD: mechanism and literature for any unfamiliar gene; Pathogenwatch AMR: curated prediction</text>
+<rect x='67' y='1213' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='1228' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>MicroBIGG-E: how widely a gene is reported worldwide (Feldgarden 2021)</text>
+<rect x='67' y='1247' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='1262' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ONT indel errors can mask <tspan font-style='italic'>gyrA</tspan> S83I and <tspan font-style='italic'>parC</tspan> S85L: polish first</text>
+<circle cx='72' cy='1337' r='24' fill='#A84300'/><text x='72' y='1347' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='1348' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A84300'>5.6.4 INTERPRETATION: A GENE IS NOT A PHENOTYPE</text>
+<line x1='50' y1='1365' x2='1550' y2='1365' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1387' width='1500' height='337' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='1428' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>Discordances to expect in AMRFinderPlus output</text>
+<rect x='67' y='1446' width='104.69765625' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='82' y='1477' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'><tspan font-style='italic'>catB9</tspan></text>
+<text x='187.69765625' y='1472' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>poor predictor: with <tspan font-style='italic'>floR</tspan>, 61 false positives (Pragasam 2026)</text>
+<rect x='67' y='1500' width='92.041875' height='44' rx='22.0' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<text x='82' y='1531' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'><tspan font-style='italic'>varG</tspan></text>
+<text x='175.041875' y='1526' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>carbapenemase in vitro (Lin 2017); no resistance call without AST</text>
+<rect x='67' y='1554' width='196.840625' height='44' rx='22.0' fill='#EAF4FB' stroke='#0072B2' stroke-width='3'/>
+<text x='82' y='1585' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>ICE variation</text>
+<text x='279.840625' y='1580' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>report AMR with lineage; some African lineages lack cassettes</text>
+<rect x='67' y='1615' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1630' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: Sebastian 2025 tested ampicillin MIC in US marine isolates, not <tspan font-style='italic'>varG</tspan> in 7PET</text>
+<rect x='67' y='1649' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1664' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: lineage ICE gaps are in Weill 2019 and Mashe 2020, not Weill 2017</text>
+<rect x='67' y='1683' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1698' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Rule: genomics complements AST (GTFCC 2017, 2024): test at onset and at intervals</text>
+</g>
+</svg>

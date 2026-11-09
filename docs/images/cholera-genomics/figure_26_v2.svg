@@ -1,0 +1,109 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='138.54mm' viewBox='0 0 1600 1303.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='1303.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-115.80)'>
+<circle cx='72' cy='188' r='24' fill='#005A8C'/><text x='72' y='198' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='199' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>8.1 SHARE, BUT SHARE RESPONSIBLY</text>
+<line x1='50' y1='216' x2='1550' y2='216' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='238' width='486' height='300' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<circle cx='101' cy='287' r='25' fill='#0072B2'/><path d='M89,288 L98,298 L114,278' stroke='#fff' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/>
+<text x='151' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Safeguards</text>
+<text x='151' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>before any release</text>
+<rect x='67' y='336' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Consent under national rules</text>
+<rect x='67' y='370' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='385' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>De-identify metadata first</text>
+<rect x='67' y='404' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='419' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Respect data sovereignty where</text>
+<text x='95' y='450' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>local capacity is limited</text>
+<rect x='556' y='238' width='486' height='300' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<path d='M607,261 L637,311 H577 z' fill='#D55E00' stroke='#D55E00' stroke-width='4' stroke-linejoin='round'/><rect x='603.5' y='277' width='7' height='18' rx='3' fill='#fff'/><circle cx='607' cy='303' r='4' fill='#fff'/>
+<text x='657' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>Risks of release</text>
+<text x='657' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>cholera is sensitive</text>
+<rect x='573' y='336' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='601' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Cholera is tied to poverty, conflict</text>
+<text x='601' y='382' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>and displacement</text>
+<rect x='573' y='401' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='601' y='416' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Transmission routes can bring</text>
+<text x='601' y='447' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>stigma or trade measures</text>
+<rect x='1062' y='238' width='488' height='300' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<circle cx='1113' cy='287' r='25' fill='#0072B2'/><text x='1113' y='300' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#fff'>?</text>
+<text x='1163' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Best practice</text>
+<text x='1163' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>sharing stays essential</text>
+<rect x='1079' y='336' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='1107' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Engage national authorities and</text>
+<text x='1107' y='382' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>affected communities first</text>
+<rect x='1079' y='401' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='1107' y='416' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Frame findings within their</text>
+<text x='1107' y='447' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>epidemiological context</text>
+<rect x='1079' y='466' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='1107' y='481' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Coordinate with WHO and regional</text>
+<text x='1107' y='512' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>bodies on policy findings</text>
+<circle cx='72' cy='587' r='24' fill='#007A5A'/><text x='72' y='597' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='598' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>8.2 DEPOSIT: WHERE THE DATA GO</text>
+<line x1='50' y1='615' x2='1550' y2='615' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='637' width='486' height='300' rx='22' fill='#fff' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<path d='M101,658 C109,674 123,684 123,696 A22,22 0 0 1 79,696 C79,684 93,674 101,658 z' fill='#0072B2'/>
+<text x='151' y='678' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>INSDC repositories</text>
+<text x='151' y='714' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>open to all users</text>
+<rect x='67' y='728' width='112.4053125' height='44' rx='22.0' fill='#E6F5EF' stroke='#009E73' stroke-width='3'/>
+<text x='82' y='759' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Reads</text>
+<path d='M189.40531249999998,750 H239.40531249999998' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='249.40531249999998' y='728' width='161.236328125' height='44' rx='22.0' fill='#fff' stroke='#009E73' stroke-width='3'/>
+<text x='264.4053125' y='759' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>SRA, ENA</text>
+<rect x='67' y='786' width='182.42445312499999' height='44' rx='22.0' fill='#E6F5EF' stroke='#009E73' stroke-width='3'/>
+<text x='82' y='817' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Assemblies</text>
+<path d='M259.424453125,808 H309.424453125' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/>
+<rect x='319.424453125' y='786' width='223.53195312499997' height='44' rx='22.0' fill='#fff' stroke='#009E73' stroke-width='3'/>
+<text x='334.424453125' y='817' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>GenBank, ENA</text>
+<rect x='556' y='637' width='486' height='300' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<rect x='587' y='659' width='40' height='54' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M596,673 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M596,686 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M596,699 h22' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/>
+<text x='657' y='678' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>EnteroBase</text>
+<text x='657' y='714' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>not an INSDC member</text>
+<rect x='573' y='735' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='601' y='750' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Assemblies are public and linked</text>
+<text x='601' y='781' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>to cgMLST schemes</text>
+<rect x='1062' y='637' width='488' height='300' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<circle cx='1113' cy='686' r='25' fill='#009E73'/><text x='1113' y='699' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#fff'>?</text>
+<text x='1163' y='678' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Barriers and planning</text>
+<text x='1163' y='714' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>few laboratories deposit</text>
+<rect x='1079' y='735' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='1107' y='750' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>No national guidance; unclear</text>
+<text x='1107' y='781' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ownership and consent</text>
+<rect x='1079' y='800' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='1107' y='815' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Outbreak workload competes with</text>
+<text x='1107' y='846' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>preparing submissions</text>
+<rect x='1079' y='865' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='1107' y='880' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Plan and resource deposition as its</text>
+<text x='1107' y='911' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>own step</text>
+<circle cx='72' cy='986' r='24' fill='#9A4573'/><text x='72' y='996' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='997' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>8.3 DESCRIBE: METADATA STANDARDS AND TRACEABILITY</text>
+<line x1='50' y1='1014' x2='1550' y2='1014' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1036' width='740' height='334' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<rect x='79' y='1057' width='44' height='58' rx='7' fill='#fff' stroke='#0072B2' stroke-width='5'/><rect x='89' y='1051' width='24' height='12' rx='4' fill='#0072B2'/><path d='M89,1079 h24' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M89,1093 h24' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M89,1107 h24' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/>
+<text x='151' y='1077' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>Standards stack</text>
+<text x='151' y='1113' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>FAIR: findable, accessible, interoperable, reusable</text>
+<rect x='67' y='1134' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='1149' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>PHA4GE cholera standard is the primary framework</text>
+<rect x='67' y='1168' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='1183' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Compatible with the PHA4GE pathogen-agnostic</text>
+<text x='95' y='1214' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>specification and MIxS</text>
+<rect x='810' y='1036' width='740' height='334' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<rect x='835' y='1059' width='52' height='52' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><path d='M861,1059 V1111 M835,1085 H887' stroke='#0072B2' stroke-width='3'/><circle cx='848' cy='1072' r='6' fill='#E69F00'/><circle cx='874' cy='1098' r='6' fill='#009E73'/>
+<text x='911' y='1077' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>Submission and traceability</text>
+<text x='911' y='1113' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>keep the link to your own data</text>
+<rect x='827' y='1134' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='1149' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>NCBI BioSample template links samples to SRA and</text>
+<text x='855' y='1180' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>GenBank; ENA has its own</text>
+<rect x='827' y='1199' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='1214' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>AGARI: submission route for African institutions</text>
+<rect x='827' y='1233' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='1248' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>One access-controlled register links internal ID,</text>
+<text x='855' y='1279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>pseudonym and accession</text>
+<rect x='827' y='1298' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='855' y='1313' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Create it before the first submission and assign it to a</text>
+<text x='855' y='1344' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>named role</text>
+</g>
+</svg>

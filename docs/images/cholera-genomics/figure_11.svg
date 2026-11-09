@@ -1,0 +1,143 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='228.72mm' viewBox='0 0 1604 2158'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1604' height='2158' fill='#FFFFFF'/>
+<g transform='translate(2,-96)'>
+<circle cx='72' cy='170' r='24' fill='#005A8C'/><text x='72' y='180' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='181' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>DNA EXTRACTION (4.3.1): CHOOSE THE METHOD BY SEQUENCING APPROACH AND READ LENGTH</text>
+<line x1='50' y1='198' x2='1550' y2='198' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='214' width='1500' height='65' rx='22' fill='#F2F2F2' stroke='#4D4D4D' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='253' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>V. cholerae</tspan> is Gram-negative: chemical lysis works; bead beating, which fragments DNA, is not needed</text>
+<rect x='50' y='295' width='740' height='204' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='89' y='314' width='24' height='58' rx='12' fill='#fff' stroke='#0072B2' stroke-width='5'/><rect x='89' y='346' width='24' height='26' rx='12' fill='#0072B2'/><rect x='83' y='310' width='36' height='8' rx='3' fill='#0072B2'/>
+<text x='151' y='336' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Silica spin column (most work)</text>
+<rect x='67' y='393' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='408' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Fragments typically 20–50 kb: ample for Illumina</text>
+<rect x='67' y='427' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='442' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Also adequate for ONT in most public health work</text>
+<text x='95' y='473' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(lineage typing, AMR, SNP phylogenetics)</text>
+<rect x='810' y='295' width='740' height='204' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<polyline points='861.0,317.0 871.6,322.4 878.1,327.8 878.1,333.2 871.6,338.6 861.0,344.0 850.4,349.4 843.9,354.8 843.9,360.2 850.4,365.6 861.0,371.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='861.0,317.0 850.4,322.4 843.9,327.8 843.9,333.2 850.4,338.6 861.0,344.0 871.6,349.4 878.1,354.8 878.1,360.2 871.6,365.6 861.0,371.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M844.2,327.8 H877.8' stroke='#4D4D4D' stroke-width='3'/><path d='M861.0,344.0 H861.0' stroke='#4D4D4D' stroke-width='3'/><path d='M877.8,360.2 H844.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='911' y='336' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>CTAB (very long ONT reads)</text>
+<rect x='827' y='393' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='408' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Avoids column shearing; fragments well over 50 kb</text>
+<rect x='827' y='427' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='442' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Only needed for repetitive regions or reference-quality</text>
+<text x='855' y='473' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>assemblies</text>
+<circle cx='72' cy='548' r='24' fill='#007A5A'/><text x='72' y='558' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='559' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>DNA QUALITY AND LIBRARY INPUT (4.3.1): CHECK BEFORE LIBRARY PREPARATION</text>
+<line x1='50' y1='576' x2='1550' y2='576' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='592' width='700' height='244' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<path d='M73,659 A28,28 0 0 1 129,659' fill='none' stroke='#009E73' stroke-width='7' stroke-linecap='round'/><path d='M101,659 L115,633' stroke='#4D4D4D' stroke-width='5' stroke-linecap='round'/><circle cx='101' cy='659' r='6' fill='#4D4D4D'/>
+<text x='151' y='633' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Purity (usually a NanoDrop)</text>
+<rect x='67.0' y='693' width='326.0' height='48' rx='24.0' fill='#fff' stroke='#009E73' stroke-width='3'/>
+<text x='230.0' y='725' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>A260/280 ≈ 1.8</text>
+<rect x='407.0' y='693' width='326.0' height='48' rx='24.0' fill='#fff' stroke='#009E73' stroke-width='3'/>
+<text x='570.0' y='725' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>A260/230 ≈ 2.0–2.2</text>
+<rect x='770' y='592' width='780' height='244' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<path d='M821,617 V663 M807,665 H835 M793,627 H849' stroke='#4D4D4D' stroke-width='5' stroke-linecap='round'/><path d='M783,649 h20 a10,10 0 0 1 -20,0 z' fill='#D55E00'/><path d='M839,649 h20 a10,10 0 0 1 -20,0 z' fill='#D55E00'/><path d='M793,627 L783,649 M793,627 L803,649 M849,627 L839,649 M849,627 L859,649' stroke='#4D4D4D' stroke-width='3'/>
+<text x='871' y='633' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Input DNA by kit (check current specs)</text>
+<rect x='787' y='673' width='269.03249999999997' height='44' rx='22.0' fill='#fff' stroke='#0072B2' stroke-width='3'/>
+<text x='802' y='704' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Illumina DNA Prep</text>
+<text x='1077' y='701' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>≥1 ng; 100–500 ng comfortable</text>
+<rect x='787' y='723' width='217.44195312499997' height='44' rx='22.0' fill='#fff' stroke='#CC79A7' stroke-width='3'/>
+<text x='802' y='754' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>ONT rapid kits</text>
+<text x='1077' y='751' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>~200 ng</text>
+<rect x='787' y='773' width='247.44789062499999' height='44' rx='22.0' fill='#fff' stroke='#CC79A7' stroke-width='3'/>
+<text x='802' y='804' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>ONT ligation kits</text>
+<text x='1077' y='801' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>~1 µg or more</text>
+<circle cx='72' cy='885' r='24' fill='#9A4573'/><text x='72' y='895' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='896' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>SEQUENCING (4.3.2): RESOURCES AND NUMBER OF GENOMES OFTEN DECIDE THE PLATFORM</text>
+<line x1='50' y1='913' x2='1550' y2='913' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='929' width='500' height='470' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<rect x='82' y='959' width='38' height='38' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><rect x='92' y='969' width='18' height='18' rx='3' fill='#0072B2'/><path d='M91,959 v-8 M91,997 v8 M82,968 h-8 M120,968 h8' stroke='#0072B2' stroke-width='4' stroke-linecap='round'/><path d='M101,959 v-8 M101,997 v8 M82,978 h-8 M120,978 h8' stroke='#0072B2' stroke-width='4' stroke-linecap='round'/><path d='M111,959 v-8 M111,997 v8 M82,988 h-8 M120,988 h8' stroke='#0072B2' stroke-width='4' stroke-linecap='round'/>
+<text x='151' y='970' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Illumina short-read</text>
+<rect x='67' y='1027' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='1042' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Illumina DNA Prep (formerly</text>
+<text x='95' y='1073' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Nextera DNA Flex)</text>
+<rect x='67' y='1092' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='1107' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Paired-end, typically 150–300 bp;</text>
+<text x='95' y='1138' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>≥70–85% of bases ≥Q30</text>
+<rect x='67' y='1157' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='1172' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>FASTQ produced automatically</text>
+<rect x='67' y='1191' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='1206' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Fragmented assemblies: two</text>
+<text x='95' y='1237' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>chromosomes not resolved as</text>
+<text x='95' y='1268' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>circles</text>
+<rect x='570' y='929' width='980' height='470' rx='22' fill='#F9EDF3' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<polyline points='591,978 599,978 603,960 609,994 615,970 621,982 625,956 631,998 637,972 643,978 651,978' fill='none' stroke='#CC79A7' stroke-width='5' stroke-linejoin='round' stroke-linecap='round'/>
+<text x='671' y='970' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>Oxford Nanopore (ONT): portable, low cost</text>
+<rect x='587' y='1020' width='465.0' height='195' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<text x='601' y='1056' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>Rapid (RBK114)</text>
+<text x='601' y='1092' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Fast and simple, less input DNA</text>
+<rect x='601' y='1112' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='629' y='1127' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Outbreak and low-resource labs</text>
+<rect x='601' y='1146' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='629' y='1161' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Fine for most public health uses</text>
+<rect x='1068.0' y='1020' width='465.0' height='195' rx='22' fill='#fff' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<text x='1082.0' y='1056' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>Ligation (SQK-LSK114)</text>
+<text x='1082.0' y='1092' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Preserves fragment length</text>
+<rect x='1082.0' y='1112' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='1110.0' y='1127' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Longest reads: reference</text>
+<text x='1110.0' y='1158' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>genome, complex AMR</text>
+<text x='1110.0' y='1189' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>elements; use CTAB</text>
+<rect x='587' y='1236' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='615' y='1251' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>R10.4.1 flow cells; R9.4.1 is no longer recommended (higher error)</text>
+<rect x='587' y='1270' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='615' y='1285' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Can give complete, circularised assemblies of both chromosomes</text>
+<rect x='587' y='1304' width='946' height='78' rx='14' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<text x='601' y='1334' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Validate before ONT defines outbreak clusters: <tspan font-style='italic'>V. cholerae</tspan> evidence is</text>
+<text x='601' y='1365' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>limited; elsewhere MLST matched Illumina but cgMLST varied.</text>
+<circle cx='72' cy='1448' r='24' fill='#9A4573'/><text x='72' y='1458' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>4</text>
+<text x='106' y='1459' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>ONT ONLY: BASECALLING TURNS RAW SIGNAL (POD5) INTO SEQUENCE (FASTQ)</text>
+<line x1='50' y1='1476' x2='1550' y2='1476' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1492' width='520' height='163' rx='22' fill='#F9EDF3' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<text x='67' y='1531' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Often a separate offline step on a</text>
+<text x='67' y='1562' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>laptop or GPU computer; live on a</text>
+<text x='67' y='1593' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>GridION needs set-up. Confirm before</text>
+<text x='67' y='1624' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>running.</text>
+<rect x='583' y='1492' width='300' height='163' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<text x='600' y='1531' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Fast</text>
+<text x='600' y='1567' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Not recommended:</text>
+<text x='600' y='1598' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>high error</text>
+<rect x='896' y='1492' width='340' height='163' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<text x='913' y='1531' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>HAC</text>
+<text x='913' y='1567' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Balances accuracy and</text>
+<text x='913' y='1598' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>time; often suitable</text>
+<rect x='1249' y='1492' width='300' height='163' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='1266' y='1531' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>SUP</text>
+<text x='1266' y='1567' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Most accurate for</text>
+<text x='1266' y='1598' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>SNPs; needs GPU,</text>
+<text x='1266' y='1629' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>slower</text>
+<circle cx='72' cy='1704' r='24' fill='#8A5A00'/><text x='72' y='1714' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>5</text>
+<text x='106' y='1715' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>MINIMUM GENOMIC DATA (4.3.3, TABLE 1): DEPTH AND QUALITY DEPEND ON THE PURPOSE</text>
+<line x1='50' y1='1732' x2='1550' y2='1732' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1748' width='1500' height='332' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<text x='111' y='1787' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>Analytical purpose</text>
+<text x='721' y='1787' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>Minimum mean coverage</text>
+<text x='1171' y='1787' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>Read quality</text>
+<rect x='67' y='1804' width='1466' height='90' rx='12' fill='#fff' stroke='#C8C8C8' stroke-width='2'/>
+<rect x='83' y='1842.0' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='111' y='1840.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Gene detection (AMR or virulence</text>
+<text x='111' y='1871.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>determinants)</text>
+<text x='721' y='1855.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>20–30×</text>
+<text x='1171' y='1855.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>≥Q20</text>
+<rect x='67' y='1902' width='1466' height='90' rx='12' fill='#fff' stroke='#C8C8C8' stroke-width='2'/>
+<rect x='83' y='1940.0' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='111' y='1938.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>SNP-based analyses (phylogenetics, AMR</text>
+<text x='111' y='1969.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>point mutations)</text>
+<text x='721' y='1953.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>≥30× (≥50× preferred for ONT)</text>
+<text x='1171' y='1953.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>≥Q30</text>
+<rect x='67' y='2000' width='1466' height='59' rx='12' fill='#fff' stroke='#C8C8C8' stroke-width='2'/>
+<rect x='83' y='2022.5' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='111' y='2036.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Reference assembly completeness</text>
+<text x='721' y='2036.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>50–100×</text>
+<text x='1171' y='2036.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>≥Q30</text>
+<rect x='58' y='2150' width='14' height='20' rx='3' fill='#E69F00'/><rect x='78' y='2134' width='14' height='36' rx='3' fill='#E69F00'/><rect x='98' y='2116' width='14' height='54' rx='3' fill='#E69F00'/><path d='M54,2172 H114' stroke='#4D4D4D' stroke-width='3'/>
+<text x='134' y='2136' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>For SNPs, residual error must be well below the SNP distances interpreted (7PET: single to low tens). Depth sets</text>
+<text x='134' y='2167' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>how many libraries fit on a flow cell (genome ~4 Mbp: 30× ≈ 120 Mb per genome). Recommended targets, not</text>
+<text x='134' y='2198' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>universal requirements.</text>
+</g>
+
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='140.88mm' viewBox='0 0 1600 1325.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='1325.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-115.80)'>
+<circle cx='72' cy='188' r='24' fill='#005A8C'/><text x='72' y='198' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='199' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>SECTION 10: SAME FINDINGS, FRAMED FOR EACH AUDIENCE</text>
+<line x1='50' y1='216' x2='1550' y2='216' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='238' width='1500' height='195' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<circle cx='101' cy='287' r='25' fill='#0072B2'/><text x='101' y='300' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#fff'>?</text>
+<text x='151' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Impact depends on how results are communicated</text>
+<text x='151' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>tailor to the analysis, the epidemiology and the audience</text>
+<rect x='67' y='329' width='369.898125' height='44' rx='22.0' fill='#EAF4FB' stroke='#0072B2' stroke-width='3'/>
+<text x='82' y='360' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Clinical team: patient care</text>
+<rect x='456.898125' y='329' width='465.51429687499996' height='44' rx='22.0' fill='#E6F5EF' stroke='#009E73' stroke-width='3'/>
+<text x='471.898125' y='360' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Epidemiology team: investigation</text>
+<rect x='942.412421875' y='329' width='358.70140625' height='44' rx='22.0' fill='#FDF3DC' stroke='#E69F00' stroke-width='3'/>
+<text x='957.412421875' y='360' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>National authority: policy</text>
+<rect x='67' y='392' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='407' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Standardised reporting frameworks are still in development in cholera genomics</text>
+<circle cx='72' cy='482' r='24' fill='#007A5A'/><text x='72' y='492' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='493' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>10.1 MODES OF REPORTING: SPEAK FIRST, WRITE SHORT</text>
+<line x1='50' y1='510' x2='1550' y2='510' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='532' width='740' height='396' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<rect x='75' y='555' width='52' height='52' rx='8' fill='#0072B2'/><path d='M101,567 V595 M87,581 H115' stroke='#fff' stroke-width='9' stroke-linecap='round'/>
+<text x='151' y='573' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>Oral presentation first</text>
+<text x='151' y='609' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>the most common mode</text>
+<rect x='67' y='630' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='645' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>MDT meetings with clinicians, epidemiologists and</text>
+<text x='95' y='676' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>laboratory staff</text>
+<rect x='67' y='695' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='710' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Present preliminary findings as the situation evolves</text>
+<rect x='67' y='729' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='744' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Meet often with other jurisdictions if cross-border</text>
+<text x='95' y='775' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>spread is possible</text>
+<rect x='67' y='794' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='95' y='809' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Analysts should build presentation skills</text>
+<rect x='810' y='532' width='740' height='396' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<rect x='839' y='553' width='44' height='58' rx='7' fill='#fff' stroke='#0072B2' stroke-width='5'/><rect x='849' y='547' width='24' height='12' rx='4' fill='#0072B2'/><path d='M849,575 h24' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M849,589 h24' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/><path d='M849,603 h24' stroke='#0072B2' stroke-width='5' stroke-linecap='round'/>
+<text x='911' y='573' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>Written reports</text>
+<text x='911' y='609' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>valuable as a long-term record</text>
+<rect x='827' y='630' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='645' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Routine summaries, rapid reports in 24–72 h, ad hoc</text>
+<text x='855' y='676' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>reports and papers</text>
+<rect x='827' y='695' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='710' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Lead with a plain-language summary and its public</text>
+<text x='855' y='741' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>health meaning</text>
+<rect x='827' y='760' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='775' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Brief methods, but state the comparison dataset and</text>
+<text x='855' y='806' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>choices that matter: reference, masking, core-genome</text>
+<text x='855' y='837' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>limits, thresholds</text>
+<rect x='827' y='856' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='855' y='871' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Long reports are rarer: slow to write and rarely suit</text>
+<text x='855' y='902' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>non-specialists</text>
+<circle cx='72' cy='977' r='24' fill='#9A4573'/><text x='72' y='987' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='988' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>10.2–10.3 VISUAL FORMATS: SLIDES, DASHBOARDS AND TREES</text>
+<line x1='50' y1='1005' x2='1550' y2='1005' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1027' width='486' height='365' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<rect x='75' y='1082' width='14' height='20' rx='3' fill='#E69F00'/><rect x='95' y='1066' width='14' height='36' rx='3' fill='#E69F00'/><rect x='115' y='1048' width='14' height='54' rx='3' fill='#E69F00'/><path d='M71,1104 H131' stroke='#4D4D4D' stroke-width='3'/>
+<text x='151' y='1068' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>Static slides</text>
+<text x='151' y='1104' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>10.2</text>
+<rect x='67' y='1125' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='1140' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Genome characteristics, annotated</text>
+<text x='95' y='1171' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>trees, maps, summary graphics</text>
+<rect x='67' y='1190' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='95' y='1205' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Most common; suits MDT</text>
+<text x='95' y='1236' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>discussion alongside epidemiology</text>
+<rect x='556' y='1027' width='486' height='365' rx='22' fill='#fff' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<path d='M579,1094 A28,28 0 0 1 635,1094' fill='none' stroke='#009E73' stroke-width='7' stroke-linecap='round'/><path d='M607,1094 L621,1068' stroke='#4D4D4D' stroke-width='5' stroke-linecap='round'/><circle cx='607' cy='1094' r='6' fill='#4D4D4D'/>
+<text x='657' y='1068' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Dashboards</text>
+<text x='657' y='1104' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>10.2</text>
+<rect x='573' y='1125' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='601' y='1140' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Filterable, updated often; public or</text>
+<text x='601' y='1171' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>access-restricted</text>
+<rect x='573' y='1190' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='601' y='1205' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Mature for epidemiological data;</text>
+<text x='601' y='1236' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>genomic data less so</text>
+<rect x='573' y='1255' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='601' y='1270' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Decide access, data sovereignty</text>
+<text x='601' y='1301' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>and interpretive context first</text>
+<rect x='573' y='1320' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='601' y='1335' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>WHO South Sudan dashboard:</text>
+<text x='601' y='1366' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>cases, counties, deaths</text>
+<rect x='1062' y='1027' width='488' height='365' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<path d='M1113,1050 L1143,1100 H1083 z' fill='#D55E00' stroke='#D55E00' stroke-width='4' stroke-linejoin='round'/><rect x='1109.5' y='1066' width='7' height='18' rx='3' fill='#fff'/><circle cx='1113' cy='1092' r='4' fill='#fff'/>
+<text x='1163' y='1068' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#A84300'>Phylogenetic trees</text>
+<text x='1163' y='1104' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>10.3</text>
+<rect x='1079' y='1125' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='1107' y='1140' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Central to analysis, often a poor</text>
+<text x='1107' y='1171' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>primary device</text>
+<rect x='1079' y='1190' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='1107' y='1205' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Annotate key findings, explain</text>
+<text x='1107' y='1236' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>aloud, invite questions</text>
+<rect x='1079' y='1255' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='1107' y='1270' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Many clinicians cannot read a tree</text>
+<text x='1107' y='1301' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>unaided: risk of confusion</text>
+<rect x='1079' y='1320' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='1107' y='1335' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>A plain-language summary often</text>
+<text x='1107' y='1366' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>works better</text>
+</g>
+</svg>

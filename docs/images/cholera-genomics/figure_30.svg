@@ -1,0 +1,63 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='210mm' height='119.92mm' viewBox='0 0 1562 892'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<marker id='ab' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#0072B2'/></marker></defs>
+<rect width='1562' height='892' fill='#FFFFFF'/>
+<g transform='translate(40,32)'>
+<text x='0' y='28' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C' letter-spacing='1'>WHO IT CONNECTS</text>
+<rect x='0' y='50' width='400' height='118' rx='22' fill='#EAF4FB' stroke='#56B4E9' stroke-width='3'/>
+<path d='M54,87.0 h16 v14 l14,26 q3,8 -6,8 h-32 q-9,0 -6,-8 l14,-26 z' fill='#0072B2'/><rect x='51' y='83.0' width='22' height='5' rx='2' fill='#0072B2'/>
+<text x='116' y='99.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Public health</text>
+<text x='116' y='139.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>laboratories</text>
+<path d='M402,109.0 C520,109.0 400,365.0 576,365.0' fill='none' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<rect x='0' y='196' width='400' height='118' rx='22' fill='#EAF4FB' stroke='#56B4E9' stroke-width='3'/>
+<circle cx='57' cy='252.0' r='15' fill='none' stroke='#0072B2' stroke-width='6'/><line x1='68' y1='263.0' x2='82' y2='277.0' stroke='#0072B2' stroke-width='8' stroke-linecap='round'/>
+<text x='116' y='265.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Researchers</text>
+<path d='M402,255.0 C520,255.0 400,365.0 576,365.0' fill='none' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<rect x='0' y='342' width='400' height='118' rx='22' fill='#EAF4FB' stroke='#56B4E9' stroke-width='3'/>
+<circle cx='62' cy='389.0' r='11' fill='#0072B2'/><path d='M43,421.0 q0,-22 19,-22 q19,0 19,22 z' fill='#0072B2'/>
+<text x='116' y='391.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Capacity-building</text>
+<text x='116' y='431.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>organisations</text>
+<path d='M402,401.0 C520,401.0 400,365.0 576,365.0' fill='none' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<circle cx='740' cy='365.0' r='164' fill='#E6F5EF'/><circle cx='740' cy='365.0' r='150' fill='#009E73'/>
+<text x='740' y='313.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#FFFFFF'>Cholera</text>
+<text x='740' y='357.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#FFFFFF'>Genomics</text>
+<text x='740' y='401.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#FFFFFF'>Community</text>
+<text x='740' y='445.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#FFFFFF'>of Practice</text>
+<rect x='550' y='111' width='380' height='62' rx='31' fill='#E69F00'/>
+<polygon points='626.0,127.0 629.7,136.9 640.3,137.4 632.0,143.9 634.8,154.1 626.0,148.3 617.2,154.1 620.0,143.9 611.7,137.4 622.3,136.9' fill='#1A1A1A'/>
+<text x='754' y='154.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='31' font-weight='700' fill='#1A1A1A'>START HERE</text>
+<path d='M740,175 L740,197' stroke='#E69F00' stroke-width='5' fill='none' marker-end='url(#ao)'/>
+<text x='740' y='93.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Recommended first point of contact for labs</text>
+<a xlink:href='https://www.linkedin.com/groups/11805196/' href='https://www.linkedin.com/groups/11805196/' target='_blank'><rect x='512' y='545' width='456' height='58' rx='29' fill='#FFFFFF' stroke='#0072B2' stroke-width='3'/>
+<text x='740' y='585.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#0072B2' text-decoration='underline'>linkedin.com/groups/11805196/</text></a>
+<text x='1080' y='28' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C' letter-spacing='1'>RESOURCE MAPPING</text>
+<text x='1080' y='61' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C' letter-spacing='1'>INITIATIVE</text>
+<path d='M904,365.0 C890,365.0 970,139.0 1078,139.0' fill='none' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<rect x='1080' y='96' width='400' height='86' rx='22' fill='#FFFFFF' stroke='#009E73' stroke-width='3'/>
+<path d='M1127,121.0 h20 l10,10 v30 h-30 z' fill='#009E73'/><rect x='1133' y='138.0' width='18' height='3' fill='#fff'/><rect x='1133' y='146.0' width='18' height='3' fill='#fff'/><rect x='1133' y='154.0' width='18' height='3' fill='#fff'/>
+<text x='1196' y='150.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Protocols</text>
+<path d='M904,365.0 C890,365.0 970,249.0 1078,249.0' fill='none' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<rect x='1080' y='206' width='400' height='86' rx='22' fill='#FFFFFF' stroke='#009E73' stroke-width='3'/>
+<rect x='1137' y='229.0' width='10' height='44' rx='2' fill='#009E73' transform='rotate(0 1142 251.0)'/><rect x='1137' y='229.0' width='10' height='44' rx='2' fill='#009E73' transform='rotate(45 1142 251.0)'/><rect x='1137' y='229.0' width='10' height='44' rx='2' fill='#009E73' transform='rotate(90 1142 251.0)'/><rect x='1137' y='229.0' width='10' height='44' rx='2' fill='#009E73' transform='rotate(135 1142 251.0)'/><circle cx='1142' cy='251.0' r='14' fill='#009E73'/><circle cx='1142' cy='251.0' r='6' fill='#fff'/>
+<text x='1196' y='260.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Tools</text>
+<path d='M904,365.0 C890,365.0 970,359.0 1078,359.0' fill='none' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<rect x='1080' y='316' width='400' height='86' rx='22' fill='#FFFFFF' stroke='#009E73' stroke-width='3'/>
+<rect x='1124' y='343.0' width='36' height='36' fill='#009E73'/><ellipse cx='1142' cy='343.0' rx='18' ry='7' fill='#009E73' stroke='#fff' stroke-width='3'/><ellipse cx='1142' cy='361.0' rx='18' ry='7' fill='none' stroke='#fff' stroke-width='3'/><ellipse cx='1142' cy='379.0' rx='18' ry='7' fill='#009E73'/>
+<text x='1196' y='370.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Datasets</text>
+<path d='M904,365.0 C890,365.0 970,469.0 1078,469.0' fill='none' stroke='#4D4D4D' stroke-width='3' marker-end='url(#ar)'/>
+<rect x='1080' y='426' width='400' height='86' rx='22' fill='#FFFFFF' stroke='#009E73' stroke-width='3'/>
+<path d='M1120,453.0 h44 q6,0 6,6 v20 q0,6 -6,6 h-24 l-12,10 v-10 h-8 q-6,0 -6,-6 v-20 q0,-6 6,-6 z' fill='#009E73'/>
+<text x='1196' y='480.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Experience</text>
+<text x='1084' y='562' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>of <tspan font-style='italic'>V. cholerae</tspan> genomics</text>
+<text x='1084' y='595' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>resources</text>
+<path d='M740,605 L740,666' stroke='#4D4D4D' stroke-width='3' fill='none' stroke-dasharray='9 8' marker-end='url(#ar)'/>
+<text x='760' y='657.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>complemented by</text>
+<rect x='150' y='669' width='1180' height='150' rx='22' fill='#FFF6E3' stroke='#E69F00' stroke-width='3'/>
+<path d='M192.0,740.0 l26,-13 l26,13 l-26,13 z' fill='#E69F00'/><path d='M203.0,747.0 v12 q15,9 30,0 v-12 l-15,7 z' fill='#E69F00'/>
+<text x='280.0' y='719.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>General genomics and bioinformatics training</text>
+<text x='280.0' y='761.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#333333'>Valuable for understanding <tspan font-style='italic'>V. cholerae</tspan> genomics; recently mapped by the PHA4GE</text>
+<text x='280.0' y='795.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#333333'>Training and Workforce Development Working Group (Matimba et al., 2026)</text>
+</g>
+
+</svg>

@@ -1,0 +1,127 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='134.71mm' viewBox='0 0 1600 1267.9'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='1267.9' fill='#FFFFFF'/>
+<g transform='translate(0.20,-115.80)'>
+<circle cx='72' cy='188' r='24' fill='#005A8C'/><text x='72' y='198' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='199' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>FOUR WAYS TO RUN GENOME CHARACTERISATION</text>
+<line x1='50' y1='216' x2='1550' y2='216' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='238' width='360' height='238' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<circle cx='95' cy='281' r='17' fill='#fff' stroke='#0072B2' stroke-width='7'/><path d='M108,294 L127,313' stroke='#0072B2' stroke-width='9' stroke-linecap='round'/>
+<text x='151' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#005A8C'>Pathogenwatch</text>
+<text x='151' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>browser</text>
+<rect x='67' y='336' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Illumina reads or FASTA</text>
+<rect x='67' y='370' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='385' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Reads: 50 uploads per</text>
+<text x='95' y='416' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>user per month</text>
+<rect x='67' y='435' width='14' height='14' rx='3' fill='#0072B2'/>
+<text x='95' y='450' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Clustering, data sharing</text>
+<rect x='430' y='238' width='360' height='238' rx='22' fill='#FDF3DC' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<polyline points='481.0,260.0 491.6,265.4 498.1,270.8 498.1,276.2 491.6,281.6 481.0,287.0 470.4,292.4 463.9,297.8 463.9,303.2 470.4,308.6 481.0,314.0' fill='none' stroke='#0072B2' stroke-width='5' stroke-linejoin='round'/><polyline points='481.0,260.0 470.4,265.4 463.9,270.8 463.9,276.2 470.4,281.6 481.0,287.0 491.6,292.4 498.1,297.8 498.1,303.2 491.6,308.6 481.0,314.0' fill='none' stroke='#E69F00' stroke-width='5' stroke-linejoin='round'/><path d='M464.2,270.8 H497.8' stroke='#4D4D4D' stroke-width='3'/><path d='M481.0,287.0 H481.0' stroke='#4D4D4D' stroke-width='3'/><path d='M497.8,303.2 H464.2' stroke='#4D4D4D' stroke-width='3'/>
+<text x='531' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#8A5A00'>BacPage</text>
+<text x='531' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>CLI or Terra</text>
+<rect x='447' y='336' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='475' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Built for cholera by</text>
+<text x='475' y='382' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Africa CDC CholGen</text>
+<rect x='447' y='401' width='14' height='14' rx='3' fill='#E69F00'/>
+<text x='475' y='416' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Little characterisation;</text>
+<text x='475' y='447' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>used for trees</text>
+<rect x='810' y='238' width='360' height='238' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<path d='M833,305 A28,28 0 0 1 889,305' fill='none' stroke='#009E73' stroke-width='7' stroke-linecap='round'/><path d='M861,305 L875,279' stroke='#4D4D4D' stroke-width='5' stroke-linecap='round'/><circle cx='861' cy='305' r='6' fill='#4D4D4D'/>
+<text x='911' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#007A5A'>TheiaProk</text>
+<text x='911' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>Terra</text>
+<rect x='827' y='336' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='855' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Illumina, ONT or FASTA</text>
+<rect x='827' y='370' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='855' y='385' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Limited virulence calls</text>
+<rect x='827' y='404' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='855' y='419' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Pairs with</text>
+<text x='855' y='450' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Snippy_Streamline</text>
+<rect x='1190' y='238' width='360' height='238' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<rect x='1222' y='268' width='38' height='38' rx='6' fill='#fff' stroke='#0072B2' stroke-width='5'/><rect x='1232' y='278' width='18' height='18' rx='3' fill='#0072B2'/><path d='M1231,268 v-8 M1231,306 v8 M1222,277 h-8 M1260,277 h8' stroke='#0072B2' stroke-width='4' stroke-linecap='round'/><path d='M1241,268 v-8 M1241,306 v8 M1222,287 h-8 M1260,287 h8' stroke='#0072B2' stroke-width='4' stroke-linecap='round'/><path d='M1251,268 v-8 M1251,306 v8 M1222,297 h-8 M1260,297 h8' stroke='#0072B2' stroke-width='4' stroke-linecap='round'/>
+<text x='1291' y='279' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#9A4573'>Custom CLI</text>
+<text x='1291' y='315' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>local or HPC</text>
+<rect x='1207' y='336' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='1235' y='351' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Needs local capacity</text>
+<rect x='1207' y='370' width='14' height='14' rx='3' fill='#CC79A7'/>
+<text x='1235' y='385' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Apply <tspan font-style='italic'>V. cholerae</tspan> QC</text>
+<text x='1235' y='416' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>thresholds first</text>
+<circle cx='72' cy='525' r='24' fill='#9A4573'/><text x='72' y='535' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='106' y='536' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>WHAT EACH CAN CALL (OUR READING OF TABLE 4) AND WHERE IT STOPS</text>
+<line x1='50' y1='553' x2='1550' y2='553' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='575' width='1500' height='459' rx='22' fill='#fff' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<text x='452' y='614' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>Pathogen</text>
+<text x='452' y='645' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>watch</text>
+<text x='582' y='614' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>Bac</text>
+<text x='582' y='645' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>Page</text>
+<text x='712' y='614' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>Theia</text>
+<text x='712' y='645' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>Prok</text>
+<text x='842' y='614' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>Custom</text>
+<text x='842' y='645' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>CLI</text>
+<line x1='67' y1='656' x2='1533' y2='656' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='684' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Serogroup, biotype</text>
+<text x='937' y='684' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Gene markers (<tspan font-style='italic'>wbeN</tspan>, <tspan font-style='italic'>wbfR</tspan>, <tspan font-style='italic'>tcpA</tspan>); no serotyping</text>
+<circle cx='452' cy='677.5' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M452,663.5 A14,14 0 0 0 452,691.5 Z' fill='#007A5A'/>
+<circle cx='582' cy='677.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M575,677.5 H589' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='712' cy='677.5' r='15' fill='#007A5A'/>
+<circle cx='842' cy='677.5' r='15' fill='#007A5A'/>
+<line x1='67' y1='703' x2='1533' y2='703' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='731' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Virulence, <tspan font-style='italic'>ctxB</tspan></text>
+<text x='937' y='731' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>ctxB1</tspan>, 3, 7 genotyping: Vista or BLAST only</text>
+<circle cx='452' cy='724.5' r='15' fill='#007A5A'/>
+<circle cx='582' cy='724.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M575,724.5 H589' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='712' cy='724.5' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M712,710.5 A14,14 0 0 0 712,738.5 Z' fill='#007A5A'/>
+<circle cx='842' cy='724.5' r='15' fill='#007A5A'/>
+<line x1='67' y1='750' x2='1533' y2='750' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='778' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>MLST</text>
+<text x='937' y='778' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Pathogenwatch also builds cgMLST profiles</text>
+<circle cx='452' cy='771.5' r='15' fill='#007A5A'/>
+<circle cx='582' cy='771.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M575,771.5 H589' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='712' cy='771.5' r='15' fill='#007A5A'/>
+<circle cx='842' cy='771.5' r='15' fill='#007A5A'/>
+<line x1='67' y1='797' x2='1533' y2='797' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='825' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Lineage (T)</text>
+<text x='937' y='825' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Vibecheck is Illumina only; no direct ONT tool</text>
+<circle cx='452' cy='818.5' r='15' fill='#007A5A'/>
+<circle cx='582' cy='818.5' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M582,804.5 A14,14 0 0 0 582,832.5 Z' fill='#007A5A'/>
+<circle cx='712' cy='818.5' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M712,804.5 A14,14 0 0 0 712,832.5 Z' fill='#007A5A'/>
+<circle cx='842' cy='818.5' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M842,804.5 A14,14 0 0 0 842,832.5 Z' fill='#007A5A'/>
+<line x1='67' y1='844' x2='1533' y2='844' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='872' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>AMR</text>
+<text x='937' y='872' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Abricate misses QRDR mutations such as <tspan font-style='italic'>gyrA</tspan></text>
+<text x='937' y='903' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>S83I and <tspan font-style='italic'>parC</tspan> S85L</text>
+<circle cx='452' cy='881.0' r='15' fill='#007A5A'/>
+<circle cx='582' cy='881.0' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M582,867.0 A14,14 0 0 0 582,895.0 Z' fill='#007A5A'/>
+<circle cx='712' cy='881.0' r='15' fill='#007A5A'/>
+<circle cx='842' cy='881.0' r='15' fill='#007A5A'/>
+<line x1='67' y1='922' x2='1533' y2='922' stroke='#CFCFCF' stroke-width='2'/>
+<text x='67' y='950' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Plasmids, ICEs</text>
+<text x='937' y='950' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ICEfinder and MOB-suite only in custom CLI</text>
+<circle cx='452' cy='943.5' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M452,929.5 A14,14 0 0 0 452,957.5 Z' fill='#007A5A'/>
+<circle cx='582' cy='943.5' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M575,943.5 H589' stroke='#4D4D4D' stroke-width='3'/>
+<circle cx='712' cy='943.5' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M712,929.5 A14,14 0 0 0 712,957.5 Z' fill='#007A5A'/>
+<circle cx='842' cy='943.5' r='15' fill='#007A5A'/>
+<circle cx='83' cy='993' r='15' fill='#007A5A'/>
+<text x='109' y='1002' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>covered</text>
+<circle cx='261.39328125' cy='993' r='14' fill='#fff' stroke='#007A5A' stroke-width='3'/><path d='M261.39328125,979 A14,14 0 0 0 261.39328125,1007 Z' fill='#007A5A'/>
+<text x='287.39328125' y='1002' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>partial or limited</text>
+<circle cx='537.0203906249999' cy='993' r='14' fill='#fff' stroke='#4D4D4D' stroke-width='3'/><path d='M530.0203906249999,993 H544.0203906249999' stroke='#4D4D4D' stroke-width='3'/>
+<text x='563.0203906249999' y='1002' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>not available</text>
+<circle cx='72' cy='1083' r='24' fill='#A84300'/><text x='72' y='1093' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='106' y='1094' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A84300'>READ BEFORE CHOOSING</text>
+<line x1='50' y1='1111' x2='1550' y2='1111' stroke='#4D4D4D' stroke-width='3'/>
+<rect x='50' y='1133' width='1500' height='201' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<rect x='67' y='1157' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1172' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Characterise only genomes that pass QC (Section 5.2), whichever workflow is used</text>
+<rect x='67' y='1191' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1206' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>QRDR mutations need AMRFinderPlus (--organism <tspan font-style='italic'>Vibrio_cholerae</tspan>) or PAARSNP, not Abricate</text>
+<rect x='67' y='1225' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1240' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ONT: no direct lineage tool; AMR accuracy depends on chemistry, basecalling and depth</text>
+<rect x='67' y='1259' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1274' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: prose says BacPage gives serogroup; Table 4 says not implemented</text>
+<rect x='67' y='1293' width='14' height='14' rx='3' fill='#D55E00'/>
+<text x='95' y='1308' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check: Pathogenwatch advises against Vista biotype and serotype calls for now</text>
+</g>
+</svg>

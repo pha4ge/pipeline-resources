@@ -1,0 +1,211 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='297mm' height='181.86mm' viewBox='0 0 1994 1221'>
+<rect width='1994' height='1221' fill='#FFFFFF'/>
+<g transform='translate(12,12)'>
+<rect x='40' y='140' width='1890' height='103.2' rx='14' fill='#F2F6FA'/>
+<rect x='40' y='377.6' width='1890' height='103.2' rx='14' fill='#F2F6FA'/>
+<rect x='40' y='584.0' width='1890' height='103.2' rx='14' fill='#F2F6FA'/>
+<rect x='40' y='790.4000000000001' width='1890' height='319.4' rx='14' fill='#F2F6FA'/>
+<line x1='533.0' y1='146' x2='533.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<line x1='659.0' y1='146' x2='659.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<line x1='785.0' y1='146' x2='785.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<line x1='911.0' y1='146' x2='911.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<line x1='1037.0' y1='146' x2='1037.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<line x1='1163.0' y1='146' x2='1163.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<line x1='1289.0' y1='146' x2='1289.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<line x1='1415.0' y1='146' x2='1415.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<line x1='1541.0' y1='146' x2='1541.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<line x1='1667.0' y1='146' x2='1667.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<line x1='1793.0' y1='146' x2='1793.0' y2='1109.8000000000002' stroke='#D4DBE2' stroke-width='2'/>
+<circle cx='90' cy='191.6' r='36' fill='#FFFFFF' stroke='#0072B2' stroke-width='3'/>
+<path d='M 81,184.6 A 10,10 0 1,1 96,194.6 Q 90,198.6 90,204.6' fill='none' stroke='#6E6E6E' stroke-width='6.00' stroke-linecap='round' stroke-linejoin='round'/>
+<circle cx='90.00' cy='215.60' r='3.80' fill='#6E6E6E'/>
+<text xml:space='preserve' x='148' y='187.6' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#1A1A1A'><tspan>1st pandemic</tspan></text>
+<text xml:space='preserve' x='148' y='221.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>1817–1824</tspan></text>
+<rect x='514.1' y='169.6' width='44.1' height='44' fill='#FFFFFF'/>
+<line x1='514.1' y1='176.1' x2='520.6' y2='169.6' stroke='#0072B2' stroke-width='3'/>
+<line x1='514.1' y1='189.1' x2='533.6' y2='169.6' stroke='#0072B2' stroke-width='3'/>
+<line x1='514.1' y1='202.1' x2='546.6' y2='169.6' stroke='#0072B2' stroke-width='3'/>
+<line x1='515.6' y1='213.6' x2='558.2' y2='171.0' stroke='#0072B2' stroke-width='3'/>
+<line x1='528.6' y1='213.6' x2='558.2' y2='184.0' stroke='#0072B2' stroke-width='3'/>
+<line x1='541.6' y1='213.6' x2='558.2' y2='197.0' stroke='#0072B2' stroke-width='3'/>
+<line x1='554.6' y1='213.6' x2='558.2' y2='210.0' stroke='#0072B2' stroke-width='3'/>
+<rect x='514.1' y='169.6' width='44.1' height='44' fill='none' stroke='#0072B2' stroke-width='3.5'/>
+<text xml:space='preserve' x='580.2' y='176.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>Biotype: Not directly established (presumed Classical)</tspan></text>
+<text xml:space='preserve' x='580.2' y='218.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan font-style='italic'>ctxB</tspan><tspan>:</tspan></text>
+<rect x='650.0' y='186.2' width='133.9' height='42' rx='21' fill='#EDEDED' stroke='#8C8C8C' stroke-width='3'/>
+<text xml:space='preserve' x='664.998' y='218.1' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' fill='#1A1A1A'><tspan>Unknown</tspan></text>
+<circle cx='90' cy='310.4' r='36' fill='#FFFFFF' stroke='#0072B2' stroke-width='3'/>
+<path d='M 78,286.4 C 110,302.4 70,318.4 102,334.4' fill='none' stroke='#0072B2' stroke-width='5.00' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M 102,286.4 C 70,302.4 110,318.4 78,334.4' fill='none' stroke='#0072B2' stroke-width='5.00' stroke-linecap='round' stroke-linejoin='round'/>
+<line x1='81.00' y1='293.40' x2='99.00' y2='293.40' stroke='#0072B2' stroke-width='3.00' stroke-linecap='round'/>
+<line x1='81.00' y1='327.40' x2='99.00' y2='327.40' stroke='#0072B2' stroke-width='3.00' stroke-linecap='round'/>
+<line x1='85.00' y1='310.40' x2='95.00' y2='310.40' stroke='#0072B2' stroke-width='3.00' stroke-linecap='round'/>
+<text xml:space='preserve' x='148' y='306.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#1A1A1A'><tspan>2nd pandemic</tspan></text>
+<text xml:space='preserve' x='148' y='340.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>1829–1851</tspan></text>
+<rect x='589.7' y='288.4' width='138.6' height='44' fill='#0072B2' stroke='#1A1A1A' stroke-width='3.5'/>
+<text xml:space='preserve' x='750.3' y='279.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>Biotype: Classical (ancient DNA)</tspan></text>
+<text xml:space='preserve' x='750.3' y='310.9' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>(Devault et al. 2014, 1849 Philadelphia specimen)</tspan></text>
+<text xml:space='preserve' x='750.3' y='352.9' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan font-style='italic'>ctxB</tspan><tspan>:</tspan></text>
+<rect x='820.1' y='320.6' width='186.1' height='42' rx='21' fill='#D6E8F4' stroke='#0072B2' stroke-width='3'/>
+<text xml:space='preserve' x='835.098' y='352.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' fill='#1A1A1A'><tspan>Classical-type</tspan></text>
+<circle cx='90' cy='429.2' r='36' fill='#FFFFFF' stroke='#0072B2' stroke-width='3'/>
+<path d='M 81,422.2 A 10,10 0 1,1 96,432.2 Q 90,436.2 90,442.2' fill='none' stroke='#6E6E6E' stroke-width='6.00' stroke-linecap='round' stroke-linejoin='round'/>
+<circle cx='90.00' cy='453.20' r='3.80' fill='#6E6E6E'/>
+<text xml:space='preserve' x='148' y='425.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#1A1A1A'><tspan>3rd pandemic</tspan></text>
+<text xml:space='preserve' x='148' y='458.8' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>1852–1860</tspan></text>
+<rect x='734.6' y='407.2' width='50.4' height='44' fill='#FFFFFF'/>
+<line x1='734.6' y1='413.7' x2='741.1' y2='407.2' stroke='#0072B2' stroke-width='3'/>
+<line x1='734.6' y1='426.7' x2='754.1' y2='407.2' stroke='#0072B2' stroke-width='3'/>
+<line x1='734.6' y1='439.7' x2='767.1' y2='407.2' stroke='#0072B2' stroke-width='3'/>
+<line x1='736.1' y1='451.2' x2='780.1' y2='407.2' stroke='#0072B2' stroke-width='3'/>
+<line x1='749.1' y1='451.2' x2='785.0' y2='415.3' stroke='#0072B2' stroke-width='3'/>
+<line x1='762.1' y1='451.2' x2='785.0' y2='428.3' stroke='#0072B2' stroke-width='3'/>
+<line x1='775.1' y1='451.2' x2='785.0' y2='441.3' stroke='#0072B2' stroke-width='3'/>
+<rect x='734.6' y='407.2' width='50.4' height='44' fill='none' stroke='#0072B2' stroke-width='3.5'/>
+<text xml:space='preserve' x='807' y='414.1' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>Biotype: Not directly established (presumed Classical)</tspan></text>
+<text xml:space='preserve' x='807' y='456.1' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan font-style='italic'>ctxB</tspan><tspan>:</tspan></text>
+<rect x='876.8' y='423.8' width='133.9' height='42' rx='21' fill='#EDEDED' stroke='#8C8C8C' stroke-width='3'/>
+<text xml:space='preserve' x='891.798' y='455.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' fill='#1A1A1A'><tspan>Unknown</tspan></text>
+<circle cx='90' cy='532.4' r='36' fill='#FFFFFF' stroke='#0072B2' stroke-width='3'/>
+<path d='M 81,525.4 A 10,10 0 1,1 96,535.4 Q 90,539.4 90,545.4' fill='none' stroke='#6E6E6E' stroke-width='6.00' stroke-linecap='round' stroke-linejoin='round'/>
+<circle cx='90.00' cy='556.40' r='3.80' fill='#6E6E6E'/>
+<text xml:space='preserve' x='148' y='528.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#1A1A1A'><tspan>4th pandemic</tspan></text>
+<text xml:space='preserve' x='148' y='562.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>1863–1875</tspan></text>
+<rect x='803.9' y='510.4' width='75.6' height='44' fill='#FFFFFF'/>
+<line x1='803.9' y1='516.9' x2='810.4' y2='510.4' stroke='#0072B2' stroke-width='3'/>
+<line x1='803.9' y1='529.9' x2='823.4' y2='510.4' stroke='#0072B2' stroke-width='3'/>
+<line x1='803.9' y1='542.9' x2='836.4' y2='510.4' stroke='#0072B2' stroke-width='3'/>
+<line x1='805.4' y1='554.4' x2='849.4' y2='510.4' stroke='#0072B2' stroke-width='3'/>
+<line x1='818.4' y1='554.4' x2='862.4' y2='510.4' stroke='#0072B2' stroke-width='3'/>
+<line x1='831.4' y1='554.4' x2='875.4' y2='510.4' stroke='#0072B2' stroke-width='3'/>
+<line x1='844.4' y1='554.4' x2='879.5' y2='519.3' stroke='#0072B2' stroke-width='3'/>
+<line x1='857.4' y1='554.4' x2='879.5' y2='532.3' stroke='#0072B2' stroke-width='3'/>
+<line x1='870.4' y1='554.4' x2='879.5' y2='545.3' stroke='#0072B2' stroke-width='3'/>
+<rect x='803.9' y='510.4' width='75.6' height='44' fill='none' stroke='#0072B2' stroke-width='3.5'/>
+<text xml:space='preserve' x='901.5' y='517.3' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>Biotype: Not directly established (presumed Classical)</tspan></text>
+<text xml:space='preserve' x='901.5' y='559.3' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan font-style='italic'>ctxB</tspan><tspan>:</tspan></text>
+<rect x='971.3' y='527.0' width='133.9' height='42' rx='21' fill='#EDEDED' stroke='#8C8C8C' stroke-width='3'/>
+<text xml:space='preserve' x='986.298' y='558.9' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' fill='#1A1A1A'><tspan>Unknown</tspan></text>
+<circle cx='90' cy='635.6' r='36' fill='#FFFFFF' stroke='#0072B2' stroke-width='3'/>
+<circle cx='90.00' cy='635.60' r='25.00' fill='none' stroke='#0072B2' stroke-width='6.00'/>
+<circle cx='90.00' cy='635.60' r='16.00' fill='none' stroke='#9DC7DD' stroke-width='2.00'/>
+<circle cx='84.00' cy='630.60' r='5.00' fill='#0072B2'/>
+<circle cx='97.00' cy='639.60' r='4.00' fill='#0072B2'/>
+<circle cx='88.00' cy='644.60' r='3.00' fill='#0072B2'/>
+<text xml:space='preserve' x='148' y='631.6' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#1A1A1A'><tspan>5th pandemic</tspan></text>
+<text xml:space='preserve' x='148' y='665.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>1881–1896</tspan></text>
+<rect x='917.3' y='613.6' width='94.5' height='44' fill='#A9CEE8' stroke='#1A1A1A' stroke-width='3.5'/>
+<text xml:space='preserve' x='1033.8' y='620.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>Biotype: Classical (biotype attributed; no isolates preserved)</tspan></text>
+<text xml:space='preserve' x='1033.8' y='662.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan font-style='italic'>ctxB</tspan><tspan>:</tspan></text>
+<rect x='1103.6' y='630.2' width='200.4' height='42' rx='21' fill='#D6E8F4' stroke='#0072B2' stroke-width='3' stroke-dasharray='9 6'/>
+<text xml:space='preserve' x='1118.6' y='662.1' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' fill='#1A1A1A'><tspan font-style='italic'>ctxB1</tspan><tspan> (inferred)</tspan></text>
+<circle cx='90' cy='738.8' r='36' fill='#FFFFFF' stroke='#0072B2' stroke-width='3'/>
+<circle cx='90.00' cy='738.80' r='25.00' fill='none' stroke='#0072B2' stroke-width='6.00'/>
+<circle cx='90.00' cy='738.80' r='16.00' fill='none' stroke='#9DC7DD' stroke-width='2.00'/>
+<circle cx='84.00' cy='733.80' r='5.00' fill='#0072B2'/>
+<circle cx='97.00' cy='742.80' r='4.00' fill='#0072B2'/>
+<circle cx='88.00' cy='747.80' r='3.00' fill='#0072B2'/>
+<text xml:space='preserve' x='148' y='734.8' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#1A1A1A'><tspan>6th pandemic</tspan></text>
+<text xml:space='preserve' x='148' y='768.4' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>1899–1923</tspan></text>
+<rect x='1030.7' y='716.8' width='151.2' height='44' fill='#0072B2' stroke='#1A1A1A' stroke-width='3.5'/>
+<text xml:space='preserve' x='1203.9' y='723.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>Biotype: Classical (isolates available)</tspan></text>
+<text xml:space='preserve' x='1203.9' y='765.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan font-style='italic'>ctxB</tspan><tspan>:</tspan></text>
+<rect x='1273.7' y='733.4' width='92.5' height='42' rx='21' fill='#D6E8F4' stroke='#0072B2' stroke-width='3'/>
+<text xml:space='preserve' x='1288.7' y='765.3' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' fill='#1A1A1A'><tspan font-style='italic'>ctxB1</tspan></text>
+<circle cx='90' cy='857.6' r='36' fill='#FFFFFF' stroke='#E69F00' stroke-width='3'/>
+<path d='M 104,837.6 C 80,839.6 70,865.6 84,879.6' fill='none' stroke='#B07A00' stroke-width='13.00' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M 84,879.6 C 78,883.6 74,879.6 68,883.6 C 64,885.6 62,883.6 60,881.6' fill='none' stroke='#B07A00' stroke-width='3.00' stroke-linecap='round' stroke-linejoin='round'/>
+<text xml:space='preserve' x='148' y='853.6' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#1A1A1A'><tspan>7th pandemic</tspan></text>
+<text xml:space='preserve' x='148' y='887.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>1961–present</tspan></text>
+<rect x='1421.3' y='835.6' width='409.5' height='44' fill='#E69F00' stroke='#1A1A1A' stroke-width='3.5'/>
+<text xml:space='preserve' x='1397.3' y='826.9' text-anchor='end' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>Biotype: El Tor (7PET)</tspan></text>
+<text xml:space='preserve' x='1397.3' y='858.1' text-anchor='end' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>(O1 El Tor; O139 from 1992)</tspan></text>
+<text xml:space='preserve' x='801.067' y='900.1' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan font-style='italic'>ctxB</tspan><tspan> (O1 El Tor):</tspan></text>
+<rect x='1003.7' y='867.8' width='92.5' height='42' rx='21' fill='#FBE9BD' stroke='#E69F00' stroke-width='3'/>
+<text xml:space='preserve' x='1018.72' y='899.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' fill='#1A1A1A'><tspan font-style='italic'>ctxB3</tspan></text>
+<line x1='1104.2' y1='888.8000000000001' x2='1135.2' y2='888.8000000000001' stroke='#4D4D4D' stroke-width='4'/>
+<polygon points='1146.2,888.8000000000001 1133.2,880.8000000000001 1133.2,896.8000000000001' fill='#4D4D4D'/>
+<rect x='1154.2' y='867.8' width='92.5' height='42' rx='21' fill='#FBE9BD' stroke='#E69F00' stroke-width='3'/>
+<text xml:space='preserve' x='1169.25' y='899.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' fill='#1A1A1A'><tspan font-style='italic'>ctxB1</tspan></text>
+<line x1='1254.8' y1='888.8000000000001' x2='1285.8' y2='888.8000000000001' stroke='#4D4D4D' stroke-width='4'/>
+<polygon points='1296.8,888.8000000000001 1283.8,880.8000000000001 1283.8,896.8000000000001' fill='#4D4D4D'/>
+<rect x='1304.8' y='867.8' width='92.5' height='42' rx='21' fill='#FBE9BD' stroke='#E69F00' stroke-width='3'/>
+<text xml:space='preserve' x='1319.78' y='899.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='25' fill='#1A1A1A'><tspan font-style='italic'>ctxB7</tspan></text>
+<line x1='1421.3' y1='879.6' x2='1421.3' y2='913.6' stroke='#333333' stroke-width='3'/>
+<circle cx='1421.3' cy='879.6' r='7' fill='#FFFFFF' stroke='#333333' stroke-width='3'/>
+<circle cx='1421.3' cy='933.6' r='21' fill='#FFFFFF' stroke='#333333' stroke-width='3'/>
+<path d='M 1421.3,948.48 Q 1407.66,933.6 1407.66,923.68 A 13.64,13.64 0 0,1 1434.94,923.68 Q 1434.94,933.6 1421.3,948.48 Z' fill='#D55E00'/>
+<circle cx='1421.30' cy='923.68' r='4.96' fill='#FFFFFF'/>
+<text xml:space='preserve' x='1389.3' y='951.7' text-anchor='end' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1961 Sulawesi</tspan></text>
+<line x1='1616.6' y1='879.6' x2='1616.6' y2='971.6' stroke='#333333' stroke-width='3'/>
+<circle cx='1616.6' cy='879.6' r='7' fill='#FFFFFF' stroke='#333333' stroke-width='3'/>
+<circle cx='1616.6' cy='991.6' r='21' fill='#FFFFFF' stroke='#333333' stroke-width='3'/>
+<polygon points='1616.60,975.48 1619.45,984.73 1628.00,980.20 1623.47,988.75 1632.72,991.60 1623.47,994.45 1628.00,1003.00 1619.45,998.47 1616.60,1007.72 1613.75,998.47 1605.20,1003.00 1609.73,994.45 1600.48,991.60 1609.73,988.75 1605.20,980.20 1613.75,984.73' fill='#D55E00'/>
+<text xml:space='preserve' x='1584.6' y='1009.7' text-anchor='end' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1992 O139</tspan></text>
+<line x1='1711.1' y1='879.6' x2='1711.1' y2='1029.6' stroke='#333333' stroke-width='3'/>
+<circle cx='1711.1' cy='879.6' r='7' fill='#FFFFFF' stroke='#333333' stroke-width='3'/>
+<circle cx='1711.1' cy='1049.6' r='21' fill='#FFFFFF' stroke='#333333' stroke-width='3'/>
+<path d='M 1703.66,1034.72 C 1723.5,1044.64 1698.7,1054.56 1718.54,1064.48' fill='none' stroke='#0072B2' stroke-width='3.10' stroke-linecap='round' stroke-linejoin='round'/>
+<path d='M 1718.54,1034.72 C 1698.7,1044.64 1723.5,1054.56 1703.66,1064.48' fill='none' stroke='#0072B2' stroke-width='3.10' stroke-linecap='round' stroke-linejoin='round'/>
+<line x1='1705.52' y1='1039.06' x2='1716.68' y2='1039.06' stroke='#0072B2' stroke-width='1.86' stroke-linecap='round'/>
+<line x1='1705.52' y1='1060.14' x2='1716.68' y2='1060.14' stroke='#0072B2' stroke-width='1.86' stroke-linecap='round'/>
+<line x1='1708.00' y1='1049.60' x2='1714.20' y2='1049.60' stroke='#0072B2' stroke-width='1.86' stroke-linecap='round'/>
+<text xml:space='preserve' x='1442.11' y='1067.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>2007 </tspan><tspan font-style='italic'>ctxB7</tspan><tspan> (Odisha)</tspan></text>
+<line x1='1730.0' y1='879.6' x2='1730.0' y2='913.6' stroke='#333333' stroke-width='3'/>
+<circle cx='1730.0' cy='879.6' r='7' fill='#FFFFFF' stroke='#333333' stroke-width='3'/>
+<circle cx='1730' cy='933.6' r='21' fill='#FFFFFF' stroke='#333333' stroke-width='3'/>
+<path d='M 1730,948.48 Q 1716.36,933.6 1716.36,923.68 A 13.64,13.64 0 0,1 1743.64,923.68 Q 1743.64,933.6 1730,948.48 Z' fill='#D55E00'/>
+<circle cx='1730.00' cy='923.68' r='4.96' fill='#FFFFFF'/>
+<text xml:space='preserve' x='1762' y='951.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>2010 Haiti</tspan></text>
+<text xml:space='preserve' x='148' y='977.6' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='28' font-weight='700' fill='#1A1A1A'><tspan>Key events</tspan></text>
+<text xml:space='preserve' x='148' y='1011.2' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' font-weight='700' fill='#1A1A1A'><tspan>7th pandemic</tspan></text>
+<circle cx='90' cy='985.6' r='36' fill='#FFFFFF' stroke='#D55E00' stroke-width='3'/>
+<path d='M 90,1009.6 Q 68,985.6 68,969.6 A 22,22 0 0,1 112,969.6 Q 112,985.6 90,1009.6 Z' fill='#D55E00'/>
+<circle cx='90.00' cy='969.60' r='8.00' fill='#FFFFFF'/>
+<line x1='470.0' y1='1109.8000000000002' x2='1868.6' y2='1109.8000000000002' stroke='#222222' stroke-width='3'/>
+<line x1='533.0' y1='1109.8000000000002' x2='533.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='533' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1820</tspan></text>
+<line x1='659.0' y1='1109.8000000000002' x2='659.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='659' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1840</tspan></text>
+<line x1='785.0' y1='1109.8000000000002' x2='785.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='785' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1860</tspan></text>
+<line x1='911.0' y1='1109.8000000000002' x2='911.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='911' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1880</tspan></text>
+<line x1='1037.0' y1='1109.8000000000002' x2='1037.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='1037' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1900</tspan></text>
+<line x1='1163.0' y1='1109.8000000000002' x2='1163.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='1163' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1920</tspan></text>
+<line x1='1289.0' y1='1109.8000000000002' x2='1289.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='1289' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1940</tspan></text>
+<line x1='1415.0' y1='1109.8000000000002' x2='1415.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='1415' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1960</tspan></text>
+<line x1='1541.0' y1='1109.8000000000002' x2='1541.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='1541' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>1980</tspan></text>
+<line x1='1667.0' y1='1109.8000000000002' x2='1667.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='1667' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>2000</tspan></text>
+<line x1='1793.0' y1='1109.8000000000002' x2='1793.0' y2='1122.8000000000002' stroke='#222222' stroke-width='3'/>
+<text xml:space='preserve' x='1793' y='1156.3' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>2020</tspan></text>
+<rect x='58' y='42' width='66' height='34' fill='#0072B2' stroke='#1A1A1A' stroke-width='3.5'/>
+<text xml:space='preserve' x='142' y='63.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>Classical biotype –</tspan></text>
+<text xml:space='preserve' x='142' y='94.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>directly established</tspan></text>
+<rect x='418.66200000000003' y='42' width='66' height='34' fill='#A9CEE8' stroke='#1A1A1A' stroke-width='3.5'/>
+<text xml:space='preserve' x='502.662' y='63.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>Classical biotype – attributed,</tspan></text>
+<text xml:space='preserve' x='502.662' y='94.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>no isolates preserved</tspan></text>
+<rect x='898.144' y='42' width='66' height='34' fill='#E69F00' stroke='#1A1A1A' stroke-width='3.5'/>
+<text xml:space='preserve' x='982.144' y='63.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>El Tor biotype (7PET) –</tspan></text>
+<text xml:space='preserve' x='982.144' y='94.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>established</tspan></text>
+<rect x='1306.1' y='42.0' width='66.0' height='34' fill='#FFFFFF'/>
+<line x1='1306.1' y1='48.5' x2='1312.6' y2='42.0' stroke='#0072B2' stroke-width='3'/>
+<line x1='1306.1' y1='61.5' x2='1325.6' y2='42.0' stroke='#0072B2' stroke-width='3'/>
+<line x1='1306.1' y1='74.5' x2='1338.6' y2='42.0' stroke='#0072B2' stroke-width='3'/>
+<line x1='1317.6' y1='76.0' x2='1351.6' y2='42.0' stroke='#0072B2' stroke-width='3'/>
+<line x1='1330.6' y1='76.0' x2='1364.6' y2='42.0' stroke='#0072B2' stroke-width='3'/>
+<line x1='1343.6' y1='76.0' x2='1372.1' y2='47.5' stroke='#0072B2' stroke-width='3'/>
+<line x1='1356.6' y1='76.0' x2='1372.1' y2='60.5' stroke='#0072B2' stroke-width='3'/>
+<line x1='1369.6' y1='76.0' x2='1372.1' y2='73.5' stroke='#0072B2' stroke-width='3'/>
+<rect x='1306.1' y='42.0' width='66.0' height='34' fill='none' stroke='#0072B2' stroke-width='3.5'/>
+<text xml:space='preserve' x='1390.1' y='63.5' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>Biotype not directly established</tspan></text>
+<text xml:space='preserve' x='1390.1' y='94.7' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='26' fill='#1A1A1A'><tspan>(generally attributed to Classical)</tspan></text>
+</g>
+
+</svg>
