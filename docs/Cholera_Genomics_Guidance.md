@@ -440,7 +440,10 @@ The two-chromosome structure of *V. cholerae* should be borne in mind when evalu
 
 To ensure that all genome data are derived from *Vibrio cholerae*, species identity should be confirmed computationally before downstream analyses. This verification can be performed using either raw sequencing reads or assembled contigs by applying established bacterial taxonomic identification approaches such as Average Nucleotide Identity (ANI), **Sourmash**, or **GAMBIT** (Jain et al., 2018; Pierce et al., 2019; Lumpe et al., 2023). Species confirmation helps prevent misinterpretation of genomic data in cases where contaminating organisms have been inadvertently assembled, a commonly reported source of error in multi-step laboratory and sequencing workflows (Pierce et al., 2019; Lumpe et al., 2023).
 
-![Cholera genomics guidance figure 15](images/cholera-genomics/figure_warning.svg)
+\[\!WARNING\]
+
+* Public genomes downloaded for use as contextual sequences may not have been subject to the same — or any — quality standards as those generated within a surveillance programme and should be quality-checked before inclusion.   
+* Analysts must remember that even good-quality genome data, and particularly assemblies, represent estimates of a biological genome, not definitive truth about a genome. 
 
 
 
