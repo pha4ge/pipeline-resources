@@ -1,0 +1,24 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='210mm' height='65.31mm' viewBox='0 0 1582 492'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<marker id='ab' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#0072B2'/></marker></defs>
+<rect width='1582' height='492' fill='#FFFFFF'/>
+<g transform='translate(40,40)'>
+<rect x='0' y='0' width='1500' height='410' rx='20' fill='#FFF3D6' stroke='#E69F00' stroke-width='3'/>
+<path d='M20,0 H0 V410 H20' fill='none'/>
+<path d='M20,0 A20,20 0 0 0 0,20 V390 A20,20 0 0 0 20,410 H26 V0 Z' fill='#E69F00'/>
+<path d='M124.5,134.0 L199.5,270.0 L49.5,270.0 Z' fill='#E69F00' stroke='#E69F00' stroke-width='22' stroke-linejoin='round'/>
+<rect x='116.5' y='169.0' width='16' height='52' rx='8' fill='#FFFFFF'/>
+<circle cx='124.5' cy='239.0' r='9' fill='#FFFFFF'/>
+<text x='225' y='84' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='52' font-weight='700' fill='#C77700' letter-spacing='3'>WARNING</text>
+<path d='M225,104 H1464' stroke='#E69F00' stroke-width='3'/>
+<circle cx='234' cy='143' r='8' fill='#C77700'/>
+<text x='259' y='152' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='400' fill='#3A2A00'>Public genomes downloaded for use as contextual sequences may not have been subject</text>
+<text x='259' y='192' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='400' fill='#3A2A00'>to the same — or any — quality standards as those generated within a surveillance</text>
+<text x='259' y='232' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='400' fill='#3A2A00'>programme and should be quality-checked before inclusion.</text>
+<circle cx='234' cy='289' r='8' fill='#C77700'/>
+<text x='259' y='298' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='400' fill='#3A2A00'>Analysts must remember that even good-quality genome data, and particularly assemblies,</text>
+<text x='259' y='338' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='400' fill='#3A2A00'>represent estimates of a biological genome, not definitive truth about a genome.</text>
+</g>
+
+</svg>

@@ -1,0 +1,311 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='380mm' height='233.01mm' viewBox='0 0 2880 1766'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<marker id='ab' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#0072B2'/></marker></defs>
+<rect width='2880' height='1766' fill='#FFFFFF'/>
+<g transform='translate(40,40)'>
+<rect x='0' y='0' width='540.8' height='104' rx='22' fill='#0072B2'/>
+<rect x='0.0' y='80' width='540.8' height='24' fill='#0072B2'/>
+<circle cx='40.0' cy='52.0' r='25' fill='none' stroke='#FFFFFF' stroke-width='4'/>
+<text x='40.0' y='62.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>1</text>
+<text x='80.0' y='45.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>Cholera and why it</text>
+<text x='80.0' y='79.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>matters</text>
+<circle cx='488.79999999999995' cy='52.0' r='38' fill='#fff'/>
+<path d='M488.79999999999995,28.0 C493.79999999999995,40.0 509.79999999999995,52.0 509.79999999999995,63.0 A21,21 0 0 1 467.79999999999995,63.0 C467.79999999999995,52.0 483.79999999999995,40.0 488.79999999999995,28.0 Z' fill='#005A8C'/>
+<circle cx='31.0' cy='140' r='7.5' fill='#005A8C'/>
+<text x='52.0' y='149' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Faecal–oral cycle, repeated:</text>
+<rect x='22' y='170' width='100.969' height='48' rx='26' fill='#0072B2'/>
+<text x='72.484375' y='204.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>Shed</text>
+<path d='M126.969,194 L152.969,194' stroke='#005A8C' stroke-width='4' fill='none' marker-end='url(#ar)'/>
+<rect x='156.969' y='170' width='205.594' height='48' rx='26' fill='#0072B2'/>
+<text x='259.765625' y='204.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>Contaminate</text>
+<path d='M366.562,194 L392.562,194' stroke='#005A8C' stroke-width='4' fill='none' marker-end='url(#ar)'/>
+<rect x='396.562' y='170' width='115.484' height='48' rx='26' fill='#0072B2'/>
+<text x='454.3046875' y='204.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>Ingest</text>
+<circle cx='31.0' cy='250' r='7.5' fill='#005A8C'/>
+<text x='52.0' y='259' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Inadequate WASH is the key driver;</text>
+<text x='52.0' y='293' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>V. cholerae</tspan> also persists in aquatic</text>
+<text x='52.0' y='327' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>environments</text>
+<circle cx='31.0' cy='364' r='7.5' fill='#005A8C'/>
+<text x='52.0' y='373' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Conflict, displacement and poverty are</text>
+<text x='52.0' y='407' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>hit hardest</text>
+<circle cx='31.0' cy='444' r='7.5' fill='#005A8C'/>
+<text x='52.0' y='453' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>WHO, 1 Jan–30 Aug 2026: 275,284</text>
+<text x='52.0' y='487' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>cases, 2,601 deaths, 28 countries; true</text>
+<text x='52.0' y='521' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>burden is underestimated</text>
+<path d='M22.0,560 H518.8' stroke='#0072B2' stroke-width='2.5' opacity='0.6'/>
+<text x='22.0' y='596' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>Section 2</text>
+<rect x='564.8' y='0' width='540.8' height='104' rx='22' fill='#0072B2'/>
+<rect x='564.8' y='80' width='540.8' height='24' fill='#0072B2'/>
+<circle cx='604.8' cy='52.0' r='25' fill='none' stroke='#FFFFFF' stroke-width='4'/>
+<text x='604.8' y='62.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>2</text>
+<text x='644.8' y='45.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>The organism and its</text>
+<text x='644.8' y='79.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>evolution</text>
+<circle cx='1053.6' cy='52.0' r='38' fill='#fff'/>
+<circle cx='1045.6' cy='49.0' r='16' fill='none' stroke='#005A8C' stroke-width='6'/><circle cx='1066.6' cy='64.0' r='11' fill='none' stroke='#005A8C' stroke-width='5'/>
+<circle cx='595.8' cy='140' r='7.5' fill='#005A8C'/>
+<text x='616.8' y='149' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Over 200 serogroups; O1 and O139</text>
+<text x='616.8' y='183' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>cause almost all epidemic and</text>
+<text x='616.8' y='217' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>pandemic cholera</text>
+<circle cx='595.8' cy='254' r='7.5' fill='#005A8C'/>
+<text x='616.8' y='263' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Two chromosomes (~2.96 and ~1.07</text>
+<text x='616.8' y='297' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Mb)</text>
+<circle cx='595.8' cy='334' r='7.5' fill='#005A8C'/>
+<text x='616.8' y='343' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Toxigenic strains acquire VPI-1, then</text>
+<text x='616.8' y='377' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>CTXφ (<tspan font-style='italic'>ctxA</tspan>, <tspan font-style='italic'>ctxB</tspan>)</text>
+<circle cx='595.8' cy='414' r='7.5' fill='#005A8C'/>
+<text x='616.8' y='423' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Evolves by mutation and horizontal</text>
+<text x='616.8' y='457' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>gene transfer</text>
+<circle cx='595.8' cy='494' r='7.5' fill='#005A8C'/>
+<text x='616.8' y='503' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>7th pandemic since 1961 (7PET):</text>
+<text x='616.8' y='537' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>ctxB3</tspan> → <tspan font-style='italic'>ctxB1</tspan> → <tspan font-style='italic'>ctxB7</tspan></text>
+<path d='M586.8,560 H1083.6' stroke='#0072B2' stroke-width='2.5' opacity='0.6'/>
+<text x='586.8' y='596' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#005A8C'>Section 2</text>
+<rect x='1129.6' y='0' width='540.8' height='104' rx='22' fill='#E69F00'/>
+<rect x='1129.6' y='80' width='540.8' height='24' fill='#E69F00'/>
+<circle cx='1169.6' cy='52.0' r='25' fill='none' stroke='#1A1A1A' stroke-width='4'/>
+<text x='1169.6' y='62.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>3</text>
+<text x='1209.6' y='45.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>When and what to</text>
+<text x='1209.6' y='79.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>sequence</text>
+<circle cx='1618.3999999999999' cy='52.0' r='38' fill='#fff'/>
+<path d='M1618.3999999999999,78.0 V52.0 M1618.3999999999999,52.0 L1600.3999999999999,38.0 M1618.3999999999999,52.0 L1636.3999999999999,38.0' stroke='#A66A00' stroke-width='6' fill='none' stroke-linecap='round'/><circle cx='1600.3999999999999' cy='37.0' r='7' fill='#A66A00'/><circle cx='1636.3999999999999' cy='37.0' r='7' fill='#A66A00'/><circle cx='1618.3999999999999' cy='76.0' r='7' fill='#A66A00'/>
+<circle cx='1160.6' cy='140' r='7.5' fill='#A66A00'/>
+<text x='1181.6' y='149' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Confirm <tspan font-style='italic'>V. cholerae</tspan> first; sequence a</text>
+<text x='1181.6' y='183' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>pure culture with metadata</text>
+<circle cx='1160.6' cy='220' r='7.5' fill='#A66A00'/>
+<text x='1181.6' y='229' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Setting sets the approach: active</text>
+<text x='1181.6' y='263' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>outbreak, endemic surveillance or</text>
+<text x='1181.6' y='297' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>imported case</text>
+<circle cx='1160.6' cy='334' r='7.5' fill='#A66A00'/>
+<text x='1181.6' y='343' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Outbreak questions: strain identity,</text>
+<text x='1181.6' y='377' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>clonality and transmission, origins,</text>
+<text x='1181.6' y='411' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>evolution</text>
+<circle cx='1160.6' cy='448' r='7.5' fill='#A66A00'/>
+<text x='1181.6' y='457' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Between outbreaks: build the genomic</text>
+<text x='1181.6' y='491' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>baseline</text>
+<path d='M1151.6,560 H1648.3999999999999' stroke='#E69F00' stroke-width='2.5' opacity='0.6'/>
+<text x='1151.6' y='596' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A66A00'>Sections 3 and 4</text>
+<rect x='1694.4' y='0' width='540.8' height='104' rx='22' fill='#E69F00'/>
+<rect x='1694.3999999999999' y='80' width='540.8' height='24' fill='#E69F00'/>
+<circle cx='1734.3999999999999' cy='52.0' r='25' fill='none' stroke='#1A1A1A' stroke-width='4'/>
+<text x='1734.3999999999999' y='62.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>4</text>
+<text x='1774.3999999999999' y='45.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Samples and sampling</text>
+<text x='1774.3999999999999' y='79.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>plan</text>
+<circle cx='2183.2' cy='52.0' r='38' fill='#fff'/>
+<path d='M2175.2,30.0 h16 v14 l14,26 q3,8 -6,8 h-32 q-9,0 -6,-8 l14,-26 z' fill='#A66A00'/><rect x='2172.2' y='26.0' width='22' height='5' rx='2' fill='#A66A00'/>
+<circle cx='1725.3999999999999' cy='140' r='7.5' fill='#A66A00'/>
+<text x='1746.3999999999999' y='149' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Clinical: liquid stool or rectal swab,</text>
+<text x='1746.3999999999999' y='183' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>within 4 days of onset and before</text>
+<text x='1746.3999999999999' y='217' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>antibiotics</text>
+<circle cx='1725.3999999999999' cy='254' r='7.5' fill='#A66A00'/>
+<text x='1746.3999999999999' y='263' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Environmental: water, wastewater,</text>
+<text x='1746.3999999999999' y='297' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>sediment; isolation is often not</text>
+<text x='1746.3999999999999' y='331' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>achievable</text>
+<circle cx='1725.3999999999999' cy='368' r='7.5' fill='#A66A00'/>
+<text x='1746.3999999999999' y='377' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>The epidemiological question defines</text>
+<text x='1746.3999999999999' y='411' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>the plan in advance</text>
+<circle cx='1725.3999999999999' cy='448' r='7.5' fill='#A66A00'/>
+<text x='1746.3999999999999' y='457' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>A smaller stratified set beats a larger</text>
+<text x='1746.3999999999999' y='491' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>opportunistic one</text>
+<path d='M1716.3999999999999,560 H2213.2' stroke='#E69F00' stroke-width='2.5' opacity='0.6'/>
+<text x='1716.3999999999999' y='596' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A66A00'>Section 4</text>
+<rect x='2259.2' y='0' width='540.8' height='104' rx='22' fill='#E69F00'/>
+<rect x='2259.2' y='80' width='540.8' height='24' fill='#E69F00'/>
+<circle cx='2299.2' cy='52.0' r='25' fill='none' stroke='#1A1A1A' stroke-width='4'/>
+<text x='2299.2' y='62.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>5</text>
+<text x='2339.2' y='45.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>Sequencing and</text>
+<text x='2339.2' y='79.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#1A1A1A'>metadata</text>
+<circle cx='2748.0' cy='52.0' r='38' fill='#fff'/>
+<path d='M2734.0,30.0 C2768.0,44.0 2728.0,64.0 2762.0,78.0 M2762.0,30.0 C2728.0,44.0 2768.0,64.0 2734.0,78.0' stroke='#A66A00' stroke-width='6' fill='none'/><path d='M2739.0,39.0 H2757.0 M2736.0,54.0 H2760.0 M2739.0,69.0 H2757.0' stroke='#A66A00' stroke-width='4'/>
+<circle cx='2290.2' cy='140' r='7.5' fill='#A66A00'/>
+<text x='2311.2' y='149' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Silica spin column for most work;</text>
+<text x='2311.2' y='183' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>CTAB for very long ONT reads</text>
+<circle cx='2290.2' cy='220' r='7.5' fill='#A66A00'/>
+<text x='2311.2' y='229' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Check DNA purity before library</text>
+<text x='2311.2' y='263' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>preparation</text>
+<circle cx='2290.2' cy='300' r='7.5' fill='#A66A00'/>
+<text x='2311.2' y='309' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Illumina or ONT (R10.4.1); validate</text>
+<text x='2311.2' y='343' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ONT before it defines outbreak</text>
+<text x='2311.2' y='377' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>clusters</text>
+<circle cx='2290.2' cy='414' r='7.5' fill='#A66A00'/>
+<text x='2311.2' y='423' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Minimal metadata checklist</text>
+<text x='2311.2' y='457' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(PHA4GE/CholGen standard);</text>
+<text x='2311.2' y='491' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>personal identifiers stay internal</text>
+<path d='M2281.2,560 H2778.0' stroke='#E69F00' stroke-width='2.5' opacity='0.6'/>
+<text x='2281.2' y='596' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#A66A00'>Section 4</text>
+<rect x='0' y='634' width='682' height='104' rx='22' fill='#007A5A'/>
+<rect x='0.0' y='714' width='682.0' height='24' fill='#007A5A'/>
+<circle cx='40.0' cy='686.0' r='25' fill='none' stroke='#FFFFFF' stroke-width='4'/>
+<text x='40.0' y='696.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>6</text>
+<text x='80.0' y='696.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>Assembly and quality control</text>
+<circle cx='630.0' cy='686.0' r='38' fill='#fff'/>
+<path d='M630.0,662.0 L652.0,670.0 V690.0 C652.0,704.0 638.0,712.0 630.0,716.0 C622.0,712.0 608.0,704.0 608.0,690.0 V670.0 Z' fill='#007A5A'/><path d='M620.0,690.0 L628.0,699.0 L642.0,679.0' stroke='#fff' stroke-width='6' fill='none' stroke-linecap='round' stroke-linejoin='round'/>
+<circle cx='31.0' cy='774' r='7.5' fill='#007A5A'/>
+<text x='52.0' y='783' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Expect two chromosomes: Illumina assemblies are</text>
+<text x='52.0' y='817' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>fragmented, long reads can close both</text>
+<circle cx='31.0' cy='854' r='7.5' fill='#007A5A'/>
+<text x='52.0' y='863' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>QUAST and CheckM2 metrics against QualiBact</text>
+<text x='52.0' y='897' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>V. cholerae</tspan> thresholds</text>
+<circle cx='31.0' cy='934' r='7.5' fill='#007A5A'/>
+<text x='52.0' y='943' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Each metric is rated PASS, WARN or FAIL;</text>
+<text x='52.0' y='977' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>exclude FAIL genomes</text>
+<circle cx='31.0' cy='1014' r='7.5' fill='#007A5A'/>
+<text x='52.0' y='1023' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>13,049 genomes checked:</text>
+<rect x='22' y='1044' width='140.688' height='84' rx='18' fill='#009E73'/>
+<text x='92.34375' y='1080' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>11,080</text>
+<text x='92.34375' y='1115' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>PASS</text>
+<rect x='174.688' y='1044' width='140.688' height='84' rx='18' fill='#E69F00'/>
+<text x='245.03125' y='1080' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#1A1A1A'>1,411</text>
+<text x='245.03125' y='1115' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>WARN</text>
+<rect x='327.375' y='1044' width='140.688' height='84' rx='18' fill='#D55E00'/>
+<text x='397.71875' y='1080' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>558</text>
+<text x='397.71875' y='1115' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>FAIL</text>
+<path d='M22.0,1146 H660.0' stroke='#007A5A' stroke-width='2.5' opacity='0.6'/>
+<text x='22.0' y='1182' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>Section 5</text>
+<rect x='706' y='634' width='682' height='104' rx='22' fill='#007A5A'/>
+<rect x='706.0' y='714' width='682.0' height='24' fill='#007A5A'/>
+<circle cx='746.0' cy='686.0' r='25' fill='none' stroke='#FFFFFF' stroke-width='4'/>
+<text x='746.0' y='696.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>7</text>
+<text x='786.0' y='696.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>Characterising the genome</text>
+<circle cx='1336.0' cy='686.0' r='38' fill='#fff'/>
+<circle cx='1331.0' cy='683.0' r='15' fill='none' stroke='#007A5A' stroke-width='6'/><line x1='1342.0' y1='694.0' x2='1356.0' y2='708.0' stroke='#007A5A' stroke-width='8' stroke-linecap='round'/>
+<circle cx='737.0' cy='774' r='7.5' fill='#007A5A'/>
+<text x='758.0' y='783' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Serogroup from the O-antigen cluster (<tspan font-style='italic'>wbe</tspan> in O1,</text>
+<text x='758.0' y='817' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>wbf</tspan> in O139)</text>
+<circle cx='737.0' cy='854' r='7.5' fill='#007A5A'/>
+<text x='758.0' y='863' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>O1 serotype (Ogawa, Inaba) from <tspan font-style='italic'>wbeT</tspan>; biotype</text>
+<text x='758.0' y='897' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Classical or El Tor</text>
+<circle cx='737.0' cy='934' r='7.5' fill='#007A5A'/>
+<text x='758.0' y='943' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ST69 dominates 7PET; T/AFR lineage gives</text>
+<text x='758.0' y='977' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>regional context</text>
+<circle cx='737.0' cy='1014' r='7.5' fill='#007A5A'/>
+<text x='758.0' y='1023' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>ctxA</tspan> marks toxigenic potential; <tspan font-style='italic'>ctxB</tspan> genotype</text>
+<text x='758.0' y='1057' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(<tspan font-style='italic'>ctxB1</tspan>, <tspan font-style='italic'>ctxB3</tspan>, <tspan font-style='italic'>ctxB7</tspan>)</text>
+<path d='M728.0,1146 H1366.0' stroke='#007A5A' stroke-width='2.5' opacity='0.6'/>
+<text x='728.0' y='1182' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>Section 5</text>
+<rect x='1412' y='634' width='682' height='104' rx='22' fill='#007A5A'/>
+<rect x='1412.0' y='714' width='682.0' height='24' fill='#007A5A'/>
+<circle cx='1452.0' cy='686.0' r='25' fill='none' stroke='#FFFFFF' stroke-width='4'/>
+<text x='1452.0' y='696.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>8</text>
+<text x='1492.0' y='696.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>Antimicrobial resistance</text>
+<circle cx='2042.0' cy='686.0' r='38' fill='#fff'/>
+<g transform='rotate(-40 2042.0 688.0)'><rect x='2014.0' y='676.0' width='32' height='24' rx='12' fill='#007A5A'/><rect x='2040.0' y='678.0' width='28' height='20' rx='10' fill='none' stroke='#007A5A' stroke-width='5'/></g>
+<circle cx='1443.0' cy='774' r='7.5' fill='#007A5A'/>
+<text x='1464.0' y='783' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Doxycycline first-line if susceptible, else</text>
+<text x='1464.0' y='817' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ciprofloxacin or azithromycin</text>
+<circle cx='1443.0' cy='854' r='7.5' fill='#009E73'/>
+<text x='1464.0' y='863' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ICE: <tspan font-style='italic'>dfrA1</tspan>, <tspan font-style='italic'>sul2</tspan>, <tspan font-style='italic'>floR</tspan>, <tspan font-style='italic'>strA</tspan>/<tspan font-style='italic'>strB</tspan></text>
+<circle cx='1443.0' cy='900' r='7.5' fill='#0072B2'/>
+<text x='1464.0' y='909' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Mutations: <tspan font-style='italic'>gyrA</tspan> S83I, then <tspan font-style='italic'>parC</tspan> S85L</text>
+<circle cx='1443.0' cy='946' r='7.5' fill='#E69F00'/>
+<text x='1464.0' y='955' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Plasmids: <tspan font-style='italic'>blaPER-7</tspan>, <tspan font-style='italic'>blaCTX-M-15</tspan>, <tspan font-style='italic'>mph(A)</tspan></text>
+<circle cx='1443.0' cy='992' r='7.5' fill='#007A5A'/>
+<text x='1464.0' y='1001' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>A gene is not a phenotype: confirm with AST</text>
+<path d='M1434.0,1146 H2072.0' stroke='#007A5A' stroke-width='2.5' opacity='0.6'/>
+<text x='1434.0' y='1182' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#007A5A'>Section 5</text>
+<rect x='2118' y='634' width='682' height='104' rx='22' fill='#9A4573'/>
+<rect x='2118.0' y='714' width='682.0' height='24' fill='#9A4573'/>
+<circle cx='2158.0' cy='686.0' r='25' fill='none' stroke='#FFFFFF' stroke-width='4'/>
+<text x='2158.0' y='696.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>9</text>
+<text x='2198.0' y='696.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>Comparative genomics</text>
+<circle cx='2748.0' cy='686.0' r='38' fill='#fff'/>
+<path d='M2724.0,688.0 h12 M2736.0,674.0 v28 M2736.0,674.0 h22 M2736.0,702.0 h10 M2746.0,694.0 v16 M2746.0,694.0 h12 M2746.0,710.0 h12' stroke='#9A4573' stroke-width='5' fill='none'/><rect x='2758.0' y='669.0' width='12' height='10' fill='#9A4573'/><rect x='2758.0' y='689.0' width='12' height='10' fill='#9A4573'/><rect x='2758.0' y='705.0' width='12' height='10' fill='#9A4573'/>
+<circle cx='2149.0' cy='774' r='7.5' fill='#9A4573'/>
+<text x='2170.0' y='783' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Coarse to fine: serogroup, MLST, lineage, then</text>
+<text x='2170.0' y='817' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>isolate comparison</text>
+<circle cx='2149.0' cy='854' r='7.5' fill='#9A4573'/>
+<text x='2170.0' y='863' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Public database query finds related genomes</text>
+<text x='2170.0' y='897' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(cgMLST or placement)</text>
+<circle cx='2149.0' cy='934' r='7.5' fill='#9A4573'/>
+<text x='2170.0' y='943' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Defined isolate set: local plus context genomes, by</text>
+<text x='2170.0' y='977' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>phylogeny or cgMLST</text>
+<circle cx='2149.0' cy='1014' r='7.5' fill='#9A4573'/>
+<text x='2170.0' y='1023' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>No universal SNP cut-off; report the scheme used</text>
+<path d='M2140.0,1146 H2778.0' stroke='#9A4573' stroke-width='2.5' opacity='0.6'/>
+<text x='2140.0' y='1182' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>Section 6</text>
+<rect x='0' y='1220' width='682' height='104' rx='22' fill='#9A4573'/>
+<rect x='0.0' y='1300' width='682.0' height='24' fill='#9A4573'/>
+<circle cx='40.0' cy='1272.0' r='25' fill='none' stroke='#FFFFFF' stroke-width='4'/>
+<text x='40.0' y='1282.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>10</text>
+<text x='80.0' y='1282.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>Workflows and tools</text>
+<circle cx='630.0' cy='1272.0' r='38' fill='#fff'/>
+<rect x='625.0' y='1252.0' width='10' height='44' rx='2' fill='#9A4573' transform='rotate(0 630.0 1274.0)'/><rect x='625.0' y='1252.0' width='10' height='44' rx='2' fill='#9A4573' transform='rotate(45 630.0 1274.0)'/><rect x='625.0' y='1252.0' width='10' height='44' rx='2' fill='#9A4573' transform='rotate(90 630.0 1274.0)'/><rect x='625.0' y='1252.0' width='10' height='44' rx='2' fill='#9A4573' transform='rotate(135 630.0 1274.0)'/><circle cx='630.0' cy='1274.0' r='14' fill='#9A4573'/><circle cx='630.0' cy='1274.0' r='6' fill='#fff'/>
+<circle cx='31.0' cy='1360' r='7.5' fill='#9A4573'/>
+<text x='52.0' y='1369' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Four ways to run: Pathogenwatch, BacPage,</text>
+<text x='52.0' y='1403' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>TheiaProk, custom CLI</text>
+<circle cx='31.0' cy='1440' r='7.5' fill='#9A4573'/>
+<text x='52.0' y='1449' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>gyrA</tspan> and <tspan font-style='italic'>parC</tspan> mutations need AMRFinderPlus or</text>
+<text x='52.0' y='1483' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>PAARSNP, not Abricate</text>
+<circle cx='31.0' cy='1520' r='7.5' fill='#9A4573'/>
+<text x='52.0' y='1529' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Context from EnteroBase, NCBI Pathogen</text>
+<text x='52.0' y='1563' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Detection, Pathogenwatch</text>
+<circle cx='31.0' cy='1600' r='7.5' fill='#9A4573'/>
+<text x='52.0' y='1609' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Characterise downloaded genomes yourself</text>
+<path d='M22.0,1650 H660.0' stroke='#9A4573' stroke-width='2.5' opacity='0.6'/>
+<text x='22.0' y='1686' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#9A4573'>Section 7</text>
+<rect x='706' y='1220' width='682' height='104' rx='22' fill='#B34700'/>
+<rect x='706.0' y='1300' width='682.0' height='24' fill='#B34700'/>
+<circle cx='746.0' cy='1272.0' r='25' fill='none' stroke='#FFFFFF' stroke-width='4'/>
+<text x='746.0' y='1282.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>11</text>
+<text x='786.0' y='1282.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>Sharing data</text>
+<circle cx='1336.0' cy='1272.0' r='38' fill='#fff'/>
+<circle cx='1336.0' cy='1274.0' r='22' fill='none' stroke='#B34700' stroke-width='5'/><ellipse cx='1336.0' cy='1274.0' rx='9' ry='22' fill='none' stroke='#B34700' stroke-width='4'/><path d='M1314.0,1274.0 h44 M1318.0,1263.0 h36 M1318.0,1285.0 h36' stroke='#B34700' stroke-width='4'/>
+<rect x='728' y='1344' width='110.766' height='48' rx='26' fill='#B34700'/>
+<text x='783.3828125' y='1378.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>Share</text>
+<path d='M842.766,1368 L868.766,1368' stroke='#B34700' stroke-width='4' fill='none' marker-end='url(#ar)'/>
+<rect x='872.766' y='1344' width='136.656' height='48' rx='26' fill='#B34700'/>
+<text x='941.09375' y='1378.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>Deposit</text>
+<path d='M1013.42,1368 L1039.42,1368' stroke='#B34700' stroke-width='4' fill='none' marker-end='url(#ar)'/>
+<rect x='1043.42' y='1344' width='152.781' height='48' rx='26' fill='#B34700'/>
+<text x='1119.8125' y='1378.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#FFFFFF'>Describe</text>
+<circle cx='737.0' cy='1424' r='7.5' fill='#B34700'/>
+<text x='758.0' y='1433' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Share responsibly: consent, de-identified</text>
+<text x='758.0' y='1467' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>metadata, data sovereignty</text>
+<circle cx='737.0' cy='1504' r='7.5' fill='#B34700'/>
+<text x='758.0' y='1513' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Reads to SRA or ENA; assemblies to GenBank or</text>
+<text x='758.0' y='1547' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>ENA (INSDC)</text>
+<circle cx='737.0' cy='1584' r='7.5' fill='#B34700'/>
+<text x='758.0' y='1593' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Describe with the PHA4GE cholera standard;</text>
+<text x='758.0' y='1627' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>pseudonymise identifiers</text>
+<path d='M728.0,1650 H1366.0' stroke='#B34700' stroke-width='2.5' opacity='0.6'/>
+<text x='728.0' y='1686' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#B34700'>Section 8</text>
+<rect x='1412' y='1220' width='682' height='104' rx='22' fill='#B34700'/>
+<rect x='1412.0' y='1300' width='682.0' height='24' fill='#B34700'/>
+<circle cx='1452.0' cy='1272.0' r='25' fill='none' stroke='#FFFFFF' stroke-width='4'/>
+<text x='1452.0' y='1282.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>12</text>
+<text x='1492.0' y='1282.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>Interpreting and reporting</text>
+<circle cx='2042.0' cy='1272.0' r='38' fill='#fff'/>
+<path d='M2020.0,1256.0 h44 q6,0 6,6 v20 q0,6 -6,6 h-24 l-12,10 v-10 h-8 q-6,0 -6,-6 v-20 q0,-6 6,-6 z' fill='#B34700'/>
+<circle cx='1443.0' cy='1360' r='7.5' fill='#B34700'/>
+<text x='1464.0' y='1369' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Evidence raises or lowers probability; it cannot</text>
+<text x='1464.0' y='1403' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>prove transmission, source or cause</text>
+<circle cx='1443.0' cy='1440' r='7.5' fill='#B34700'/>
+<text x='1464.0' y='1449' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Tight cluster: point source; diverse: sustained local</text>
+<text x='1464.0' y='1483' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>spread; distant: several introductions</text>
+<circle cx='1443.0' cy='1520' r='7.5' fill='#B34700'/>
+<text x='1464.0' y='1529' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Report AMR first; state the comparison dataset</text>
+<circle cx='1443.0' cy='1566' r='7.5' fill='#B34700'/>
+<text x='1464.0' y='1575' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Tailor findings to clinical, epidemiology and policy</text>
+<text x='1464.0' y='1609' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>audiences</text>
+<path d='M1434.0,1650 H2072.0' stroke='#B34700' stroke-width='2.5' opacity='0.6'/>
+<text x='1434.0' y='1686' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#B34700'>Sections 9 and 10</text>
+<rect x='2118' y='1220' width='682' height='104' rx='22' fill='#B34700'/>
+<rect x='2118.0' y='1300' width='682.0' height='24' fill='#B34700'/>
+<circle cx='2158.0' cy='1272.0' r='25' fill='none' stroke='#FFFFFF' stroke-width='4'/>
+<text x='2158.0' y='1282.0' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='29' font-weight='700' fill='#FFFFFF'>13</text>
+<text x='2198.0' y='1282.0' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#FFFFFF'>Capacity building</text>
+<circle cx='2748.0' cy='1272.0' r='38' fill='#fff'/>
+<path d='M2722.0,1268.0 l26,-13 l26,13 l-26,13 z' fill='#B34700'/><path d='M2733.0,1275.0 v12 q15,9 30,0 v-12 l-15,7 z' fill='#B34700'/>
+<circle cx='2149.0' cy='1360' r='7.5' fill='#B34700'/>
+<text x='2170.0' y='1369' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Cholera Genomics Community of Practice: first</text>
+<text x='2170.0' y='1403' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>point of contact for laboratories</text>
+<circle cx='2149.0' cy='1440' r='7.5' fill='#B34700'/>
+<text x='2170.0' y='1449' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Resource mapping: protocols, tools, datasets and</text>
+<text x='2170.0' y='1483' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>experience</text>
+<circle cx='2149.0' cy='1520' r='7.5' fill='#B34700'/>
+<text x='2170.0' y='1529' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>General genomics and bioinformatics training</text>
+<path d='M2140.0,1650 H2778.0' stroke='#B34700' stroke-width='2.5' opacity='0.6'/>
+<text x='2140.0' y='1686' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#B34700'>Section 11</text>
+</g>
+
+</svg>
