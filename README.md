@@ -24,7 +24,7 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
  - [Cholera Genomics Guidance](docs/Cholera_Genomics_Guidance.md)
 - [Malaria Resources](#malaria-resources)
   - [Malaria Genomics Guidance](docs/Malaria_Genomics_Guidance.md)
-  - [Genomic Data Interpretation for NMCPs](nmcp-genomic-interpretation-guidance.html](https://pha4ge.github.io/nmcp-genomic-guidance/)
+  - [Genomic Data Interpretation for NMCPs](https://pha4ge.github.io/nmcp-genomic-guidance/)
 - [Contributing](#contributing)
 
 
@@ -99,7 +99,7 @@ Malaria Resources
 
 The PHA4GE Pipelines and Visualization Working Group has developed this guidance document to support the implementation of malaria genomic surveillance for public health. It covers surveillance questions, sampling and sequencing strategies, bioinformatics workflows, quality assurance, interpretation and reporting of genomic findings, and their use in informing malaria control and elimination programmes.
 
-### [Genomic Data Interpretation for NMCPs](docs/nmcp-genomic-interpretation-guidance.html](https://pha4ge.github.io/nmcp-genomic-guidance/)
+### [Genomic Data Interpretation for NMCPs](https://pha4ge.github.io/nmcp-genomic-guidance/)
 
 This accompanying resource supports National Malaria Control Programmes (NMCPs) in interpreting genomic surveillance findings and linking genomic evidence to public health questions, supporting epidemiological information and potential programme actions.
 
