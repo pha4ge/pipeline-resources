@@ -442,10 +442,7 @@ To ensure that all genome data are derived from *Vibrio cholerae*, species ident
 
 ![Cholera genomics guidance figure 15](images/cholera-genomics/figure_warning.svg)
 
-\[\!WARNING\]
 
-* Public genomes downloaded for use as contextual sequences may not have been subject to the same — or any — quality standards as those generated within a surveillance programme and should be quality-checked before inclusion.   
-* Analysts must remember that even good-quality genome data, and particularly assemblies, represent estimates of a biological genome, not definitive truth about a genome. 
 
 ![Cholera genomics guidance figure 16](images/cholera-genomics/figure_14.svg)  
 **Figure 16\. Assembly quality control and species confirmation.** Diagram shows the expected two-chromosome structure, species-specific QC thresholds, species identity and the limits of assemblies. Sources: PHA4GE Cholera Genomics Guidance; QualiBact qualibact-v1.0 (qualibact.org/Vibrio/Vibrio\_cholerae/, accessed 28 Oct 2026). Heidelberg 2000; Gurevich 2013 (QUAST); Chklovski 2023 (CheckM2); Jain 2018 (FastANI); Pierce 2019 (sourmash); Lumpe 2023 (GAMBIT).
