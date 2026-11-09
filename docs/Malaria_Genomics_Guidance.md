@@ -211,7 +211,7 @@ Genomic findings should, therefore, be interpreted together with epidemiological
 
 ### 2.4 From Surveillance Question to Public Health Action
 
-![Figure 2.4: Malaria genomic surveillance pathway](images/malaria-genomics/Figure_1.png)
+<img src="images/malaria-genomics/Figure_1.png" alt="Figure 2.4: Malaria genomic surveillance pathway" width="60%">
 
 *Figure 2.4: The malaria genomic surveillance pathway from public health question to programme action. Each stage is addressed by the indicated section. The pathway is iterative: programme action and its evaluation generate the next surveillance question. Genomic evidence enters programme decision-making alongside epidemiological, clinical, diagnostic and entomological evidence, and rarely acts on its own.*
 
@@ -250,7 +250,7 @@ A strong national malaria genomics programme should combine routine targeted sur
 
 ### 3.3 Choosing and Moving Between Tiers
 
-![Figure 3.3: Surveillance tier decision tree](images/malaria-genomics/Figure_2.png)
+<img src="images/malaria-genomics/Figure_2.png" alt="Figure 3.3: Surveillance tier decision tree" width="60%">
 
 *Figure 3.3: Decision tree for selecting a malaria genomic surveillance tier. Tiers are not a maturity ladder; a programme may operate at different tiers for different objectives simultaneously. Tier definitions and expected outputs are given in [Table 3.2](#table-32-tiered-model-for-implementing-malaria-genomic-surveillance).*
 
@@ -752,10 +752,10 @@ The choice of sequencing strategy should be guided by the specific public health
 | **Rapid decentralised surveillance** | NOMADS-like nanopore | Focused amplicon sequencing | Local sequencing and fast turnaround |
 | **Routine national surveillance** | MAD4HatTeR, MIPs, amplicon panels, NOMADS | WGS subset | Balances cost, scale, and actionability |
 
-![Figure 6.3: Sequencing strategy decision tree](images/malaria-genomics/Figure_3.png)
+<img src="images/malaria-genomics/Figure_3.png" alt="Figure 6.3: Sequencing strategy decision tree" width="60%">
 *Figure 6.3: Decision tree for selecting a sequencing strategy. Parasite density and turnaround requirements constrain the choice as strongly as the question itself; a strategy that cannot be delivered on the available specimens is not fit for purpose. See [Table 6.3](#table-63-matching-malaria-sequencing-strategies-to-public-health-questions) for strategy options by question and [Table 6.4c](#table-64c-sequencing-strategies-by-required-analytical-resolution) for resolution requirements.*
 
-![Amplicon sequencing: Case Studies 1 and 4](images/malaria-genomics/PHA4GE_CaseStudies1and4_Amplicon.svg)
+<img src="images/malaria-genomics/PHA4GE_CaseStudies1and4_Amplicon.svg" alt="Amplicon sequencing: Case Studies 1 and 4" width="60%">
 
 ### 6.4 Cost, Turnaround Time, and Analytical Resolution
 
@@ -983,7 +983,7 @@ Strict minimum thresholds must be set for each analysis result, and there cannot
 ### 7.6 Standard Workflow Steps and Declared Outputs
 
 Each step in a workflow or pipeline should emit 1\) machine-readable output data or information for the next step, 2\) machine-readable run metrics for an analysis report (without the run metrics, it can be difficult to debug the workflow if something goes wrong), 3\) a summary report. All standard sequencing file types must align with Global Alliance for Genomics and Health conventions. Ensure you have concise interpretive reports for public health use, full reports for surveillance initiatives, dashboards, or malaria threats platforms (such as the WHO malaria threats map, the Worldwide Antimalarial Resistance Network (WWARN) Molecular Surveyor, and the Mitigating Antimalarial Resistance Consortium (MARC) for Southern and Eastern Africa dashboard) where appropriate. Use standardised language in the results to ease data sharing and minimise drifts in understanding. The workflow must be easily accessible and run unedited, preferably on an offline laptop or cloud backend. In Figure 7.6, each step emits machine-readable data for the next step, machine-readable run metrics for the analysis report, and a human-readable summary.  
-![Figure 7.6: Malaria analytical workflow](images/malaria-genomics/Figure_4.png)
+<img src="images/malaria-genomics/Figure_4.png" alt="Figure 7.6: Malaria analytical workflow" width="70%">
 
 *Figure 7.6: Standard analytical workflow for malaria genomic surveillance, showing method-specific branches and step outputs.*
 
@@ -1121,7 +1121,7 @@ To ensure complete traceability throughout the workflow, metadata should be link
 * Analysis ID – uniquely identifies a bioinformatics analysis workflow and resulting dataset  
 * Report ID – uniquely identifies a surveillance report, public health assessment, or final analytical output
 
-![Figure 8.2: Specimen and analysis identifier hierarchy](images/malaria-genomics/Figure_5.png)
+<img src="images/malaria-genomics/Figure_5.png" alt="Figure 8.2: Specimen and analysis identifier hierarchy" width="60%">
 
 *Figure 8.2: Example identifier hierarchy for malaria genomic surveillance. These identifiers should be linked throughout the workflow to preserve the chain of custody from collection to report, support quality assurance, and enable integration of epidemiological and genomic data. It should allow any result to be traced back to the specimen and forward to its published accession. Specimen collector identifiers are treated as identifying data and are handled under the access rules.*
 
@@ -1417,7 +1417,7 @@ Ultimately, integrating genomic surveillance into malaria control and eliminatio
 | Novel or unclassified variant. | Refer for characterisation, report as a variant of unknown significance, continue monitoring. |
 | Signal below the minimum determinant call threshold. | Report as insufficient data, increase sampling. |
 
-![Figure 10.3: Genomic signal escalation pathway](images/malaria-genomics/Figure_6.png)
+<img src="images/malaria-genomics/Figure_6.png" alt="Figure 10.3: Genomic signal escalation pathway" width="60%">
 *Figure 10.3: Escalation pathway from a genomic signal to programme action. Escalation depends on the evidence class of the marker, the adequacy of the underlying data, and convergence with clinical and epidemiological evidence. Thresholds for several of these decisions are not yet internationally agreed; see [Section 14.6](#146-interpretation-thresholds) for discussion.*
 
 ### 10.4 Reporting Standards
@@ -1711,7 +1711,7 @@ At each stage, the system should define:
 * Escalation pathways  
 * Reporting recipients
 
-![Figure 12.4: National genomic surveillance system](images/malaria-genomics/Figure_8.png)
+<img src="images/malaria-genomics/Figure_8.png" alt="Figure 12.4: National genomic surveillance system" width="60%">
 
 *Figure 12.4: Components of a national malaria genomic surveillance system. The technical domains cannot function without the cross-cutting enablers. Genomic surveillance feeds into existing surveillance streams.*
 
@@ -1809,7 +1809,7 @@ WHO guidance should frame the interpretation of resistance markers and programme
 
 ### 13.1 Case Study 1
 
-![Case Study 1: Ghana](images/malaria-genomics/PHA4GE_CaseStudy1_Ghana.svg)
+<img src="images/malaria-genomics/PHA4GE_CaseStudy1_Ghana.svg" alt="Case Study 1: Ghana" width="60%">
 
 
 **Drug resistance and vaccine-target surveillance of *Plasmodium falciparum* using nanopore sequencing in Ghana ([Girgis *et al.*, 2023](https://doi.org/10.1038/s41564-023-01516-6))**
