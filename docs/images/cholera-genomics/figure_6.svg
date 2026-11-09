@@ -1,0 +1,134 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='170mm' height='214.63mm' viewBox='0 0 1600 2020'>
+<defs><marker id='ar' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#4D4D4D'/></marker>
+<marker id='ag' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#009E73'/></marker>
+<marker id='ao' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<marker id='aos' viewBox='0 0 10 10' refX='2' refY='5' markerWidth='5' markerHeight='5' orient='auto-start-reverse'><path d='M0,0 L10,5 L0,10 z' fill='#E69F00'/></marker>
+<filter id='sh' x='-10%' y='-10%' width='130%' height='140%'><feDropShadow dx='0' dy='4' stdDeviation='6' flood-color='#000' flood-opacity='0.12'/></filter></defs>
+<rect width='1600' height='2164' fill='#FFFFFF'/>
+<g transform='translate(0,-140)'>
+<rect x='690' y='262' width='860' height='1283' rx='22' fill='#FDF5F9' stroke='#9A4573' stroke-width='3' filter='url(#sh)'/>
+<rect x='50' y='262' width='520' height='1283' rx='22' fill='#EAF4FB' stroke='#0072B2' stroke-width='3' filter='url(#sh)'/>
+<text x='716' y='322' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='38' font-weight='700' fill='#9A4573'>Horizontal gene transfer (HGT)</text>
+<text x='716' y='366' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Strains acquire genetic material through two distinct processes</text>
+<rect x='710' y='400' width='820' height='420' rx='22' fill='#F8EAF2' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<rect x='1204' y='426' width='38' height='24' rx='5' fill='#56B4E9'/><rect x='1244' y='426' width='38' height='24' rx='5' fill='#56B4E9'/><rect x='1284' y='426' width='38' height='24' rx='5' fill='#56B4E9'/><rect x='1204' y='466' width='38' height='24' rx='5' fill='#E69F00'/><rect x='1244' y='466' width='38' height='24' rx='5' fill='#E69F00'/><rect x='1284' y='466' width='38' height='24' rx='5' fill='#E69F00'/><path d='M1336,458 h36' stroke='#4D4D4D' stroke-width='5' marker-end='url(#ar)'/><rect x='1388' y='426' width='38' height='24' rx='5' fill='#56B4E9'/><rect x='1428' y='426' width='38' height='24' rx='5' fill='#E69F00'/><rect x='1468' y='426' width='38' height='24' rx='5' fill='#56B4E9'/><rect x='1388' y='466' width='38' height='24' rx='5' fill='#E69F00'/><rect x='1428' y='466' width='38' height='24' rx='5' fill='#56B4E9'/><rect x='1468' y='466' width='38' height='24' rx='5' fill='#E69F00'/>
+<text x='736' y='462' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='34' font-weight='700' fill='#9A4573'>Recombination</text>
+<text x='736' y='514' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Segments of the core genome are exchanged between</text>
+<text x='736' y='547' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>co-circulating strains</text>
+<text x='736' y='590' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Shuffles existing diversity and generates new combinations</text>
+<text x='736' y='623' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>beyond what mutation alone would produce</text>
+<rect x='736' y='670' width='768' height='124' rx='22' fill='#FFFFFF' stroke='#CC79A7' stroke-width='3' stroke-dasharray='10 7' filter='url(#sh)'/>
+<rect x='752' y='651' width='203.84375' height='38' rx='19.0' fill='#CC79A7'/>
+<text x='768' y='679' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Real example</text>
+<text x='750' y='722' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Genetic recombination via lateral gene transfer is extensive in</text>
+<text x='750' y='754' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>V. cholerae</tspan> (Chun et al., 2009)</text>
+<rect x='710' y='840' width='820' height='685' rx='22' fill='#F8EAF2' stroke='#CC79A7' stroke-width='3' filter='url(#sh)'/>
+<text x='736' y='902' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='34' font-weight='700' fill='#9A4573'>Mobile element-mediated transfer</text>
+<text x='736' y='952' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>New genetic content is acquired from other strains or the</text>
+<text x='736' y='985' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>environment</text>
+<text x='736' y='1040' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#4D4D4D'>WHAT IS ACQUIRED</text>
+<rect x='736' y='1069' width='16' height='16' rx='3' fill='#E69F00'/>
+<text x='766' y='1085' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Resistance cassettes</text>
+<rect x='736' y='1117' width='16' height='16' rx='3' fill='#E69F00'/>
+<text x='766' y='1133' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Virulence factors</text>
+<rect x='736' y='1165' width='16' height='16' rx='3' fill='#E69F00'/>
+<text x='766' y='1181' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Pathogenicity islands</text>
+<text x='1076' y='1040' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#4D4D4D'>VIA</text>
+<rect x='1076.0' y='1059' width='207.0' height='54' rx='27.0' fill='#fff' stroke='#CC79A7' stroke-width='3'/>
+<circle cx='1110.0' cy='1086' r='15' fill='none' stroke='#9A4573' stroke-width='7'/><rect x='1104.0' y='1063' width='12' height='10' rx='2' fill='#E69F00'/>
+<text x='1138.0' y='1096' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Plasmids</text>
+<rect x='1297.0' y='1059' width='207.0' height='54' rx='27.0' fill='#fff' stroke='#CC79A7' stroke-width='3'/>
+<path d='M1309.0,1094 c5,-24 11,-24 16,0 s11,24 16,0 s11,-24 16,0' fill='none' stroke='#9A4573' stroke-width='7' stroke-linecap='round'/>
+<text x='1359.0' y='1096' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Phages</text>
+<rect x='1076.0' y='1121' width='207.0' height='54' rx='27.0' fill='#fff' stroke='#CC79A7' stroke-width='3'/>
+<circle cx='1110.0' cy='1148' r='15' fill='none' stroke='#9A4573' stroke-width='7'/><path d='M1099.0,1136 A15,15 0 0 1 1121.0,1136' fill='none' stroke='#E69F00' stroke-width='9' stroke-linecap='round'/>
+<text x='1138.0' y='1158' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>ICEs</text>
+<rect x='1297.0' y='1121' width='207.0' height='54' rx='27.0' fill='#fff' stroke='#CC79A7' stroke-width='3'/>
+<rect x='1309.0' y='1139' width='13' height='18' rx='3' fill='#9A4573'/><rect x='1325.0' y='1139' width='13' height='18' rx='3' fill='#E69F00'/><rect x='1341.0' y='1139' width='13' height='18' rx='3' fill='#9A4573'/><path d='M1309.0,1132 h38' stroke='#9A4573' stroke-width='3'/>
+<text x='1359.0' y='1158' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Integrons</text>
+<rect x='736' y='1227' width='768' height='48' rx='14' fill='#CC79A7'/>
+<text x='752' y='1261' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Enables rapid transfer of beneficial traits</text>
+<text x='1488' y='1261' text-anchor='end' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>See Section 5</text>
+<rect x='736' y='1303' width='768' height='196' rx='22' fill='#FFFFFF' stroke='#CC79A7' stroke-width='3' stroke-dasharray='10 7' filter='url(#sh)'/>
+<rect x='752' y='1284' width='218.96875' height='38' rx='19.0' fill='#CC79A7'/>
+<text x='768' y='1312' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Real examples</text>
+<text x='750' y='1355' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>CTX&#966; phage carries <tspan font-style='italic'>ctxA</tspan> and <tspan font-style='italic'>ctxB</tspan>, encoding cholera toxin</text>
+<text x='750' y='1387' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>(Waldor &amp; Mekalanos, 1996)</text>
+<text x='750' y='1427' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>SXT-family ICEs carry antibiotic resistance genes; acquiring</text>
+<text x='750' y='1459' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>them shaped pandemic spread (Mutreja et al., 2011)</text>
+<rect x='130.0' y='302' width='26' height='36' rx='5' fill='#0072B2'/><rect x='130.0' y='344' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='160.0' y='302' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='160.0' y='344' width='26' height='36' rx='5' fill='#0072B2'/><rect x='190.0' y='302' width='26' height='36' rx='5' fill='#0072B2'/><rect x='190.0' y='344' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='220.0' y='302' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='220.0' y='344' width='26' height='36' rx='5' fill='#0072B2'/><rect x='250.0' y='302' width='26' height='36' rx='5' fill='#0072B2'/><rect x='250.0' y='344' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='280.0' y='302' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='280.0' y='344' width='26' height='36' rx='5' fill='#0072B2'/><rect x='310.0' y='302' width='26' height='36' rx='5' fill='#D55E00'/><rect x='310.0' y='344' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='340.0' y='302' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='340.0' y='344' width='26' height='36' rx='5' fill='#0072B2'/><rect x='370.0' y='302' width='26' height='36' rx='5' fill='#0072B2'/><rect x='370.0' y='344' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='400.0' y='302' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='400.0' y='344' width='26' height='36' rx='5' fill='#0072B2'/><rect x='430.0' y='302' width='26' height='36' rx='5' fill='#0072B2'/><rect x='430.0' y='344' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='460.0' y='302' width='26' height='36' rx='5' fill='#56B4E9'/><rect x='460.0' y='344' width='26' height='36' rx='5' fill='#0072B2'/><rect x='304.0' y='296' width='38' height='90' rx='10' fill='none' stroke='#D55E00' stroke-width='4' stroke-dasharray='8 5'/>
+<text x='76' y='434' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='38' font-weight='700' fill='#0072B2'>Mutation</text>
+<text x='76' y='487' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Accumulation of heritable changes in</text>
+<text x='76' y='520' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>the DNA sequence arising during</text>
+<text x='76' y='553' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>replication</text>
+<text x='76' y='610' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#4D4D4D'>Mutations may be:</text>
+<rect x='76' y='655' width='130' height='48' rx='24.0' fill='#F0F0F0' stroke='#8A8A8A' stroke-width='3'/>
+<text x='141.0' y='689' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Neutral</text>
+<rect x='220' y='655' width='136' height='48' rx='24.0' fill='#FBEDE4' stroke='#D55E00' stroke-width='3'/>
+<text x='288.0' y='689' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Harmful</text>
+<rect x='370' y='655' width='166' height='48' rx='24.0' fill='#E6F5EF' stroke='#009E73' stroke-width='3'/>
+<text x='453.0' y='689' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Beneficial</text>
+<path d='M453.0,707 V737' stroke='#009E73' stroke-width='4' marker-end='url(#ag)'/>
+<rect x='68' y='743' width='484' height='410' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<text x='92' y='781' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Those conferring a selective</text>
+<text x='92' y='814' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>advantage tend to spread through</text>
+<text x='92' y='847' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>bacterial populations over time,</text>
+<text x='92' y='880' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>for example:</text>
+<rect x='92' y='903' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='122' y='919' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>resistance to antibiotics</text>
+<rect x='92' y='941' width='14' height='14' rx='3' fill='#009E73'/>
+<text x='122' y='957' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>improved capacity to colonise the</text>
+<text x='122' y='989' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>human intestine</text>
+<circle cx='104' cy='1049' r='11' fill='#009E73'/><circle cx='133' cy='1049' r='11' fill='#C4C4C4'/><circle cx='162' cy='1049' r='11' fill='#C4C4C4'/><circle cx='191' cy='1049' r='11' fill='#C4C4C4'/><circle cx='104' cy='1078' r='11' fill='#C4C4C4'/><circle cx='133' cy='1078' r='11' fill='#C4C4C4'/><circle cx='162' cy='1078' r='11' fill='#C4C4C4'/><circle cx='191' cy='1078' r='11' fill='#C4C4C4'/>
+<path d='M216,1063 h24' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+<circle cx='262' cy='1049' r='11' fill='#009E73'/><circle cx='291' cy='1049' r='11' fill='#009E73'/><circle cx='320' cy='1049' r='11' fill='#009E73'/><circle cx='349' cy='1049' r='11' fill='#009E73'/><circle cx='262' cy='1078' r='11' fill='#C4C4C4'/><circle cx='291' cy='1078' r='11' fill='#C4C4C4'/><circle cx='320' cy='1078' r='11' fill='#C4C4C4'/><circle cx='349' cy='1078' r='11' fill='#C4C4C4'/>
+<path d='M374,1063 h24' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+<circle cx='420' cy='1049' r='11' fill='#009E73'/><circle cx='449' cy='1049' r='11' fill='#009E73'/><circle cx='478' cy='1049' r='11' fill='#009E73'/><circle cx='507' cy='1049' r='11' fill='#009E73'/><circle cx='420' cy='1078' r='11' fill='#009E73'/><circle cx='449' cy='1078' r='11' fill='#009E73'/><circle cx='478' cy='1078' r='11' fill='#009E73'/><circle cx='507' cy='1078' r='11' fill='#009E73'/>
+<text x='308.0' y='1131' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>over time</text>
+<rect x='68' y='1287' width='484' height='226' rx='22' fill='#FFFFFF' stroke='#0072B2' stroke-width='3' stroke-dasharray='10 7' filter='url(#sh)'/>
+<rect x='88' y='1268' width='203.84375' height='38' rx='19.0' fill='#56B4E9'/>
+<text x='104' y='1296' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Real example</text>
+<text x='80' y='1339' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'><tspan font-style='italic'>gyrA</tspan> S83I and <tspan font-style='italic'>parC</tspan> S85L</text>
+<text x='80' y='1371' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>substitutions: nalidixic acid resistance</text>
+<text x='80' y='1403' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>and reduced ciprofloxacin</text>
+<text x='80' y='1435' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>susceptibility</text>
+<text x='80' y='1471' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#4D4D4D'>(Sjölund-Karlsson et al., 2011)</text>
+<circle cx='72' cy='196' r='24' fill='#4D4D4D'/><text x='72' y='206' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>1</text>
+<text x='106' y='205' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#4D4D4D'>TWO MECHANISMS OF EVOLUTION</text>
+<line x1='50' y1='227' x2='1550' y2='227' stroke='#4D4D4D' stroke-width='3'/>
+<path d='M630.0,903.5 H684' stroke='#E69F00' stroke-width='6' marker-end='url(#ao)'/>
+<path d='M630.0,903.5 H576' stroke='#E69F00' stroke-width='6' marker-end='url(#ao)'/>
+<text x='630.0' y='881.5' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#8A5A00'>interact</text>
+<path d='M310.0,1549 V1633' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+<path d='M1120.0,1549 V1591 H310.0' fill='none' stroke='#4D4D4D' stroke-width='4' stroke-linejoin='round'/>
+<rect x='50' y='1637' width='466' height='298' rx='22' fill='#FFF6E3' stroke='#E69F00' stroke-width='3' filter='url(#sh)'/>
+<rect x='567.0' y='1637' width='466' height='298' rx='22' fill='#FBEDE4' stroke='#D55E00' stroke-width='3' filter='url(#sh)'/>
+<rect x='1084.0' y='1637' width='466' height='298' rx='22' fill='#E6F5EF' stroke='#009E73' stroke-width='3' filter='url(#sh)'/>
+<circle cx='80' cy='1677' r='24' fill='#E69F00'/><text x='80' y='1687' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>2</text>
+<text x='120' y='1689' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#1A1A1A'>Genetic diversity</text>
+<circle cx='239.0' cy='1747' r='11' fill='#0072B2'/><circle cx='261.0' cy='1769' r='11' fill='#E69F00'/><circle cx='283.0' cy='1743' r='11' fill='#009E73'/><circle cx='305.0' cy='1767' r='11' fill='#CC79A7'/><circle cx='327.0' cy='1749' r='11' fill='#56B4E9'/><circle cx='275.0' cy='1771' r='11' fill='#D55E00'/><circle cx='303.0' cy='1735' r='11' fill='#0072B2'/>
+<text x='76' y='1821' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Mutation and HGT interact to</text>
+<text x='76' y='1854' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>generate genetic diversity</text>
+<circle cx='597.0' cy='1677' r='24' fill='#D55E00'/><text x='597.0' y='1687' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>3</text>
+<text x='637.0' y='1689' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='34' font-weight='700' fill='#A84300'>Changing selective</text>
+<text x='637.0' y='1729' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='34' font-weight='700' fill='#A84300'>pressures</text>
+<rect x='593.0' y='1773' width='414' height='62' rx='31.0' fill='#fff' stroke='#D55E00' stroke-width='3'/>
+<g transform='rotate(-35 631.0 1804)'><rect x='603.0' y='1791' width='56' height='26' rx='13' fill='#fff' stroke='#D55E00' stroke-width='5'/><path d='M631.0,1791 h15 a13,13 0 0 1 0,26 h-15 z' fill='#D55E00'/></g>
+<text x='665.0' y='1814' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Antimicrobial exposure</text>
+<rect x='593.0' y='1847' width='414' height='62' rx='31.0' fill='#fff' stroke='#D55E00' stroke-width='3'/>
+<circle cx='631.0' cy='1864' r='11' fill='#D55E00'/><path d='M612.0,1896 q0,-22 19,-22 q19,0 19,22 z' fill='#D55E00'/>
+<text x='665.0' y='1888' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='700' fill='#1A1A1A'>Human host environment</text>
+<circle cx='1114.0' cy='1677' r='24' fill='#009E73'/><text x='1114.0' y='1687' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='30' font-weight='700' fill='#fff'>4</text>
+<text x='1154.0' y='1689' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='36' font-weight='700' fill='#007A5A'>Rapid adaptation</text>
+<polygon points='1317.0,1721.0 1326.0,1742.6 1349.3,1744.5 1331.6,1759.7 1337.0,1782.5 1317.0,1770.3 1297.0,1782.5 1302.4,1759.7 1284.7,1744.5 1308.0,1742.6' fill='#E69F00'/>
+<text x='1110.0' y='1821' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>Variants that confer a selective</text>
+<text x='1110.0' y='1854' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>advantage tend to spread through</text>
+<text x='1110.0' y='1887' text-anchor='start' font-family='Helvetica, Arial, sans-serif' font-size='27' font-weight='400' fill='#1A1A1A'>bacterial populations over time</text>
+<path d='M522,1786.0 H561.0' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+<path d='M1039.0,1786.0 H1078.0' stroke='#4D4D4D' stroke-width='4' marker-end='url(#ar)'/>
+</g>
+<text x='50' y='1908.1' font-family='Helvetica, Arial, sans-serif' font-size='36.52' xml:space='preserve'><tspan font-weight='700' fill='#1F4E79'>Figure 6. </tspan><tspan fill='#000000'>How </tspan><tspan font-style='italic' fill='#000000'>V. cholerae</tspan><tspan fill='#000000'> evolves: mutation and horizontal gene transfer</tspan></text>
+<text x='50' y='1959.1' font-family='Helvetica, Arial, sans-serif' font-size='33.20' xml:space='preserve'><tspan fill='#000000'>Two mechanisms generate genetic diversity, enabling rapid adaptation to antimicrobial exposure and</tspan></text>
+<text x='50' y='1996.1' font-family='Helvetica, Arial, sans-serif' font-size='33.20' xml:space='preserve'><tspan fill='#000000'>the human host.</tspan></text>
+
+</svg>
