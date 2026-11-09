@@ -370,7 +370,9 @@ Clinical specimens may be prepared by plating directly onto culture medium with 
 
 ## 4.3 DNA Extraction, Sequencing, and Minimum Genomic Data Requirements
 
-**Figure 13\. From DNA to sequence data.** The diagram illustrates the laboratory workflow processes, including DNA extraction, quality control, sequencing platform choices and minimum data requirements. Sources: PHA4GE Cholera Genomics Guidance, Section 4.3 (Table 1). Kit values: Illumina DNA Prep Reference Guide (1000000025416 v12); ONT SQK-RBK114 and SQK-LSK114 protocols; Thermo Scientific T042. Q30 \= 99.9% accuracy.
+![Figure 13. From DNA to sequence data](images/cholera-genomics/figure_11.svg)
+
+**Figure 13. From DNA to sequence data.** The diagram illustrates the laboratory workflow processes, including DNA extraction, quality control, sequencing platform choices and minimum data requirements. Sources: PHA4GE Cholera Genomics Guidance, Section 4.3 (Table 1). Kit values: Illumina DNA Prep Reference Guide (1000000025416 v12); ONT SQK-RBK114 and SQK-LSK114 protocols; Thermo Scientific T042. Q30 = 99.9% accuracy.
 
 ### 4.3.1 DNA Extraction
 
