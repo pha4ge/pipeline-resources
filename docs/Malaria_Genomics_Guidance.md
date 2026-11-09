@@ -123,9 +123,16 @@ Examples include:
 
 Together, these frameworks and initiatives define the standards, tiers, and data resources that this document builds on. [Section 2](#2-malaria-genomic-surveillance-in-context) sets out what genomic data add to conventional malaria surveillance and the biological features that shape how those data are generated and interpreted. 
 
-| [SECTION 1](#1-introduction-scope-and-audience) · KEY POINTS Introduction and Scope |
-| :---- |
-| **•** Provides standardised guidance for generating, integrating, analysing, interpreting, and sharing malaria genomic data for secondary use in public health and research, covering both parasite and vector surveillance. **•** Does not set diagnostic or treatment policy, replace WHO marker classification or TES protocols, prescribe national consent or data-ownership rules, or constitute validated SOPs. **•** Audiences range from researchers and bioinformaticians to epidemiologists, data and ethics leads and NMCPs. [Table 1](#table-11-intended-audiences-information-needs-and-relevant-sections-of-the-guidance) maps each group to the relevant sections. **•** Main use cases include AMDR surveillance, insecticide resistance, transmission and connectivity, importation tracking, species detection, elimination support, diagnostic escape, TES, and case management. |
+> [!NOTE]
+> **SECTION 1 · KEY POINTS | Introduction and Scope**
+>
+> - **•** Provides standardised guidance for generating, integrating, analysing, interpreting, and sharing malaria genomic data for secondary use in public health and research, covering both parasite and vector surveillance.
+>
+> - Does not set diagnostic or treatment policy, replace WHO marker classification or TES protocols, prescribe national consent or data-ownership rules, or constitute validated SOPs.
+>
+> - Audiences range from researchers and bioinformaticians to epidemiologists, data and ethics leads and NMCPs. [Table 1](#table-11-intended-audiences-information-needs-and-relevant-sections-of-the-guidance) maps each group to the relevant sections.
+>
+> - Main use cases include AMDR surveillance, insecticide resistance, transmission and connectivity, importation tracking, species detection, elimination support, diagnostic escape, TES, and case management.
 
 ## **2\. Malaria Genomic Surveillance in Context**
 
@@ -204,13 +211,22 @@ Genomic findings should, therefore, be interpreted together with epidemiological
 
 ### 2.4 From Surveillance Question to Public Health Action
 
-![Figure 2.4: Malaria genomic surveillance pathway](docs/images/malaria-genomics/Figure_1.png)
+![Figure 2.4: Malaria genomic surveillance pathway](images/malaria-genomics/Figure_1.png)
 
 *Figure 2.4: The malaria genomic surveillance pathway from public health question to programme action. Each stage is addressed by the indicated section. The pathway is iterative: programme action and its evaluation generate the next surveillance question. Genomic evidence enters programme decision-making alongside epidemiological, clinical, diagnostic and entomological evidence, and rarely acts on its own.*
 
-| [SECTION 2](#2-malaria-genomic-surveillance-in-context) · KEY POINTS Malaria Biological Context and Genomic Implications |
-| :---- |
-| **•** *Plasmodium* biology shapes analysis: pipelines must handle mixed-species infections, multiple clones, low parasitaemia, and host DNA removal. **•** Species differ in host-cell tropism and life cycle. P. falciparum reaches high parasitaemia, while restricted red-cell invasion in other species gives low parasitaemia and a poor signal-to-noise ratio, often requiring enrichment or targeted sequencing. **•** Genomic surveillance applications include gene deletions (*pfhrp2/pfhrp3*), drug-resistance markers (*pfk13*, *pfcrt*, *pfmdr1*), haplotypes and polyclonality. **•** MOI must be established before variant calling so that clones are not confused with haplotypes. **•** Vector insecticide resistance arises through target-site, metabolic, cuticular, behavioural, and physiological mechanisms; a resistance genotype alone does not demonstrate phenotypic resistance or intervention failure. |
+> [!NOTE]
+> **SECTION 2 · KEY POINTS | Malaria Biological Context and Genomic Implications**
+>
+> - **•** *Plasmodium* biology shapes analysis: pipelines must handle mixed-species infections, multiple clones, low parasitaemia, and host DNA removal.
+>
+> - Species differ in host-cell tropism and life cycle. P. falciparum reaches high parasitaemia, while restricted red-cell invasion in other species gives low parasitaemia and a poor signal-to-noise ratio, often requiring enrichment or targeted sequencing.
+>
+> - Genomic surveillance applications include gene deletions (*pfhrp2/pfhrp3*), drug-resistance markers (*pfk13*, *pfcrt*, *pfmdr1*), haplotypes and polyclonality.
+>
+> - MOI must be established before variant calling so that clones are not confused with haplotypes.
+>
+> - Vector insecticide resistance arises through target-site, metabolic, cuticular, behavioural, and physiological mechanisms; a resistance genotype alone does not demonstrate phenotypic resistance or intervention failure.
 
 ## **3\. The Tiered Surveillance Model**
 
@@ -234,7 +250,7 @@ A strong national malaria genomics programme should combine routine targeted sur
 
 ### 3.3 Choosing and Moving Between Tiers
 
-![Figure 3.3: Surveillance tier decision tree](docs/images/malaria-genomics/Figure_2.png)
+![Figure 3.3: Surveillance tier decision tree](images/malaria-genomics/Figure_2.png)
 
 *Figure 3.3: Decision tree for selecting a malaria genomic surveillance tier. Tiers are not a maturity ladder; a programme may operate at different tiers for different objectives simultaneously. Tier definitions and expected outputs are given in [Table 3.2](#table-32-tiered-model-for-implementing-malaria-genomic-surveillance).*
 
@@ -373,9 +389,18 @@ The logistical advantage of DBS in avoiding cold-chain requirements is balanced 
 
 Metadata documenting the movement of specimens between collection sites and laboratories is specified in [Section 8.4](#84-capture-points-across-the-workflow).
 
-| [SECTION 5](#5-specimens-and-laboratory-workflow) · KEY POINTS Specimens and Laboratory Workflow |
-| :---- |
-| **•** Specimen choice (VWB, DBS, DES, vector samples, or archived material) affects DNA yield, host contamination, degradation risk, and the analyses that can be supported. **•** VWB generally provides more parasite DNA, whereas DBS and DES simplify field collection and transport but may yield lower or more variable DNA and require careful interpretation. **•** Extraction and pre-sequencing preparation should be selected for the intended application; methods differ in yield, purity, inhibitor carry-over, and suitability for targeted, whole-genome, and long-read sequencing. **•** Host DNA depletion or parasite enrichment can improve parasite recovery from low-density samples, but may introduce analytical bias and should therefore be documented and evaluated. **•** DBS should be completely dried, protected from heat and humidity, packaged with desiccant, and stored appropriately; collection, transport, processing, storage, and specimen identifiers should remain traceable. |
+> [!NOTE]
+> **SECTION 5 · KEY POINTS | Specimens and Laboratory Workflow**
+>
+> - **•** Specimen choice (VWB, DBS, DES, vector samples, or archived material) affects DNA yield, host contamination, degradation risk, and the analyses that can be supported.
+>
+> - VWB generally provides more parasite DNA, whereas DBS and DES simplify field collection and transport but may yield lower or more variable DNA and require careful interpretation.
+>
+> - Extraction and pre-sequencing preparation should be selected for the intended application; methods differ in yield, purity, inhibitor carry-over, and suitability for targeted, whole-genome, and long-read sequencing.
+>
+> - Host DNA depletion or parasite enrichment can improve parasite recovery from low-density samples, but may introduce analytical bias and should therefore be documented and evaluated.
+>
+> - DBS should be completely dried, protected from heat and humidity, packaged with desiccant, and stored appropriately; collection, transport, processing, storage, and specimen identifiers should remain traceable.
 
 ## **6\. Sequencing Strategies**
 
@@ -632,7 +657,7 @@ WGS is more expensive, slower, and more bioinformatically demanding than targete
 * Baseline national genomic datasets  
 * Detailed analyses of *pfk13* mutant spread or independent emergence
 
-**![Malaria guidance image 7](docs/images/malaria-genomics/malaria-figure-6-2-d.png)**
+*Image placeholder (figure not yet uploaded).*
 
 #### 6.2.8 Sequencing Platforms and Library Preparation
 
@@ -727,10 +752,10 @@ The choice of sequencing strategy should be guided by the specific public health
 | **Rapid decentralised surveillance** | NOMADS-like nanopore | Focused amplicon sequencing | Local sequencing and fast turnaround |
 | **Routine national surveillance** | MAD4HatTeR, MIPs, amplicon panels, NOMADS | WGS subset | Balances cost, scale, and actionability |
 
-![Figure 6.3: Sequencing strategy decision tree](docs/images/malaria-genomics/Figure_3.png)
+![Figure 6.3: Sequencing strategy decision tree](images/malaria-genomics/Figure_3.png)
 *Figure 6.3: Decision tree for selecting a sequencing strategy. Parasite density and turnaround requirements constrain the choice as strongly as the question itself; a strategy that cannot be delivered on the available specimens is not fit for purpose. See [Table 6.3](#table-63-matching-malaria-sequencing-strategies-to-public-health-questions) for strategy options by question and [Table 6.4c](#table-64c-sequencing-strategies-by-required-analytical-resolution) for resolution requirements.*
 
-![Amplicon sequencing: Case Studies 1 and 4](docs/images/malaria-genomics/PHA4GE_CaseStudies1and4_Amplicon.svg)
+![Amplicon sequencing: Case Studies 1 and 4](images/malaria-genomics/PHA4GE_CaseStudies1and4_Amplicon.svg)
 
 ### 6.4 Cost, Turnaround Time, and Analytical Resolution
 
@@ -824,9 +849,10 @@ Feasibility depends on:
 
 * Use a tiered strategy.
 
-| [SECTION 6](#6-sequencing-strategies) · KEY POINTS Sequencing Strategies |
-| :---- |
-| Select sequencing methods according to the public health question, specimen type, parasite density, required resolution, turnaround time, cost, local feasibility, and intended data-use pathway. Targeted methods (including amplicon sequencing, MIPs, MAD4HatTeR, and NOMADS-like panels) are generally suited to routine surveillance of known markers, low-density DBS samples, and rapid local decision-making. WGS is most useful for novel marker discovery, outbreak and importation investigations, selection scans, and other high-resolution analyses, but requires stronger DNA input, sequencing capacity, computing, and bioinformatics support. MIPs support scalable population-genomic analyses such as relatedness, identity by descent, and population structure, while long-read targeted approaches can resolve full-gene haplotypes and structural variation. Assay and pipeline performance should be validated for low-density and mixed infections, minority variants, primer mismatch, read depth, and enrichment-related bias before results are used for policy. Do not over-sequence without a decision pathway; results should connect to treatment or diagnostic policy, outbreak response, surveillance escalation, or further investigation. |
+> [!NOTE]
+> **SECTION 6 · KEY POINTS | Sequencing Strategies**
+>
+> - Select sequencing methods according to the public health question, specimen type, parasite density, required resolution, turnaround time, cost, local feasibility, and intended data-use pathway. Targeted methods (including amplicon sequencing, MIPs, MAD4HatTeR, and NOMADS-like panels) are generally suited to routine surveillance of known markers, low-density DBS samples, and rapid local decision-making. WGS is most useful for novel marker discovery, outbreak and importation investigations, selection scans, and other high-resolution analyses, but requires stronger DNA input, sequencing capacity, computing, and bioinformatics support. MIPs support scalable population-genomic analyses such as relatedness, identity by descent, and population structure, while long-read targeted approaches can resolve full-gene haplotypes and structural variation. Assay and pipeline performance should be validated for low-density and mixed infections, minority variants, primer mismatch, read depth, and enrichment-related bias before results are used for policy. Do not over-sequence without a decision pathway; results should connect to treatment or diagnostic policy, outbreak response, surveillance escalation, or further investigation.
 
 # **Part C – Analysis, Data and Quality**
 
@@ -834,7 +860,7 @@ Feasibility depends on:
 
 ### 7.1 Pipeline and Workflow Requirements
 
-![Figure 7.1: Standard malaria bioinformatics pipeline](docs/images/malaria-genomics/Figure_7%20%28without%20tools%29.png)
+![Figure 7.1: Standard malaria bioinformatics pipeline](images/malaria-genomics/Figure_7%20%28without%20tools%29.png)
 
 *Figure 7.1: Overview of a standard malaria bioinformatics pipeline from raw sequencing reads to public health reporting.*
 
@@ -957,7 +983,7 @@ Strict minimum thresholds must be set for each analysis result, and there cannot
 ### 7.6 Standard Workflow Steps and Declared Outputs
 
 Each step in a workflow or pipeline should emit 1\) machine-readable output data or information for the next step, 2\) machine-readable run metrics for an analysis report (without the run metrics, it can be difficult to debug the workflow if something goes wrong), 3\) a summary report. All standard sequencing file types must align with Global Alliance for Genomics and Health conventions. Ensure you have concise interpretive reports for public health use, full reports for surveillance initiatives, dashboards, or malaria threats platforms (such as the WHO malaria threats map, the Worldwide Antimalarial Resistance Network (WWARN) Molecular Surveyor, and the Mitigating Antimalarial Resistance Consortium (MARC) for Southern and Eastern Africa dashboard) where appropriate. Use standardised language in the results to ease data sharing and minimise drifts in understanding. The workflow must be easily accessible and run unedited, preferably on an offline laptop or cloud backend. In Figure 7.6, each step emits machine-readable data for the next step, machine-readable run metrics for the analysis report, and a human-readable summary.  
-![Figure 7.6: Malaria analytical workflow](docs/images/malaria-genomics/Figure_4.png)
+![Figure 7.6: Malaria analytical workflow](images/malaria-genomics/Figure_4.png)
 
 *Figure 7.6: Standard analytical workflow for malaria genomic surveillance, showing method-specific branches and step outputs.*
 
@@ -1042,13 +1068,22 @@ Translate from genotype to phenotype, separately from the other outputs, using a
 
 Interpretation principles for programme use are given in [Section 10.1](#101-principles-of-interpretation), and the signal-to-action framework in [Section 10.3](#103-escalating-genomic-signal-to-programme-action). Reporting requirements are given in [Section 10.4](#104-reporting-standards).
 
-![Figure 7.7: R packages for malaria genomic surveillance](docs/images/malaria-genomics/Visual%20Ref%20R-Packages.png)
+![Figure 7.7: R packages for malaria genomic surveillance](images/malaria-genomics/Visual%20Ref%20R-Packages.png)
 
 *Figure 7.7: R packages for steps 6–10 of the malaria bioinformatics pipeline*
 
-| [SECTION 7](#7-bioinformatics-pipelines-and-standard-outputs) · KEY POINTS Bioinformatics Pipelines and Standard Outputs |
-| :---- |
-| **•** Pipelines must be reproducible and comparable within and between laboratories, re-runnable years later by different analysts, and interpretable by non-specialists. **•** Reference strains and reference genomes must be stated by accession and version; generic pipelines should not be used on the AT-rich *P. falciparum* genome without understanding the caveats. **•** Host and blood-meal DNA must be removed and discarded as identifiable personal data, with read counts recorded. **•** Workflows should branch by use case (amplicon panels, MIPs, WGS, low-coverage/sWGA, long-read, species ID), run in containers under Nextflow, Snakemake, WDL or CWL, and emit machine-readable outputs plus run metrics at every step. **•** Standard steps run from sample and metadata validation through QC, host removal, species ID, processing, CNV and deletion calling, variant calling, haplotypes and MOI, to interpretation against a dated, traceable WHO source. |
+> [!NOTE]
+> **SECTION 7 · KEY POINTS | Bioinformatics Pipelines and Standard Outputs**
+>
+> - **•** Pipelines must be reproducible and comparable within and between laboratories, re-runnable years later by different analysts, and interpretable by non-specialists.
+>
+> - Reference strains and reference genomes must be stated by accession and version; generic pipelines should not be used on the AT-rich *P. falciparum* genome without understanding the caveats.
+>
+> - Host and blood-meal DNA must be removed and discarded as identifiable personal data, with read counts recorded.
+>
+> - Workflows should branch by use case (amplicon panels, MIPs, WGS, low-coverage/sWGA, long-read, species ID), run in containers under Nextflow, Snakemake, WDL or CWL, and emit machine-readable outputs plus run metrics at every step.
+>
+> - Standard steps run from sample and metadata validation through QC, host removal, species ID, processing, CNV and deletion calling, variant calling, haplotypes and MOI, to interpretation against a dated, traceable WHO source.
 
 ## **8\. Metadata Standards and Interoperability**
 
@@ -1086,7 +1121,7 @@ To ensure complete traceability throughout the workflow, metadata should be link
 * Analysis ID – uniquely identifies a bioinformatics analysis workflow and resulting dataset  
 * Report ID – uniquely identifies a surveillance report, public health assessment, or final analytical output
 
-![Figure 8.2: Specimen and analysis identifier hierarchy](docs/images/malaria-genomics/Figure_5.png)
+![Figure 8.2: Specimen and analysis identifier hierarchy](images/malaria-genomics/Figure_5.png)
 
 *Figure 8.2: Example identifier hierarchy for malaria genomic surveillance. These identifiers should be linked throughout the workflow to preserve the chain of custody from collection to report, support quality assurance, and enable integration of epidemiological and genomic data. It should allow any result to be traced back to the specimen and forward to its published accession. Specimen collector identifiers are treated as identifying data and are handled under the access rules.*
 
@@ -1141,9 +1176,18 @@ To ensure complete traceability throughout the workflow, metadata should be link
 
 *Note*: Metadata should document movement of specimens between collection sites and laboratories to ensure chain of custody and specimen integrity.
 
-| [SECTION 8](#8-metadata-standards-and-interoperability) · KEY POINTS Metadata Standards and Interoperability |
-| :---- |
-| **•** Differences in collection approaches, metadata structures and reporting standards continue to limit interoperability and cross-country analysis; a harmonised minimum metadata framework is the remedy. **•** Africa CDC and PHA4GE convenings in 2025 built consensus on minimum parasite and vector metadata standards, NMCP-usable outputs, alignment with WHO policy thresholds and regional data-sharing frameworks. **•** Traceability rests on a hierarchy of identifiers linked end to end. **•** Metadata capture points span screening and collection, transport and reception, processing, extraction and QC, enrichment and library preparation, sequencing, bioinformatics, interpretation, reporting and data sharing. **•** All metadata should use standardised terminologies and controlled vocabularies so that epidemiological and genomic data can be integrated across systems. |
+> [!NOTE]
+> **SECTION 8 · KEY POINTS | Metadata Standards and Interoperability**
+>
+> - **•** Differences in collection approaches, metadata structures and reporting standards continue to limit interoperability and cross-country analysis; a harmonised minimum metadata framework is the remedy.
+>
+> - Africa CDC and PHA4GE convenings in 2025 built consensus on minimum parasite and vector metadata standards, NMCP-usable outputs, alignment with WHO policy thresholds and regional data-sharing frameworks.
+>
+> - Traceability rests on a hierarchy of identifiers linked end to end.
+>
+> - Metadata capture points span screening and collection, transport and reception, processing, extraction and QC, enrichment and library preparation, sequencing, bioinformatics, interpretation, reporting and data sharing.
+>
+> - All metadata should use standardised terminologies and controlled vocabularies so that epidemiological and genomic data can be integrated across systems.
 
 ## **9\. Quality Control, Validation, Reporting, and Comparability**
 
@@ -1306,9 +1350,18 @@ Machine-readable outputs should include:
 
 BioSample-style attributes and harmonised attribute names should be used where possible, with controlled vocabularies and standardised formats to reduce free text ambiguity ([NCBI, n.d.-a](https://www.ncbi.nlm.nih.gov/biosample/docs/attributes/)).
 
-| [SECTION 9](#9-quality-control-validation-reporting-and-comparability) · KEY POINTS Quality Control, Validation and Comparability |
-| :---- |
-| **•** Quality assurance should span the complete workflow from specimen collection and laboratory processing through sequencing, bioinformatics, interpretation, reporting, and data sharing. **•** QC thresholds should be fit for the intended public health use case and specimen type, rather than treated as one universal pass-or-fail standard. **•** Traceability requires versioned records of specimens, assays and panels, reference genomes, pipelines, parameters, controls, coverage, contamination, missingness, and marker-level confidence. **•** Validation is distinct from routine QC and should establish sensitivity, specificity, limits of detection, repeatability, reproducibility, mixed-infection and minority-variant performance, and concordance with comparator methods. **•** Method-specific biases and failure modes across amplicon, MIP, nanopore, WGS, and vector workflows must be documented, while terminology and denominators are harmonised for cross-laboratory comparison. |
+> [!NOTE]
+> **SECTION 9 · KEY POINTS | Quality Control, Validation and Comparability**
+>
+> - **•** Quality assurance should span the complete workflow from specimen collection and laboratory processing through sequencing, bioinformatics, interpretation, reporting, and data sharing.
+>
+> - QC thresholds should be fit for the intended public health use case and specimen type, rather than treated as one universal pass-or-fail standard.
+>
+> - Traceability requires versioned records of specimens, assays and panels, reference genomes, pipelines, parameters, controls, coverage, contamination, missingness, and marker-level confidence.
+>
+> - Validation is distinct from routine QC and should establish sensitivity, specificity, limits of detection, repeatability, reproducibility, mixed-infection and minority-variant performance, and concordance with comparator methods.
+>
+> - Method-specific biases and failure modes across amplicon, MIP, nanopore, WGS, and vector workflows must be documented, while terminology and denominators are harmonised for cross-laboratory comparison.
 
 # **Part D – Interpretation, Governance and Implementation**
 
@@ -1364,7 +1417,7 @@ Ultimately, integrating genomic surveillance into malaria control and eliminatio
 | Novel or unclassified variant. | Refer for characterisation, report as a variant of unknown significance, continue monitoring. |
 | Signal below the minimum determinant call threshold. | Report as insufficient data, increase sampling. |
 
-![Figure 10.3: Genomic signal escalation pathway](docs/images/malaria-genomics/Figure_6.png)
+![Figure 10.3: Genomic signal escalation pathway](images/malaria-genomics/Figure_6.png)
 *Figure 10.3: Escalation pathway from a genomic signal to programme action. Escalation depends on the evidence class of the marker, the adequacy of the underlying data, and convergence with clinical and epidemiological evidence. Thresholds for several of these decisions are not yet internationally agreed; see [Section 14.6](#146-interpretation-thresholds) for discussion.*
 
 ### 10.4 Reporting Standards
@@ -1414,15 +1467,26 @@ For resistance reporting, wild-type results should be reported alongside mutant 
 | **Limitations and follow-up** | Limitations and data-quality caveats; recommended follow-up actions; responsible institution and proposed timeline for review. |
 | **Data deposition** | Accession numbers where data are deposited. |
 
-**![Malaria guidance image 14](docs/images/malaria-genomics/malaria-figure-10-4.png)**
+*Image placeholder (figure not yet uploaded).*
 
 Image placeholder
 
 *Figure 10.4: Translating malaria genomic surveillance data to public health action, from data generation to collation, reporting and stakeholder engagement.*
 
-| [SECTION 10](#10-interpretation-and-public-health-action) · KEY POINTS Interpretation and Public Health Action |
-| :---- |
-| **•** The goal is operational integration into surveillance, response and policy pathways. **•** Implementation principles: public health question first, modularity, integration, national ownership, reproducibility, sustainability, equity, and adaptability. **•** A tiered model lets countries start with targeted workflows and escalate; DBS is the typical sample type across tiers. **•** Minimum requirements span sample tracking, metadata tools, storage, contamination-controlled laboratory space, extraction and library preparation capacity, control materials, reproducible workflows, reporting templates and governance procedures. **•** A multidisciplinary workforce is needed, with training in both technical and interpretive competencies, and computing scaled to the method . **•** Success is measured by whether outputs are timely, interpretable, comparable and used to update or uphold public health actions, and not by samples sequenced. |
+> [!NOTE]
+> **SECTION 10 · KEY POINTS | Interpretation and Public Health Action**
+>
+> - **•** The goal is operational integration into surveillance, response and policy pathways.
+>
+> - Implementation principles: public health question first, modularity, integration, national ownership, reproducibility, sustainability, equity, and adaptability.
+>
+> - A tiered model lets countries start with targeted workflows and escalate; DBS is the typical sample type across tiers.
+>
+> - Minimum requirements span sample tracking, metadata tools, storage, contamination-controlled laboratory space, extraction and library preparation capacity, control materials, reproducible workflows, reporting templates and governance procedures.
+>
+> - A multidisciplinary workforce is needed, with training in both technical and interpretive competencies, and computing scaled to the method .
+>
+> - Success is measured by whether outputs are timely, interpretable, comparable and used to update or uphold public health actions, and not by samples sequenced.
 
 ## **11\. Data Sharing and Governance**
 
@@ -1503,7 +1567,7 @@ Cross-border sharing should be supported through:
 * National/regional review pathways where required  
 * Mechanisms for resolving discrepancies in interpretation
 
-**![Malaria guidance image 15](docs/images/malaria-genomics/malaria-figure-11.png)**
+*Image placeholder (figure not yet uploaded).*
 
 ### 11.7 Repository Deposition, Data Use Agreements and Controlled Access
 
@@ -1558,9 +1622,18 @@ Data integration depends on more than putting files in the same repository. Data
 
 Federated or distributed approaches allow some analyses to occur within national or institutional environments while sharing selected summary results or models. These approaches are promising where moving sensitive or very large datasets is undesirable, but they should be presented as emerging options rather than minimum requirements. Their governance, security, reproducibility, and analytical validity should be demonstrated for the intended application before routine adoption.
 
-| [SECTION 11](#11-data-sharing-and-governance) · KEY POINTS Data Sharing, Governance and Integration |
-| :---- |
-| **•** FAIR and interoperable data are not the same as unrestricted public release; access may legitimately be open, controlled or restricted. **•** Sharing expectations should be set early rather than negotiated after analysis and should promote public health benefit, lawful use, attribution, equity, transparency, and accountability for onward use. **•** The lawful and ethical basis — research versus authorised surveillance, ethics approval, consent, national legislation, data use and export agreements — must be established before sharing. **•** Contaminating human sequence should ordinarily be removed before release, and the same minimisation principle applies to potentially identifying metadata such as exact location, dates, demographic combinations and travel history. **•** Cross-border sharing needs agreed metadata, documented access conditions, clear attribution and review pathways; repository deposition is one mechanism, not an automatic requirement, and federated analysis remains an emerging option. |
+> [!NOTE]
+> **SECTION 11 · KEY POINTS | Data Sharing, Governance and Integration**
+>
+> - **•** FAIR and interoperable data are not the same as unrestricted public release; access may legitimately be open, controlled or restricted.
+>
+> - Sharing expectations should be set early rather than negotiated after analysis and should promote public health benefit, lawful use, attribution, equity, transparency, and accountability for onward use.
+>
+> - The lawful and ethical basis — research versus authorised surveillance, ethics approval, consent, national legislation, data use and export agreements — must be established before sharing.
+>
+> - Contaminating human sequence should ordinarily be removed before release, and the same minimisation principle applies to potentially identifying metadata such as exact location, dates, demographic combinations and travel history.
+>
+> - Cross-border sharing needs agreed metadata, documented access conditions, clear attribution and review pathways; repository deposition is one mechanism, not an automatic requirement, and federated analysis remains an emerging option.
 
 ## **12\. Implementation in National Public Health Systems**
 
@@ -1638,7 +1711,7 @@ At each stage, the system should define:
 * Escalation pathways  
 * Reporting recipients
 
-![Figure 12.4: National genomic surveillance system](docs/images/malaria-genomics/Figure_8.png)
+![Figure 12.4: National genomic surveillance system](images/malaria-genomics/Figure_8.png)
 
 *Figure 12.4: Components of a national malaria genomic surveillance system. The technical domains cannot function without the cross-cutting enablers. Genomic surveillance feeds into existing surveillance streams.*
 
@@ -1709,9 +1782,22 @@ Success should be measured not only by the number of samples sequenced but by wh
 
 A full implementation readiness checklist for public health laboratories, covering laboratory readiness, bioinformatics readiness, and data governance, is given in Appendix C.
 
-| [SECTION 12](https://docs.google.com/document/d/1HpgOue-l2ub5T-O_gdDc90WaBZNC5QGxSSHU0C6Mhe8/edit?tab=t.0#heading=h.ivk9n7yyncpv) · KEY POINTS Implementation in National Public Health Systems |
-| :---- |
-| **•** Implementation should begin with a defined public health question and connect genomic surveillance to existing surveillance, response, and policy pathways. **•** A tiered, modular approach allows countries to start with targeted routine marker surveillance and expand to higher-resolution methods or WGS as capacity and need increase. **•** Minimum readiness includes sample tracking and metadata, a safe molecular laboratory, validated sequencing or referral pathways, secure data storage and backup, reproducible workflows, reporting templates, and governance procedures. **•** National ownership and a multidisciplinary workforce are essential; training should cover field, laboratory, quality, bioinformatics, data-management, epidemiological, and interpretive competencies. **•** Implementation should integrate relevant objectives, including TES, diagnostic monitoring, pfhrp2/3 deletion surveillance, outbreak investigation, cross-border surveillance, and entomological monitoring, with defined turnaround, rejection, escalation, and reporting pathways. **•** Sustainability requires budgeting, supply-chain planning, equipment maintenance, version-controlled procedures, EQA or proficiency testing where possible, change control, and periodic review of assays and marker panels. **•** Success should be measured by timely, interpretable, comparable outputs that are used for public health action, not by the number of samples sequenced alone. |
+> [!NOTE]
+> **SECTION 12 · KEY POINTS | Implementation in National Public Health Systems**
+>
+> - **•** Implementation should begin with a defined public health question and connect genomic surveillance to existing surveillance, response, and policy pathways.
+>
+> - A tiered, modular approach allows countries to start with targeted routine marker surveillance and expand to higher-resolution methods or WGS as capacity and need increase.
+>
+> - Minimum readiness includes sample tracking and metadata, a safe molecular laboratory, validated sequencing or referral pathways, secure data storage and backup, reproducible workflows, reporting templates, and governance procedures.
+>
+> - National ownership and a multidisciplinary workforce are essential; training should cover field, laboratory, quality, bioinformatics, data-management, epidemiological, and interpretive competencies.
+>
+> - Implementation should integrate relevant objectives, including TES, diagnostic monitoring, pfhrp2/3 deletion surveillance, outbreak investigation, cross-border surveillance, and entomological monitoring, with defined turnaround, rejection, escalation, and reporting pathways.
+>
+> - Sustainability requires budgeting, supply-chain planning, equipment maintenance, version-controlled procedures, EQA or proficiency testing where possible, change control, and periodic review of assays and marker panels.
+>
+> - Success should be measured by timely, interpretable, comparable outputs that are used for public health action, not by the number of samples sequenced alone.
 
 ## **13\. Case Studies**
 
@@ -1723,7 +1809,7 @@ WHO guidance should frame the interpretation of resistance markers and programme
 
 ### 13.1 Case Study 1
 
-![Case Study 1: Ghana](docs/images/malaria-genomics/PHA4GE_CaseStudy1_Ghana.svg)
+![Case Study 1: Ghana](images/malaria-genomics/PHA4GE_CaseStudy1_Ghana.svg)
 
 
 **Drug resistance and vaccine-target surveillance of *Plasmodium falciparum* using nanopore sequencing in Ghana ([Girgis *et al.*, 2023](https://doi.org/10.1038/s41564-023-01516-6))**
@@ -1776,7 +1862,7 @@ This study demonstrates that standardised, end-to-end genomic surveillance can b
 
 ### 13.2 Case Study 2
 
-![Case Study 2: Greater Mekong Subregion](docs/images/malaria-genomics/PHA4GE_CaseStudy2_Mekong.svg)
+![Case Study 2: Greater Mekong Subregion](images/malaria-genomics/PHA4GE_CaseStudy2_Mekong.svg)
 
 
 **Evolution and expansion of multidrug-resistant malaria in Southeast Asia: a genomic epidemiology study ([Hamilton *et al.*, 2019](https://doi.org/10.1016/S1473-3099\(19\)30392-5))**
@@ -1820,7 +1906,7 @@ The Greater Mekong example showed that resistance surveillance requires regional
 
 ### 13.3 Case Study 3
 
-![Case Study 3: Nigeria](docs/images/malaria-genomics/PHA4GE_CaseStudy3_Nigeria.svg)
+![Case Study 3: Nigeria](images/malaria-genomics/PHA4GE_CaseStudy3_Nigeria.svg)
 
 
 **Genomic surveillance of *pfhrp2* and *pfhrp3* gene deletion in *Plasmodium falciparum* isolates and the implications for rapid diagnostic tests in Nigeria ([Funwei *et al.*, 2019](https://doi.org/10.1016/j.actatropica.2019.05.016))**
@@ -1867,7 +1953,7 @@ The Nigerian example supports routine molecular monitoring in West Africa, parti
 
 ### 13.4 Case Study 4
 
-![Case Study 4: Zambia](docs/images/malaria-genomics/PHA4GE_CaseStudy4_Zambia.svg)
+![Case Study 4: Zambia](images/malaria-genomics/PHA4GE_CaseStudy4_Zambia.svg)
 
 
 **Therapeutic efficacy of artemether–lumefantrine for uncomplicated *Plasmodium falciparum* malaria in northern Zambia ([Ippolito *et al.*, 2020](https://doi.org/10.4269/ajtmh.20-0852))**
@@ -2134,9 +2220,22 @@ At the Ifakara Health Institute in Tanzania and the Institut de Recherche en Sci
 
 Recommendations discussed in this section could take months to several years, depending on the current state of genomic capabilities in the country or region. It is not advised to implement all, but rather to do what is possible with the resources available or that can be obtained.
 
-| [SECTION 14](#14-challenges-gaps-and-future-directions) · KEY POINTS Challenges and Future Directions |
-| :---- |
-| **•** Polyclonality: confirming polyclonal infection, estimating MOI, and reconstructing genome-wide clone haplotypes are three distinct tasks and should be reported separately; only one MOI estimator should be used per dataset. **•** Low-density and asymptomatic infections skew data towards high-density infections; parasite density should be measured on all samples, and QC failure should be reported stratified by density. **•** Reliance on the 3D7 reference introduces bias in hypervariable and structurally variable regions; an explicit core/accessible region mask is recommended pending operational pangenome references. **•** Non-falciparum species, particularly *P. vivax*, remain underserved, and vector and parasite surveillance are still funded, analysed and reported separately. **•** There are no WHO-validated prevalence thresholds that trigger a programmatic response, which risks both premature policy change and delayed reaction. **•** Connectivity constraints favour laptop-executable, offline-capable workflows; AI and machine learning remain in development and depend on well-annotated, standard-compliant linked data. **•** Other gaps: turnaround time, lack of standardisation and benchmark datasets, operational metadata standards, point-of-need bioinformatics limits, and data governance and sovereignty. |
+> [!NOTE]
+> **SECTION 14 · KEY POINTS | Challenges and Future Directions**
+>
+> - **•** Polyclonality: confirming polyclonal infection, estimating MOI, and reconstructing genome-wide clone haplotypes are three distinct tasks and should be reported separately; only one MOI estimator should be used per dataset.
+>
+> - Low-density and asymptomatic infections skew data towards high-density infections; parasite density should be measured on all samples, and QC failure should be reported stratified by density.
+>
+> - Reliance on the 3D7 reference introduces bias in hypervariable and structurally variable regions; an explicit core/accessible region mask is recommended pending operational pangenome references.
+>
+> - Non-falciparum species, particularly *P. vivax*, remain underserved, and vector and parasite surveillance are still funded, analysed and reported separately.
+>
+> - There are no WHO-validated prevalence thresholds that trigger a programmatic response, which risks both premature policy change and delayed reaction.
+>
+> - Connectivity constraints favour laptop-executable, offline-capable workflows; AI and machine learning remain in development and depend on well-annotated, standard-compliant linked data.
+>
+> - Other gaps: turnaround time, lack of standardisation and benchmark datasets, operational metadata standards, point-of-need bioinformatics limits, and data governance and sovereignty.
 
 ## **15\. Conclusion**
 
@@ -2188,9 +2287,18 @@ This guidance document sets out to ensure that genomic results are trustworthy a
 
 This is all achievable depending on the institutions, governing bodies, technologies, techniques applied, and investments put into the work.
 
-| [SECTION 15](#15-conclusion) · KEY POINTS Conclusion |
-| :---- |
-| **•** Malaria genomic surveillance is increasingly feasible in endemic settings, but its public health value depends on operational integration and actionable outputs rather than sequencing capacity alone. **•** Analyses must be reproducible and supported by provenance records. **•** Low-density and polyclonal infections, reference bias, and limited representation of non-falciparum species remain important sources of uncertainty and should be reported transparently. **•** Genomic data inform decisions but do not make them; findings should be interpreted alongside TES, clinical, epidemiological, diagnostic, and entomological evidence. **•** Regional and global partners should support shared benchmark datasets, external quality assessment, core-genome and metadata standards, and interpretation thresholds linked to clinical and TES outcomes. |
+> [!NOTE]
+> **SECTION 15 · KEY POINTS | Conclusion**
+>
+> - **•** Malaria genomic surveillance is increasingly feasible in endemic settings, but its public health value depends on operational integration and actionable outputs rather than sequencing capacity alone.
+>
+> - Analyses must be reproducible and supported by provenance records.
+>
+> - Low-density and polyclonal infections, reference bias, and limited representation of non-falciparum species remain important sources of uncertainty and should be reported transparently.
+>
+> - Genomic data inform decisions but do not make them; findings should be interpreted alongside TES, clinical, epidemiological, diagnostic, and entomological evidence.
+>
+> - Regional and global partners should support shared benchmark datasets, external quality assessment, core-genome and metadata standards, and interpretation thresholds linked to clinical and TES outcomes.
 
 # **List of Abbreviations**
 
