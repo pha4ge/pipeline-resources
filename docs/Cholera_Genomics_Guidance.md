@@ -100,7 +100,7 @@ Authors: Emma Doughty, Justice Ohene Amofa, Dana Itani, Peter van Heusden, Rekha
 
 [6.1.1 Assessment of Relationships Amongst a Defined Set of Isolates](#611-assessment-of-relationships-amongst-a-defined-set-of-isolates)
 
-[6.1.2 Identification of Closely Related Genomes Within Large (Public) Databases	73](#612-identification-of-closely-related-genomes-within-large-public-databases)
+[6.1.2 Identification of Closely Related Genomes Within Large (Public) Databases](#612-identification-of-closely-related-genomes-within-large-public-databases)
 
 [6.2 Comparative Genomic Analysis Methods](#62-comparative-genomic-analysis-methods)
 
