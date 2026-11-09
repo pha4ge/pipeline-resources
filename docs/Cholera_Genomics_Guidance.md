@@ -492,7 +492,8 @@ In practice, all circulating 7PET strains are El Tor by definition and these dis
 
 WGS data support classification of *V. cholerae* isolates based on genomic identifiers at multiple levels of resolution, from broad sequence type assignment by multilocus sequence typing (MLST) through to fine-grained lineage placement within the T/AFR lineage framework. For current public health surveillance, where virtually all epidemic isolates belong to the 7PET lineage, MLST provides limited discriminatory power within 7PET but may confirm pandemic lineage membership, whilst lineage classification connects individual isolates to regional and global transmission networks and provides actionable epidemiological context.
 
-![Cholera genomics guidance figure 18](images/cholera-genomics/figure_16.svg)**Figure 18\. Genomic subtype identification: MLST and lineage.** 
+![Cholera genomics guidance figure 18](images/cholera-genomics/figure_16.svg)
+**Figure 18\. Genomic subtype identification: MLST and lineage.** 
 Description of what MLST can and cannot tell you, and how T/AFR lineages place an isolate. Sources: PHA4GE Cholera Genomics Guidance, Section 5.4. Jolley 2018; Kanampalliwar & Singh 2020; Octavia 2013; Weill 2017, 2019; Chaguza 2024; Foster-Nyarko 2025; Mboowa 2026; Seemann (mlst); Vibecheck (CholGen).
 
 ### 5.4.1 Multilocus Sequence Typing
