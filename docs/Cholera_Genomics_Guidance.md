@@ -207,7 +207,6 @@ The Public Health Alliance for Genomic Epidemiology (PHA4GE) is a global coaliti
 The implementation of genomic surveillance for cholera should ensure ethical, equitable, and effective use of genomic data for public health benefit.
 
 ![Cholera genomics guidance figure 4](images/cholera-genomics/PHA4GE cholera values and principles.png)
-
 **Figure 4\. Values and Principles in Genomic implementation.**
 
 
