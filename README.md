@@ -21,6 +21,7 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 	- [Bioinformatics Solutions](docs/hiv-bioinfo-solutions.md)
 - [Bioinformatics Development](#bioinformatics-development)
 	- [Best Practices for Public Health Bioinformatics Pipelines](https://github.com/pha4ge/public-health-pipeline-best-practices/blob/main/docs/pipeline-best-practices.md)
+ - [Cholera Genomics Guidance](docs/Cholera_Genomics_Guidance.md)
 - [Contributing](#contributing)
 
 
