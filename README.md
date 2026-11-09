@@ -95,7 +95,7 @@ The PHA4GE Pipelines and Visualization Working Group has developed this guidance
 Malaria Resources
 =================
 
-### [Malaria Genomics Guidance](docs/malaria-genomics-guidance.md)
+### [Malaria Genomics Guidance](docs/Malaria_Genomics_Guidance.md)
 
 The PHA4GE Pipelines and Visualization Working Group has developed this guidance document to support the implementation of malaria genomic surveillance for public health. It covers surveillance questions, sampling and sequencing strategies, bioinformatics workflows, quality assurance, interpretation and reporting of genomic findings, and their use in informing malaria control and elimination programmes.
 
