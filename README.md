@@ -80,6 +80,15 @@ Bioinformatics Development
 
 In an attempt to assist software developers, the Bioinformatics Pipelines and Visualization Working Group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has proposed a set of best practices, tailored specifically for public health bioinformatics pipelines. These best practices aim to provide a guidance framework for development, testing, maintenance of bioinformatics software. By adhering closely to these best practices, developers can enhance the quality, reliability and sustainability of their software, facilitating impact in public health research.
 
+
+Cholera Genomics Guidance
+=========================
+
+### [Cholera Genomics Guidance](docs/Cholera_Genomics_Guidance.md)
+
+The PHA4GE Pipelines and Visualization Working Group has developed this guidance document to support the implementation of *Vibrio cholerae* genomic analysis in public health settings. It provides practical guidance on genomic data generation, genome characterization, bioinformatics tools and workflows, comparative genomic analysis, and the interpretation and reporting of findings to support cholera outbreak investigations and surveillance.
+
+
 Contributing
 ============
 Contributions to the documents are more than welcome. To propose a change, edit the source files and open a pull-request with the proposed changes.
