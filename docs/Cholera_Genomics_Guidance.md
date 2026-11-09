@@ -270,7 +270,8 @@ Settings with only sporadic imported cases, primarily high-income countries with
 *V. cholerae* is a Gram-negative, curved rod-shaped bacterium of the Vibrionaceae family, naturally found in aquatic environments worldwide. The species encompasses more than 200 serogroups based on variation in the O-antigen of the lipopolysaccharide, but epidemic and pandemic cholera is caused almost exclusively by serogroups O1 and O139. Within O1, two serotypes (Ogawa and Inaba) and two biotypes (Classical and El Tor) are recognised; all currently circulating O1 pandemic strains are O1 El Tor. In-depth discussion of these phenotypes may be found in Section 5.3.
 
 ![Cholera genomics guidance figure 7](images/cholera-genomics/figure_05.svg)  
-<sub><small><strong>Figure 7. Organism, genome and toxigenicity of *Vibrio cholerae*: serogroup classification, the two-chromosome genome, and the stepwise acquisition of VPI-1 and CTXφ.</strong> Panel 1 (the organism). *V. cholerae* is a Gram-negative, curved rod-shaped bacterium of the family Vibrionaceae that occurs naturally in aquatic environments worldwide.</small></sub>
+<sub><small><strong>Figure 7. Organism, genome and toxigenicity of *Vibrio cholerae*: serogroup classification, the two-chromosome genome, and the stepwise acquisition of VPI-1 and CTXφ.
+</strong> Panel 1 (the organism). *V. cholerae* is a Gram-negative, curved rod-shaped bacterium of the family Vibrionaceae that occurs naturally in aquatic environments worldwide.</small></sub>
 
 &nbsp;
 
@@ -382,7 +383,7 @@ The public health questions posed in this Section form the interpretive framewor
 *V. cholerae* genomic surveillance draws on both clinical and environmental samples, each serving distinct public health purposes. Which isolates are sequenced, and how many, should be decided from the epidemiological question to be addressed. A sampling strategy defined in advance, specifying the time period, geographic units, and case or site types to be covered, and the proportion of isolates to be sequenced from each, protects against the two most common failure modes: sequencing too few isolates to resolve the question, and sequencing a convenience set that over-represents one hospital, one district or one point in time. Where sequencing capacity is limited, a smaller but deliberately stratified set is more informative than a larger opportunistic one, and the sampling frame actually achieved should be recorded and reported alongside any findings derived from it (see Section 6.2.1.1).
 
 ![Cholera genomics guidance figure 12](images/cholera-genomics/figure_10.svg)  
-<sub><small><strong>Figure 12. Which samples to sequence: collection and sampling strategy.</strong> The figure describes and shows the different kinds of samples (clinical and environmental), as well as a sampling plan defined from the epidemiological questions.</small></sub>
+<sub><small><strong>Figure 12. Which samples to sequence: collection and sampling strategy.</strong> The figure describes the different kinds of samples (clinical and environmental), as well as a sampling plan defined from the epidemiological questions.</small></sub>
 
 &nbsp;
 
