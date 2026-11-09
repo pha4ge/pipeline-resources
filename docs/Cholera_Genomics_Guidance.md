@@ -100,7 +100,7 @@ Authors: Emma Doughty, Justice Ohene Amofa, Dana Itani, Peter van Heusden, Rekha
 
 [6.1.1 Assessment of Relationships Amongst a Defined Set of Isolates](#611-assessment-of-relationships-amongst-a-defined-set-of-isolates)
 
-[6.1.2 Identification of Closely Related Genomes Within Large (Public) Databases](#612-identification-of-closely-related-genomes-within-large-public-databases)
+[6.1.2 Identification of Closely Related Genomes Within Large (Public) Databases	73](#612-identification-of-closely-related-genomes-within-large-public-databases)
 
 [6.2 Comparative Genomic Analysis Methods](#62-comparative-genomic-analysis-methods)
 
@@ -160,19 +160,28 @@ Authors: Emma Doughty, Justice Ohene Amofa, Dana Itani, Peter van Heusden, Rekha
 
 
 ![Cholera genomics guidance figure 1](images/cholera-genomics/figure_X_summary_v2.svg)  
-<small><small><strong>Figure 1. Summary infographic of the guidance document.</strong></small></small>
+<sub><small><strong>Figure 1. Summary infographic of the guidance document.</strong></small></sub>
+
+&nbsp;
+
 
 # 1 Introduction and Scope
 
 ## 1.1 Purpose and Target Audience
 
 ![Cholera genomics guidance figure 2](images/cholera-genomics/figure_1.svg)  
-<small><small><strong>Figure 2. Purpose of the guidance document.</strong> Practical, actionable recommendations for implementing *V. cholerae* genomic analysis in public health settings.</small></small>
+<sub><small><strong>Figure 2. Purpose of the guidance document.</strong> Practical, actionable recommendations for implementing *V. cholerae* genomic analysis in public health settings.</small></sub>
+
+&nbsp;
+
 
 This guidance document provides practical, actionable recommendations for implementing *Vibrio cholerae* (*V. cholerae*) genomic analysis in public health settings. It addresses the specific bioinformatics challenges and considerations unique to cholera surveillance, outbreak investigation, and source attribution. The guidance is designed to bridge the gap between general genomics resources and the specific requirements for cholera genomics implementation, with a focus on translating genomic data into public health action.
 
 ![Cholera genomics guidance figure 3](images/cholera-genomics/figure_2.svg)  
-<small><small><strong>Figure 3. Target audience of the guidance document.</strong></small></small>
+<sub><small><strong>Figure 3. Target audience of the guidance document.</strong></small></sub>
+
+&nbsp;
+
 
 **Primary Target Audience:**
 
@@ -207,7 +216,10 @@ The Public Health Alliance for Genomic Epidemiology (PHA4GE) is a global coaliti
 The implementation of genomic surveillance for cholera should ensure ethical, equitable, and effective use of genomic data for public health benefit. The following figure summarises the values and principles that should guide decisions about generating, analysing, sharing and using cholera genomic data. These considerations apply throughout the surveillance process, alongside the technical recommendations in this guidance.
 
 ![Cholera genomics guidance figure 4](images/cholera-genomics/PHA4GE%20cholera%20values%20and%20principles.png)
-<small><small><strong>Figure 4. Values and Principles in Genomic implementation.</strong></small></small>
+<sub><small><strong>Figure 4. Values and Principles in Genomic implementation.</strong></small></sub>
+
+&nbsp;
+
 
 
 
@@ -220,11 +232,17 @@ Cholera is an acute diarrhoeal disease caused by toxigenic strains of *Vibrio ch
 Cholera is transmitted primarily via the faecal-oral route through contaminated drinking water or food, and is closely associated with inadequate access to safe water, sanitation, and hygiene (Kaper et al., 1995). It disproportionately affects populations in settings characterised by conflict, displacement, poverty, and limited public health infrastructure. Since *V. cholerae* can persist in aquatic environments, this facilitates seasonal and epidemic transmission.
 
 ![Cholera genomics guidance figure 5](images/cholera-genomics/figure_03.svg)  
-<small><small><strong>Figure 5. How cholera spreads, and who is most at risk.</strong> Cholera is transmitted by the faecal–oral route.</small></small>
+<sub><small><strong>Figure 5. How cholera spreads, and who is most at risk.</strong> Cholera is transmitted by the faecal–oral route.</small></sub>
+
+&nbsp;
+
 
 Despite being preventable and treatable, cholera continues to impose a substantial and worsening global burden. In 2023, 535,321 cases and 4,007 deaths were reported to WHO from 45 countries, representing a 13% increase in cases and a 71% increase in deaths compared with 2022 (WHO, 2024). In 2024, more than 560,000 cases and over 6,000 deaths were reported across 60 countries, with the African continent accounting for 46% of cases and nearly 83% of deaths (WHO, 2025). In 2025, 47 countries reported 451,499 cases and 7,870 deaths: fewer cases than the previous year, but a 30% rise in deaths and the highest annual cholera mortality reported to WHO since 1999 (WHO, 2026). This divergence, with reported cases falling while deaths continue to climb, is itself significant, and underlines that case counts alone are a poor measure of cholera's impact. Notably, these figures represent reported cases only; the true burden is estimated to be substantially higher due to underdiagnosis and underreporting; modelling estimates suggest 1.3–4.0 million cases and 21,000–143,000 deaths each year in endemic countries (Ali et al., 2015).   
 ![Cholera genomics guidance figure 6](images/cholera-genomics/figure_04.svg)  
-<small><small><strong>Figure 6. Reported cholera and AWD cases, 1 January – 30 August 2026.</strong> Cumulative cholera and acute watery diarrhoea (AWD) cases reported to WHO, by country.</small></small>
+<sub><small><strong>Figure 6. Reported cholera and AWD cases, 1 January – 30 August 2026.</strong> Cumulative cholera and acute watery diarrhoea (AWD) cases reported to WHO, by country.</small></sub>
+
+&nbsp;
+
 Disclaimer: The boundaries and names shown and the designations used on this map do not imply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.
 
 Antimicrobial treatment is recommended as an adjunct to oral rehydration therapy for patients with severe dehydration or high purging, where it can shorten the duration and volume of diarrhoea and reduce the period of pathogen shedding (Leibovici-Weissman et al., 2014\) Resistance to key antibiotics is therefore a consistent public health concern for cholera, and identification of antibiotic resistance determinants makes genomic AMR surveillance a valuable complement to phenotypic susceptibility testing. The tools for genomic AMR detection and the specific interpretive challenges they present for *V. cholerae* are described in detail in Section 5.6. 
@@ -244,7 +262,10 @@ Settings with only sporadic imported cases, primarily high-income countries with
 *V. cholerae* is a Gram-negative, curved rod-shaped bacterium of the Vibrionaceae family, naturally found in aquatic environments worldwide. The species encompasses more than 200 serogroups based on variation in the O-antigen of the lipopolysaccharide, but epidemic and pandemic cholera is caused almost exclusively by serogroups O1 and O139. Within O1, two serotypes (Ogawa and Inaba) and two biotypes (Classical and El Tor) are recognised; all currently circulating O1 pandemic strains are O1 El Tor. In-depth discussion of these phenotypes may be found in Section 5.3.
 
 ![Cholera genomics guidance figure 7](images/cholera-genomics/figure_05.svg)  
-<small><small><strong>Figure 7. Organism, genome and toxigenicity of *Vibrio cholerae*: serogroup classification, the two-chromosome genome, and the stepwise acquisition of VPI-1 and CTXφ.</strong> Panel 1 (the organism). *V. cholerae* is a Gram-negative, curved rod-shaped bacterium of the family Vibrionaceae that occurs naturally in aquatic environments worldwide.</small></small>
+<sub><small><strong>Figure 7. Organism, genome and toxigenicity of *Vibrio cholerae*: serogroup classification, the two-chromosome genome, and the stepwise acquisition of VPI-1 and CTXφ.</strong> Panel 1 (the organism). *V. cholerae* is a Gram-negative, curved rod-shaped bacterium of the family Vibrionaceae that occurs naturally in aquatic environments worldwide.</small></sub>
+
+&nbsp;
+
 
 *V. cholerae* possesses an unusual genomic architecture for a bacterium, comprising two circular chromosomes rather than one. The larger chromosome (approximately 2.96 Mb) carries most genes essential for cell function and pathogenicity; the smaller chromosome (approximately 1.07 Mb) carries accessory genes including those for metabolic and environmental functions (Heidelberg et al., 2000). This two-chromosome structure is relevant to sequencing and assembly, as described in Section 5\.1. 
 
@@ -257,9 +278,12 @@ Toxigenicity, the capacity to cause epidemic cholera, depends on the acquisition
   * Recombination, where segments of the core genome are exchanged between co-circulating strains, shuffling existing diversity and generating new combinations beyond what mutation alone would produce.   
   * Mobile element-mediated transfer, where new genetic content, such as resistance cassettes, virulence factors and pathogenicity islands, is acquired from other strains or the environment via plasmids, phages, ICEs, and integrons (discussed throughout Section 5), enabling the rapid transfer of beneficial traits.
 
-**![Cholera genomics guidance figure 8](images/cholera-genomics/figure_6.svg)**
+![Cholera genomics guidance figure 8](images/cholera-genomics/figure_6_without_embedded_caption.svg)
 
-<small><small><strong>Figure 8. How *V. cholerae* evolves: mutation and horizontal gene transfer.</strong> Two mechanisms generate genetic diversity, enabling rapid adaptation to antimicrobial exposure and the human host.</small></small>
+<sub><small><strong>Figure 8. How *V. cholerae* evolves: mutation and horizontal gene transfer.</strong> Two mechanisms generate genetic diversity, enabling rapid adaptation to antimicrobial exposure and the human host. Sources: PHA4GE Cholera Genomics Guidance, Section 2.3; Sjölund-Karlsson et al. (2011); Chun et al. (2009); Mutreja et al. (2011); Waldor and Mekalanos (1996).</small></sub>
+
+&nbsp;
+
 
 ## 2.4 Pandemic History and the Seventh Pandemic El Tor Lineage
 
@@ -271,7 +295,10 @@ The T-lineage framework, established by Weill et al. (2017) through genomic anal
 
 ![Cholera genomics guidance figure 9](images/cholera-genomics/figure_07.svg)
 
-<small><small><strong>Figure 9. Timeline of the seven cholera pandemics: biotype and cholera toxin B-subunit (ctxB) allele.</strong></small></small>
+<sub><small><strong>Figure 9. Timeline of the seven cholera pandemics: biotype and cholera toxin B-subunit (ctxB) allele.</strong></small></sub>
+
+&nbsp;
+
 
 The *ctxB* gene, encoding the B subunit of cholera toxin, has undergone significant evolutionary change through the seventh pandemic. The prototype El Tor *ctxB* genotype (*ctxB3*) that characterised early 7PET strains has been largely displaced among contemporary circulating strains by *ctxB7*, a variant associated with altered toxin properties and now predominant among contemporary 7PET lineages. El Tor strains carrying a classical-type *ctxB* allele (*ctxB1*), first reported from Bangladesh and India in the 1990s-2000s, and later *ctxB7*, are termed atypical, hybrid or variant El Tor strains; these now dominate globally (Ghosh-Banerjee et al., 2010; Naha et al., 2020). *ctxB* genotyping is an informative component of genome characterisation, described in Section 5.5.1.
 
@@ -281,14 +308,20 @@ The *ctxB* gene, encoding the B subunit of cholera toxin, has undergone signific
 Use of genomics is not routine for *V. cholerae* in most settings, and resource allocation priorities should be strongly considered before implementing genomic investigation of cholera. In this guidance document, confirmation of *V. cholerae* is considered a prerequisite before implementation of genomics. Discussion of cholera diagnosis falls outside the scope of this guidance but further information may be found in [GTFCC guidance](https://www.gtfcc.org/wp-content/uploads/2025/04/public-health-surveillance-for-cholera-guidance-document-2024.pdf).
 
 ![Cholera genomics guidance figure 10](images/cholera-genomics/figure_08.svg)  
-<small><small><strong>Figure 10. Decision tree for when to sequence a *V. cholerae* isolate: outbreak, endemic and imported-case settings.</strong> The figure describes the decision pathway for any suspected cholera isolate or specimen (clinical or environmental).</small></small>
+<sub><small><strong>Figure 10. Decision tree for when to sequence a *V. cholerae* isolate: outbreak, endemic and imported-case settings.</strong> The figure describes the decision pathway for any suspected cholera isolate or specimen (clinical or environmental).</small></sub>
+
+&nbsp;
+
 Genomic sequencing of *V. cholerae* occurs in three broad public health contexts: during active outbreaks in endemic or epidemic settings; between outbreaks as part of sustained surveillance programmes; and in non-endemic countries where imported cases are sometimes sequenced as part of routine travel surveillance and to contribute to global genomic databases. The first two scenarios are not mutually exclusive – in endemic countries, inter-outbreak surveillance directly informs the interpretation of subsequent outbreak findings. This document focuses primarily on these first two scenarios, which represent the settings where genomic data is most likely to directly inform public health decision-making. The analytical approaches described are largely applicable to imported case sequencing, though the epidemiological questions and reporting pathways will differ.
 
 Addressing questions in all scenarios requires both genomic data and high-quality epidemiological, clinical, and laboratory metadata collected at the time of sampling. Retrospective completion of metadata is rarely feasible and substantially reduces the interpretive value of genomic findings and ability to address epidemiological questions.
 
 ![Cholera genomics guidance figure 11](images/cholera-genomics/figure_9.svg)
 
-<small><small><strong>Figure 11. Cholera genomics: during and between outbreaks.</strong> The figure shows and describes the questions *V. cholerae* genomic data can address in outbreak investigation and inter-outbreak surveillance.</small></small>
+<sub><small><strong>Figure 11. Cholera genomics: during and between outbreaks.</strong> The figure shows and describes the questions *V. cholerae* genomic data can address in outbreak investigation and inter-outbreak surveillance.</small></sub>
+
+&nbsp;
+
 
 ## 3.1 Outbreak Investigation
 
@@ -341,7 +374,10 @@ The public health questions posed in this Section form the interpretive framewor
 *V. cholerae* genomic surveillance draws on both clinical and environmental samples, each serving distinct public health purposes. Which isolates are sequenced, and how many, should be decided from the epidemiological question to be addressed. A sampling strategy defined in advance, specifying the time period, geographic units, and case or site types to be covered, and the proportion of isolates to be sequenced from each, protects against the two most common failure modes: sequencing too few isolates to resolve the question, and sequencing a convenience set that over-represents one hospital, one district or one point in time. Where sequencing capacity is limited, a smaller but deliberately stratified set is more informative than a larger opportunistic one, and the sampling frame actually achieved should be recorded and reported alongside any findings derived from it (see Section 6.2.1.1).
 
 ![Cholera genomics guidance figure 12](images/cholera-genomics/figure_10.svg)  
-<small><small><strong>Figure 12. Which samples to sequence: collection and sampling strategy.</strong> The figure describes and shows the different kinds of samples (clinical and environmental), as well as a sampling plan defined from the epidemiological questions.</small></small>
+<sub><small><strong>Figure 12. Which samples to sequence: collection and sampling strategy.</strong> The figure describes and shows the different kinds of samples (clinical and environmental), as well as a sampling plan defined from the epidemiological questions.</small></sub>
+
+&nbsp;
+
 
 ### **4.1.1 Clinical Samples**
 
@@ -372,7 +408,10 @@ Clinical specimens may be prepared by plating directly onto culture medium with 
 
 ![Figure 13. From DNA to sequence data](images/cholera-genomics/figure_11.svg)
 
-<small><small><strong>Figure 13. From DNA to sequence data.</strong> The diagram illustrates the laboratory workflow processes, including DNA extraction, quality control, sequencing platform choices and minimum data requirements.</small></small>
+<sub><small><strong>Figure 13. From DNA to sequence data.</strong> The diagram illustrates the laboratory workflow processes, including DNA extraction, quality control, sequencing platform choices and minimum data requirements.</small></sub>
+
+&nbsp;
+
 
 ### 4.3.1 DNA Extraction
 
@@ -408,7 +447,10 @@ Appropriate minimum depth of coverage and per-base quality depend on the analyti
 ## 4.4 Metadata Collection
 
 ![Cholera genomics guidance figure 13](images/cholera-genomics/figure_12.svg)  
-<small><small><strong>Figure 14. Minimal metadata checklist for cholera genomic surveillance.</strong></small></small>
+<sub><small><strong>Figure 14. Minimal metadata checklist for cholera genomic surveillance.</strong></small></sub>
+
+&nbsp;
+
 
 High-quality, standardised metadata are essential for meaningful interpretation of genomic data. Without reliable information about when, where, and from whom an isolate was collected, even the best bioinformatics cannot reliably inform outbreak attribution, transmission chain reconstruction, or AMR trend monitoring. Through conversations with public health labs, incomplete metadata was consistently identified as one of the most significant practical barriers to genomic epidemiology of cholera, and metadata collection should be considered an integral part of any sequencing programme rather than an afterthought.
 
@@ -427,7 +469,10 @@ Sequence data need to be assembled into approximations of the original genome. F
 *Vibrio cholerae* possesses an unusual genome architecture for a bacterium, comprising two circular chromosomes rather than one. The larger chromosome (chromosome I, \~2.96 Mb) encodes most housekeeping and virulence functions, whilst the smaller chromosome (chromosome II, \~1.07 Mb) carries genes involved in adaptation and secondary metabolism, totalling approximately 3,885 predicted protein-coding sequences (Heidelberg et al., 2000). Chromosome II is believed to have originated from a large plasmid that was taken up by an ancestral *Vibrio species* and evolved into a stable chromosome.
 
 ![Cholera genomics guidance figure 14](images/cholera-genomics/figure_13.svg)  
-<small><small><strong>Figure 15. Key mobile genetic elements on the two chromosomes of the *Vibrio* cholerae O1 El Tor reference genome (N16961) used in genomic surveillance.</strong></small></small>
+<sub><small><strong>Figure 15. Key mobile genetic elements on the two chromosomes of the *Vibrio* cholerae O1 El Tor reference genome (N16961) used in genomic surveillance.</strong></small></sub>
+
+&nbsp;
+
 
 For downstream characterisation, a *de novo* assembly that reconstructs the genome without prior knowledge of the sequence provides complete or near-complete genome resolution. It is particularly beneficial for characterisation of novel sequence structures, including mobile genetic elements and plasmids. Despite *V. cholerae* having two chromosomes, the genome assemblers used for this data are standard for bacterial genome assembly. For Illumina short-read data, **Shovill** (Seemann, 2016), which uses **SPAdes** by default and offers **SKESA** (Souvorov et al., 2018\) as a selectable alternative, and direct use of SPAdes (Bankevich et al., 2012\) have been widely used to produce assemblies of sufficient contiguity for public health characterisation. For ONT long-read data, the recommendation of the assembler **Flye** (Kolmogorov et al., 2019\) has been widely applied, with the **dragonflye** pipeline (Petit, dragonflye) providing a convenient wrapper, and assemblies should subsequently be polished to reduce residual error. For hybrid assemblies combining short- and long-read data, **Hybracter** (Bouras et al., 2024\) provides an automated approach used in recent *V. cholerae* surveillance work (Foster-Nyarko et al., 2025). Recommendations for bacterial genome assemblers have also been reviewed by Ryan Wick (Wick, 2020).
 
@@ -449,7 +494,10 @@ To ensure that all genome data are derived from *Vibrio cholerae*, species ident
 
 
 ![Cholera genomics guidance figure 16](images/cholera-genomics/figure_14.svg)  
-<small><small><strong>Figure 16. Assembly quality control and species confirmation.</strong> Diagram shows the expected two-chromosome structure, species-specific QC thresholds, species identity and the limits of assemblies.</small></small>
+<sub><small><strong>Figure 16. Assembly quality control and species confirmation.</strong> Diagram shows the expected two-chromosome structure, species-specific QC thresholds, species identity and the limits of assemblies.</small></sub>
+
+&nbsp;
+
 
 
 ## 5.3. *V. cholerae* Phenotypic Subtype Prediction
@@ -457,7 +505,10 @@ To ensure that all genome data are derived from *Vibrio cholerae*, species ident
 *V. cholerae* has been subtyped into serogroups, serotypes, and biotypes using phenotypic methods, which can be predicted from genomic data. 
 
 ![Cholera genomics guidance figure 17](images/cholera-genomics/figure_15.svg)  
-<small><small><strong>Figure 17. Phenotypic subtype prediction from genomes.</strong> Serogroup, serotype and biotype: a description of what to detect, how to call it and what to watch for.</small></small>
+<sub><small><strong>Figure 17. Phenotypic subtype prediction from genomes.</strong> Serogroup, serotype and biotype: a description of what to detect, how to call it and what to watch for.</small></sub>
+
+&nbsp;
+
 
 ### **5.3.1 Serogroup Identification**
 
@@ -494,7 +545,10 @@ WGS data support classification of *V. cholerae* isolates based on genomic ident
 
 ![Figure 18. Genomic subtype identification: MLST and lineage](images/cholera-genomics/figure_16.svg)
 
-<small><small><strong>Figure 18. Genomic subtype identification: MLST and lineage.</strong> Description of what MLST can and cannot tell you, and how T/AFR lineages place an isolate.</small></small>
+<sub><small><strong>Figure 18. Genomic subtype identification: MLST and lineage.</strong> Description of what MLST can and cannot tell you, and how T/AFR lineages place an isolate.</small></sub>
+
+&nbsp;
+
 
 ### 5.4.1 Multilocus Sequence Typing
 
@@ -526,7 +580,10 @@ Approaches to T-lineage assignment rely on phylogenetic assessment of genomes, e
 Virulence profiling provides genomic evidence for the pathogenic potential of an isolate and contributes to both clinical interpretation and epidemiological context. The key virulence determinants include cholera toxin, the toxin-co-regulated pilus and the Vibrio Pathogenicity Islands and Vibrio Seventh Pandemic Islands. Other virulence factors exist and may be identified with virulence typing tools such as **AMRFinderPlus**.
 
 ![Cholera genomics guidance figure 19](images/cholera-genomics/figure_17.svg)  
-<small><small><strong>Figure 19. Antimicrobial resistance: agents, genes and tools.</strong> Resistance to the three agents used to treat cholera, how to detect it and how far to trust a genotype (Section 5.6).</small></small>
+<sub><small><strong>Figure 19. Antimicrobial resistance: agents, genes and tools.</strong> Resistance to the three agents used to treat cholera, how to detect it and how far to trust a genotype (Section 5.6).</small></sub>
+
+&nbsp;
+
 
 ### 5.5.1 Cholera Toxin Gene Detection and *ctxB* Genotyping
 
@@ -574,7 +631,10 @@ A specific family of integrative and conjugative elements (ICEs), SXT/R391, is t
 Azithromycin currently remains a largely effective treatment option, but macrolide resistance genes, including *mph(A)*, *mrx(A)*, *msr(E)*, and *mph(E)*, are an emerging concern. These genes were detected in 6.6–6.8% of African isolates in the Olowo-okere et al. (2026) analysis and heavily distributed in clinical isolates. Extended-spectrum beta-lactam resistance mediated by *bla*PER-7, a plasmid-borne extended-spectrum beta-lactamase conferring resistance to third-generation cephalosporins, was detected in 6.4% of African clinical genomes (Olowo-okere et al., 2026). *bla*PER-7 and the macrolide resistance genes were key plasmid-associated components of the XDR strains documented in Yemen from 2018–2019 onwards (Rouard et al., 2024; Lassalle et al., 2023). The 2018 Zimbabwe outbreak strain carried a comparable IncA/C2 multidrug-resistance plasmid, but a different extended-spectrum beta-lactamase, *bla*CTX-M-15, and remained azithromycin-susceptible (Mashe et al., 2020). Together these demonstrated the potential for rapid plasmid-mediated acquisition of resistance to multiple WHO-recommended cholera treatments. 
 
 ![Cholera genomics guidance figure 20](images/cholera-genomics/figure_18.svg)  
-<small><small><strong>Figure 20. Key antimicrobial resistance determinants in seventh-pandemic *Vibrio cholerae*: drug class affected and genetic vehicle.</strong> Matrix of acquired resistance genes and chromosomal mutations (rows) against the antibiotic class each one affects (columns).</small></small>
+<sub><small><strong>Figure 20. Key antimicrobial resistance determinants in seventh-pandemic *Vibrio cholerae*: drug class affected and genetic vehicle.</strong> Matrix of acquired resistance genes and chromosomal mutations (rows) against the antibiotic class each one affects (columns).</small></sub>
+
+&nbsp;
+
 
 ### 5.6.3 Tools for Genomic AMR Detection
 
@@ -615,7 +675,10 @@ For a mechanistic account of the MGEs that carry AMR determinants in *V. cholera
 Comparative genomics assesses relationships between isolates beyond the resolution available through genome characteristics such as serogrouping, MLST or lineage assignment. It can help to answer epidemiological questions such as whether isolates share a transmission chain, whether a strain represents a new introduction or ongoing local circulation, or how local findings relate to regional or global spread.
 
 ![Cholera genomics guidance figure 21](images/cholera-genomics/figure_19.svg)  
-<small><small><strong>Figure 22. Comparative genomics: purpose and approaches.</strong> Why and how isolates are compared beyond serogroup, multilocus sequence typing (MLST) and lineage (Section 6.1).</small></small>
+<sub><small><strong>Figure 22. Comparative genomics: purpose and approaches.</strong> Why and how isolates are compared beyond serogroup, multilocus sequence typing (MLST) and lineage (Section 6.1).</small></sub>
+
+&nbsp;
+
 
 Comparative analyses are often undertaken in an iterative manner, asking and addressing questions as epidemiology becomes clearer. There are two broad analytical approaches used in public health surveillance and outbreak analysis, which are often complementary but have distinct goals and typically distinct methodological approaches (see Section 6.2): assessment of relationships amongst a defined set of isolates, and identification of closely related genomes within large (public) databases. The assessment of relationships amongst a defined set of isolates is often the primary analytical approach. Querying public databases is used both as a means of answering epidemiological questions directly and as a way of identifying contextual genomes to incorporate into those closer defined-dataset analyses.
 
@@ -645,7 +708,10 @@ Contextual genomes may simply not exist for the setting of interest. Public geno
 There are two principal methods used to undertake comparative genomics: phylogenetic inference (Section 6.2.1) and cgMLST (Section 6.2.2), though other methods such as phylogenetic placement (Section 6.2.3) may be employed. These methods may be chosen by bioinformaticians or platform developers to allow users to assess relationships amongst a defined set of isolates or large databases. It is valuable to understand their application to cholera genomics.
 
 ![Cholera genomics guidance figure 22](images/cholera-genomics/figure_20.svg)  
-<small><small><strong>Figure 23. Comparative methods: trees, alleles and placement.</strong> What each comparative method answers, how to run it and where it stops (Section 6.2).</small></small>
+<sub><small><strong>Figure 23. Comparative methods: trees, alleles and placement.</strong> What each comparative method answers, how to run it and where it stops (Section 6.2).</small></sub>
+
+&nbsp;
+
 
 ### 6.2.1 Phylogenetic Inference
 
@@ -720,7 +786,10 @@ Bioinformatics tasks for analysis of *V. cholerae* genomes seek to characterise 
 
 ![Cholera genomics guidance figure 23](images/cholera-genomics/figure_21.svg)
 
-<small><small><strong>Figure 25. Bioinformatics workflows for cholera genomic analysis: tools and versions at each step.</strong></small></small>
+<sub><small><strong>Figure 25. Bioinformatics workflows for cholera genomic analysis: tools and versions at each step.</strong></small></sub>
+
+&nbsp;
+
 
 
 ## 7.1 Bioinformatics Platforms and Compatible Workflows
@@ -772,7 +841,10 @@ Bioinformatics has traditionally been undertaken via command line interfaces to 
 ## 7.2 Genome Characterisation Workflows
 
 ![Cholera genomics guidance figure 24](images/cholera-genomics/figure_22.svg)  
-<small><small><strong>Figure 26. Genome characterisation workflows: who covers what.</strong> Four ways to characterise a genome and what each leaves out (Section 7.2).</small></small>
+<sub><small><strong>Figure 26. Genome characterisation workflows: who covers what.</strong> Four ways to characterise a genome and what each leaves out (Section 7.2).</small></sub>
+
+&nbsp;
+
 
 There are a number of genome characterisation workflows that provide some or all of the characterisation tasks that are important to *V. cholerae* genome analysis:
 
@@ -823,7 +895,10 @@ Users with sufficient bioinformatics capacity may implement the characterisation
 ## 7.3 Comparative Genomics Workflows
 
 ![Cholera genomics guidance figure 25](images/cholera-genomics/figure_23.svg)  
-<small><small><strong>Figure 27. Comparative genomics workflows: which tool does what.</strong> Which tool does what in comparative genomics (Section 7.3).</small></small>
+<sub><small><strong>Figure 27. Comparative genomics workflows: which tool does what.</strong> Which tool does what in comparative genomics (Section 7.3).</small></sub>
+
+&nbsp;
+
 Sources: PHA4GE Cholera Genomics Guidance, Section 7.3, Tables 5 and 6 (symbols are the authors’ reading of the tables); CholeraSeq paper; Pathogenwatch, EnteroBase and NCBI documentation.
 
 Comparative analysis of *V. cholerae* genomes may be undertaken to understand their relationships, as described in Section 6\. A number of workflows and platforms provide access to phylogenetic inference, cgMLST and methods for identifying contextual genomes from public databases or collections; these are listed below:
@@ -906,7 +981,10 @@ The NCBI Pathogen Detection Isolate Browser is a publicly accessible resource th
 
 ![Cholera genomics guidance figure 26](images/cholera-genomics/figure_24.svg)
 
-<small><small><strong>Figure 28. How NCBI Pathogen Detection clusters *Vibrio cholerae* genomes.</strong></small></small>
+<sub><small><strong>Figure 28. How NCBI Pathogen Detection clusters *Vibrio cholerae* genomes.</strong></small></sub>
+
+&nbsp;
+
 
 **EnteroBase**
 
@@ -916,14 +994,17 @@ The NCBI Pathogen Detection Isolate Browser is a publicly accessible resource th
 
 <small><small><strong>Figure 29A. NCBI Pathogen Detection Isolates SNP Tree Viewer for a *Vibrio* *cholerae* SNP cluster.</strong> Screenshot of the NCBI Pathogen Detection Isolates SNP Tree Viewer for *Vibrio* *cholerae* (223 isolates; organism group PDG000000055.919, SNP cluster PDS000177847.14).</small></small>
 
-**![Cholera genomics guidance figure 28](images/cholera-genomics/figure_25B.svg)**
+![Cholera genomics guidance figure 28](images/cholera-genomics/figure_25B.svg)
 
 <small><small><strong>Figure 29B. EnteroBase Vibrio Search Strains page showing cgMLST and HierCC data.</strong></small></small>
 
 # 8 *V. cholerae* Public Data Sharing
 
 ![Cholera genomics guidance figure 29](images/cholera-genomics/figure_26_v2.svg)  
-<small><small><strong>Figure 30. Public data sharing: responsibly, openly and traceably.</strong> Public sharing of cholera genomic data (Section 8\) in three steps.</small></small>
+<sub><small><strong>Figure 30. Public data sharing: responsibly, openly and traceably.</strong> Public sharing of cholera genomic data (Section 8\) in three steps.</small></sub>
+
+&nbsp;
+
 
 ## 8.1 Ethical Considerations
 
@@ -959,12 +1040,18 @@ Metadata should accompany submissions of genomic data to public repositories (se
 Where institutional privacy requirements oblige laboratories to pseudonymise internal sample identifiers before submission, this link requires deliberate management. Laboratories consulted during development reported losing the ability to retrieve their own data from public repositories because the key mapping original identifiers to pseudonymised identifiers and accessions had been maintained inconsistently. A single, durable, access-controlled register linking internal sample identifier, pseudonymised identifier, and repository accession should be established before the first submission and maintained as a programme asset rather than a project file, with responsibility for it assigned to a named role. Without it, retrospective analysis, data correction and withdrawal requests all become impractical.
 
 ![Cholera genomics guidance figure 30](images/cholera-genomics/figure_27.svg)  
-<small><small><strong>Figure 31. Cholera genomic data flow and the metadata standard at each hop.</strong> Flow of cholera genomic data from isolate to public repository, with the metadata standard that applies at each step.</small></small>
+<sub><small><strong>Figure 31. Cholera genomic data flow and the metadata standard at each hop.</strong> Flow of cholera genomic data from isolate to public repository, with the metadata standard that applies at each step.</small></sub>
+
+&nbsp;
+
 
 # 9 Interpretation of Genomic Data
 
 ![Cholera genomics guidance figure 31](images/cholera-genomics/figure_28_v2.svg)  
-<small><small><strong>Figure 32. Interpreting cholera genomic data: what the evidence can say.</strong> Principles and applications for interpreting cholera genomic data (Section 9).</small></small>
+<sub><small><strong>Figure 32. Interpreting cholera genomic data: what the evidence can say.</strong> Principles and applications for interpreting cholera genomic data (Section 9).</small></sub>
+
+&nbsp;
+
 
 Bioinformatic outputs, as discussed throughout Sections 5–7, must be interpreted to address epidemiological questions. This Section on interpretation follows the same structure as Section 3, which introduced the questions, addressing the outbreak investigation (Sections 3.1 and 9.1) and non-outbreak surveillance (Section 3.2 and 9.2) separately. Interpretation is not a discrete step that follows analysis; instead, it is an iterative process that evolves as the outbreak develops, as more genomes are added, and as the epidemiological picture becomes clearer. Conclusions about clonality, transmission structure, and origin may evolve, new introductions may be detected, and resistant variants may emerge. Genomic data and epidemiological metadata must be interpreted together; neither is sufficient alone. 
 
@@ -1033,7 +1120,10 @@ Environmental isolates, which are also less likely to be 7PET, require particula
 
 The value and impact of genomic findings on public health action depend not only on the analysis itself, but also on how results are communicated. Effective reporting should be tailored to the unique analyses and epidemiology being communicated, but also to the needs and interests of the audience and their understanding of genomics. Even the same findings may need to be framed very differently for a clinical team who are interested in the implications for patient management, relative to an epidemiological team leading outbreak investigation, or a national authority making policy decisions. Reporting practice in cholera genomics is evolving and standardised frameworks are an area of active development within the community.  
 ![Cholera genomics guidance figure 32](images/cholera-genomics/figure_29_v2.svg)  
-<small><small><strong>Figure 33. Reporting genomic findings clearly and honestly.</strong> Reporting genomic findings in cholera (Section 10).</small></small>
+<sub><small><strong>Figure 33. Reporting genomic findings clearly and honestly.</strong> Reporting genomic findings in cholera (Section 10).</small></sub>
+
+&nbsp;
+
 
 ### 10.1. Modes of Reporting
 
@@ -1059,7 +1149,10 @@ The primary community resource for cholera genomics practitioners is the Cholera
 General genomics and bioinformatics training is valuable for understanding *V. cholerae* genomics and has recently been mapped by the PHA4GE Training and Workforce Development Working Group (Matimba et al., 2026\).
 
 ![Cholera genomics guidance figure 33](images/cholera-genomics/figure_30.svg)  
-<small><small><strong>Figure 34. Capacity building and training resources for cholera genomics.</strong> Where laboratories implementing or expanding *V. cholerae* genomic surveillance can start.</small></small>
+<sub><small><strong>Figure 34. Capacity building and training resources for cholera genomics.</strong> Where laboratories implementing or expanding *V. cholerae* genomic surveillance can start.</small></sub>
+
+&nbsp;
+
 
 # 12. References and Citations
 
