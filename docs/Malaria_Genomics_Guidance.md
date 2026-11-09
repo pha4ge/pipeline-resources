@@ -1,6 +1,5 @@
 # PHA4GE Malaria Genomics Guidance Document
 
-DRAFT. Version 2.2 		September 2026
 
 **Authors**: Olateju Idowu, Moussa Moise Diagne, Shahiid Kiyaga, Eddie Lulamba, Stephanie Van Wyk, Francis Chikuse, Francis Mubigalo, Anita Kasanga, Oliver De Sousa, Emery Manirambona, Rekha Sathyan, Olusola Afuwape, Hazel Beverly Gwarinda, Blaženka Danica Letinić, Tracey Calvert-Joshua
 
