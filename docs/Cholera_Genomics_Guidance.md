@@ -2,6 +2,18 @@
 
 Authors: Emma Doughty, Justice Ohene Amofa, Dana Itani, Peter van Heusden, Rekha Satyan, Palesa Makoti, Catherine Rossouw, Tracey Calvert-Joshua
 
+## Guidance at a Glance
+
+This infographic provides an overview of the key topics covered in this guidance, from cholera surveillance and genomic data generation to genome characterisation, comparative analysis, data sharing and interpretation. Each topic is linked to the relevant section of the document to help readers identify the guidance most relevant to their work.
+
+![Figure 1. Overview of the Cholera Genomics Guidance](images/cholera-genomics/figure_X_summary_v2.svg)
+
+<sub><small><strong>Figure 1. Overview of the Cholera Genomics Guidance.</strong> Summary of the main topics and corresponding sections covered in this document.</small></sub>
+
+&nbsp;
+
+
+
 [1 Introduction and Scope](#1-introduction-and-scope)
 
 [1.1 Purpose and Target Audience](#11-purpose-and-target-audience)
@@ -159,10 +171,6 @@ Authors: Emma Doughty, Justice Ohene Amofa, Dana Itani, Peter van Heusden, Rekha
 [13\. Glossary](#13-glossary)
 
 
-![Cholera genomics guidance figure 1](images/cholera-genomics/figure_X_summary_v2.svg)  
-<sub><small><strong>Figure 1. Summary infographic of the guidance document.</strong></small></sub>
-
-&nbsp;
 
 
 # 1 Introduction and Scope
