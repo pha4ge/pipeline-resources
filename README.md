@@ -22,8 +22,9 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 - [Bioinformatics Development](#bioinformatics-development)
 	- [Best Practices for Public Health Bioinformatics Pipelines](https://github.com/pha4ge/public-health-pipeline-best-practices/blob/main/docs/pipeline-best-practices.md)
  - [Cholera Genomics Guidance](docs/Cholera_Genomics_Guidance.md)
-- [Malaria Genomics Guidance](#malaria-genomics-guidance)
-- [Genomic Data Interpretation for NMCPs](#genomic-data-interpretation-for-nmcps)
+- [Malaria Resources](#malaria-resources)
+  - [Malaria Genomics Guidance](docs/malaria-genomics-guidance.md)
+  - [Genomic Data Interpretation for NMCPs](docs/nmcp-genomic-interpretation-guidance.html)
 - [Contributing](#contributing)
 
 
@@ -90,21 +91,18 @@ Cholera Genomics Guidance
 
 The PHA4GE Pipelines and Visualization Working Group has developed this guidance document to support the implementation of *Vibrio cholerae* genomic analysis in public health settings. It provides practical guidance on genomic data generation, genome characterization, bioinformatics tools and workflows, comparative genomic analysis, and the interpretation and reporting of findings to support cholera outbreak investigations and surveillance.
 
-Malaria Genomics Guidance
-========================
+
+Malaria Resources
+=================
 
 ### [Malaria Genomics Guidance](docs/malaria-genomics-guidance.md)
 
 The PHA4GE Pipelines and Visualization Working Group has developed this guidance document to support the implementation of malaria genomic surveillance for public health. It covers surveillance questions, sampling and sequencing strategies, bioinformatics workflows, quality assurance, interpretation and reporting of genomic findings, and their use in informing malaria control and elimination programmes.
 
-NMCP Genomic Data Interpretation Guidance
-==========================================
+### [Genomic Data Interpretation for NMCPs](docs/nmcp-genomic-interpretation-guidance.html)
 
-### Genomic Data Interpretation for National Malaria Control Programmes (NMCPs)
+This accompanying resource supports National Malaria Control Programmes (NMCPs) in interpreting genomic surveillance findings and linking genomic evidence to public health questions, supporting epidemiological information and potential programme actions.
 
-This resource supports National Malaria Control Programmes in interpreting genomic surveillance findings and linking genomic evidence to public health questions, supporting epidemiological information and potential programme actions.
-
-[Open the NMCP Guidance](docs/nmcp-guidance/index.html)
 
 
 Contributing
