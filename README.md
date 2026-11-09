@@ -23,8 +23,8 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 	- [Best Practices for Public Health Bioinformatics Pipelines](https://github.com/pha4ge/public-health-pipeline-best-practices/blob/main/docs/pipeline-best-practices.md)
  - [Cholera Genomics Guidance](docs/Cholera_Genomics_Guidance.md)
 - [Malaria Resources](#malaria-resources)
-  - [Malaria Genomics Guidance](docs/malaria-genomics-guidance.md)
-  - [Genomic Data Interpretation for NMCPs](docs/nmcp-genomic-interpretation-guidance.html)
+  - [Malaria Genomics Guidance](docs/Malaria_Genomics_Guidance.md)
+  - [Genomic Data Interpretation for NMCPs](nmcp-genomic-interpretation-guidance.html)
 - [Contributing](#contributing)
 
 
