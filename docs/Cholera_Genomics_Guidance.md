@@ -1,7 +1,7 @@
 <p align="left">
-  <img src="images/PHA4GE%20Logo%20portrait%20dark%20bg%20rgb.png"
+  <img src="images/PHA4GE%20Logo%20landscape%20white%20bg.png"
        alt="PHA4GE - Public Health Alliance for Genomic Epidemiology"
-       width="260">
+       width="420">
 </p>
 
 <hr>
