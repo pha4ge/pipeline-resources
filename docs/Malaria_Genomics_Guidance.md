@@ -1,4 +1,12 @@
-# PHA4GE Malaria Genomics Guidance Document
+
+<img src="images/PHA4GE%20Logo%20landscape%20rgb.png"
+     alt="PHA4GE"
+     width="340"
+     align="left">
+
+<h1>Malaria Genomics Guidance</h1>
+
+<br clear="all">
 
 
 **Authors**: Olateju Idowu, Moussa Moise Diagne, Shahiid Kiyaga, Eddie Lulamba, Stephanie Van Wyk, Francis Chikuse, Francis Mubigalo, Anita Kasanga, Oliver De Sousa, Emery Manirambona, Rekha Sathyan, Olusola Afuwape, Hazel Beverly Gwarinda, Blaženka Danica Letinić, Tracey Calvert-Joshua
