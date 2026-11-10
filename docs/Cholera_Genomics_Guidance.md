@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="images/PHA4GE%20Logo%20landscape%20white%20bg.png"
+  <img src="images/PHA4GE%20Logo%20landscape%20rgb.png"
        alt="PHA4GE - Public Health Alliance for Genomic Epidemiology"
        width="420">
 </p>
