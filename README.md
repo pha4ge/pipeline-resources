@@ -25,7 +25,7 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 - [Malaria Resources](#malaria-resources)
   - [Malaria Genomics Guidance](docs/Malaria_Genomics_Guidance.md)
   - [Genomic Data Interpretation for NMCPs](https://pha4ge.github.io/nmcp-genomic-guidance/)
-- [Sepsis Genomics Guidance](docs/Sepsis_Genomics_Guidance.md)
+- [Sepsis Genomics Guidance](https://github.com/pha4ge/pipeline-resources/blob/main/docs/Sepsis_Genomics_Guidance.md)
 - [Meningitis Genomics Guidance](docs/Meningitis_Genomics_Guidance.md)
 - [Contributing](#contributing)
 
@@ -109,7 +109,7 @@ This accompanying resource supports National Malaria Control Programmes (NMCPs) 
 Sepsis Genomics Guidance
 =======================
 
-### [Sepsis Genomics Guidance](docs/Sepsis_Genomics_Guidance.md)
+### [Sepsis Genomics Guidance](https://github.com/pha4ge/pipeline-resources/blob/main/docs/Sepsis_Genomics_Guidance.md)
 
 The PHA4GE Pipelines and Visualization Working Group has developed this guidance document to support the implementation of genomic analysis and surveillance of bacterial pathogens associated with sepsis in public health settings. It provides practical guidance on surveillance strategies, sampling and sequencing, metadata standards, bioinformatics workflows, antimicrobial resistance and virulence profiling, genomic epidemiology, and the interpretation and reporting of findings. The guidance also includes pathogen-specific recommendations and case studies to support outbreak investigations, antimicrobial resistance surveillance, and monitoring of pathogen transmission.
 
