@@ -1,10 +1,11 @@
-<p align="left">
+<p align="right">
   <img src="images/PHA4GE%20Logo%20landscape%20rgb.png"
        alt="PHA4GE - Public Health Alliance for Genomic Epidemiology"
-       width="420">
+       width="360">
 </p>
 
 <hr>
+
 
 # Cholera Genomics Guidance
 
