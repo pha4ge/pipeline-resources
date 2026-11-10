@@ -21,7 +21,8 @@ This repository hosts [PHA4GE-developed](https://pha4ge.org/) guidance documents
 	- [Bioinformatics Solutions](docs/hiv-bioinfo-solutions.md)
 - [Bioinformatics Development](#bioinformatics-development)
 	- [Best Practices for Public Health Bioinformatics Pipelines](https://github.com/pha4ge/public-health-pipeline-best-practices/blob/main/docs/pipeline-best-practices.md)
- - [Cholera Genomics Guidance](docs/Cholera_Genomics_Guidance.md)
+- [Influenza Guidance Document](https://github.com/pha4ge/pipeline-resources/blob/main/docs/influenza-bioinfo-solutions.md)
+- [Cholera Genomics Guidance](docs/Cholera_Genomics_Guidance.md)
 - [Malaria Resources](#malaria-resources)
   - [Malaria Genomics Guidance](docs/Malaria_Genomics_Guidance.md)
   - [Genomic Data Interpretation for NMCPs](https://pha4ge.github.io/nmcp-genomic-guidance/)
@@ -85,6 +86,12 @@ Bioinformatics Development
 
 In an attempt to assist software developers, the Bioinformatics Pipelines and Visualization Working Group of the Public Health Alliance for Genomic Epidemiology (PHA4GE) has proposed a set of best practices, tailored specifically for public health bioinformatics pipelines. These best practices aim to provide a guidance framework for development, testing, maintenance of bioinformatics software. By adhering closely to these best practices, developers can enhance the quality, reliability and sustainability of their software, facilitating impact in public health research.
 
+Influenza Guidance Document
+==================
+
+[Influenza Guidance Document](https://github.com/pha4ge/pipeline-resources/blob/main/docs/influenza-bioinfo-solutions.md)
+
+The PHA4GE Bioinformatics Pipelines and Visualization Working Group developed this guidance document to support the public health community in conducting standardized genomic analyses of influenza viruses. It provides an overview of influenza genomics, sequencing approaches, and bioinformatics workflows, alongside open-source tools and resources for genomic surveillance. The document covers seasonal, pandemic, and animal influenza, with applications including virus characterization, phylogenetic analysis, reassortment detection, antiviral resistance monitoring, and vaccine strain selection.
 
 Cholera Genomics Guidance
 =========================
