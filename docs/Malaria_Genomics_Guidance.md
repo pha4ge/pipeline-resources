@@ -17,7 +17,7 @@ Intended users include researchers, bioinformaticians, data analysts, epidemiolo
 
 <img src="images/malaria-genomics/Malaria Genomics Guidance Infographic.png" alt="Scope of the guidance document" width="60%">
 
-*Scope of the malaria guidance document covering nine use cases.
+<small>Scope of the malaria guidance document covering nine use cases.</small>
 
 Disclaimer
 
