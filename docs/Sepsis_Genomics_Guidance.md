@@ -1,268 +1,6 @@
-# Table of Contents
+**Lead authors:** Dejenie Shiferaw, Mary Maranga
 
-[**Table of Contents 1**](#table-of-contents)
-
-[**Overview 5**](#_heading=)
-
-[***Purpose and intended use 5***](#purpose-and-intended-use)
-
-[***Pathogen scope 6***](#pathogen-scope)
-
-[***1. Public Health Applications of Genomics for Sepsis Pathogens 7***](#public-health-applications-of-genomics-for-sepsis-pathogens)
-
-> [**1.1 Outbreak Investigation 7**](#outbreak-investigation)
->
-> [**1.2 Routine Genomic Surveillance 8**](#routine-genomic-surveillance)
->
-> [**1.3 AMR Mechanism Detection and Monitoring 9**](#amr-mechanism-detection-and-monitoring)
->
-> [**1.4 Detection of High-Risk Clones and Population Structure 9**](#detection-of-high-risk-clones-and-population-structure)
->
-> [**1.5 Genomics as a Complementary Tool: Interpretation and Uncertainty 10**](#genomics-as-a-complementary-tool-interpretation-and-uncertainty)
-
-[***2. Surveillance Strategies Study Design 11***](#surveillance-strategies-study-design)
-
-> [**2.1 Framework: Surveillance Objective Determines Study Design 11**](#framework-surveillance-objective-determines-study-design)
->
-> [**2.2 Core Use Cases and Sampling Strategies 13**](#core-use-cases-and-sampling-strategies)
->
-> [2.2.1 Outbreak Investigation 13](#outbreak-investigation-1)
->
-> [2.2.2 Routine Genomic Surveillance 14](#routine-genomic-surveillance-1)
->
-> [2.2.3 AMR Mechanism Detection and Monitoring 14](#amr-mechanism-detection-and-monitoring-1)
->
-> [2.2.4 Population Structure and High-Risk Clone Detection 15](#population-structure-and-high-risk-clone-detection)
->
-> [**2.3 Specimen Types, Collection, and Handling 15**](#specimen-types-collection-and-handling)
->
-> [**2.4 Retrospective and Prospective Study Designs 16**](#retrospective-and-prospective-study-designs)
->
-> [**2.5 Implementation of genomic surveillance 17**](#implementation-of-genomic-surveillance)
-
-[***3. Metadata standards 18***](#metadata-standards)
-
-> [**The PHA4GE Community Metadata Standards for Sepsis Pathogens 19**](#the-pha4ge-community-metadata-standards-for-sepsis-pathogens)
-
-[***4. Ethical, Legal and Data Governance 25***](#ethical-legal-and-data-governance)
-
-[***5. Laboratory and Sequencing Best Practices 27***](#laboratory-and-sequencing-best-practices)
-
-> [**5.1 Pre-sequencing Pathogen Confirmation (Species Identification) 27**](#pre-sequencing-pathogen-confirmation-species-identification)
->
-> [**5.2 Antimicrobial Susceptibility Testing (AST) 27**](#antimicrobial-susceptibility-testing-ast)
->
-> [**5.3 Pure Isolate Culture, Storage, and DNA Extraction 29**](#pure-isolate-culture-storage-and-dna-extraction)
->
-> [5.3.1 Pure Isolate Confirmation and Subculture 29](#pure-isolate-confirmation-and-subculture)
->
-> [5.3.2 Isolate Storage for Genomic Archives 29](#isolate-storage-for-genomic-archives)
->
-> [5.3.3 DNA Extraction 30](#dna-extraction)
->
-> [**5.4 Sequencing Library Preparation and Platform Choice 31**](#sequencing-library-preparation-and-platform-choice)
->
-> [**5.5 Quality Control Before Sequencing and Pre-analytical Documentation 32**](#quality-control-before-sequencing-and-pre-analytical-documentation)
-
-[***6. Standard bioinformatics data analysis workflow - core bioinformatics steps 33***](#standard-bioinformatics-data-analysis-workflow---core-bioinformatics-steps)
-
-> [**6.1 Base calling Nanopore data 34**](#base-calling-nanopore-data)
->
-> [**6.2 Raw data quality control 34**](#raw-data-quality-control)
->
-> [**6.3 Read trimming and filtering: preprocessing of reads 35**](#read-trimming-and-filtering-preprocessing-of-reads)
->
-> [**6.4 Species confirmation or taxonomic classification 36**](#species-confirmation-or-taxonomic-classification)
->
-> [**6.5 Genome assembly 37**](#genome-assembly)
->
-> [**6.6 Reference-based mapping and variant calling 38**](#reference-based-mapping-and-variant-calling)
->
-> [**6.7 Assembly quality control 39**](#assembly-quality-control)
->
-> [**6.8 Detection of key features 41**](#detection-of-key-features)
->
-> [6.8.1 AMR gene and mutation detection 41](#amr-gene-and-mutation-detection)
->
-> [6.8.2 Virulence factor profiling 44](#virulence-factor-profiling)
->
-> [6.8.3 Plasmid and mobile genetic element analysis 45](#plasmid-and-mobile-genetic-element-analysis)
->
-> [6.8.4 MLST and Core Genome MLST 46](#mlst-and-core-genome-mlst)
->
-> [Integrated Analysis Platforms 47](#integrated-analysis-platforms)
->
-> [**6.9 Phylogenetic and epidemiological analysis 47**](#phylogenetic-and-epidemiological-analysis)
->
-> [6.9.1 SNP and cgMLST thresholds for outbreak cluster definition 47](#snp-and-cgmlst-thresholds-for-outbreak-cluster-definition)
->
-> [6.9.2 Pathogen-specific outbreak thresholds from the literature 48](#pathogen-specific-outbreak-thresholds-from-the-literature)
->
-> [6.9.3 Recombination filtering 48](#recombination-filtering)
->
-> [6.9.4 Variant discovery and core SNP Alignment strategies: Snippy vs. kSNP4 49](#variant-discovery-and-core-snp-alignment-strategies-snippy-vs.-ksnp4)
->
-> [6.9.5 When to use which tool: Snippy vs. kSNP4 49](#when-to-use-which-tool-snippy-vs.-ksnp4)
->
-> [6.9.6 Phylogenetic tree construction tools 50](#phylogenetic-tree-construction-tools)
->
-> [**6.10 All-in-One Pipelines and Web-Based Analysis Platforms 50**](#all-in-one-pipelines-and-web-based-analysis-platforms)
-
-[***7. Data Management, Reproducibility & Infrastructure 51***](#data-management-reproducibility-infrastructure)
-
-> [**7.1 Data storage, sharing and repositories 51**](#data-storage-sharing-and-repositories)
->
-> [The Global Repository Ecosystem and Platforms 51](#the-global-repository-ecosystem-and-platforms)
->
-> [7.1.1 The INSDC: Global Archival Infrastructure 51](#the-insdc-global-archival-infrastructure)
->
-> [7.1.2 Specialized Public Health Platforms 52](#specialized-public-health-platforms)
->
-> [**7.2 Workflow Reproducibility & Infrastructure 53**](#workflow-reproducibility-infrastructure)
->
-> [7.2.1 The PHA4GE Ten Best Practices for Public Health Bioinformatics Pipelines 54](#the-pha4ge-ten-best-practices-for-public-health-bioinformatics-pipelines)
->
-> [7.2.2 Workflow Management Systems 56](#workflow-management-systems)
->
-> [7.2.3 Containerization and Software Packaging 58](#containerization-and-software-packaging)
->
-> [7.2.4 Version Control and Documentation 59](#version-control-and-documentation)
->
-> [7.2.5 Computing Infrastructure Options 60](#computing-infrastructure-options)
-
-[***8. Pathogen-specific guidance 61***](#pathogen-specific-guidance)
-
-> [***8.1 Klebsiella pneumoniae and the Klebsiella pneumoniae species complex (KpSC) 61***](#klebsiella-pneumoniae-and-the-klebsiella-pneumoniae-species-complex-kpsc)
->
-> [Key genomic features for typing K. pneumoniae 62](#key-genomic-features-for-typing-k.-pneumoniae)
->
-> [**8.1.1 Pathogenicity factors 62**](#pathogenicity-factors)
->
-> [8.1.1.1 K antigen and locus 62](#k-antigen-and-locus)
->
-> [8.1.1.2 O antigen and locus 62](#o-antigen-and-locus)
->
-> [**8.1.2 Virulence factors 63**](#virulence-factors)
->
-> [8.1.3 MLST, cgMLST and LIN codes 64](#mlst-cgmlst-and-lin-codes)
->
-> [8.1.4 AMR mechanisms 65](#amr-mechanisms)
->
-> [8.1.4.2 Acquired resistance 66](#acquired-resistance)
->
-> [***8.1.6 Klebsiella genomics analysis 67***](#klebsiella-genomics-analysis)
->
-> [<span class="mark">8.1.7 Transmission analysis using whole-genome sequencing 70</span>](#transmission-analysis-using-whole-genome-sequencing)
->
-> [**8.1.8 Caveats in K. pneumonia WGS data analysis. 71**](#caveats-in-k.-pneumonia-wgs-data-analysis.)
->
-> [***8.1.9 K. Pneumoniae case study examples 73***](#k.-pneumoniae-case-study-examples)
-
-[***8.2 Escherichia coli 85***](#escherichia-coli)
-
-> [**Key Genomic Features of E. coli 85**](#key-genomic-features-of-e.-coli)
->
-> [**8.2.1 E. coli Population Structure and Phylogroups 85**](#e.-coli-population-structure-and-phylogroups)
->
-> [**8.2.2 E. coli Virulence Factors 86**](#e.-coli-virulence-factors)
->
-> [**8.2.3 O (Lipopolysaccharide) and H (Flagellar) Antigens of E. coli 86**](#o-lipopolysaccharide-and-h-flagellar-antigens-of-e.-coli)
->
-> [**8.2.4 Antimicrobial Resistance (AMR) Mechanisms 87**](#antimicrobial-resistance-amr-mechanisms)
->
-> [**8.2.5 Pathogen-Specific Analysis and Interpretation 89**](#pathogen-specific-analysis-and-interpretation)
->
-> [8.2.5.1. Phylogenetic Grouping (Phylogrouping) 89](#phylogenetic-grouping-phylogrouping)
->
-> [8.2.5.2 In Silico Serotyping (O and H Antigens) 90](#in-silico-serotyping-o-and-h-antigens)
->
-> [8.2.5.3 Virulence Factor Detection 91](#virulence-factor-detection)
->
-> [8.2.5.4 Integrated Genomic Platforms 92](#integrated-genomic-platforms)
->
-> [**8.2.6 E.** **coli case** **study** **examples 97**](#e.-coli-case-study-examples)
-
-[***8.3 Acinetobacter baumannii 106***](#acinetobacter-baumannii)
-
-> [8.3.1 Background and Public Health Relevance 106](#background-and-public-health-relevance)
->
-> [8.3.3 Pathogen Specific Analysis and Interpretation 109](#pathogen-specific-analysis-and-interpretation-1)
->
-> [8.3.4 Case Studies for A. baumannii 111](#case-studies-for-a.-baumannii)
->
-> [**8.4 Pseudomonas aeruginosa 124**](#pseudomonas-aeruginosa)
->
-> [8.4.1 Background and Public Health Relevance 124](#background-and-public-health-relevance-1)
->
-> [8.4.2 Key Genomic Features 124](#key-genomic-features)
->
-> [8.4.3 Pathogen-Specific Analysis and Interpretation 130](#pathogen-specific-analysis-and-interpretation-2)
->
-> [8.4.4 Case Study for P. aeruginosa 134](#case-study-for-p.-aeruginosa)
->
-> [**8.5 Staphylococcus aureus 146**](#staphylococcus-aureus)
->
-> [**8.5.1 Background and Public Health Relevance 146**](#background-and-public-health-relevance-2)
->
-> [**8.5.2 Key Genomic Features 147**](#key-genomic-features-1)
->
-> [8.5.2.1 Species Complex and Taxonomic Differentiation 147](#species-complex-and-taxonomic-differentiation)
->
-> [8.5.2.2 Population Structure and Major Lineages 148](#population-structure-and-major-lineages)
->
-> [8.5.2.3 Genotyping 149](#genotyping)
->
-> [8.5.2.4 Mechanisms of Resistance 149](#mechanisms-of-resistance)
->
-> [Mobile Genetic Elements and Horizontal Gene Transfer 150](#mobile-genetic-elements-and-horizontal-gene-transfer)
->
-> [8.5.2.5 Virulence Profiling and Toxins 151](#virulence-profiling-and-toxins)
->
-> [**8.5.3 Pathogen-Specific Analysis and Interpretation 152**](#pathogen-specific-analysis-and-interpretation-3)
->
-> [**8.5.4 Case Study for S. aureus 154**](#case-study-for-s.-aureus)
-
-[***8.6 Enterococcus Species (Enterococcus faecium and Enterococcus faecalis) 160***](#enterococcus-species-enterococcus-faecium-and-enterococcus-faecalis)
-
-> [**8.6.1 Background and Public Health Relevance 160**](#background-and-public-health-relevance-3)
->
-> [**8.6.2 Key Genomic Features 160**](#key-genomic-features-2)
->
-> [8.6.2.1 Population Structure and Major Lineages 160](#population-structure-and-major-lineages-1)
->
-> [8.6.2.2 MLST Schemes 161](#mlst-schemes)
->
-> [8.6.2.3 cgMLST and Hierarchical Clustering 161](#cgmlst-and-hierarchical-clustering)
->
-> [8.6.2.4 Mechanisms of Resistance 162](#mechanisms-of-resistance-1)
->
-> [8.6.2.5 Virulence Factors 163](#virulence-factors-3)
->
-> [**8.6.3 Pathogen-Specific Analysis and Interpretation 164**](#pathogen-specific-analysis-and-interpretation-4)
-
-[***9. Reporting, Interpretation, and Public Health Action 179***](#reporting-interpretation-and-public-health-action)
-
-> [**9.1 Purpose and Guiding Principles 179**](#purpose-and-guiding-principles)
->
-> [**9.2 Audience-Tailored Reporting 180**](#audience-tailored-reporting)
->
-> [**9.3 Minimum Content and Structure of Public Health Genomic Reports 181**](#minimum-content-and-structure-of-public-health-genomic-reports)
->
-> [**9.4 Reporting Timelines 184**](#reporting-timelines)
-
-[***10. Future Directions 186***](#future-directions)
-
-[***References 187***](#references)
-
-[***Appendix 196***](#appendix)
-
-> [**Genome resources for sepsis 201**](#genome-resources-for-sepsis)
->
-> [**AMR data resources 201**](#amr-data-resources)
->
-> [**Data Submission Workflow 201**](#data-submission-workflow)
-
-# 
+**Contributors:** Adolf Oyesigye Mukama, Arjun Prasad, Osasona Oluwadamilola Gideon, Patricia Nabisubi, Bruke Gezhagene, Oliver De Sousa, Ndahafa Frans, Dominique Anderson, Gustavo Ybazeta, Nozipho Magagula, Olusola Afuwape, Maindiguel Djimalabye, Shiza Naz, Tholwana Pelokgosi, Rekha Sathyan, Henry Njoku, Rajiha Abubeker Ibrahim, Jupiter Marina Kabahita, Godwin Tusabe Wenka, Justice Ohene Amofa, Ayorinde Afolayan, Syahidiah Syed Abu Thahir, Sola Afuwape, Palesa, Arthur Kasambula, Fabian Achangwi, Folami Balogun, Desye Melese, Melese Hailu, Tracey Calvert-Joshua
 
 # Overview
 
@@ -274,7 +12,11 @@ This document aims to provide practical guidance on how to analyze and interpret
 
 # Purpose and intended use 
 
-This document provides a framework for characterizing pathogens associated with sepsis in public health settings. It brings together the key components of the genomic workflow, bioinformatics analysis, and interpretation of genomic data. <span class="mark">We also provide example case studies, examinations of published work</span> in outbreak investigation, and transmission analysis. Additionally, we provide guidance on minimum metadata and reporting standards.
+![Figure 1. Overview of document scope.](images/sepsis/PHA4GE%20Sepsis%20Genomics%20Guidance%20Infographic.png)
+
+**Figure 1:** Overview of document scope.
+
+This document provides a framework for characterizing pathogens associated with sepsis in public health settings (Figure 1). It brings together the key components of the genomic workflow, bioinformatics analysis, and interpretation of genomic data. <span class="mark">We also provide example case studies, examinations of published work</span> in outbreak investigation, and transmission analysis. Additionally, we provide guidance on minimum metadata and reporting standards.
 
 This guidance is intended for use by public health laboratories, clinical microbiology laboratories, and national or regional surveillance programs. It is designed to accommodate a range of expertise levels and infrastructure, from settings with limited bioinformatics capacity to advanced centers with established genomic pipelines. Recommendations are structured to support stepwise adoption, enabling users to select appropriate tools and workflows based on available resources.
 
@@ -283,6 +25,272 @@ By consolidating recommendations on metadata standards, bioinformatics workflows
 # Pathogen scope
 
 The document focuses on WHO priority pathogens: *Klebsiella pneumoniae*, *Escherichia coli*, *Acinetobacter baumannii*, *Pseudomonas* species, *Staphylococcus aureus*, and *Enterococcus* species. These organisms are prioritized because of the global burden of the disease and the increasing resistance to multiple antimicrobial classes. The five priority bacteria are among the six leading pathogens responsible for deaths associated with resistance (*E. coli*, followed by *S. aureus*, *K. pneumoniae*, *A. baumannii*, and *P. aeruginosa*). In 2019, they accounted for about 929 000 deaths attributable to AMR and about 3.57 million deaths associated with AMR (Murray et al., 2022).
+
+# Table of Contents
+
+[**Overview 1**](#_heading=)
+
+[***Purpose and intended use 1***](#purpose-and-intended-use)
+
+[***Pathogen scope 2***](#pathogen-scope)
+
+[**Table of Contents 2**](#table-of-contents)
+
+[***1. Public Health Applications of Genomics for Sepsis Pathogens 6***](#public-health-applications-of-genomics-for-sepsis-pathogens)
+
+> [**1.1 Outbreak Investigation 6**](#outbreak-investigation)
+>
+> [**1.2 Routine Genomic Surveillance 7**](#routine-genomic-surveillance)
+>
+> [**1.3 AMR Mechanism Detection and Monitoring 8**](#amr-mechanism-detection-and-monitoring)
+>
+> [**1.4 Detection of High-Risk Clones and Population Structure 8**](#detection-of-high-risk-clones-and-population-structure)
+>
+> [**1.5 Genomics as a Complementary Tool: Interpretation and Uncertainty 9**](#genomics-as-a-complementary-tool-interpretation-and-uncertainty)
+
+[***2. Surveillance Strategies Study Design 9***](#surveillance-strategies-study-design)
+
+> [**2.1 Framework: Surveillance Objective Determines Study Design 9**](#framework-surveillance-objective-determines-study-design)
+>
+> [**2.2 Core Use Cases and Sampling Strategies 12**](#core-use-cases-and-sampling-strategies)
+>
+> [2.2.1 Outbreak Investigation 12](#outbreak-investigation-1)
+>
+> [2.2.2 Routine Genomic Surveillance 13](#routine-genomic-surveillance-1)
+>
+> [2.2.3 AMR Mechanism Detection and Monitoring 13](#amr-mechanism-detection-and-monitoring-1)
+>
+> [2.2.4 Population Structure and High-Risk Clone Detection 14](#population-structure-and-high-risk-clone-detection)
+>
+> [**2.3 Specimen Types, Collection, and Handling 14**](#specimen-types-collection-and-handling)
+>
+> [**2.4 Retrospective and Prospective Study Designs 15**](#retrospective-and-prospective-study-designs)
+>
+> [**2.5 Implementation of genomic surveillance 16**](#implementation-of-genomic-surveillance)
+
+[***3. Metadata standards 17***](#metadata-standards)
+
+> [**The PHA4GE Community Metadata Standards for Sepsis Pathogens 18**](#the-pha4ge-community-metadata-standards-for-sepsis-pathogens)
+
+[***4. Ethical, Legal and Data Governance 24***](#ethical-legal-and-data-governance)
+
+[***5. Laboratory and Sequencing Best Practices 26***](#laboratory-and-sequencing-best-practices)
+
+> [**5.1 Pre-sequencing Pathogen Confirmation (Species Identification) 26**](#pre-sequencing-pathogen-confirmation-species-identification)
+>
+> [**5.2 Antimicrobial Susceptibility Testing (AST) 26**](#antimicrobial-susceptibility-testing-ast)
+>
+> [**5.3 Pure Isolate Culture, Storage, and DNA Extraction 28**](#pure-isolate-culture-storage-and-dna-extraction)
+>
+> [5.3.1 Pure Isolate Confirmation and Subculture 28](#pure-isolate-confirmation-and-subculture)
+>
+> [5.3.2 Isolate Storage for Genomic Archives 28](#isolate-storage-for-genomic-archives)
+>
+> [5.3.3 DNA Extraction 29](#dna-extraction)
+>
+> [**5.4 Sequencing Library Preparation and Platform Choice 30**](#sequencing-library-preparation-and-platform-choice)
+>
+> [**5.5 Quality Control Before Sequencing and Pre-analytical Documentation 31**](#quality-control-before-sequencing-and-pre-analytical-documentation)
+
+[***6. Standard bioinformatics data analysis workflow - core bioinformatics steps 32***](#standard-bioinformatics-data-analysis-workflow---core-bioinformatics-steps)
+
+> [**6.1 Base calling Nanopore data 33**](#base-calling-nanopore-data)
+>
+> [**6.2 Raw data quality control 33**](#raw-data-quality-control)
+>
+> [**6.3 Read trimming and filtering: preprocessing of reads 34**](#read-trimming-and-filtering-preprocessing-of-reads)
+>
+> [**6.4 Species confirmation or taxonomic classification 35**](#species-confirmation-or-taxonomic-classification)
+>
+> [**6.5 Genome assembly 36**](#genome-assembly)
+>
+> [**6.6 Reference-based mapping and variant calling 37**](#reference-based-mapping-and-variant-calling)
+>
+> [**6.7 Assembly quality control 38**](#assembly-quality-control)
+>
+> [**6.8 Detection of key features 40**](#detection-of-key-features)
+>
+> [6.8.1 AMR gene and mutation detection 40](#amr-gene-and-mutation-detection)
+>
+> [6.8.2 Virulence factor profiling 44](#virulence-factor-profiling)
+>
+> [6.8.3 Plasmid and mobile genetic element analysis 45](#plasmid-and-mobile-genetic-element-analysis)
+>
+> [6.8.4 MLST and Core Genome MLST 45](#mlst-and-core-genome-mlst)
+>
+> [Integrated Analysis Platforms 46](#integrated-analysis-platforms)
+>
+> [**6.9 Phylogenetic and epidemiological analysis 46**](#phylogenetic-and-epidemiological-analysis)
+>
+> [6.9.1 SNP and cgMLST thresholds for outbreak cluster definition 46](#snp-and-cgmlst-thresholds-for-outbreak-cluster-definition)
+>
+> [6.9.2 Pathogen-specific outbreak thresholds from the literature 47](#pathogen-specific-outbreak-thresholds-from-the-literature)
+>
+> [6.9.3 Recombination filtering 47](#recombination-filtering)
+>
+> [6.9.4 Variant discovery and core SNP Alignment strategies: Snippy vs. kSNP4 48](#variant-discovery-and-core-snp-alignment-strategies-snippy-vs.-ksnp4)
+>
+> [6.9.5 When to use which tool: Snippy vs. kSNP4 48](#when-to-use-which-tool-snippy-vs.-ksnp4)
+>
+> [6.9.6 Phylogenetic tree construction tools 49](#phylogenetic-tree-construction-tools)
+>
+> [**6.10 All-in-One Pipelines and Web-Based Analysis Platforms 49**](#all-in-one-pipelines-and-web-based-analysis-platforms)
+
+[***7. Data Management, Reproducibility & Infrastructure 50***](#data-management-reproducibility-infrastructure)
+
+> [**7.1 Data storage, sharing, and repositories 50**](#data-storage-sharing-and-repositories)
+>
+> [The Global Repository Ecosystem and Platforms 50](#the-global-repository-ecosystem-and-platforms)
+>
+> [7.1.1 The INSDC: Global Archival Infrastructure 50](#the-insdc-global-archival-infrastructure)
+>
+> [7.1.2 Specialized Public Health Platforms 51](#specialized-public-health-platforms)
+>
+> [**7.2 Workflow Reproducibility & Infrastructure 52**](#workflow-reproducibility-infrastructure)
+>
+> [7.2.1 The PHA4GE Ten Best Practices for Public Health Bioinformatics Pipelines 53](#the-pha4ge-ten-best-practices-for-public-health-bioinformatics-pipelines)
+>
+> [7.2.2 Workflow Management Systems 55](#workflow-management-systems)
+>
+> [7.2.3 Containerization and Software Packaging 57](#containerization-and-software-packaging)
+>
+> [7.2.4 Version Control and Documentation 58](#version-control-and-documentation)
+>
+> [7.2.5 Computing Infrastructure Options 59](#computing-infrastructure-options)
+
+[***8. Pathogen-specific guidance 60***](#pathogen-specific-guidance)
+
+> [***8.1 Klebsiella pneumoniae and the Klebsiella pneumoniae species complex (KpSC) 60***](#klebsiella-pneumoniae-and-the-klebsiella-pneumoniae-species-complex-kpsc)
+>
+> [Key genomic features for typing K. pneumoniae 61](#key-genomic-features-for-typing-k.-pneumoniae)
+>
+> [**8.1.1 Pathogenicity factors 61**](#pathogenicity-factors)
+>
+> [8.1.1.1 K antigen and locus 61](#k-antigen-and-locus)
+>
+> [8.1.1.2 O antigen and locus 61](#o-antigen-and-locus)
+>
+> [**8.1.2 Virulence factors 62**](#virulence-factors)
+>
+> [8.1.3 MLST, cgMLST and LIN codes 63](#mlst-cgmlst-and-lin-codes)
+>
+> [8.1.4 AMR mechanisms 64](#amr-mechanisms)
+>
+> [8.1.4.2 Acquired resistance 65](#acquired-resistance)
+>
+> [***8.1.6 Klebsiella genomics analysis 66***](#klebsiella-genomics-analysis)
+>
+> [<span class="mark">8.1.7 Transmission analysis using whole-genome sequencing 68</span>](#transmission-analysis-using-whole-genome-sequencing)
+>
+> [**8.1.8 Caveats in K. pneumonia WGS data analysis. 70**](#caveats-in-k.-pneumonia-wgs-data-analysis.)
+>
+> [***8.1.9 K. Pneumoniae case study examples 72***](#k.-pneumoniae-case-study-examples)
+
+[***8.2 Escherichia coli 84***](#escherichia-coli)
+
+> [**Key Genomic Features of E. coli 84**](#key-genomic-features-of-e.-coli)
+>
+> [**8.2.1 E. coli Population Structure and Phylogroups 84**](#e.-coli-population-structure-and-phylogroups)
+>
+> [**8.2.2 E. coli Virulence Factors 85**](#e.-coli-virulence-factors)
+>
+> [**8.2.3 O (Lipopolysaccharide) and H (Flagellar) Antigens of E. coli 85**](#o-lipopolysaccharide-and-h-flagellar-antigens-of-e.-coli)
+>
+> [**8.2.4 Antimicrobial Resistance (AMR) Mechanisms 86**](#antimicrobial-resistance-amr-mechanisms)
+>
+> [**8.2.5 Pathogen-Specific Analysis and Interpretation 88**](#pathogen-specific-analysis-and-interpretation)
+>
+> [8.2.5.1. Phylogenetic Grouping (Phylogrouping) 88](#phylogenetic-grouping-phylogrouping)
+>
+> [8.2.5.2 In Silico Serotyping (O and H Antigens) 89](#in-silico-serotyping-o-and-h-antigens)
+>
+> [8.2.5.3 Virulence Factor Detection 90](#virulence-factor-detection)
+>
+> [8.2.5.4 Integrated Genomic Platforms 90](#integrated-genomic-platforms)
+>
+> [**8.2.6 E. coli case study examples 96**](#e.-coli-case-study-examples)
+
+[***8.3 Acinetobacter baumannii 105***](#acinetobacter-baumannii)
+
+> [8.3.1 Background and Public Health Relevance 105](#background-and-public-health-relevance)
+>
+> [8.3.3 Pathogen-Specific Analysis and Interpretation 108](#pathogen-specific-analysis-and-interpretation-1)
+>
+> [8.3.4 Case Studies for A. baumannii 110](#case-studies-for-a.-baumannii)
+>
+> [**8.4 Pseudomonas aeruginosa 123**](#pseudomonas-aeruginosa)
+>
+> [8.4.1 Background and Public Health Relevance 123](#background-and-public-health-relevance-1)
+>
+> [8.4.2 Key Genomic Features 123](#key-genomic-features)
+>
+> [8.4.3 Pathogen-Specific Analysis and Interpretation 129](#pathogen-specific-analysis-and-interpretation-2)
+>
+> [8.4.4 Case Study for P. aeruginosa 133](#case-study-for-p.-aeruginosa)
+>
+> [**8.5 Staphylococcus aureus 145**](#staphylococcus-aureus)
+>
+> [**8.5.1 Background and Public Health Relevance 145**](#background-and-public-health-relevance-2)
+>
+> [**8.5.2 Key Genomic Features 146**](#key-genomic-features-1)
+>
+> [8.5.2.1 Species Complex and Taxonomic Differentiation 146](#species-complex-and-taxonomic-differentiation)
+>
+> [8.5.2.2 Population Structure and Major Lineages 147](#population-structure-and-major-lineages)
+>
+> [8.5.2.3 Genotyping 148](#genotyping)
+>
+> [8.5.2.4 Mechanisms of Resistance 148](#mechanisms-of-resistance)
+>
+> [Mobile Genetic Elements and Horizontal Gene Transfer 149](#mobile-genetic-elements-and-horizontal-gene-transfer)
+>
+> [8.5.2.5 Virulence Profiling and Toxins 150](#virulence-profiling-and-toxins)
+>
+> [**8.5.3 Pathogen-Specific Analysis and Interpretation 151**](#pathogen-specific-analysis-and-interpretation-3)
+>
+> [**8.5.4 Case Study for S. aureus 153**](#case-study-for-s.-aureus)
+
+[***8.6 Enterococcus Species (Enterococcus faecium and Enterococcus faecalis) 159***](#enterococcus-species-enterococcus-faecium-and-enterococcus-faecalis)
+
+> [**8.6.1 Background and Public Health Relevance 159**](#background-and-public-health-relevance-3)
+>
+> [**8.6.2 Key Genomic Features 159**](#key-genomic-features-2)
+>
+> [8.6.2.1 Population Structure and Major Lineages 159](#population-structure-and-major-lineages-1)
+>
+> [8.6.2.2 MLST Schemes 160](#mlst-schemes)
+>
+> [8.6.2.3 cgMLST and Hierarchical Clustering 160](#cgmlst-and-hierarchical-clustering)
+>
+> [8.6.2.4 Mechanisms of Resistance 161](#mechanisms-of-resistance-1)
+>
+> [8.6.2.5 Virulence Factors 162](#virulence-factors-3)
+>
+> [**8.6.3 Pathogen-Specific Analysis and Interpretation 163**](#pathogen-specific-analysis-and-interpretation-4)
+
+[***9. Reporting, Interpretation, and Public Health Action 178***](#reporting-interpretation-and-public-health-action)
+
+> [**9.1 Purpose and Guiding Principles 178**](#purpose-and-guiding-principles)
+>
+> [**9.2 Audience-Tailored Reporting 179**](#audience-tailored-reporting)
+>
+> [**9.3 Minimum Content and Structure of Public Health Genomic Reports 180**](#minimum-content-and-structure-of-public-health-genomic-reports)
+>
+> [**9.4 Reporting Timelines 183**](#reporting-timelines)
+
+[***10. Future Directions 185***](#future-directions)
+
+[***References 186***](#references)
+
+[***Appendix 195***](#appendix)
+
+> [**Genome resources for sepsis 200**](#genome-resources-for-sepsis)
+>
+> [**AMR data resources 200**](#amr-data-resources)
+>
+> [**Data Submission Workflow 200**](#data-submission-workflow)
+
+# 
 
 # 1. Public Health Applications of Genomics for Sepsis Pathogens 
 
