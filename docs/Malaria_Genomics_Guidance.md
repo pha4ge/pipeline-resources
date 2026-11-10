@@ -15,7 +15,7 @@
 
 Intended users include researchers, bioinformaticians, data analysts, epidemiologists, data managers, ethics leads, and NMCPs. Different users require different levels of laboratory, bioinformatics, epidemiological, governance, surveillance, and programme-level information. Table 1.1 summarises the information needs of the main intended audiences and identifies the sections of this document most relevant to each group.
 
-<img src="images/malaria-genomics/Malaria Genomics Guidance Infographic.png" alt="Scope of the guidance document" width="60%">
+<img src="images/malaria-genomics/Malaria Genomics Guidance Infographic.png" alt="Scope of the guidance document" width="100%">
 
 <small>Scope of the malaria guidance document covering nine use cases.</small>
 
