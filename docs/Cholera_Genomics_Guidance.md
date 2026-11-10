@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <img src="images/PHA4GE%20Logo%20landscape%20rgb.png"
        alt="PHA4GE - Public Health Alliance for Genomic Epidemiology"
        width="360">
