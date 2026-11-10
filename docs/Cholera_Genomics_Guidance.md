@@ -8,7 +8,7 @@
 
 # Cholera Genomics Guidance
 
-Authors: Emma Doughty, Justice Ohene Amofa, Dana Itani, Peter van Heusden, Rekha Satyan, Palesa Makoti, Catherine Rossouw, Tracey Calvert-Joshua
+**Authors:** Emma Doughty, Justice Ohene Amofa, Dana Itani, Peter van Heusden, Rekha Satyan, Palesa Makoti, Catherine Rossouw, Tracey Calvert-Joshua
 
 ## Guidance at a Glance
 
