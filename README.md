@@ -114,6 +114,14 @@ Sepsis Genomics Guidance
 The PHA4GE Pipelines and Visualization Working Group has developed this guidance document to support the implementation of genomic analysis and surveillance of bacterial pathogens associated with sepsis in public health settings. It provides practical guidance on surveillance strategies, sampling and sequencing, metadata standards, bioinformatics workflows, antimicrobial resistance and virulence profiling, genomic epidemiology, and the interpretation and reporting of findings. The guidance also includes pathogen-specific recommendations and case studies to support outbreak investigations, antimicrobial resistance surveillance, and monitoring of pathogen transmission.
 
 
+Meningitis Genomics Guidance
+============================
+
+### [Meningitis Genomics Guidance](docs/Meningitis_Genomics_Guidance.md)
+
+The PHA4GE Pipelines and Visualization Working Group has developed this guidance document to support the implementation of genomic analysis and surveillance of meningitis-associated pathogens in public health settings. It provides practical guidance on molecular diagnostics, sequencing strategies, quality control, genome assembly and mapping, in silico serotyping, antimicrobial resistance detection, variant calling, and phylogenetic analysis. The guidance covers major bacterial, fungal, and viral pathogens associated with meningitis, including pathogen-specific bioinformatics considerations, and provides recommendations for interpreting and reporting genomic findings to support outbreak investigations, transmission analysis, and public health surveillance.
+
+
 Contributing
 ============
 Contributions to the documents are more than welcome. To propose a change, edit the source files and open a pull-request with the proposed changes.
