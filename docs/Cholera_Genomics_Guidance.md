@@ -1,18 +1,14 @@
 
-<table>
-  <tr>
-    <td width="35%" valign="middle">
-      <img src="images/PHA4GE%20Logo%20landscape%20rgb.png"
-           alt="PHA4GE - Public Health Alliance for Genomic Epidemiology"
-           width="340">
-    </td>
-    <td width="65%" valign="middle">
-      <h1>Cholera Genomics Guidance</h1>
-    </td>
-  </tr>
-</table>
 
-<hr>
+<img src="images/PHA4GE%20Logo%20landscape%20rgb.png"
+     alt="PHA4GE"
+     width="340"
+     align="left">
+
+<h1>Cholera Genomics Guidance</h1>
+
+<br clear="all">
+
 
 
 **Authors:** Emma Doughty, Justice Ohene Amofa, Dana Itani, Peter van Heusden, Rekha Satyan, Palesa Makoti, Catherine Rossouw, Tracey Calvert-Joshua
