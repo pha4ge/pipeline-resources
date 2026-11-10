@@ -1,3 +1,14 @@
+
+<img src="images/PHA4GE%20Logo%20landscape%20rgb.png"
+     alt="PHA4GE"
+     width="340"
+     align="left">
+
+<h1>Sepsis Genomics Guidance</h1>
+
+<br clear="all">
+
+
 **Lead authors:** Dejenie Shiferaw, Mary Maranga
 
 **Contributors:** Adolf Oyesigye Mukama, Arjun Prasad, Osasona Oluwadamilola Gideon, Patricia Nabisubi, Bruke Gezhagene, Oliver De Sousa, Ndahafa Frans, Dominique Anderson, Gustavo Ybazeta, Nozipho Magagula, Olusola Afuwape, Maindiguel Djimalabye, Shiza Naz, Tholwana Pelokgosi, Rekha Sathyan, Henry Njoku, Rajiha Abubeker Ibrahim, Jupiter Marina Kabahita, Godwin Tusabe Wenka, Justice Ohene Amofa, Ayorinde Afolayan, Syahidiah Syed Abu Thahir, Sola Afuwape, Palesa, Arthur Kasambula, Fabian Achangwi, Folami Balogun, Desye Melese, Melese Hailu, Tracey Calvert-Joshua
