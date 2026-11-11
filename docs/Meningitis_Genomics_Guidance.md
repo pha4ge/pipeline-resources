@@ -9,7 +9,7 @@
 
 ## Scope of the Guidance
 
-![Figure 1. Overview of meningitis genomic surveillance](images/meningitis/Figure0_ScopeAtAGlance_portrait_800dpi.png)
+<p align="center"><img src="images/meningitis/Figure0_ScopeAtAGlance_portrait_800dpi.png" alt="Figure 1. Overview of meningitis genomic surveillance" width="70%"></p>
 
 <small><strong>Figure 1.</strong> Overview of the pathogens, sequencing approaches, bioinformatics analyses and public-health applications covered in this guidance.</small>
 
@@ -35,7 +35,7 @@ Key population risk groups for meningitis include infants (\<1 year old) and you
 
 Conventional microbiological diagnostic approaches — including rapid polymerase chain reaction (PCR)-based genetic detection, microbial culture, and antibiotic susceptibility testing — remain essential for the management of meningitis. The advent of next-generation sequencing (NGS), however, has significantly advanced the characterization of meningitis-causing pathogens. NGS has demonstrated utility in accurately identifying causative agents, evaluating vaccine program efficacy, expediting outbreak detection and surveillance, and guiding targeted treatment through antimicrobial resistance marker characterization (Wilson et al., 2019; Benoit et al., 2024; Hackman et al., 2024). There are currently three approaches of NGS: *(1) shotgun metagenomic sequencing directly from clinical specimens; (2) targeted sequencing of viral genomes or specific bacterial/fungal genes from clinical specimens; and (3) whole-genome sequencing from pure viral, bacterial, or fungal cultures*. Each approach carries distinct advantages and limitations — culture-dependent sequencing is the most cost-effective but time-consuming, whereas shotgun metagenomic sequencing is the most resource-intensive but least biased.
 
-<img src="images/meningitis/Figure2_NGS_decision_tree_portrait_800dpi.png" alt="Figure 3" width="70%">
+<p align="center"><img src="images/meningitis/Figure2_NGS_decision_tree_portrait_800dpi.png" alt="Figure 3" width="70%"></p>
 
 <small><strong>Figure 3.</strong> Decision tree for selecting next-generation sequencing approaches for meningitis-associated pathogens. Conventional microbiological and molecular diagnostic methods remain the first-line approach for case confirmation and clinical management. When a viable isolate is available, culture-dependent whole-genome sequencing is preferred for high-resolution pathogen characterization, serotyping, antimicrobial resistance marker detection, and outbreak investigation. When a pathogen is detected but no viable isolate is available, targeted sequencing from clinical material can support genotyping and surveillance, particularly for viral pathogens. When routine diagnostics are negative or an unexpected agent is suspected, shotgun metagenomic sequencing provides an unbiased approach for pathogen detection directly from clinical specimens. All sequencing routes require standardized quality control, contamination assessment, validated bioinformatics workflows, and interpretation in epidemiological context. </small>
 
@@ -137,7 +137,7 @@ Two complementary analytical paradigms are then used:
 
 **Practical platforms for PHLs.** Integrated, reproducible workflows lower the deployment barrier — e.g., nf-core/taxprofiler (multiple classifiers in parallel under Nextflow), the web-based CZ ID pipeline (free, no local HPC, with built-in background-model statistics), and Galaxy metagenomics workflows. mNGS is best positioned as a reference or second-line diagnostic for the diagnostic odyssey and for outbreaks of unknown aetiology, rather than as a routine surveillance tool.
 
-<img src="images/meningitis/Figure4_metagenomic_triage_portrait_800dpi.png" alt="Figure 6" width="70%">
+<p align="center"><img src="images/meningitis/Figure4_metagenomic_triage_portrait_800dpi.png" alt="Figure 6" width="70%"></p>
 
 <small><strong>Figure 6.</strong> Metagenomic triage pathway for meningitis and encephalitis of unknown aetiology. Untargeted shotgun metagenomic next-generation sequencing (mNGS) is reserved for cases in which conventional microbiology, syndromic multiplex panels, and targeted/amplicon sequencing have all failed to identify a causative agent — typically culture-negative CSF after empirical antimicrobial therapy, suspected novel or off-panel pathogens, or immunocompromised patients with atypical presentations. Before sequencing, the nucleic-acid target is selected: because most viral meningitis is caused by RNA viruses (non-polio enteroviruses), RNA workflows incorporating reverse transcription (RT) are required to capture the commonest viral agents, and parallel DNA and RNA libraries are used when the differential spans both. A no-template control (NTC), and ideally an external spike-in control, is included in every run, and host reads are depleted before taxonomic classification. </small>
 
@@ -197,7 +197,7 @@ Since viral sequencing is performed directly on clinical specimens — which may
 
 This section provides a workflow for processing raw whole-genome sequencing data from meningitis-associated bacterial, fungal, and viral pathogens into validated, quality-checked assemblies (or consensus sequences) suitable for downstream serotyping, AMR characterisation, genotyping, and phylogenetic analysis.
 
-<img src="images/meningitis/Figure5_QC_assembly_workflow_portrait_800dpi.png" alt="Figure 7" width="70%">
+<p align="center"><img src="images/meningitis/Figure5_QC_assembly_workflow_portrait_800dpi.png" alt="Figure 7" width="70%"></p>
 
 <small><strong>Figure 7.</strong> Platform-aware quality control and assembly workflow for converting raw sequencing reads from meningitis-associated bacterial, fungal, and viral pathogens into validated, analysis-ready genomes. </small>
 
