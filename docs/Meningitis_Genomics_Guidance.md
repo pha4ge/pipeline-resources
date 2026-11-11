@@ -11,7 +11,7 @@
 
 ![Figure 1. Overview of meningitis genomic surveillance](images/meningitis/Figure0_ScopeAtAGlance_portrait_800dpi.png)
 
-**Figure 1.** Overview of the pathogens, sequencing approaches, bioinformatics analyses and public-health applications covered in this guidance.
+<small><strong>Figure 1.</strong> Overview of the pathogens, sequencing approaches, bioinformatics analyses and public-health applications covered in this guidance.</small>
 
 This guidance is written for the multidisciplinary and international community that underpin pathogen genomic surveillance. Its primary audience is public health and clinical bioinformaticians, together with the laboratory scientists and microbiologists in reference and public health laboratories who generate and quality-assure the underlying sequence data, and the epidemiologists and surveillance officers who translate genomic results into public health action. The document assumes no single level of prior expertise: it is intended to be accessible to professionals who are new to meningitis-associated pathogen genomics, while remaining a useful reference for experienced analysts. It is likely to be of particular value to national reference laboratories, WHO collaborating centres, and laboratories in high-burden or resource-limited settings (including LMICs) — including those in the sub-Saharan African meningitis belt — that are establishing or expanding genomic surveillance capacity.
 
@@ -29,15 +29,15 @@ Meningitis is the inflammation of the meninges that protect the brain and spinal
 
 ![Figure 2](images/meningitis/Figure1_pathogen_scope_landscape_800dpi.png)
 
-**Figure 2\.** Scope of pathogens covered in this guidance, grouped by aetiological class: the four WHO-priority bacterial agents of acute bacterial meningitis (with *Listeria monocytogenes* and *Mycobacterium tuberculosis* addressed in companion documents), the fungal agents *Cryptococcus neoformans* and *C. gattii*, and the principal viral agents (non-polio enteroviruses including EV-A71, HSV-1/2, VZV, and mumps virus)
+<small><strong>Figure 2.</strong> Scope of pathogens covered in this guidance, grouped by aetiological class: the four WHO-priority bacterial agents of acute bacterial meningitis (with *Listeria monocytogenes* and *Mycobacterium tuberculosis* addressed in companion documents), the fungal agents *Cryptococcus neoformans* and *C. gattii*, and the principal viral agents (non-polio enteroviruses including EV-A71, HSV-1/2, VZV, and mumps virus)</small>
 
 Key population risk groups for meningitis include infants (\<1 year old) and young children (\<5 year olds), teenagers (15-24 years old), people in close contact within institutions for example daycares,and universities, immunocompromised individuals (people living with HIV), and in specific regions such as the “meningitis belt” of sub-Saharan Africa (WHO, 2025). Nevertheless, these risk groups are predisposed to infection by different causative pathogens. For example, the “meningitis belt“ of sub-Saharan Africa is at high risk of recurrent epidemics of meningococcal meningitis (meningitis caused by bacterial pathogen *Neisseria meningitidis*) compounded by several health-associated challenges such as hospital access, healthcare and vaccine provision, and malnutrition and inadequate water, sanitation and hygiene. Separately, immunocompromised individuals are most likely at risk of cryptococcal meningitis (meningitis caused by a fungal pathogen, *Cryptococcus neoformans*) through inhalation of air and dust particles containing the fungus. Cryptococcal meningitis causes about 19% of all AIDS-related deaths globally (Rajasingham et al., 2022). 
 
 Conventional microbiological diagnostic approaches — including rapid polymerase chain reaction (PCR)-based genetic detection, microbial culture, and antibiotic susceptibility testing — remain essential for the management of meningitis. The advent of next-generation sequencing (NGS), however, has significantly advanced the characterization of meningitis-causing pathogens. NGS has demonstrated utility in accurately identifying causative agents, evaluating vaccine program efficacy, expediting outbreak detection and surveillance, and guiding targeted treatment through antimicrobial resistance marker characterization (Wilson et al., 2019; Benoit et al., 2024; Hackman et al., 2024). There are currently three approaches of NGS: *(1) shotgun metagenomic sequencing directly from clinical specimens; (2) targeted sequencing of viral genomes or specific bacterial/fungal genes from clinical specimens; and (3) whole-genome sequencing from pure viral, bacterial, or fungal cultures*. Each approach carries distinct advantages and limitations — culture-dependent sequencing is the most cost-effective but time-consuming, whereas shotgun metagenomic sequencing is the most resource-intensive but least biased.
 
-![Figure 3](images/meningitis/Figure2_NGS_decision_tree_portrait_800dpi.png)
+<img src="images/meningitis/Figure2_NGS_decision_tree_portrait_800dpi.png" alt="Figure 3" width="70%">
 
-**Figure 3\.** Decision tree for selecting next-generation sequencing approaches for meningitis-associated pathogens. Conventional microbiological and molecular diagnostic methods remain the first-line approach for case confirmation and clinical management. When a viable isolate is available, culture-dependent whole-genome sequencing is preferred for high-resolution pathogen characterization, serotyping, antimicrobial resistance marker detection, and outbreak investigation. When a pathogen is detected but no viable isolate is available, targeted sequencing from clinical material can support genotyping and surveillance, particularly for viral pathogens. When routine diagnostics are negative or an unexpected agent is suspected, shotgun metagenomic sequencing provides an unbiased approach for pathogen detection directly from clinical specimens. All sequencing routes require standardized quality control, contamination assessment, validated bioinformatics workflows, and interpretation in epidemiological context. 
+<small><strong>Figure 3.</strong> Decision tree for selecting next-generation sequencing approaches for meningitis-associated pathogens. Conventional microbiological and molecular diagnostic methods remain the first-line approach for case confirmation and clinical management. When a viable isolate is available, culture-dependent whole-genome sequencing is preferred for high-resolution pathogen characterization, serotyping, antimicrobial resistance marker detection, and outbreak investigation. When a pathogen is detected but no viable isolate is available, targeted sequencing from clinical material can support genotyping and surveillance, particularly for viral pathogens. When routine diagnostics are negative or an unexpected agent is suspected, shotgun metagenomic sequencing provides an unbiased approach for pathogen detection directly from clinical specimens. All sequencing routes require standardized quality control, contamination assessment, validated bioinformatics workflows, and interpretation in epidemiological context. </small>
 
  
 
@@ -70,7 +70,7 @@ Tables 1 summarise the molecular diagnostic systems currently in use across refe
 
 ![Sequencing strategies for meningitis-associated pathogens](images/meningitis/sequencing-strategies.png)
 
-**Figure 4.** Comparison of short-read, long-read and hybrid sequencing strategies for meningitis-associated pathogens.
+<small><strong>Figure 4.</strong> Comparison of short-read, long-read and hybrid sequencing strategies for meningitis-associated pathogens.</small>
 
 The molecular diagnostic methods described above confirm the presence of a meningitis-associated pathogen and, in some cases, predict its genogroup or serotype from one or a few amplified targets — but they interrogate only predefined loci and cannot, on their own, resolve how isolates are related to one another, characterise the full complement of antimicrobial resistance determinants, or detect the antigenic variation relevant to vaccine performance. Sequencing extends the same nucleic-acid–based logic from a handful of targets to the entire genome, and is therefore best understood as a continuation of the diagnostic pathway rather than a replacement for it: culture, PCR/qPCR, and sequencing remain complementary stages of laboratory confirmation and surveillance (WHO, 2011, 2011; Wilson et al., 2019).
 
@@ -119,7 +119,7 @@ For our pathogens it is most useful in two cases: reference-quality *Cryptococcu
 
 ![Figure 5](images/meningitis/Figure3_Illumina_ONT_landscape_800dpi.png)
 
-**Figure 5\.** Schematics of the Illumina and ONT sequencing procedure. Figure from Hackl, Harbig and Nieselt (2022) and adapted from Shendure et al. (2017).
+<small><strong>Figure 5.</strong> Schematics of the Illumina and ONT sequencing procedure. Figure from Hackl, Harbig and Nieselt (2022) and adapted from Shendure et al. (2017).</small>
 
 ### Shotgun Metagenomics Sequencing 
 
@@ -137,9 +137,9 @@ Two complementary analytical paradigms are then used:
 
 **Practical platforms for PHLs.** Integrated, reproducible workflows lower the deployment barrier — e.g., nf-core/taxprofiler (multiple classifiers in parallel under Nextflow), the web-based CZ ID pipeline (free, no local HPC, with built-in background-model statistics), and Galaxy metagenomics workflows. mNGS is best positioned as a reference or second-line diagnostic for the diagnostic odyssey and for outbreaks of unknown aetiology, rather than as a routine surveillance tool.
 
-**![Figure 6](images/meningitis/Figure4_metagenomic_triage_portrait_800dpi.png)**
+<img src="images/meningitis/Figure4_metagenomic_triage_portrait_800dpi.png" alt="Figure 6" width="70%">
 
-**Figure 6\.** Metagenomic triage pathway for meningitis and encephalitis of unknown aetiology. Untargeted shotgun metagenomic next-generation sequencing (mNGS) is reserved for cases in which conventional microbiology, syndromic multiplex panels, and targeted/amplicon sequencing have all failed to identify a causative agent — typically culture-negative CSF after empirical antimicrobial therapy, suspected novel or off-panel pathogens, or immunocompromised patients with atypical presentations. Before sequencing, the nucleic-acid target is selected: because most viral meningitis is caused by RNA viruses (non-polio enteroviruses), RNA workflows incorporating reverse transcription (RT) are required to capture the commonest viral agents, and parallel DNA and RNA libraries are used when the differential spans both. A no-template control (NTC), and ideally an external spike-in control, is included in every run, and host reads are depleted before taxonomic classification. 
+<small><strong>Figure 6.</strong> Metagenomic triage pathway for meningitis and encephalitis of unknown aetiology. Untargeted shotgun metagenomic next-generation sequencing (mNGS) is reserved for cases in which conventional microbiology, syndromic multiplex panels, and targeted/amplicon sequencing have all failed to identify a causative agent — typically culture-negative CSF after empirical antimicrobial therapy, suspected novel or off-panel pathogens, or immunocompromised patients with atypical presentations. Before sequencing, the nucleic-acid target is selected: because most viral meningitis is caused by RNA viruses (non-polio enteroviruses), RNA workflows incorporating reverse transcription (RT) are required to capture the commonest viral agents, and parallel DNA and RNA libraries are used when the differential spans both. A no-template control (NTC), and ideally an external spike-in control, is included in every run, and host reads are depleted before taxonomic classification. </small>
 
 ### Bacterial Genome Sequencing 
 
@@ -197,9 +197,9 @@ Since viral sequencing is performed directly on clinical specimens — which may
 
 This section provides a workflow for processing raw whole-genome sequencing data from meningitis-associated bacterial, fungal, and viral pathogens into validated, quality-checked assemblies (or consensus sequences) suitable for downstream serotyping, AMR characterisation, genotyping, and phylogenetic analysis.
 
-![Figure 7](images/meningitis/Figure5_QC_assembly_workflow_portrait_800dpi.png)
+<img src="images/meningitis/Figure5_QC_assembly_workflow_portrait_800dpi.png" alt="Figure 7" width="70%">
 
-**Figure 7\.** Platform-aware quality control and assembly workflow for converting raw sequencing reads from meningitis-associated bacterial, fungal, and viral pathogens into validated, analysis-ready genomes. 
+<small><strong>Figure 7.</strong> Platform-aware quality control and assembly workflow for converting raw sequencing reads from meningitis-associated bacterial, fungal, and viral pathogens into validated, analysis-ready genomes. </small>
 
 Raw read QC is platform-aware. Short-read (Illumina, MGI) and long-read (Oxford Nanopore Technologies, PacBio HiFi) data have fundamentally different per-base error profiles and require different acceptance thresholds. All tools below operate on FASTQ input; ONT raw signal data (FAST5/POD5) must first be base-called using a current high-accuracy model (e.g., Dorado SUP) before entering this workflow. For viral genomic sequencing — performed directly from clinical specimens — additional host depletion is required at this stage. Reads should be mapped against the appropriate host reference (typically human) using minimap2 or Bowtie2, and unmapped reads carried forward. 
 
@@ -652,7 +652,7 @@ Sharing sequence data together with structured metadata — promptly and in inte
 The workshop on meningitis and related pathogen surveillance, conducted during the Standards Stakeholders Meeting (04–07 May 2026). The meeting brought together multidisciplinary stakeholders to develop a harmonized, pathogen-agnostic metadata standard to support consistent genomic epidemiology and public health reporting across diverse settings. Participants agreed on establishing a core dataset capturing essential patient, specimen, laboratory, and bioinformatics information, with pathogen-specific extensions applied where necessary. In order to strike a compromise between minimal interoperability requirements and flexibility for low-resource contexts, a tiered structure that distinguished between required, suggested, and optional variables was put forth. In order to decrease data heterogeneity, enhance data quality, and enable machine-readable outputs, a strong emphasis was placed on the usage of picklists, controlled vocabularies, and ontology-aligned terms. Standardized demographic and clinical case data, geolocation connected to medical facilities rather than residential identifiers to protect privacy, comprehensive specimen collection and transport metadata, diagnostic testing workflows, antimicrobial susceptibility results, and sequencing and bioinformatics parameters with related quality control metrics are some of the important metadata domains.  
 ![Harmonized Meningitis Genomic Surveillance Metadata Standard](images/meningitis/Harmonized%20Meningitis%20Genomic%20Surveillance%20Metadata%20Standard.png)
 
-**Figure 8.** Overview of the Harmonized Metadata Standard for Meningitis Genomic Surveillance: Core Metadata Domains, Key Target Variables, and Tiered Variable Allocation Framework
+<small><strong>Figure 8.</strong> Overview of the Harmonized Metadata Standard for Meningitis Genomic Surveillance: Core Metadata Domains, Key Target Variables, and Tiered Variable Allocation Framework</small>
 
 ### Specimen Identity and Specimen Metadata:
 
@@ -711,6 +711,7 @@ The methods, tools, and best practices described here will continue to evolve, a
 
 ## References
 
+
 1\. Abdeldaim GMK, Strålin K, Korsgaard J, Blomberg J, Welinder-Olsson C, Herrmann B. Multiplex quantitative PCR for detection of lower respiratory tract infection and meningitis caused by Streptococcus pneumoniae, Haemophilus influenzae and Neisseria meningitidis. BMC Microbiology. 2010;10:310. doi:10.1186/1471-2180-10-310
 
 2\. Alikhan NF, et al. QualiBact: species-resolved genome assembly quality benchmarking for bacteria \[software\]. Available from: https\://qualibact.org \| https\://github.com/happykhan/qualibact
@@ -744,63 +745,121 @@ The methods, tools, and best practices described here will continue to evolve, a
 16\. Coelho MA, et al. Comparative genomics of the closely related fungal genera Cryptococcus and Kwoniella reveals karyotype dynamics and suggests evolutionary mechanisms of pathogenesis. PLOS Biology. 2024;22(6):e3002682. doi:10.1371/journal.pbio.3002682
 
 17\. Corless CE, Guiver M, Borrow R, Edwards-Jones V, Fox AJ, Kaczmarski EB. Simultaneous detection of Neisseria meningitidis, Haemophilus influenzae, and Streptococcus pneumoniae in suspected cases of meningitis and septicemia using real-time PCR. Journal of Clinical Microbiology. 2001;39(4):1553–1558. doi:10.1128/JCM.39.4.1553-1558.2001
+
 18\. Cresswell FV, Tugume L, Bahr NC, Kwizera R, Bangdiwala AS, Musubire AK, et al. Xpert MTB/RIF Ultra for the diagnosis of HIV-associated tuberculous meningitis: a prospective validation study. The Lancet Infectious Diseases. 2020;20(3):308–317. doi:10.1016/S1473-3099(19)30550-X
+
 19\. De Coster W, D'Hert S, Schultz DT, Cruts M, Van Broeckhoven C. NanoPack: visualizing and processing long-read sequencing data. Bioinformatics. 2018;34(15):2666–2669. doi:10.1093/bioinformatics/bty149
+
 20\. Desjardins CA, Giamberardino C, Sykes SM, Yu CH, Tenor JL, Chen Y, et al. Population genomics and the evolution of virulence in the fungal pathogen Cryptococcus neoformans. Genome Research. 2017;27(7):1207–1219. doi:10.1101/gr.218727.116
+
 21\. Dyer NP, Päuker B, Baxter L, Gupta A, Bunk B, Overmann J, et al. EnteroBase in 2025: exploring the genomic epidemiology of bacterial pathogens. Nucleic Acids Research. 2025;53(D1):D757–D762. doi:10.1093/nar/gkae902
+
 22\. Ewels P, Magnusson M, Lundin S, Käller M. MultiQC: summarize analysis results for multiple tools and samples in a single report. Bioinformatics. 2016;32(19):3047–3048. doi:10.1093/bioinformatics/btw354
+
 23\. Farrer RA, Chang M, Davis MJ, et al. A new lineage of Cryptococcus gattii (VGV) discovered in the central Zambezian Miombo woodlands. mBio. 2019;10(4):e02005-19. doi:10.1128/mBio.02005-19
+
 24\. Gilbert GL, Dickson KE, Waters MJ, Kennett ML, Land SA, Sneddon M. Outbreak of enterovirus 71 infection in Victoria, Australia, with a high incidence of neurologic involvement. Pediatric Infectious Disease Journal. 1988;7(7):484–487. doi:10.1097/00006454-198807000-00007
+
 25\. Gladstone RA, Lo SW, Lees JA, Croucher NJ, van Tonder AJ, Corander J, et al. International genomic definition of pneumococcal lineages, to contextualise disease, antibiotic resistance and vaccine impact. EBioMedicine. 2019;43:338–346. doi:10.1016/j.ebiom.2019.04.021
+
 26\. Gurevich A, Saveliev V, Vyahhi N, Tesler G. QUAST: quality assessment tool for genome assemblies. Bioinformatics. 2013;29(8):1072–1075. doi:10.1093/bioinformatics/btt086
+
 27\. Hackl ST, Harbig TA, Nieselt K. Technical report on best practices for hybrid and long read de novo assembly of bacterial genomes utilizing Illumina and Oxford Nanopore Technologies reads. bioRxiv \[Preprint\]. 2022\. doi:10.1101/2022.10.25.513682
+
 28\. Hackman J, Hibberd ML, Swarthout TD, Hinds J, Ashall J, Sheppard C, et al. Evaluating methods for identifying and quantifying Streptococcus pneumoniae co-colonization using next-generation sequencing data. Microbiology Spectrum. 2024;12(12):e03643-23. doi:10.1128/spectrum.03643-23
+
 29\. Hagen F, Khayhan K, Theelen B, Kolecka A, Polacheck I, Sionov E, et al. Recognition of seven species in the Cryptococcus gattii/Cryptococcus neoformans species complex. Fungal Genetics and Biology. 2015;78:16–48. doi:10.1016/j.fgb.2015.02.009
+
 30\. Isaacs SR, Kim KW, Cheng JX, Bull RA, Stelzer-Braid S, Luciani F, et al. Amplification and next generation sequencing of near full-length human enteroviruses for identification and characterisation from clinical samples. Scientific Reports. 2018;8:11889. doi:10.1038/s41598-018-30322-y
+
 31\. Izadi A, Rahbarimanesh AA, Mojtahedi Y, Mojtahedi SY. Prevalence of enterovirus meningitis in children: report from a tertiary center. Maedica (Bucharest). 2018;13(3):213–216. doi:10.26574/maedica.2018.13.3.213
+
 32\. Jolley KA, Bray JE, Maiden MCJ. Open-access bacterial population genomics: BIGSdb software, the PubMLST.org website and their applications. Wellcome Open Research. 2018;3:124. doi:10.12688/wellcomeopenres.14826.1
+
 33\. Khayhan K, Hagen F, Pan W, Simwami S, Fisher MC, Wahyuningsih R, et al. Geographically structured populations of Cryptococcus neoformans variety grubii in Asia correlate with HIV status and show a clonal population structure. PLoS ONE. 2013;8(9):e72222. doi:10.1371/journal.pone.0072222
+
 34\. Kidd SE, Hagen F, Tscharke RL, Huynh M, Bartlett KH, Fyfe M, et al. A rare genotype of Cryptococcus gattii caused the cryptococcosis outbreak on Vancouver Island (British Columbia, Canada). Proceedings of the National Academy of Sciences of the United States of America. 2004;101(49):17258–17263. doi:10.1073/pnas.0402981101
+
 35\. Le Monnier A, Abachin E, Beretti JL, Berche P, Kayal S. Diagnosis of Listeria monocytogenes meningoencephalitis by real-time PCR for the hly gene. Journal of Clinical Microbiology. 2011;49(11):3917–3923. doi:10.1128/JCM.01072-11
+
 36\. Leber AL, Everhart K, Balada-Llasat JM, Cullison J, Daly J, Holt S, et al. Multicenter evaluation of BioFire FilmArray Meningitis/Encephalitis Panel for detection of bacteria, viruses, and yeast in cerebrospinal fluid specimens. Journal of Clinical Microbiology. 2016;54(9):2251–2261. doi:10.1128/JCM.00730-16
+
 37\. Lee D, Kim EJ, Kilgore PE, Kim SA, Takahashi H, Ohnishi M, et al. Clinical evaluation of a loop-mediated isothermal amplification (LAMP) assay for rapid detection of Neisseria meningitidis in cerebrospinal fluid. PLoS ONE. 2015;10(4):e0122922. doi:10.1371/journal.pone.0122922
+
 38\. Lewinski MA, Alby K, Babady NE, Butler-Wu SM, Bard JD, Greninger AL, et al. Exploring the utility of multiplex infectious disease panel testing for diagnosis of infection in different body sites: a joint report of the Association for Molecular Pathology, American Society for Microbiology, Infectious Diseases Society of America, and Pan American Society for Clinical Virology. Journal of Molecular Diagnostics. 2023;25(12):857–875. doi:10.1016/j.jmoldx.2023.08.005
+
 39\. Litvintseva AP, Thakur R, Vilgalys R, Mitchell TG. Multilocus sequence typing reveals three genetic subpopulations of Cryptococcus neoformans var. grubii (serotype A), including a unique population in Botswana. Genetics. 2006;172(4):2223–2238. doi:10.1534/genetics.105.046672
+
 40\. Maiden MCJ, Jansen van Rensburg MJ, Bray JE, Earle SG, Ford SA, Jolley KA, et al. MLST revisited: the gene-by-gene approach to bacterial genomics. Nature Reviews Microbiology. 2013;11(10):728–736. doi:10.1038/nrmicro3093
+
 41\. Mamede R, Vila-Cerqueira P, Silva M, Carriço JA, Ramirez M. Chewie Nomenclature Server (chewie-NS): a deployable nomenclature server for easy sharing of core and whole genome MLST schemas. Nucleic Acids Research. 2021;49(D1):D660–D666. doi:10.1093/nar/gkaa889
+
 42\. Manni M, Berkeley MR, Seppey M, Simão FA, Zdobnov EM. BUSCO update: novel and streamlined workflows along with broader and deeper phylogenetic coverage for scoring of eukaryotic, prokaryotic, and viral genomes. Molecular Biology and Evolution. 2021;38(10):4647–4654. doi:10.1093/molbev/msab199
+
 43\. McHale TC, Boulware DR, Kasibante J, Ssebambulidde K, Skipper CP, Abassi M. Diagnosis and management of cryptococcal meningitis in HIV-infected adults. Clinical Microbiology Reviews. 2023;36(4):e00156-22. doi:10.1128/cmr.00156-22
+
 44\. Melhuish A, McGill F. Viral meningitis and encephalitis. Medicine. 2021;49(11):675–680. doi:10.1016/j.mpmed.2021.08.004
+
 45\. Meyer W, Aanensen DM, Boekhout T, Cogliati M, Diaz MR, Esposto MC, et al. Consensus multi-locus sequence typing scheme for Cryptococcus neoformans and Cryptococcus gattii. Medical Mycology. 2009;47(6):561–570. doi:10.1080/13693780902953886
+
 46\. Meyer W. Cryptococcus gattii in the age of whole-genome sequencing. mBio. 2015;6(6):e01761-15. doi:10.1128/mBio.01761-15
+
 47\. Mikheenko A, Prjibelski A, Saveliev V, Antipov D, Gurevich A. Versatile genome assembly evaluation with QUAST-LG. Bioinformatics. 2018;34(13):i142–i150. doi:10.1093/bioinformatics/bty266
+
 48\. Montoya MC, Wilhoit K, Murray D, Perfect JR, Magwene PM. Genome restructuring and lineage diversification of Cryptococcus neoformans during chronic infection of human hosts. Cell Reports. 2025;44(8):116103. doi:10.1016/j.celrep.2025.116103
+
 49\. Mothershed EA, Sacchi CT, Whitney AM, Barnett GA, Ajello GW, Schmink S, et al. Use of real-time PCR to resolve slide agglutination discrepancies in serogroup identification of Neisseria meningitidis. Journal of Clinical Microbiology. 2004;42(1):320–328. doi:10.1128/JCM.42.1.320-328.2004
+
 50\. Nguyen AT, Tran TT, Hoang VTM, Nghiem NM, Le NNT, Le TTM, et al. Development and evaluation of a non-ribosomal random PCR and next-generation sequencing based assay for detection and sequencing of hand, foot and mouth disease pathogens. Virology Journal. 2016;13:125. doi:10.1186/s12985-016-0580-9
+
 51\. Nhu NTQ, Heemskerk D, Thu DDA, Chau TTH, Mai NTH, Nghia HDT, et al. Evaluation of GeneXpert MTB/RIF for diagnosis of tuberculous meningitis. Journal of Clinical Microbiology. 2014;52(1):226–233. doi:10.1128/JCM.01834-13
+
 52\. Parfitt KM, et al. A Life Identification Number Barcoding (LIN Code) System for Neisseria meningitidis: high resolution multi-level typing of meningococci. bioRxiv \[Preprint\]. 2026\. doi:10.64898/2026.03.03.708563
+
 53\. Potts CC, Rodriguez-Rivera LD, Retchless AC, Hu F, Marjuki H, Blain AE, et al. Antimicrobial susceptibility survey of invasive Neisseria meningitidis, United States 2012-2016. Journal of Infectious Diseases. 2022;225(11):1871–1875. doi:10.1093/infdis/jiac046
+
 54\. Puenpa J, Wanlapakorn N, Vongpunsawad S, Poovorawan Y. The history of enterovirus A71 outbreaks and molecular epidemiology in the Asia-Pacific region. Journal of Biomedical Science. 2019;26(1):75. doi:10.1186/s12929-019-0573-2
+
 55\. Rajasingham R, Govender NP, Jordan A, et al. The global burden of HIV-associated cryptococcal infection in adults in 2020: a modelling analysis. The Lancet Infectious Diseases. 2022;22(12):1748–1755. doi:10.1016/S1473-3099(22)00499-6
+
 56\. Reinert RR. The antimicrobial resistance profile of Streptococcus pneumoniae. Clinical Microbiology and Infection. 2009;15(Suppl 3):7–11. doi:10.1111/j.1469-0691.2009.02724.x
+
 57\. Rhodes J, Desjardins CA, Sykes SM, Beale MA, Vanhove M, Sakthikumar S, et al. Tracing genetic exchange and biogeography of Cryptococcus neoformans var. grubii at the global population level. Genetics. 2017;207(1):327–346. doi:10.1534/genetics.117.203836
+
 58\. Rouphael NG, Stephens DS. Neisseria meningitidis: biology, microbiology, and epidemiology. Methods in Molecular Biology. 2012;799:1–20. doi:10.1007/978-1-61779-346-2\_1
+
 59\. Salem-Bango Z, Price TK, Chan JL, Chandrasekaran S, Garner OB, Yang S. Fungal whole-genome sequencing for species identification: from test development to clinical utilization. Journal of Fungi. 2023;9(2):183. doi:10.3390/jof9020183
+
 60\. Seki M, Kilgore PE, Kim EJ, Ohnishi M, Hayakawa S, Kim DW. Loop-mediated isothermal amplification methods for diagnosis of bacterial meningitis. Frontiers in Pediatrics. 2018;6:57. doi:10.3389/fped.2018.00057
+
 61\. Shendure J, Balasubramanian S, Church GM, Gilbert W, Rogers J, Schloss JA, et al. DNA sequencing at 40: past, present and future. Nature. 2017;550(7676):345–353. doi:10.1038/nature24286
+
 62\. Silva M, Machado MP, Silva DN, Rossi M, Moran-Gilad J, Santos S, et al. chewBBACA: a complete suite for gene-by-gene schema creation and strain identification. Microbial Genomics. 2018;4(3):e000166. doi:10.1099/mgen.0.000166
+
 63\. Simão FA, Waterhouse RM, Ioannidis P, Kriventseva EV, Zdobnov EM. BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs. Bioinformatics. 2015;31(19):3210–3212. doi:10.1093/bioinformatics/btv351
+
 64\. Stelzer-Braid S, Wynn M, Chatoor R, Scotch M, Ramachandran V, Teoh HL, et al. Next generation sequencing of human enterovirus strains from an outbreak of enterovirus A71 shows applicability to outbreak investigations. Journal of Clinical Virology. 2020;122:104216. doi:10.1016/j.jcv.2019.104216
+
 65\. Stone NRH, Rhodes J, Fisher MC, Mfinanga S, Kivuyo S, Rugemalila J, et al. Dynamic ploidy changes drive fluconazole resistance in human cryptococcal meningitis. Journal of Clinical Investigation. 2019;129(3):999–1014. doi:10.1172/JCI124516
+
 66\. Takano C, Seki M, Kim DW, Kilgore PE, Fuwa K, Takahashi K, et al. Molecular serotype-specific identification of non-type b Haemophilus influenzae by loop-mediated isothermal amplification. Frontiers in Microbiology. 2017;8:1877. doi:10.3389/fmicb.2017.01877
+
 67\. Tan CYQ, Ninove L, Gaudart J, Nougairede A, Zandotti C, Thirion-Perrier L, et al. A retrospective overview of enterovirus infection diagnosis and molecular epidemiology in the public hospitals of Marseille, France (1985–2005). PLoS ONE. 2011;6(3):e18022. doi:10.1371/journal.pone.0018022
+
 68\. Tan LV, Tuyen NTK, Thanh TT, Ngan TT, Van HMT, Sabanathan S, et al. A generic assay for whole-genome amplification and deep sequencing of enterovirus A71. Journal of Virological Methods. 2015;215-216:30–36. doi:10.1016/j.jviromet.2015.02.011
+
 69\. Tansarli GS, Chapin KC. Diagnostic test accuracy of the BioFire FilmArray meningitis/encephalitis panel: a systematic review and meta-analysis. Clinical Microbiology and Infection. 2020;26(3):281–290. doi:10.1016/j.cmi.2019.11.016
+
 70\. Tristram S, Jacobs MR, Appelbaum PC. Antimicrobial resistance in Haemophilus influenzae. Clinical Microbiology Reviews. 2007;20(2):368–389. doi:10.1128/CMR.00040-06
+
 71\. Wang X, Mair R, Hatcher C, Theodore MJ, Edmond K, Wu HM, et al. Detection of bacterial pathogens in Mongolia meningitis surveillance with a new real-time PCR assay to detect Haemophilus influenzae. International Journal of Medical Microbiology. 2011;301(4):303–309. doi:10.1016/j.ijmm.2010.11.004
+
 72\. Wilson MR, Sample HA, Zorn KC, Arevalo S, Yu G, Neuhaus J, et al. Clinical metagenomic sequencing for diagnosis of meningitis and encephalitis. New England Journal of Medicine. 2019;380(24):2327–2340. doi:10.1056/NEJMoa1803396
+
 73\. Wood DE, Lu J, Langmead B. Improved metagenomic analysis with Kraken 2\. Genome Biology. 2019;20:257. doi:10.1186/s13059-019-1891-0
+
 74\. World Health Organization, Centers for Disease Control and Prevention. Laboratory methods for the diagnosis of meningitis caused by Neisseria meningitidis, Streptococcus pneumoniae, and Haemophilus influenzae: WHO manual, 2nd ed. Geneva: World Health Organization; 2011\. (WHO/IVB.11.09). Available from: https\://www\.who.int/publications/i/item/laboratory-methods-for-the-diagnosis-of-meningitis-caused-by-neisseria-meningitidis-streptococcus-pneumoniae-and-haemophilus-influenzae
+
 75\. World Health Organization. Meningitis \[fact sheet\]. Geneva: World Health Organization; 2025\. Available from: https\://www\.who.int/news-room/fact-sheets/detail/meningitis
 
 76\. Castillo D, Harcourt B, Hatcher C, Jackson M, Katz L, Mair R, et al. Laboratory Methods for the Diagnosis of Meningitis Caused by *Neisseria meningitidis*, *Streptococcus pneumoniae*, and *Haemophilus influenzae*: WHO Manual. 2nd ed. World Health Organization and Centers for Disease Control and Prevention; 2011. WHO/IVB/11.09. Available from: https://stacks.cdc.gov/view/cdc/11632
