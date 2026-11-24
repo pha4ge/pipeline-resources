@@ -22,7 +22,7 @@ This document aims to provide practical guidance on how to analyze and interpret
 
 # Purpose and intended use
 
-![Figure 1. Overview of document scope.](images/sepsis/PHA4GE%20Sepsis%20Genomics%20Guidance%20Infographic.png)
+![Figure 1. Overview of document scope.](images/sepsis/Figure01_scope_overview.png)
 
 **Figure 1:** Overview of document scope.
 
@@ -194,7 +194,11 @@ The document focuses on pathogens on the WHO Bacterial Priority Pathogens List: 
 
 # 1. Public Health Applications of Genomics for Sepsis Pathogens
 
-For sepsis-associated bacterial or other pathogens, whole-genome sequencing (WGS) facilitates a variety of public health initiatives, such as routine surveillance, outbreak investigation, analysis of AMR mechanisms, and monitoring of high-risk lineages. Genomic data are most informative when combined with other contextual data, such as laboratory data, phenotypic test findings, and epidemiological metadata across all applications. Genomic evidence alone is rarely sufficient for definitive public health conclusions; its primary value lies in complementing and strengthening, rather than replacing, conventional microbiological and epidemiological approaches. The principles of open standards, reproducible bioinformatics, FAIR data practices, and responsible data sharing apply equally across all applications described in this chapter (Wilkinson et al., 2016).
+For sepsis-associated bacterial or other pathogens, whole-genome sequencing (WGS) facilitates a variety of public health initiatives, such as routine surveillance, outbreak investigation, analysis of AMR mechanisms, and monitoring of high-risk lineages. Genomic data are most informative when combined with other contextual data, such as laboratory data, phenotypic test findings, and epidemiological metadata across all applications. Genomic evidence alone is rarely sufficient for definitive public health conclusions; its primary value lies in complementing and strengthening, rather than replacing, conventional microbiological and epidemiological approaches. The principles of open standards, reproducible bioinformatics, FAIR data practices, and responsible data sharing apply equally across all applications described in this chapter (Wilkinson et al., 2016) (Figure 2).
+
+![Figure 2. Public health applications of genomics for sepsis pathogens.](images/sepsis/Figure02_public_health_applications.png)
+
+**Figure 2:** Public health applications of genomics for sepsis pathogens.
 
 **Guiding principles**
 
@@ -234,13 +238,21 @@ Genomic approaches for population structure analysis include MLST, cgMLST, phylo
 
 ## 1.5 Genomics as a Complementary Tool: Interpretation and Uncertainty
 
-Across all applications, genomic analyses are subject to inherent limitations, including incomplete sampling, missing or inaccurate metadata, laboratory and sequencing biases, pathogen-specific evolutionary characteristics, and undetected transmission events. Public health reports should clearly communicate analytical methods, assumptions, limitations, and uncertainties, and conclusions should be proportionate to the strength of the available evidence. The strongest public health inferences are typically derived from integration of genomic findings with epidemiological investigation, clinical information, microbiological testing, AST results, and environmental data; no single data source should be interpreted in isolation. Effective implementation of genomics for public health decision-making depends on high-quality metadata, reproducible workflows, transparent reporting, and responsible data stewardship and is supported by open standards and interoperable data practices across laboratories and surveillance programs (WHO, 2022a). The PHA4GE community standards, through its metadata standards, data harmonization tools, QC tags, and data-sharing principles, are designed to facilitate this integration, ensuring that genomic data are not generated in isolation but are embedded within a broader public health framework that maximizes their impact on patient outcomes and population health.
+Across all applications, genomic analyses are subject to inherent limitations, including incomplete sampling, missing or inaccurate metadata, laboratory and sequencing biases, pathogen-specific evolutionary characteristics, and undetected transmission events. Public health reports should clearly communicate analytical methods, assumptions, limitations, and uncertainties, and conclusions should be proportionate to the strength of the available evidence. The strongest public health inferences are typically derived from integration of genomic findings with epidemiological investigation, clinical information, microbiological testing, AST results, and environmental data; no single data source should be interpreted in isolation. Effective implementation of genomics for public health decision-making depends on high-quality metadata, reproducible workflows, transparent reporting, and responsible data stewardship and is supported by open standards and interoperable data practices across laboratories and surveillance programs (WHO, 2022a). The PHA4GE community standards, through its metadata standards, data harmonization tools, QC tags, and data-sharing principles, are designed to facilitate this integration, ensuring that genomic data are not generated in isolation but are embedded within a broader public health framework that maximizes their impact on patient outcomes and population health (Figure 3).
+
+![Figure 3. Genomics as a complementary tool: interpretation and uncertainty.](images/sepsis/Figure03_complementary_tool_uncertainty.png)
+
+**Figure 3:** Genomics as a complementary tool: interpretation and uncertainty.
 
 # 2. Surveillance Strategies Study Design
 
 ## 2.1 Framework: Surveillance Objective Determines Study Design
 
-A public health laboratory that seeks to establish a genomic surveillance initiative must initiate the process with accurately articulated public health objectives prior to the collection of specimens, the delineation of laboratory workflows, or the selection of analytical methodologies. Decisions pertaining to sampling strategies, metadata prerequisites, sequencing volumes, bioinformatics evaluations, and reporting formats ought to be dictated by the specific public health questions that the program is intended to address. A frequently encountered challenge in subsequent implementation is the premature adoption of sequencing capabilities before the surveillance objectives have been clearly defined, which leads to the generation of data that cannot be reliably interpreted or acted upon (Armstrong et al., 2019; WHO, 2022a).
+A public health laboratory that seeks to establish a genomic surveillance initiative must initiate the process with accurately articulated public health objectives prior to the collection of specimens, the delineation of laboratory workflows, or the selection of analytical methodologies. Decisions pertaining to sampling strategies, metadata prerequisites, sequencing volumes, bioinformatics evaluations, and reporting formats ought to be dictated by the specific public health questions that the program is intended to address. A frequently encountered challenge in subsequent implementation is the premature adoption of sequencing capabilities before the surveillance objectives have been clearly defined, which leads to the generation of data that cannot be reliably interpreted or acted upon (Armstrong et al., 2019; WHO, 2022a) (Figure 4).
+
+![Figure 4. The surveillance objective determines study design.](images/sepsis/Figure04_objective_study_design.png)
+
+**Figure 4:** The surveillance objective determines study design.
 
 For bacterial pathogens associated with sepsis, a genomic surveillance program may be designed to address one or more of the following questions:
 
@@ -275,7 +287,11 @@ This section of the guidance outlines four main applications of bacterial pathog
 
 ## 2.2 Core Use Cases and Sampling Strategies
 
-This guidance describes four key genomic surveillance use cases and sampling strategies for sepsis-associated bacterial pathogens. While these use cases can overlap in practice, each has unique design considerations. Sampling strategy is one of the most important determinants of surveillance value. Poor sampling design cannot be fully corrected later by bioinformatics. Programs should therefore explicitly define the sampling frame, inclusion and exclusion criteria, and target population before analysis begins (WHO, 2020, 2022a).
+This guidance describes four key genomic surveillance use cases and sampling strategies for sepsis-associated bacterial pathogens. While these use cases can overlap in practice, each has unique design considerations. Sampling strategy is one of the most important determinants of surveillance value. Poor sampling design cannot be fully corrected later by bioinformatics. Programs should therefore explicitly define the sampling frame, inclusion and exclusion criteria, and target population before analysis begins (WHO, 2020, 2022a) (Figure 5).
+
+![Figure 5. Core use cases and sampling strategies.](images/sepsis/Figure05_use_cases_sampling.png)
+
+**Figure 5:** Core use cases and sampling strategies.
 
 ### 2.2.1 Outbreak Investigation
 
@@ -299,7 +315,11 @@ Examples of important high-risk clones recognized globally include *E. coli* ST1
 
 ## 2.3 Specimen Types, Collection, and Handling
 
-Blood culture isolates are the primary specimen for sepsis genomic surveillance, providing direct microbiological evidence of bloodstream infections and invasive disease. Specimens such as rectal, nasal, and skin swabs can be used as colonization screening samples to provide contextual data on transmission pathways and AMR reservoirs and are particularly informative for tracking multidrug-resistant bacteria across a healthcare facility. These specimens provide complementary, rather than equivalent, evidence relative to clinical isolates and should be interpreted accordingly. Environmental specimens should be collected when epidemiological evidence supports a reservoir hypothesis and are most pertinent to investigations of *A. baumannii*, *P. aeruginosa*, and VRE. Routine environmental sampling is not necessary for all programs. When comparing environmental and clinical isolates at the genomic level, interpretation must always include epidemiological, temporal, and microbiological data, as no universal SNP threshold reliably links an environmental source. Individual outbreaks or clones may differ in their mutation rate or background diversity.
+Blood culture isolates are the primary specimen for sepsis genomic surveillance, providing direct microbiological evidence of bloodstream infections and invasive disease. Specimens such as rectal, nasal, and skin swabs can be used as colonization screening samples to provide contextual data on transmission pathways and AMR reservoirs and are particularly informative for tracking multidrug-resistant bacteria across a healthcare facility. These specimens provide complementary, rather than equivalent, evidence relative to clinical isolates and should be interpreted accordingly. Environmental specimens should be collected when epidemiological evidence supports a reservoir hypothesis and are most pertinent to investigations of *A. baumannii*, *P. aeruginosa*, and VRE. Routine environmental sampling is not necessary for all programs. When comparing environmental and clinical isolates at the genomic level, interpretation must always include epidemiological, temporal, and microbiological data, as no universal SNP threshold reliably links an environmental source. Individual outbreaks or clones may differ in their mutation rate or background diversity (Figure 6).
+
+![Figure 6. Specimen types, collection and handling, and study designs.](images/sepsis/Figure06_specimens_study_designs.png)
+
+**Figure 6:** Specimen types, collection and handling, and study designs.
 
 Each specimen should be assigned a unique identifier that remains consistent throughout all stages, including collection, laboratory processing, sequencing, bioinformatics analysis, and reporting. Metadata that cannot be reconstructed later, such as collection date, specimen type, ward, healthcare facility, and patient demographics, must be documented at the time of collection. Whenever feasible, laboratory information management systems (LIMS) should support specimen tracking, metadata linkage, audit trails, and integration with laboratory workflows. Biosafety procedures must adhere to relevant national and institutional regulations. Furthermore, isolates suspected of increased virulence, such as hypervirulent *K. pneumoniae*, may require additional institutional risk assessments.
 
@@ -313,7 +333,11 @@ Many programs, especially those with limited resources, find that a phased hybri
 
 ## 2.5 Implementation of genomic surveillance
 
-Implementation plans for genomic surveillance should include an assessment of foundational system requirements, such as specimen pathways, diagnostic confirmation, biosafety, quality management, workforce competencies, data systems, computing resources, procurement, and maintenance. Infrastructure constraints, including unreliable electricity, weak internet connectivity, cold-chain limitations, and limited storage or computing capacity, should be identified during planning, and mitigation measures should be documented in advance (Laufer Halpin et al., 2025). Data-sharing arrangements should be established before surveillance begins and should define standards for metadata, ownership, access, attribution, privacy, legal compliance, and equitable benefit-sharing, while supporting routine use and surge readiness during outbreaks or other public health emergencies (WHO, 2022a; Griffiths et al., 2024a).
+Implementation plans for genomic surveillance should include an assessment of foundational system requirements, such as specimen pathways, diagnostic confirmation, biosafety, quality management, workforce competencies, data systems, computing resources, procurement, and maintenance. Infrastructure constraints, including unreliable electricity, weak internet connectivity, cold-chain limitations, and limited storage or computing capacity, should be identified during planning, and mitigation measures should be documented in advance (Laufer Halpin et al., 2025). Data-sharing arrangements should be established before surveillance begins and should define standards for metadata, ownership, access, attribution, privacy, legal compliance, and equitable benefit-sharing, while supporting routine use and surge readiness during outbreaks or other public health emergencies (WHO, 2022a; Griffiths et al., 2024a) (Figure 7).
+
+![Figure 7. Implementing genomic surveillance, including adjustments for limited-resource settings.](images/sepsis/Figure07_implementation.png)
+
+**Figure 7:** Implementing genomic surveillance, including adjustments for limited-resource settings.
 
 Plans should be country-led, financially and operationally sustainable, connected to regional and global systems, and designed with shared responsibility across governments, WHO, partners, academia, and other stakeholders.
 
@@ -349,7 +373,11 @@ Note: A smaller, well-maintained genomic surveillance program typically offers m
 
 # 3. Metadata standards
 
-Standardized metadata are the foundation of interoperable genomic epidemiology. Without consistent, structured information describing when, where, how, and from whom a pathogen isolate was obtained, genomic sequences lose much of their epidemiological value and cannot be reliably compared across laboratories, regions, or time periods. This section introduces the metadata standards and tools that are essential for sepsis pathogen genomic surveillance. It is built upon the existing PHA4GE Neonatal Sepsis Community Metadata Standard ([https://github.com/pha4ge/Neonatal-Sepsis-Community-Metadata-Standard](https://github.com/pha4ge/Neonatal-Sepsis-Community-Metadata-Standard)).
+Standardized metadata are the foundation of interoperable genomic epidemiology. Without consistent, structured information describing when, where, how, and from whom a pathogen isolate was obtained, genomic sequences lose much of their epidemiological value and cannot be reliably compared across laboratories, regions, or time periods. This section introduces the metadata standards and tools that are essential for sepsis pathogen genomic surveillance. It is built upon the existing PHA4GE Neonatal Sepsis Community Metadata Standard ([https://github.com/pha4ge/Neonatal-Sepsis-Community-Metadata-Standard](https://github.com/pha4ge/Neonatal-Sepsis-Community-Metadata-Standard)) (Figure 8).
+
+![Figure 8. Metadata standards for sepsis pathogen genomic surveillance.](images/sepsis/Figure08_metadata_standards.png)
+
+**Figure 8:** Metadata standards for sepsis pathogen genomic surveillance.
 
 **Importance of standardized metadata**
 
@@ -499,13 +527,21 @@ Although richer metadata often improves interpretation, programs should still ap
 
 # 4. Ethical, Legal and Data Governance
 
-The PHA4GE Microbial Data-Sharing Accord provides a practical framework for the ethical and responsible secondary use of microbial and pathogen data. The Accord sets out seven simple, baseline principles designed to address common concerns among researchers and organisations contributing microbial datasets for secondary use, while also promoting responsible practices among data users (Griffiths et al., 2024a). These principles emphasise transparency, appropriate attribution, responsible data stewardship, and equitable collaboration, helping to build trust and facilitate data sharing across institutions. This model could be adapted, supporting the responsible sharing and reuse of clinical, genomic, and associated metadata while safeguarding privacy and recognising the contributions of data generators.
+The PHA4GE Microbial Data-Sharing Accord provides a practical framework for the ethical and responsible secondary use of microbial and pathogen data. The Accord sets out seven simple, baseline principles designed to address common concerns among researchers and organisations contributing microbial datasets for secondary use, while also promoting responsible practices among data users (Griffiths et al., 2024a). These principles emphasise transparency, appropriate attribution, responsible data stewardship, and equitable collaboration, helping to build trust and facilitate data sharing across institutions. This model could be adapted, supporting the responsible sharing and reuse of clinical, genomic, and associated metadata while safeguarding privacy and recognising the contributions of data generators (Figure 9).
+
+![Figure 9. Ethical, legal and data governance.](images/sepsis/Figure09_ethics_data_governance.png)
+
+**Figure 9:** Ethical, legal and data governance.
 
 All data sharing must comply with applicable national and institutional data protection regulations. Publicly deposited genomic data must be de-identified, and any linkage between sample IDs and patient identifiers must be maintained securely and separately at the originating institution. Under the Accord, human reads should be removed from sequence data before sharing, and the locations of human cases should be shown only as aggregated areas (for example, heat maps) rather than as individual points (Griffiths et al., 2024a). The PHA4GE Microbial Data-Sharing Accord provides a practical framework for the ethical and responsible secondary use of microbial and pathogen data. The Accord sets out seven baseline principles: (1) Attribution, (2) Overview of outputs prior to their publication, (3) Onward sharing of data, (4) Host and phenotype data, (5) Geospatial data, (6) Intellectual Property, and (7) Opportunity for collaboration (see Supplementary Table 6 : PHA4GE Microbial Data-Sharing Accord Clauses). These principles are designed to address common concerns among researchers and organisations contributing microbial datasets for secondary use, while also promoting responsible practices among data users (Griffiths et al., 2024a). See this paper on [10.1136/bmjgh-2024-016474](https://doi.org/10.1136/bmjgh-2024-016474) defined clauses regarding secondary use of microbial data.
 
 # 5. Laboratory and Sequencing Best Practices
 
-The quality of bioinformatics analysis is fundamentally limited by the quality of the upstream laboratory processes. Even the most sophisticated genomic pipelines cannot compensate for misidentified species, mixed cultures, degraded DNA, or poorly prepared sequencing libraries. This section provides concise, pathogen-agnostic guidance on the key wet laboratory steps that directly determine the success of downstream bioinformatics for sepsis pathogen genomics. It is not a substitute for detailed standard operating procedures (SOPs), which should be developed and validated locally; rather, it highlights the critical decision points, quality control checkpoints, and international standards that underpin robust, reproducible genomic surveillance.
+The quality of bioinformatics analysis is fundamentally limited by the quality of the upstream laboratory processes. Even the most sophisticated genomic pipelines cannot compensate for misidentified species, mixed cultures, degraded DNA, or poorly prepared sequencing libraries. This section provides concise, pathogen-agnostic guidance on the key wet laboratory steps that directly determine the success of downstream bioinformatics for sepsis pathogen genomics. It is not a substitute for detailed standard operating procedures (SOPs), which should be developed and validated locally; rather, it highlights the critical decision points, quality control checkpoints, and international standards that underpin robust, reproducible genomic surveillance (Figure 10).
+
+![Figure 10. Laboratory workflow before sequencing.](images/sepsis/Figure10_lab_sequencing_workflow.png)
+
+**Figure 10:** Laboratory workflow before sequencing.
 
 ## 5.1 Pre-sequencing Pathogen Confirmation (Species Identification)
 
@@ -583,7 +619,11 @@ Before proceeding to library preparation, a laboratory should assess:
 
 ## 5.4 Sequencing Library Preparation and Platform Choice
 
-The choice of sequencing platform and library preparation method fundamentally shapes the resulting genomic data and determines which bioinformatic analyses are feasible. Illumina short-read sequencing is preferred for high-accuracy SNV detection, outbreak phylogenetics, and AMR gene detection. Oxford Nanopore long-read sequencing is preferred for complete genome closure, plasmid reconstruction, and real-time outbreak response. Table 4 outlines the key features of the two platforms that currently dominate public health bacterial genomics.
+The choice of sequencing platform and library preparation method fundamentally shapes the resulting genomic data and determines which bioinformatic analyses are feasible. Illumina short-read sequencing is preferred for high-accuracy SNV detection, outbreak phylogenetics, and AMR gene detection. Oxford Nanopore long-read sequencing is preferred for complete genome closure, plasmid reconstruction, and real-time outbreak response. Table 4 outlines the key features of the two platforms that currently dominate public health bacterial genomics (Figure 11).
+
+![Figure 11. Sequencing platform choice and library preparation.](images/sepsis/Figure11_platform_comparison.png)
+
+**Figure 11:** Sequencing platform choice and library preparation.
 
 **Table 4.** Comparison of sequencing platforms for sepsis pathogen genomics
 
@@ -620,7 +660,11 @@ It is recommended that the laboratory should participate in quality assurance, i
 
 # 6. Standard bioinformatics data analysis workflow - core bioinformatics steps
 
-Analyzing and interpreting pathogen sequencing data can be challenging due to the complexity of microbial genomes and the diversity of sequencing platforms and assembly strategies. The choice of computing infrastructure should be guided by the volume of sequencing data generated, the complexity of the analyses performed, and the available bioinformatics expertise. There is a wide range of community resources, established workflows, and a range of bioinformatic tools available to support researchers with different levels of bioinformatics and data analysis experience. This section is focused primarily on the whole-genome sequencing analysis and brings together the core bioinformatics steps that apply across all priority sepsis pathogens: *Klebsiella pneumoniae*, *Escherichia coli*, *Acinetobacter baumannii*, *Pseudomonas aeruginosa*, *Staphylococcus aureus*, and *Enterococcus* spp.
+Analyzing and interpreting pathogen sequencing data can be challenging due to the complexity of microbial genomes and the diversity of sequencing platforms and assembly strategies. The choice of computing infrastructure should be guided by the volume of sequencing data generated, the complexity of the analyses performed, and the available bioinformatics expertise. There is a wide range of community resources, established workflows, and a range of bioinformatic tools available to support researchers with different levels of bioinformatics and data analysis experience. This section is focused primarily on the whole-genome sequencing analysis and brings together the core bioinformatics steps that apply across all priority sepsis pathogens: *Klebsiella pneumoniae*, *Escherichia coli*, *Acinetobacter baumannii*, *Pseudomonas aeruginosa*, *Staphylococcus aureus*, and *Enterococcus* spp. (Figure 12).
+
+![Figure 12. Core bioinformatics workflow for sepsis pathogen whole genome sequencing.](images/sepsis/Figure12_bioinformatics_workflow.png)
+
+**Figure 12:** Core bioinformatics workflow for sepsis pathogen whole genome sequencing.
 
 When starting data analysis, it is helpful first to consider the level of experience and preferred computing environment. That is, if you are using it.
 
@@ -734,7 +778,11 @@ nf-core/bactmap is a reproducible, Nextflow‑based, containerized multi‑sampl
 
 ## 6.7 Assembly quality control
 
-Following de novo assembly, contigs must be checked for completeness, contamination, and contiguity before downstream analysis. Key assembly metrics include the N50 (the contig length at which 50% of the total assembly is covered), the total number of contigs, the largest contig, and the total assembly length; reference-based analysis additionally reports genome fraction (the percentage of the reference covered by aligned contigs), the number of misassemblies, and the rate of mismatches and indels per 100 kbp. There are various tools used to assess the quality of the assembly: **QUAST** ([https://github.com/ablab/quast](https://github.com/ablab/quast)) for standard assembly metrics (N50, total length, contig count, GC, and reference‑based misassembly rates), **CheckM2** ([https://github.com/chklovski/CheckM2](https://github.com/chklovski/CheckM2)) for machine learning-based, lineage-independent completeness and contamination estimates (Chklovski et al., 2023), and **BUSCO** ([https://gitlab.com/ezlab/busco](https://gitlab.com/ezlab/busco)) to assess the presence of universal single-copy orthologs.
+Following de novo assembly, contigs must be checked for completeness, contamination, and contiguity before downstream analysis. Key assembly metrics include the N50 (the contig length at which 50% of the total assembly is covered), the total number of contigs, the largest contig, and the total assembly length; reference-based analysis additionally reports genome fraction (the percentage of the reference covered by aligned contigs), the number of misassemblies, and the rate of mismatches and indels per 100 kbp. There are various tools used to assess the quality of the assembly: **QUAST** ([https://github.com/ablab/quast](https://github.com/ablab/quast)) for standard assembly metrics (N50, total length, contig count, GC, and reference‑based misassembly rates), **CheckM2** ([https://github.com/chklovski/CheckM2](https://github.com/chklovski/CheckM2)) for machine learning-based, lineage-independent completeness and contamination estimates (Chklovski et al., 2023), and **BUSCO** ([https://gitlab.com/ezlab/busco](https://gitlab.com/ezlab/busco)) to assess the presence of universal single-copy orthologs (Figure 13).
+
+![Figure 13. Read and assembly quality control checkpoints and thresholds.](images/sepsis/Figure13_qc_checkpoints.png)
+
+**Figure 13:** Read and assembly quality control checkpoints and thresholds.
 
 **QualiBact** ([https://qualibact.org](https://qualibact.org)) provides species-specific thresholds for assessing the quality of bacterial genome assemblies using assembled genomes. For complementary checks at the read level (species identification, contamination, coverage), we recommend **bactscout** as a companion tool. The recommended thresholds for each species are shown in Table 5
 
@@ -781,6 +829,10 @@ For isolates that fail the species-specific CheckM2 contamination or completenes
 > quality_control_details: CheckM2 completeness 91.4%, contamination 6.2%.
 
 ## 6.8 Detection of key features
+
+![Figure 14. Detection of key genomic features.](images/sepsis/Figure14_key_feature_detection.png)
+
+**Figure 14:** Detection of key genomic features.
 
 ### 6.8.1 AMR gene and mutation detection
 
@@ -858,7 +910,11 @@ Multilocus Sequence Typing (MLST) is the standard method for assigning bacterial
 
 ## 6.9 Phylogenetic and epidemiological analysis
 
-Phylogenetic analysis integrates genomic variation into an evolutionary framework. This enables researchers to identify transmission clusters, estimate outbreak origins, and determine if epidemiologically linked cases are genetically related.
+Phylogenetic analysis integrates genomic variation into an evolutionary framework. This enables researchers to identify transmission clusters, estimate outbreak origins, and determine if epidemiologically linked cases are genetically related (Figure 15).
+
+![Figure 15. Phylogenetic and outbreak analysis: thresholds, recombination filtering and tool choice.](images/sepsis/Figure15_phylogenetics_outbreak.png)
+
+**Figure 15:** Phylogenetic and outbreak analysis: thresholds, recombination filtering and tool choice.
 
 ### 6.9.1 SNP and cgMLST thresholds for outbreak cluster definition
 
@@ -934,7 +990,11 @@ The public health impact of sepsis pathogen genomics depends on a seamless pipel
 
 ## 7.1 Data storage, sharing, and repositories
 
-The public health impact of sepsis and other pathogen genomics depends absolutely on the ability to share, discover, and reuse sequence data and their associated contextual metadata. Isolated genomic data locked within a single institution cannot reveal transmission chains that cross hospital boundaries, cannot identify international high-risk clones, and cannot contribute to the global antimicrobial resistance (AMR) surveillance that is essential for evidence-based treatment guidelines. This section provides practical guidance on repositories, submission workflows, and governance to make sepsis bacterial genomic data FAIR (Findable, Accessible, Interoperable, Re-usable) while aligning with the PHA4GE Microbial Data-Sharing Accord and related standards.
+The public health impact of sepsis and other pathogen genomics depends absolutely on the ability to share, discover, and reuse sequence data and their associated contextual metadata. Isolated genomic data locked within a single institution cannot reveal transmission chains that cross hospital boundaries, cannot identify international high-risk clones, and cannot contribute to the global antimicrobial resistance (AMR) surveillance that is essential for evidence-based treatment guidelines. This section provides practical guidance on repositories, submission workflows, and governance to make sepsis bacterial genomic data FAIR (Findable, Accessible, Interoperable, Re-usable) while aligning with the PHA4GE Microbial Data-Sharing Accord and related standards (Figure 16).
+
+![Figure 16. Data storage, sharing and repositories for sepsis pathogen genomics.](images/sepsis/Figure16_data_repositories.png)
+
+**Figure 16:** Data storage, sharing and repositories for sepsis pathogen genomics.
 
 ### The Global Repository Ecosystem and Platforms
 
@@ -1008,7 +1068,11 @@ Specialized public health platforms complement the INSDC archival infrastructure
 
 ## 7.2 Workflow Reproducibility & Infrastructure
 
-The public health impact of pathogen genomics depends not only on the quality of the sequence data and the accuracy of the analytical tools but also on the ability to reproduce an analysis and to obtain the same result from the same input data using the same computational methods, regardless of who performs the analysis or where it is executed. Reproducibility is a cornerstone of the scientific method and a practical necessity for public health, where decisions about outbreak containment, antimicrobial stewardship, diagnostics, and vaccine policy must be grounded in transparent, verifiable evidence. This section provides guidance on the workflow management systems, software containerization strategies, version control practices, and computing infrastructure options that make bioinformatics analyses for sepsis bacterial pathogens robust, portable, and reproducible.
+The public health impact of pathogen genomics depends not only on the quality of the sequence data and the accuracy of the analytical tools but also on the ability to reproduce an analysis and to obtain the same result from the same input data using the same computational methods, regardless of who performs the analysis or where it is executed. Reproducibility is a cornerstone of the scientific method and a practical necessity for public health, where decisions about outbreak containment, antimicrobial stewardship, diagnostics, and vaccine policy must be grounded in transparent, verifiable evidence. This section provides guidance on the workflow management systems, software containerization strategies, version control practices, and computing infrastructure options that make bioinformatics analyses for sepsis bacterial pathogens robust, portable, and reproducible (Figure 17).
+
+![Figure 17. Workflow reproducibility and infrastructure.](images/sepsis/Figure17_reproducibility_infrastructure.png)
+
+**Figure 17:** Workflow reproducibility and infrastructure.
 
 ### 7.2.1 The PHA4GE Ten Best Practices for Public Health Bioinformatics Pipelines
 
@@ -1096,9 +1160,17 @@ Sepsis genomics programs may operate across a wide spectrum of computing environ
 
 # 8. Pathogen-specific guidance
 
+![Figure 18. The six sepsis pathogens at a glance.](images/sepsis/Figure18_six_pathogens.png)
+
+**Figure 18:** The six sepsis pathogens at a glance.
+
 ## 8.1 *Klebsiella pneumoniae* and the *Klebsiella pneumoniae* species complex (KpSC)
 
-*Klebsiella pneumoniae* is a commensal bacterium and a major cause of opportunistic infections, particularly in healthcare settings. In hospitals, it causes different types of infection, including bloodstream infections, lower respiratory tract infections, wound infections and urinary tract infections. The burden of the disease is greatest among neonates. In the BARNARDS study of culture-confirmed neonatal sepsis in seven low- and middle-income countries, *K. pneumoniae* was the single most common pathogen, accounting for 258 of 1,038 isolates (24.9%) (Sands et al., 2021); in a pooled analysis of 2,330 neonates who died with sepsis across 18 mainly low- and middle-income countries, 27.0% of fatal sepsis cases were culture-positive for *K. pneumoniae* (Kumar et al., 2023). Outside healthcare settings, *K. pneumoniae* is also recognized as a causative agent of community-acquired infections associated with hypervirulent *K. pneumoniae* (hvKp) and include conditions such as hepatic abscess, meningitis, endophthalmitis or other symptoms that can metastatically spread to multiple sites of the body.
+*Klebsiella pneumoniae* is a commensal bacterium and a major cause of opportunistic infections, particularly in healthcare settings. In hospitals, it causes different types of infection, including bloodstream infections, lower respiratory tract infections, wound infections and urinary tract infections. The burden of the disease is greatest among neonates. In the BARNARDS study of culture-confirmed neonatal sepsis in seven low- and middle-income countries, *K. pneumoniae* was the single most common pathogen, accounting for 258 of 1,038 isolates (24.9%) (Sands et al., 2021); in a pooled analysis of 2,330 neonates who died with sepsis across 18 mainly low- and middle-income countries, 27.0% of fatal sepsis cases were culture-positive for *K. pneumoniae* (Kumar et al., 2023). Outside healthcare settings, *K. pneumoniae* is also recognized as a causative agent of community-acquired infections associated with hypervirulent *K. pneumoniae* (hvKp) and include conditions such as hepatic abscess, meningitis, endophthalmitis or other symptoms that can metastatically spread to multiple sites of the body (Figure 19).
+
+![Figure 19. Genomic surveillance of the *Klebsiella pneumoniae* species complex (KpSC).](images/sepsis/Figure19_klebsiella_pneumoniae.png)
+
+**Figure 19:** Genomic surveillance of the *Klebsiella pneumoniae* species complex (KpSC).
 
 Treatment of *K. pneumoniae* infections is complicated by escalating antimicrobial resistance (AMR). According to the WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS), 55.2% (95% credible interval 48.5–61.7) of *K. pneumoniae* bloodstream infections worldwide were resistant to third-generation cephalosporins (3GCs) in 2023 (WHO, 2025). In the WHO African Region, resistance to 3GCs exceeds 70% for both *K. pneumoniae* and *Escherichia coli* bloodstream infections, highlighting the disproportionate burden of AMR in the region and further limiting effective treatment options. Additionally, the 2024 WHO bacterial priority pathogens list places carbapenem-resistant Enterobacterales, including carbapenem-resistant *K. pneumoniae* (CRKP), and third-generation cephalosporin-resistant Enterobacterales in the critical priority group, requiring the development of new antimicrobial agents and therapeutic strategies (WHO, 2024).
 
@@ -1612,7 +1684,11 @@ Aim: To investigate an outbreak of carbapenem‑resistant *K. pneumoniae* bloods
 
 ## 8.2 *Escherichia coli*
 
-*Escherichia coli* is a facultatively anaerobic, rod‑shaped bacterium that is a ubiquitous commensal of the gastrointestinal tract of humans and warm‑blooded animals but also includes lineages that cause intestinal and extraintestinal infections. The extraintestinal pathogenic variants are a leading cause of extraintestinal infections, including urinary tract infections (UTIs) and bloodstream infections (BSIs) (Kaper et al., 2004; Dale & Woodford, 2015). *E. coli* is one of the common causes of bacteremia and sepsis globally, contributing significantly to the overall burden of sepsis‑related morbidity and mortality. According to the WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS), 44.8% (95% credible interval 39.3–50.4) of *E. coli* bloodstream infections worldwide were resistant to third-generation cephalosporins in 2023, rising to 70.7% (95% credible interval 62.3–78.0) in the WHO African Region (WHO, 2025).
+*Escherichia coli* is a facultatively anaerobic, rod‑shaped bacterium that is a ubiquitous commensal of the gastrointestinal tract of humans and warm‑blooded animals but also includes lineages that cause intestinal and extraintestinal infections. The extraintestinal pathogenic variants are a leading cause of extraintestinal infections, including urinary tract infections (UTIs) and bloodstream infections (BSIs) (Kaper et al., 2004; Dale & Woodford, 2015). *E. coli* is one of the common causes of bacteremia and sepsis globally, contributing significantly to the overall burden of sepsis‑related morbidity and mortality. According to the WHO Global Antimicrobial Resistance and Use Surveillance System (GLASS), 44.8% (95% credible interval 39.3–50.4) of *E. coli* bloodstream infections worldwide were resistant to third-generation cephalosporins in 2023, rising to 70.7% (95% credible interval 62.3–78.0) in the WHO African Region (WHO, 2025) (Figure 20).
+
+![Figure 20. Genomic surveillance of *Escherichia coli* in sepsis.](images/sepsis/Figure20_escherichia_coli.png)
+
+**Figure 20:** Genomic surveillance of *Escherichia coli* in sepsis.
 
 *Escherichia coli* has marked genomic plasticity, with a core genome shared across the strains and large accessory genes shaped by horizontal gene transfer, plasmids, pathogenicity islands, prophages, and recombination. While most commensal strains are harmless, a subset of lineages, collectively termed Extraintestinal Pathogenic *E. coli* (ExPEC), possess a specific repertoire of virulence factors that enable them to survive in normally sterile body sites, evade host defenses, and cause severe disease. Clinically significant ExPEC phenotypes repeatedly emerge in specific chromosomal backgrounds following the acquisition of various combinations of virulence and resistance determinants. (Köhler & Dobrindt, 2011; Denamur et al., 2021). The global dissemination of multidrug‑resistant (MDR) ExPEC clones, particularly those producing Extended‑Spectrum Beta‑Lactamases (ESBLs) and carbapenemases, poses a serious public health threat.
 
@@ -2014,7 +2090,11 @@ This two-year retrospective study of 148 *E. coli* community-onset bloodstream i
 
 **Overview**
 
-*Acinetobacter baumannii* is a leading opportunistic, multidrug-resistant pathogen causing healthcare-associated sepsis in NICUs, adult ICUs, and among immunocompromised patients globally. It is known for intrinsic and acquired multidrug resistance (MDR), including carbapenem resistance (CRAB), which is classified as a critical priority by the WHO. *A. baumannii* possesses a relatively small genome (~3.9-4.2 Mbp) with a conserved core genome and a highly variable accessory genome acquired through horizontal gene transfer. The population structure is largely clonal, dominated by two global high-risk international clones (IC1 and IC2) that drive the majority of multidrug-resistant infections worldwide and are responsible for outbreaks in hospitals worldwide. Genome GC content is ~39%. Key public-health-relevant features include extreme environmental persistence and rapid acquisition of resistance determinants.
+*Acinetobacter baumannii* is a leading opportunistic, multidrug-resistant pathogen causing healthcare-associated sepsis in NICUs, adult ICUs, and among immunocompromised patients globally. It is known for intrinsic and acquired multidrug resistance (MDR), including carbapenem resistance (CRAB), which is classified as a critical priority by the WHO. *A. baumannii* possesses a relatively small genome (~3.9-4.2 Mbp) with a conserved core genome and a highly variable accessory genome acquired through horizontal gene transfer. The population structure is largely clonal, dominated by two global high-risk international clones (IC1 and IC2) that drive the majority of multidrug-resistant infections worldwide and are responsible for outbreaks in hospitals worldwide. Genome GC content is ~39%. Key public-health-relevant features include extreme environmental persistence and rapid acquisition of resistance determinants (Figure 21).
+
+![Figure 21. Genomic surveillance of *Acinetobacter baumannii*.](images/sepsis/Figure21_acinetobacter_baumannii.png)
+
+**Figure 21:** Genomic surveillance of *Acinetobacter baumannii*.
 
 *Acinetobacter baumannii* is a Gram-negative, strictly aerobic, non-fermenting coccobacillus and a high-priority opportunistic pathogen. It is classified in the "Critical Priority" tier of the World Health Organization (WHO) Bacterial Priority Pathogens List (BPPL) 2024, underscoring the urgent need for new antimicrobial treatments. It is a leading cause of healthcare-associated infections, particularly sepsis, ventilator-associated pneumonia, and wound infections in intensive care and burn units. The species is notorious for its extreme environmental resilience, capable of surviving on dry surfaces for up to five months, as well as its ability to form robust biofilms and rapidly acquire diverse antimicrobial resistance (AMR) determinants. Global estimates suggest that CRAB alone was responsible for approximately 57,700 deaths attributable to AMR in 2019, making it one of the most lethal pathogen–drug combinations worldwide (Murray et al., 2022).
 
@@ -2306,7 +2386,11 @@ Whole-genome sequencing revealed that a prolonged outbreak lasting 320 days of c
 
 ## 8.4 *Pseudomonas aeruginosa*
 
-*Pseudomonas aeruginosa* is a highly versatile non-fermenting Gram-negative bacterium and a major cause of healthcare-associated opportunistic infections like sepsis, ventilator-associated pneumonia (VAP), and chronic respiratory infections. In the WHO Bacterial Priority Pathogens List (BPPL) 2024, carbapenem-resistant *P. aeruginosa* (CRPA) is classified as a high-priority pathogen (WHO, 2024). It is characterized by its metabolic flexibility, ability to thrive in aquatic hospital environments (e.g., sinks, taps, medical equipment), and an exceptionally large genome (typically 5.5–7 Mbp, with a GC content of 65–67%) that facilitates rapid adaptation to antibiotic pressure. It contains an unusually extensive set of regulatory genes and an accessory genome that facilitate quick adaptive responses to antibiotic pressure (Klockgether et al., 2011).
+*Pseudomonas aeruginosa* is a highly versatile non-fermenting Gram-negative bacterium and a major cause of healthcare-associated opportunistic infections like sepsis, ventilator-associated pneumonia (VAP), and chronic respiratory infections. In the WHO Bacterial Priority Pathogens List (BPPL) 2024, carbapenem-resistant *P. aeruginosa* (CRPA) is classified as a high-priority pathogen (WHO, 2024). It is characterized by its metabolic flexibility, ability to thrive in aquatic hospital environments (e.g., sinks, taps, medical equipment), and an exceptionally large genome (typically 5.5–7 Mbp, with a GC content of 65–67%) that facilitates rapid adaptation to antibiotic pressure. It contains an unusually extensive set of regulatory genes and an accessory genome that facilitate quick adaptive responses to antibiotic pressure (Klockgether et al., 2011) (Figure 22).
+
+![Figure 22. Genomic surveillance of *Pseudomonas aeruginosa*.](images/sepsis/Figure22_pseudomonas_aeruginosa.png)
+
+**Figure 22:** Genomic surveillance of *Pseudomonas aeruginosa*.
 
 ### 8.4.1 Background and Public Health Relevance
 
@@ -2692,7 +2776,11 @@ All isolates clustered within phylogroups 1 and 2, and the T3SS virulence genoty
 
 ## 8.5 *Staphylococcus aureus*
 
-*Staphylococcus aureus* is a Gram-positive, catalase-positive, facultative anaerobic coccus that exists both as a widespread human commensal and an opportunistic pathogen. Approximately 30% of healthy individuals carry *S. aureus*, most commonly in the anterior nares and on skin, where carriage serves as a reservoir for subsequent infection (Laux et al., 2019). The global clinical threat posed by methicillin‑resistant *S. aureus* (MRSA) has been recognized by the World Health Organization, which lists drug‑resistant *S. aureus* among the High Priority pathogens in the 2024 Bacterial Priority Pathogens List, underscoring the need for enhanced surveillance and targeted R&D (WHO, 2024). Advances in whole‑genome sequencing (WGS) have transformed diagnostic, epidemiologic, and infection‑control workflows by providing high‑resolution strain typing, accurate detection of resistance and virulence determinants, and robust phylogenetic context for outbreak investigation.
+*Staphylococcus aureus* is a Gram-positive, catalase-positive, facultative anaerobic coccus that exists both as a widespread human commensal and an opportunistic pathogen. Approximately 30% of healthy individuals carry *S. aureus*, most commonly in the anterior nares and on skin, where carriage serves as a reservoir for subsequent infection (Laux et al., 2019). The global clinical threat posed by methicillin‑resistant *S. aureus* (MRSA) has been recognized by the World Health Organization, which lists drug‑resistant *S. aureus* among the High Priority pathogens in the 2024 Bacterial Priority Pathogens List, underscoring the need for enhanced surveillance and targeted R&D (WHO, 2024). Advances in whole‑genome sequencing (WGS) have transformed diagnostic, epidemiologic, and infection‑control workflows by providing high‑resolution strain typing, accurate detection of resistance and virulence determinants, and robust phylogenetic context for outbreak investigation (Figure 23).
+
+![Figure 23. Genomic surveillance of *Staphylococcus aureus* in sepsis.](images/sepsis/Figure23_staphylococcus_aureus.png)
+
+**Figure 23:** Genomic surveillance of *Staphylococcus aureus* in sepsis.
 
 ### 8.5.1 Background and Public Health Relevance
 
@@ -2917,7 +3005,11 @@ The dominance of ST59‑MRSA‑SCCmec IV confirms that CA‑MRSA has become th
 
 ## 8.6 *Enterococcus* species (*Enterococcus faecium* and *Enterococcus faecalis*)
 
-The genus *Enterococcus* contains more than 60 species, of which *E. faecalis* and *E. faecium* are by far the most clinically relevant, together accounting for over 90% of enterococcal isolates from human infections (Hollenbeck & Rice, 2012). They are natural commensals of the human and animal gastrointestinal tracts, however they have emerged as major opportunistic pathogens in healthcare settings. On the World Health Organization (WHO) Bacterial Priority Pathogens List (BPPL) 2024, vancomycin-resistant *E. faecium* (VREfm) is classified as a High Priority pathogen. *E. faecalis* remains a frequent cause of healthcare-associated infections, but *E. faecium* represents a more severe public health challenge due to its extreme multi-drug resistance profiles and rapid hospital dissemination.
+The genus *Enterococcus* contains more than 60 species, of which *E. faecalis* and *E. faecium* are by far the most clinically relevant, together accounting for over 90% of enterococcal isolates from human infections (Hollenbeck & Rice, 2012). They are natural commensals of the human and animal gastrointestinal tracts, however they have emerged as major opportunistic pathogens in healthcare settings. On the World Health Organization (WHO) Bacterial Priority Pathogens List (BPPL) 2024, vancomycin-resistant *E. faecium* (VREfm) is classified as a High Priority pathogen. *E. faecalis* remains a frequent cause of healthcare-associated infections, but *E. faecium* represents a more severe public health challenge due to its extreme multi-drug resistance profiles and rapid hospital dissemination (Figure 24).
+
+![Figure 24. Genomic surveillance of *Enterococcus faecium* and *Enterococcus faecalis* in sepsis.](images/sepsis/Figure24_enterococcus.png)
+
+**Figure 24:** Genomic surveillance of *Enterococcus faecium* and *Enterococcus faecalis* in sepsis.
 
 ### 8.6.1 Background and Public Health Relevance
 
@@ -3234,7 +3326,11 @@ A multicenter genomic investigation of 101 vancomycin-resistant *Enterococcus fa
 
 # 9. Reporting, Interpretation, and Public Health Action
 
-Genomic epidemiology reports should be tailored for decision-making rather than just technical archiving. They must present findings in a clear, traceable, and actionable way suitable for the target audience. Different groups need varying levels of detail. For example, infection prevention and control (IPC) teams may require quick interpretations of clusters and control advice; microbiology and antimicrobial stewardship teams (AMS) might need genotype–phenotype summaries; national authorities could focus on surveillance trends and alert levels; policymakers need brief reports highlighting strategic importance. This aligns with WHO's guidance that genomic surveillance should enable timely public health responses as part of larger surveillance and laboratory systems (WHO, 2022a).
+Genomic epidemiology reports should be tailored for decision-making rather than just technical archiving. They must present findings in a clear, traceable, and actionable way suitable for the target audience. Different groups need varying levels of detail. For example, infection prevention and control (IPC) teams may require quick interpretations of clusters and control advice; microbiology and antimicrobial stewardship teams (AMS) might need genotype–phenotype summaries; national authorities could focus on surveillance trends and alert levels; policymakers need brief reports highlighting strategic importance. This aligns with WHO's guidance that genomic surveillance should enable timely public health responses as part of larger surveillance and laboratory systems (WHO, 2022a) (Figure 25).
+
+![Figure 25. Reporting, interpretation and public health action.](images/sepsis/Figure25_reporting_interpretation_action.png)
+
+**Figure 25:** Reporting, interpretation and public health action.
 
 ## 9.1 Purpose and Guiding Principles
 
@@ -3294,7 +3390,11 @@ For public health implications, reports should include clear next-step recommend
 
 ## 9.4 Reporting Timelines
 
-Reporting timelines should align with the surveillance objective, urgency, and required action level. International guidance emphasizes timely genomic reporting to support IPC, outbreak investigation, risk assessment, and routine surveillance, though no universal turnaround time applies across pathogens, settings, and capacities. Programs should set locally appropriate targets within protocols, distinguishing urgent communications requiring immediate escalation from routine outputs that follow reporting cycles. As shown in Table 9.4, suspected healthcare-associated clusters require rapid reporting for IPC; alert signals, such as resistance mechanisms or high-risk clones, should be promptly escalated through national pathways; routine findings should be communicated regularly based on program objectives and capacity; and sequence data submission should adhere to predefined procedures for timely sharing, metadata linkage, and governance. Reporting workflows and turnaround targets should be adapted to local capacity, governance requirements, and surveillance priorities, while preserving timeliness for urgent public health action.
+Reporting timelines should align with the surveillance objective, urgency, and required action level. International guidance emphasizes timely genomic reporting to support IPC, outbreak investigation, risk assessment, and routine surveillance, though no universal turnaround time applies across pathogens, settings, and capacities. Programs should set locally appropriate targets within protocols, distinguishing urgent communications requiring immediate escalation from routine outputs that follow reporting cycles. As shown in Table 9.4, suspected healthcare-associated clusters require rapid reporting for IPC; alert signals, such as resistance mechanisms or high-risk clones, should be promptly escalated through national pathways; routine findings should be communicated regularly based on program objectives and capacity; and sequence data submission should adhere to predefined procedures for timely sharing, metadata linkage, and governance. Reporting workflows and turnaround targets should be adapted to local capacity, governance requirements, and surveillance priorities, while preserving timeliness for urgent public health action (Figure 26).
+
+![Figure 26. Suggested reporting timeline framework.](images/sepsis/Figure26_reporting_timelines.png)
+
+**Figure 26:** Suggested reporting timeline framework.
 
 Note: As endemicity, virulence, and antimicrobial resistance profiles differ significantly across regions, definitions and alert thresholds for high-risk lineages or clones should be informed by local and regional epidemiology and may change over time.
 
@@ -3339,7 +3439,11 @@ Note: As endemicity, virulence, and antimicrobial resistance profiles differ sig
 
 # 10. Future Directions
 
-This first version of the PHA4GE Sepsis Genomics Guidance has focused on bacterial pathogens on the WHO Bacterial Priority Pathogens List (WHO, 2024) isolated from culture and the practical needs of public health laboratories. Future versions of this guidance will incorporate culture-independent metagenomic next-generation sequencing (mNGS)-specific bioinformatics recommendations alongside the culture-based workflows described here. Moreover, a dedicated fungal and viral sepsis section will be added in the future versions of the guidance document.
+This first version of the PHA4GE Sepsis Genomics Guidance has focused on bacterial pathogens on the WHO Bacterial Priority Pathogens List (WHO, 2024) isolated from culture and the practical needs of public health laboratories. Future versions of this guidance will incorporate culture-independent metagenomic next-generation sequencing (mNGS)-specific bioinformatics recommendations alongside the culture-based workflows described here. Moreover, a dedicated fungal and viral sepsis section will be added in the future versions of the guidance document (Figure 27).
+
+![Figure 27. Future directions for the guidance.](images/sepsis/Figure27_future_directions.png)
+
+**Figure 27:** Future directions for the guidance.
 
 # References
 
@@ -4079,6 +4183,10 @@ Public sources of pathogen genomics data relevant to AMR surveillance
 - Pathogenwatch - [https://pathogen.watch/](https://pathogen.watch/)
 
 ## Data Submission Workflow
+
+![Figure 28. Data submission and sharing workflow.](images/sepsis/Figure28_data_submission_workflow.png)
+
+**Figure 28:** Data submission and sharing workflow.
 
 **Pathogen Data Object Model (DOM)**
 
